@@ -20,6 +20,8 @@ Also you'll need a Lover's Lab account (http://loverslab.com)
 
 Also, with the addition of the _Devious_ group of mods, you may wish to sign up for _MEGA_ as well, given that throttling and caps are in place for anonymous users. (http://mega.co.nz)
 
+And, this is the last one I swear, you'll want to sign up at Vector Plexus for the awesome High-Poly Head, it's definitely worth it. (https://vectorplexus.com/)
+
 ### System Specs
 
 A note here. I use a 1080p monitor and I suspect the vast majority looking to play Skyrim in this day and age do too. So this modlist is geared toward two things: low VRAM usage and quick load times. Running the Skyrim Performance Monitor shows me that LBS only uses at most 6 GB of RAM and 6 GB of VRAM. You shouldn't need more than a midrange CPU and GPU from the last 5 years along with 8 GB VRAM and maybe 16 GB RAM (might could get away with 8). Strongly recommended is a solid state drive with at least 80 GB for the game itself and 50GB for the downloads (unless you never plan to update). This is not because load times are terrible on an HDD. Hashing with WJ for updates is a pain though.
@@ -140,7 +142,7 @@ Defeat is ... a little buggy, to say the least... but I have included it in _Lig
 
 ## Specific to Light But Kinky
 
-Switching to _Light But Kinky_ can be a little tricky, hopefully I can do an explanation justice. First thing you'll have to do is run FNIS for the creature animations. Disable _Nemesis Behavior Engine_ and _Sexy Nemisis Output_ in the left pane of MO2 and make sure _FNIS.esp_ is enabled in the right pane. Then choose _GenerateFNISforUsers_ from the drop down and hit the run button. All you should have to do here is hit _Update Behavior_, which takes a couple of minutes and may cause your screen to act weird. Next, **disable** both FNIS options in the left pane and enable _Nemesis_ and _Kinky Nemesis Output._ Then run _Nemesis Behavior Engine_ from the dropdown and make sure to **uncheck** _360 Movement Behavior_ as it is incompatible with many of the Devious animations. Then hit _update engine_, which may take a bit, and _Launch Nemesis Engine_ to generate the last of the animations. Finally, **enable** the dummy FNIS esp in the right pane and move it to the top, just above Sky_UI.esp. You should be good to go.
+Switching to _Light But Kinky_ can be a little tricky, hopefully I can do an explanation justice. First thing you'll want to do is choose _Light But Kinky_ from the dropdown list. Next, run FNIS for the creature animations. Disable _Nemesis Behavior Engine_ and _Sexy Nemisis Output_ in the left pane of MO2, enable all _FNIS_ mods (New Idles, Creatures, and Output) and make sure _FNIS.esp_ is enabled in the right pane. Then choose _GenerateFNISforUsers_ from the drop down and hit the run button. All you should have to do here is hit _Update Behavior_, which takes a couple of minutes and may cause your screen to act weird. Next, **disable** all FNIS options in the left pane and enable _Nemesis_ and _Kinky Nemesis Output._ Then run _Nemesis Behavior Engine_ from the dropdown and make sure to **uncheck** _360 Movement Behavior_ as it is incompatible with many of the Devious animations. Then hit _update engine_, which may take a bit, and _Launch Nemesis Engine_ to generate the last of the animations. Finally, **enable** FNIS Output and the dummy FNIS esp in the right pane and move it to the top, just above Sky_UI.esp. You should be good to go.
 
 ### Cursed Loot
 
@@ -149,6 +151,16 @@ The thing you have to remember about _Cursed Loot_ is that, once its in your mod
 ## Bodies and NPCs
 
 For the bodies I used CBBE 3BBB. Apparently the "infinite belly" problem has been fixed with CBPC 1.3.6 so feel free to leave HDT-SMP active on the player if you want. You can also turn SMP on various NPC's with numpads 5-8 but it will reset their equipment to default. So do it before you start a scene or it'll get a lot more modest.  For NPCs, it's your Pandorables & Bijin combo, only I added some less potato-like male options from Oldrim as well as a few of Eeekie's NPCs (especially that crafty Cicero) on top. This may introduce the possibiility of BFBs (brown face bugs) so please tell me if you see any of those so I can patch them out.
+
+## Little Quibbles and Warnings
+
+Now that I understand how it works and the advantages it offers, the Skyrim Save System Overhaul is in here, not to punish you as suspected, but to allow for regular saving without scumming that would break a lot of the background scripting of this modlist. Set it and forget it. If you die, exit the game and continue from the main menu. You'll get back to where you were soon, the saves happen at roughly five minute intervals when everything "calms down" in the background. If you really want to risk an after-death reload, wait until the 15 second countdown and autoload from FEC has elapsed. Hopefully this will prevent the dreaded save corruption.
+
+It seems that strap-ons are universally loathed among the Skyrim NSFW community so I have included an old and forgotten Oldrim mod called "equippable schlong" available in the strapons menu. It basically attaches a full SOS schlong to your character with physics and collisions instead of a strap-on and is fully customizable from Racemenu. Just pull it out with the AddItemMenu, equip it, and go to town. How nice.
+
+Also **do not attempt to convert the Form 43 plugins into form 44**! These are left this way intentionally and will break and cause crashes and other weirdness if you do. I can't stop MO2 from warning you about them but I can strongly insist that you not act on those warnings.
+
+The FNIS interaction with creatures is a bit bugged and sometimes a folder called "auxbones" will show up in your Overwrite directory. Look for this if Argonian and Khajiit tails are sticking straight out in the air. Once you delete them, that problem should resolve itself.
 
 ### Adding Outfits
 
@@ -166,6 +178,261 @@ There's not much room for these I'm afraid and I filled almost the entire Nemesi
 
 Doing this is tricky and only really recommended if you know how to resolve conflicts in xEdit. Generally you want your added mod to be low in the order but I recommend against running LOOT because I haven't created custom groups for it. Once this is done open it up, make sure its not overwriting anything important, and forward a patch through if it is. (Depending on how cranky I am or am not I may be willing to help you with this). If you're looking to add a Lover's Lab mod, please keep in mind the reputation and stability of the mod in question as they often have crashing or scripting incompatibilities that aren't evident upon inspection. If you are running _Kinky_ you are going to have a bad time with this because _Cursed Loot_ conflicts with almost everything. I recommend you either uninstall it or use _Sexy_ for your added Lover's Lab mods. Now if you want to add heavily scripted abominations that track all humanoids and creatures in the game with some stupid values I will not help you add or troubleshoot those because they won't work.
 
-## Game MCM Options
+# Game MCM Options
 
 Due to lack of use and difficulty in implementation I have removed automation from the Mod Configuration Menus. So here are the recommended settings, which you can feel to change however you wish.
+
+**NOTE**: Any menus or options not specifically mentioned here can be ignored. Unless of course you're just nosy.
+
+It is _very important_ to **wait** until _all_ messages have ceased appearing in the upper left corner of the screen before continuing. Even after they have stopped, give it another five or ten seconds, just in case.
+
+## SexLab
+
+### Install
+
+INSTALL/UPDATE SEXLAB 163 SE DEV BETA 8
+
+Close the menu and wait for a message in the upper left corner informing you that SexLab is ready. Then open the MCM and continue.
+
+## Sex Diary
+
+Sexuality: Your choice. 
+
+Only determines with sex causes your arousal level to increase if seen naked.
+
+### Rebuild & Clean
+
+Import Settings: Click Here
+
+It should confirm this choice, wait for the message.
+
+If you are playing _Light But Kinky_ or have taken the necessary steps to enable FNIS, enable _Creature Animations_ on the _Animation Settings_ page, close the menus, and wait until the _Enabled_ message appears **twice**.
+
+## A Matter of Time
+
+### Presets
+
+_User Settings: Load User Settings_
+
+Answer yes and wait for confirmation.
+
+## AGO
+
+### Settings
+
+The only one you need to de-select is _Persistent Arrows._
+
+## CGO
+
+### Settings
+
+Set _Hotkey_ to _Shift._ This enables you to use any weapon one or two handed. Dual-wielding bacon is not yet an option.
+
+Alter _Speed Change_ and _Stationary Speed Boost_ down a notch to 20% to reduce the power level of CGO.
+
+_Enable iFrames_ for a little Souls-ish gameplay.
+
+I like the procedural 1.00 leaning, but if it seems a bit silly to you, toning it back to 0.50 might be more appropriate.
+
+## Cursed Loot
+
+Only available with _Light But Kinky_.
+
+This mod will act wildly different depending on whether you enabled the _Lenient_ or _Punishing_ preset in MO2. In either case, go to
+
+### Debug
+
+And hit _Import Settings_ and confirm.
+
+## Deadly Dragons
+
+These boys are plenty hard on Vanilla, so just remove _Knockdown_ from their abilities.
+
+## Devious Device Helpers
+
+Only available with _Light But Kinky_.
+
+This is a lot to take in so just disable the random bondage option for Inns and Other Dwellings. Just keep in mind if your follower asks to tie you up to give it some serious thought!
+
+## Devious Devices
+
+Only available with _Light But Kinky_.
+
+Tailor this to your _Cursed Loot_ preset. If you are running "Punishing" just leave everything as it is and suffer as you were meant to. If you are running "Lenient" I recommend tuning all the difficulties to _Vanilla_, _Disable Lock Jam_, set _Blindfold Strength_ to 0.10 and _Dark Fog Strength_ to 200, disable _Boots Slowdown Effect_, _Hardcore Bondage Mittens_ and set _Hobble Skirt Debuff Strength_ to 25, which is the lowest (fastest movement) it will go.
+
+## Extended UI
+
+Check _Hide Legendary UI elements_, _Show attribute modifiers_, and _Show skill modifiers_.
+
+## FEC
+
+### Player Effects
+
+You could spend all day in here so I just recommend enabling _Soul Absorb_ for when you get killed by dragons.
+
+## Follower Framework
+
+### System
+
+Hit _Load From File_ and exit the menu. Then re-enter.
+
+You might want to check out the hotkeys to see what they've been set to. They're inspired by our overlord.
+
+## GIST Soul Trap
+
+Just enable _Show message on soul trapped_.
+
+## Quick Light
+
+Just real quick, set _Type of Light Source_ to _Lantern_, _Brightness_ to _Wide,_ and _Light Key_ to your choice (I recommend NUMPAD 1).
+
+## Sacrosanct Vampires
+
+Only think you need to tick here is _Fortitude: Disable_
+
+## SexLab Aroused
+
+Hit _Purge Dead Actors Every 10 Game Days_ and _Enable SOS_.
+
+## SexLab Eager NPCs
+
+Only available with _Light But Sexy_. 
+
+### General
+
+Hit _Enable and load profile_, customize to your taste. You'll be having a _lot_ of sex on the installed profile.
+
+This mod takes a bit to activate. Exit the MCM and wait for two abilities to be added, then open it and continue.
+
+## SexLab Solutions
+
+Only available with _Light But Sexy_.
+
+### Miscellaneous
+
+_Integration_: SLEN integration
+
+## Sky UI
+
+### General
+
+Set _Font Size_ to _Small_ and disable _Active Effects HUD_
+
+### Controls
+
+Set the first four _Favorite Groups_ to _F5 - F8_ to avoid a conflict with Nether.
+
+## SL Anim Loader
+
+### General Options
+
+_Enable All: Click Here_
+
+_Register Animations: Click Here_
+
+Wait for the "Registered X new animations" message.
+
+## SLA Monitor Widget
+
+### Scanner Settings
+
+Customize this to taste, but try to keep the range low and the interval high to avoid keeping Papyrus (the scripting engine) too busy.
+
+### Widget Looks
+
+Recommend _Vertical Anchor_ of _Center_ and _Font size_ of _16 PTS._
+
+This takes a bit too. Exit the MCM and re-enter.
+
+## Storm Lightning
+
+### Presets
+
+_Ultra Realistic_
+
+## Trade & Barter
+
+### Barter Rates
+
+_Modify Barter Settings_
+
+_Barter Presets: Medium_
+
+This is meant to prevent you from accumulating hundreds of thousands of gold, especially on _Light But Kinky_ where pricey bondage gear will be coming out of your eyeballs. Leave it at default if you want to be a moneybags.
+
+## Ultimate Combat
+
+### General
+
+Disable _Speed Bonus._
+
+Under _Stagger_, disable or set all options to zero to avoid conflicts with _AGO_.
+
+Also disable all checkboxes under _Locational Damage._
+
+### NPC Setting
+
+_NPC_
+
+_Dodge: Disable_ - Conflicts with CGO.
+
+## Wildcat Combat
+
+_Disable Bow Interrupts_
+
+_Bow Attacks Cost: 0 Stamina_
+
+_Disable Pulled/Held Bow Stamina Cost_
+
+_AGO_ has alternatives for all of these.
+
+Scroll down a bit and find
+
+_Disable Timed Block_
+
+The mechanic in _Ultimate Combat_ is better.
+
+Lastly, scroll back up and under _Difficulty_ hit _Allow Wildcat to Manage Difficulty_
+
+## Defeat
+
+### General Settings
+
+First hit _Install Mod._ Close the MCM and wait for the message. Re-open.
+
+Next, hit _Import Settings_ on the right.
+
+## SSSO
+
+Set options as follows:
+
+_Minimum interval: 5 MINUTES_
+
+_Manual Save Key: F9_
+
+_Rotating Automatic Save_
+
+_Rotating Manual Save_
+
+If you want to be a badass, enable both hardcore options to make any saves you load that aren't autosaves crash within seconds.
+
+Always save with F9 to prevent corruption. Only load your most recent save. Be a real woman and wear those plugs and straitjackets with pride.
+
+## ZaZ Animation Pack
+
+Only available with _Light But Kinky_.
+
+### General
+
+Don't change anything if you're on "Punishing." Otherwise, set _Bound Hands_ to Light Struggle, _Shackled Movement Speed_ to 100%, and _Blindfold Amount_ and _Pulse_ to 10%.
+
+### SexLab
+
+This menu takes a good minute to appear. It may seem stuck. Just wait. Afterward, hit _SexLab Animations: Register_ and wait a good bit until _Registered_ appears. Then uncheck the _Override_ as Devious already handles this function.
+
+# All done!
+
+There you go, fellow deviant. However you wish to enjoy NSFW Skyrim, soft or hard, I hope your experience is fulfilling (or at least titillating.) And keep checking the NSFW channels for releases including _Cupid_, _Lotus_ and _Bakarim_ which are far more in-depth than I can muster.
+
+
+
