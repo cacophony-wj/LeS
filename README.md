@@ -52,8 +52,6 @@ First get the latest version of LeS from https://github.com/cacophony-wj/LeS/rel
 
 Download it to wherever you keep your downloads.
 
-LBS is now fully compatible with Wabbajack 2.0 and up. Get it from http://wabbajack.org
-
 When you launch it, select to install _From Disk_ and point to the .wabbajack file you downloaded above.
 
 Then follow the rest of Wabbajack's instructions.
@@ -79,16 +77,6 @@ If a file could not download or is not whitelisted, the modlist needs to be upda
 **Wabbajack could not find my game folder**:
 
 Make sure you ran the launcher at least once. If that doesn't work, please be sure you are playing only a legal Steam copy. If not, go buy it off Steam and try again.
-
-### Potential Manual Download - **READ ME IF YOU GET STALLS OR ERRORS!**
-
-This being an unofficial list, you may have difficulties downloading LODs from MEGA. If that's the case, download these three files and place them in your chosen downloads directory.
-
-https://mega.nz/file/r8AiCKbS#mtE6VYP8263lVpkNdTWugz3GxWe3MRs2AjZlej_V2TI
-https://mega.nz/file/LxA2lYLQ#sjd6DgULp5jWrojT7Pw3koOoDVfmR4Spa15QBojlLfA
-https://mega.nz/file/SwZwmCjC#zd_NQEmUomM_ld6cp4zxVxiQHCY-9RXC86vFtHQkI7c
-
-Then close Wabbajack and restart the installation.
 
 #### Game Folder Files
 
