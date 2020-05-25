@@ -24,7 +24,7 @@ And, this is the last one I swear, you'll want to sign up at Vector Plexus for t
 
 ### System Specs
 
-A note here. I use a 1080p monitor and I suspect the vast majority looking to play Skyrim in this day and age do too. So this modlist is geared toward two things: low VRAM usage and quick load times. Running the Skyrim Performance Monitor shows me that LBS only uses at most 6 GB of RAM and 6 GB of VRAM. You shouldn't need more than a midrange CPU and GPU from the last 5 years along with 8 GB VRAM and maybe 16 GB RAM (might could get away with 8). Strongly recommended is a solid state drive with at least 80 GB for the game itself and 50GB for the downloads (unless you never plan to update). This is not because load times are terrible on an HDD. Hashing with WJ for updates is a pain though.
+A note here. I use a 1080p monitor and I suspect the vast majority looking to play Skyrim in this day and age do too. So this modlist is geared toward two things: low VRAM usage and quick load times. Running the Skyrim Performance Monitor shows me that LeS only uses at most 6 GB of RAM and 6 GB of VRAM. You shouldn't need more than a midrange CPU and GPU from the last 5 years along with 8 GB VRAM and maybe 16 GB RAM (might could get away with 8). Strongly recommended is a solid state drive with at least 80 GB for the game itself and 50GB for the downloads (unless you never plan to update). This is not because load times are terrible on an HDD. Hashing with WJ for updates is a pain though.
 
 ### Pre-Installation
 
@@ -48,7 +48,7 @@ Then start the game and exit when you see the main menu (New Game, etc)
 
 ### Using Wabbajack
 
-First get the latest version of LBS from https://github.com/cacophony-wj/LBS/releases
+First get the latest version of LeS from https://github.com/cacophony-wj/LeS/releases
 
 Download it to wherever you keep your downloads.
 
