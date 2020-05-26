@@ -145,8 +145,8 @@ Switching to _Light But Kinky_ can be a little tricky, hopefully I can do an exp
 
 1. First thing you'll want to do is choose _Light But Kinky_ from the dropdown list. 
 2. Next, run FNIS for the creature animations:  
-   1. **Disable** _Nemesis Behavior Engine_ and _Sexy Nemisis Output_ in the left pane of MO2
-   2. **Enable** all _FNIS_ mods (New Idles, Creatures, and Output) and make sure _FNIS.esp_ is enabled in the  right pane. 
+   1. **Disable** _Nemesis Behavior Engine_ and _Kinky Nemesis Output_ in the left pane of MO2
+   2. **Enable** all _FNIS_ mods (New Idles, Creatures, and Output) and make sure _FNIS.esp_ is enabled in the right pane. 
    3. Then choose _GenerateFNISforUsers_ from the drop down.
    4. Hit the run button. All you should have to do here is hit _Update Behavior_, which takes a couple of minutes and may cause your screen to act weird. 
 3. After that, run Nemesis:
