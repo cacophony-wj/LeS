@@ -3,11 +3,6 @@
 *Skyrim Project Optimization - Full Version.esm
 *SexLab.esm
 *SexLabAroused.esm
-*CreatureFramework.esm
-*ZaZAnimationPack.esm
-*Devious Devices - Assets.esm
-*Devious Devices - Integration.esm
-*Devious Devices - Expansion.esm
 *LegacyoftheDragonborn.esm
 *MajesticMountains_Landscape.esm
 *ApachiiHair.esm
@@ -23,11 +18,6 @@
 *FISS.esp
 *AHZmoreHUDInventory.esl
 *FNIS.esp
-*Skyrim HD SE - Textures1.esp
-*Skyrim HD SE - Textures2.esp
-*Skyrim HD SE - Textures3.esp
-*Skyrim HD SE - Textures4.esp
-*Skyrim HD SE.esp
 *SkyUI_SE.esp
 *UIExtensions.esp
 *Skyrim Save System Overhaul.esp
@@ -56,7 +46,6 @@
 *StormLightning.esp
 *AHZmoreHUD.esp
 *BlendedRoads.esp
-*Atlas Compass Tweaks.esp
 *Extended UI.esp
 *SimplyKnock.esp
 *AMatterOfTime.esp
@@ -65,17 +54,14 @@
 *RaceMenu.esp
 *RaceMenuPlugin.esp
 *KS Hairdo's.esp
-*KS Hairdo's0.esp
 *CrittersAintSnitches.esp
 *3BBB.esp
-*BD Armor and clothes replacer.esp
-*BD's 3BBB Armor and clothes replacer - AIO.esp
-*Book of UUNP Iron And Steel.esp
 *SJG Quick Light Patch.esp
 *Moonlight Tales Special Edition.esp
 *Moonlight Tales - Werebear Form Bug Fix Patch.esp
 *DiverseDragonsCollectionSE.esp
 *AOS - Catherdral Weathers Patch.esp
+*Book of UUNP Iron And Steel.esp
 *Immersive Weapons.esp
 *Wildcat - Combat of Skyrim.esp
 *dD - Enhanced Blood Main.esp
@@ -84,6 +70,7 @@
 *UltimateCombat.esp
 *DSerCombatGameplayOverhaul.esp
 *NoBSAIProjectileDodge.esp
+*DSer360MovementBehavior.esp
 *AMB Glass Variants Lore.esp
 *Differently Ebony.esp
 *Particle Patch for ENB SSE.esp
@@ -97,7 +84,6 @@
 *PrvtI_HeavyArmory.esp
 *konahrik_accoutrements.esp
 *aMidianborn_Skyforge_Weapons.esp
-*XPMSE.esp
 *Schlongs of Skyrim.esp
 *SOS - Smurf Average Addon.esp
 *SOS - VectorPlexus Muscular Addon.esp
@@ -115,15 +101,17 @@
 *Raven Rock - Fix Exit on Horseback.esp
 *VolumeticMistsSolstheim.esp
 *ForgottenCity.esp
-*Book of UUNP - Textures.esp
 *Alternate Start - Live Another Life.esp
 *Alternate Start -- New Beginnings.esp
 *SexyStartingOptions.esp
 *The Paarthurnax Dilemma.esp
+*SexLab Eager NPCs.esp
 *Apocalypse - Magic of Skyrim.esp
 *FireBurns.esp
 *3DNPC - CRF Patch.esp
 *Deadly Dragons - DDC and Splendor.esp
+*Book of UUNP - Textures.esp
+*BD Armor and clothes replacer.esp
 *Deadly Dragons - Wyrmstooth.esp
 *Qw_DeadlySpellImpacts_AOS Patch.esp
 *Qw_DeadlySpellImpacts_ISC Patch.esp
@@ -158,17 +146,18 @@
 *nwsFollowerFramework.esp
 *SexlabLightMeUp.esp
 *SexLabTools.esp
-*MoreNastyCritters.esp
 *SLAnimLoader.esp
-*NibblesAnimObjects.esp
-*SLALAnimObjBillyy.esp
-*PsycheAnimationObjects.esp
+*SLALAnimObj.esp
+*AnubAnimObj.esp
+*NCK30Obj.esp
 *SLAL_ProxyAnimObjects.esp
+*PsycheAnimationObjects.esp
 *SLA Monitor Widget.esp
-*DD_Helpers.esp
-*Deviously Cursed Loot.esp
-*Umgak_DCL-NavMeshFix.esp
-*Deviously Cursed Loot LAL AddOn.esp
+*SexLabDefeat.esp
+*SexLab-AmorousAdventures.esp
+*AmorAdvExtended.esp
+*SexLab_Solutions.esp
+*SLPrivacy.esp
 *Cuyima 3DNPC - Redone.esp
 *Qw_3DNPC_USSEP Patch.esp
 *ethereal_elven_overhaul.esp
@@ -194,6 +183,7 @@
 *Eeekie + EEO.esp
 *Eeekie + NordRace.esp
 *ModestElderly.esp
+*XPMSE.esp
 *ELE_SSE.esp
 *RealisticWaterTwo.esp
 *Atlas Legendary.esp
@@ -201,8 +191,7 @@
 *DBM Merge.esp
 *ELE Merge.esp
 *Bashed Patch, 0.esp
-*Kinky Smashed Patch.esp
-*zPatch.esp
+*Sexy Smashed Patch.esp
 *Cell Overrides.esp
 *ShoalsRestFlickerpatch.esp
 *Vampire Override.esp
@@ -211,8 +200,10 @@
 *HairColor.esp
 *Navmesh CR.esp
 *BD CR.esp
-*MNC Forward.esp
 *Smash Override.esp
+*zPatch.esp
 *Double Males Patch.esp
-*DCUR Light Patch.esp
-Sexy Smashed Patch.esp
+DCUR Light Patch.esp
+DCursed Torch.esp
+Kinky Smashed Patch.esp
+MNC Forward.esp

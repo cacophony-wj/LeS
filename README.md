@@ -98,7 +98,9 @@ My closest friend and I created a meticulously crafted default BodySlide preset.
 
 However, thanks to meticulous research and effort by those in the NSFW discord, I have also included BodyGen support, which is an option for female NPC bodies to be generated with a random BodySlide preset whenever you first meet them, which the game will remember and save for the next time you are in their presence. Unfortunately, this means that you cannot create a preset for your PC with BodySlide, you must move all the sliders within RaceMenu while in-game to create your character's body. Time-consuming but perhaps worth it, and you only have to do it once as you can save the body as a preset.
 
-With the addition of _Bad Dog 3BBB_ and _3BA_ and Tsuki's _Book of 3BBB_ the morphs for all those armors got to be over 5 GB in size, so I have left them unbuilt. You will have to run BodySlide on your own or weird stuff will happen. To do so launch it from the _Executables_ menu on the right. Choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button, I recommend the one called "3BBB HangEmHigh." If you want everybody to be close to the same dimensions, choose a different preset.) To create the bodies and armors, tick the check box for _Build Morphs_ next to the _Batch Build_ button in the lower left, and then press _Batch Build_. You will have a withering array of options to choose from which are mandatory, so be patient. If given a choice between 3BA or something else, choose 3BA. Otherwise 3BF or CBBE is fine. Hair color depends on what color hair you want poking out of helmets so roleplay it out. If you want dynamically generated bodies in your game, the BodySlide process is basically the same but you will have to choose _- Zeroed CBBE -_ as your preset for this feature to function properly. You will also need to tick the _Bodygen3_ mod to active in Mod Organizer, which contains all of the curated body morph options available.
+With the addition of _Bad Dog 3BBB_ and _3BA_ and Tsuki's _Book of 3BBB_ the morphs for all those armors got to be over 5 GB in size, so I have left them unbuilt. You will have to run BodySlide on your own or weird stuff will happen. To do so launch it from the _Executables_ menu on the right. Choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button. For BodyGen, you must use the one called _- Zeroed CBBE -_ or the body randomization will not work properly. If you have disabled BodyGen, I recommend the one called "3BBB HangEmHigh." If you want everybody to be close to the same dimensions, choose a different preset.) 
+
+To create the bodies and armors, click the X button next to the _Groups_ dropdown, tick the check box for _Build Morphs_ next to the _Batch Build_ button in the lower left, and then press _Batch Build_. You will have a withering array of options to choose from which are mandatory, so be patient. If given a choice between 3BA or something else, choose 3BA. Otherwise 3BF or CBBE is fine. Hair color depends on what color hair you want poking out of helmets so roleplay it out. 
 
 Finally, if you want to make your game even sexier, you can use the wonderful zaps option! Pick one of the "BD" armors and note the check boxes just below the dropdowns. You can check them to remove those pieces from the suit! So you could make the set topless, bottomless, or both. Sadly this doesn't work for the Book of CBBE armors and you'll be seeing a lot of those. Also you'll have to do every zap yourself. My suggestion is to wait until you get an armor you like, zap it, then build only that armor for yourself.
 
@@ -144,11 +146,11 @@ For the bodies I used CBBE 3BBB. Apparently the "infinite belly" problem has bee
 
 Now that I understand how it works and the advantages it offers, the Skyrim Save System Overhaul is in here, not to punish you as suspected, but to allow for regular saving without scumming that would break a lot of the background scripting of this modlist. Set it and forget it. If you die, exit the game and continue from the main menu. You'll get back to where you were soon, the saves happen at roughly five minute intervals when everything "calms down" in the background. If you really want to risk an after-death reload, wait until the 15 second countdown and autoload from FEC has elapsed. Hopefully this will prevent the dreaded save corruption.
 
-It seems that strap-ons are universally loathed among the Skyrim NSFW community so I have included an old and forgotten Oldrim mod called "equippable schlong" available in the strapons menu. It basically attaches a full SOS schlong to your character with physics and collisions instead of a strap-on and is fully customizable from Racemenu. Just pull it out with the AddItemMenu, equip it, and go to town. How nice.
+It seems that strap-ons are universally loathed among the Skyrim NSFW community so I have included an old and forgotten Oldrim mod called "equippable schlong" available in the strapons menu. It basically attaches a full SOS schlong to your character with physics and collisions instead of a strap-on and is fully customizable from Racemenu. Just pull it out with the AddItemMenu, equip it, and adjust it to your liking, then drop it on the ground somewhere. It should auto-equip when appropriate (Amorous Adventures scenes are the worst for this)
 
 Also **do not attempt to convert the Form 43 plugins into form 44**! These are left this way intentionally and will break and cause crashes and other weirdness if you do. I can't stop MO2 from warning you about them but I can strongly insist that you not act on those warnings.
 
-The FNIS interaction with creatures is a bit bugged and sometimes a folder called "auxbones" will show up in your Overwrite directory. Look for this if Argonian and Khajiit tails are sticking straight out in the air. Once you delete them, that problem should resolve itself.
+The FNIS interaction with creatures is a bit bugged and sometimes a folder called "auxbones" will show up in your Overwrite directory. Look for this if Argonian and Khajiit tails are sticking straight out in the air. Once you delete them, that problem should resolve itself. Likewise, Cursed Loot's interaction with the unholy Creatures, FNIS, Nemesis trio is janky at best, broken at worst. If a creature is about to go to town and the animation seems stuck with both participants standing still unable to move, open the console with the tilde key (`), wait for all messages to cycle, then close the console again. Finally, sometimes the PC will become unable to move after picking up items in 3rd person due to the fidgety way that Cursed Loot uses encumbrance to slow you down. If this happens, simply go into first person and back out to move again.
 
 ### Adding Outfits
 
@@ -210,6 +212,10 @@ Answer yes and wait for confirmation.
 
 The only one you need to de-select is _Persistent Arrows._
 
+## Cathedral Weathers
+
+The nights are just a _bit_ dark. You can alleviate this by adjusting exterior lighting where quick light isn't the best. Interiors should be fine.
+
 ## CGO
 
 ### Settings
@@ -240,7 +246,7 @@ These boys are plenty hard on Vanilla, so just remove _Knockdown_ from their abi
 
 Only available with _Light But Kinky_.
 
-This is a lot to take in so just disable the random bondage option for Inns and Other Dwellings. Just keep in mind if your follower asks to tie you up to give it some serious thought!
+This is a lot to take in so just disable the random bondage option for Shops and Other Dwellings. Just keep in mind if your follower asks to tie you up to give it some serious thought!
 
 ## Devious Devices
 
