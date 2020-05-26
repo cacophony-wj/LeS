@@ -1,5 +1,7 @@
 ## Introduction
 
+### Firstly, if you are experiencing problems, skip to the Troubleshooting section at the bottom of this document before asking questions.
+
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
 Hello, my name is Cacophony and I got into modding as a pimply teenager simply because I wanted to see naked women. Then I discovered the communities surrounding Skyrim. From there I branched out, building the TUCOGUIDE, Lexy, switching Lexy into LOTD Plus, and finally discovering Wabbajack and spending almost all of my time either starting a new list or changing one I or someone else had made. 
@@ -110,6 +112,10 @@ On the other hand, if you're playing in mixed company and want your armor to be 
 
 Skyrim was never designed to have animations injected into it, even with the Creation Kit. It most certainly was never intended to pair two actors in a close space and perfectly align them for a sex scene. Animators do a lot of the work, but the engine is far from ideal. On top of that, there are far more poorly-aligned animations out there than there are good ones. In any case, no matter how good your animations, you will often find problems like: people kissing the air, _parts_ not going _into_ each other, floating above the ground, or even more wacked-out stuff like falling into the ground, clipping into furniture, or people going invisible. Fortunately (if not annoyingly), SexLab allows you to correct this with manual positioning for each animation. Here's how it works... the _L_ key on your keyboard moves you _forward,_ i.e. closer to your partner. _Shift-L_ moves you _backward,_ or the reverse. _;_ moves you _up_, or higher in elevation than your partner. _Shift-;_ does the reverse. Finally, _'_ moves you _Right_ compared to your partner, whereas _Shift-'_ moves you _Left_. (Or maybe the other left.) Get used to these, you'll be using them a lot.
 
+## Admiring Yourself
+
+For those who want a little POV action or to play primarily in first person, _IFPV_ (Immersive First-Person View) is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode and press _NUMPAD 0_ to enable it. Then press the first person key again and look downward. Tah-Dah! Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. To switch to normal first person for gameplay, hit the first person key at any time. What this means though is that you can't switch to third person anymore without deactivating IFPV with _NUMPAD 0_. Remember you can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_.
+
 ## Updating
 
 If this Modlist receives an update, check the Changelog before doing anything. Always backup your saves or start a new game after updating.
@@ -126,6 +132,10 @@ I'm not going to get deep into the weeds on all the mods included because quite 
 
 ## Specific to Light But Sexy
 
+### FNIS
+
+First of all, _disable all FNIS related mods in the left pane_ before you do anything else. I had to leave them enabled or Wabbajack wouldn't download or install them. That's all you need to do if you wish to play LBS, no run of Nemesis should be necessary.
+
 ### Defeat
 
 Defeat is ... a little buggy, to say the least... but I have included it in _Light But Sexy_ as a potential death alternative. I have most of it disabled because it breaks too often and forces a reload. About the only things left active in my setup are the ability to "surrender" with the _K_ key, or assault people with the _H_ key as per Defeat's description. Do them early because the script delay is godawful. If you want to enable more of it feel free, but be prepared for situations such as being stuck to the ground, unable to move, stuck to the ground _and_ unable to move, or unable to interact with anything or open your inventory. If you play a whole game without any of these happening I am curious to know what sorcery you used.
@@ -136,21 +146,11 @@ Switching to _Light But Kinky_ can be a little tricky, hopefully I can do an exp
 
 ### Cursed Loot
 
-The thing you have to remember about _Cursed Loot_ is that, once its in your modlist, your game is no longer about Skyrim and it is now about Cursed Loot. It does everything from overhauling loot, to adding followers, to changing combat and buffs, to prostitution, to prison overhaul, to death alternatives. It even has an alternate start and other quests to help you get a feel for how the mod works. Once you activate _Light But Kinky_, I have provided two gameplay options for this mod. The first (and recommended) option is _Cursed Loot Lenient_ which you will see under **Outputs** in the left pane. Leave it enabled for infrequent, mild encounters with bondage gear that's relatively easy to escape from until you hit level 20 where things start getting a bit more hardcore. If you are a glutton for punishment and enjoy walking extremely slowly while tied up and clicking menus over and over in an attempt to escape, enable _Cursed Loot Punishing._ It's probably best to treat this as a nightmarish survival mode that you should only play to avoid your invitable enslavement or imprisonment for as long as possible before starting over. The key "mechanic" of this mod (such as it is) is that you keep your arousal down via sexual acts to prevent "cursed traps" from triggering that lock you into bondage gear, make you more aroused, spiraling down into a self-defeating loop. For more details I suggest you do a little searching on LoversLab.com for the Cursed Loot landing page and reading up on it. It shouldn't be difficult to find, it's about the most popular mod there.
+The thing you have to remember about _Cursed Loot_ is that, once its in your modlist, your game is no longer about Skyrim and it is now about Cursed Loot. It does everything from overhauling loot, to adding followers, to changing combat and buffs, to prostitution, to prison overhaul, to death alternatives. It even has an alternate start and other quests to help you get a feel for how the mod works. Once you activate _Light But Kinky_, I have provided two gameplay options for this mod. Both are enabled to ensure they are downloaded but one is hidden. The first (and recommended) option is _Cursed Loot Lenient_ which you will see under **Outputs** in the left pane. Leave everything untouched for infrequent, mild encounters with bondage gear that's relatively easy to escape from until you hit level 20 where things start getting a bit more hardcore. If you are a glutton for punishment and enjoy walking extremely slowly while tied up and clicking menus over and over in an attempt to escape, double-click on _Cursed Loot Punishing._, go to the _FileTree_ tab at the top, and find the _JSON_ file that has _mohidden_ at the end and choose _Unhide_. When you finally get sick of it and wish to go back to lenient, repeat the process except choose _Hide._ It's probably best to treat this as a nightmarish survival mode that you should only play to avoid your invitable enslavement or imprisonment for as long as possible before starting over. The key "mechanic" of this mod (such as it is) is that you keep your arousal down via sexual acts to prevent "cursed traps" from triggering that lock you into bondage gear, make you more aroused, spiraling down into a self-defeating loop. For more details I suggest you do a little searching on LoversLab.com for the Cursed Loot landing page and read up on it. It shouldn't be difficult to find, it's about the most popular mod there.
 
 ## Bodies and NPCs
 
 For the bodies I used CBBE 3BBB. Apparently the "infinite belly" problem has been fixed with CBPC 1.3.6 so feel free to leave HDT-SMP active on the player if you want. You can also turn SMP on various NPC's with numpads 5-8 but it will reset their equipment to default. So do it before you start a scene or it'll get a lot more modest.  For NPCs, it's your Pandorables & Bijin combo, only I added some less potato-like male options from Oldrim as well as a few of Eeekie's NPCs (especially that crafty Cicero) on top. This may introduce the possibiility of BFBs (brown face bugs) so please tell me if you see any of those so I can patch them out.
-
-## Little Quibbles and Warnings
-
-Now that I understand how it works and the advantages it offers, the Skyrim Save System Overhaul is in here, not to punish you as suspected, but to allow for regular saving without scumming that would break a lot of the background scripting of this modlist. Set it and forget it. If you die, exit the game and continue from the main menu. You'll get back to where you were soon, the saves happen at roughly five minute intervals when everything "calms down" in the background. If you really want to risk an after-death reload, wait until the 15 second countdown and autoload from FEC has elapsed. Hopefully this will prevent the dreaded save corruption.
-
-It seems that strap-ons are universally loathed among the Skyrim NSFW community so I have included an old and forgotten Oldrim mod called "equippable schlong" available in the strapons menu. It basically attaches a full SOS schlong to your character with physics and collisions instead of a strap-on and is fully customizable from Racemenu. Just pull it out with the AddItemMenu, equip it, and adjust it to your liking, then drop it on the ground somewhere. It should auto-equip when appropriate (Amorous Adventures scenes are the worst for this)
-
-Also **do not attempt to convert the Form 43 plugins into form 44**! These are left this way intentionally and will break and cause crashes and other weirdness if you do. I can't stop MO2 from warning you about them but I can strongly insist that you not act on those warnings.
-
-The FNIS interaction with creatures is a bit bugged and sometimes a folder called "auxbones" will show up in your Overwrite directory. Look for this if Argonian and Khajiit tails are sticking straight out in the air. Once you delete them, that problem should resolve itself. Likewise, Cursed Loot's interaction with the unholy Creatures, FNIS, Nemesis trio is janky at best, broken at worst. If a creature is about to go to town and the animation seems stuck with both participants standing still unable to move, open the console with the tilde key (`), wait for all messages to cycle, then close the console again. Finally, sometimes the PC will become unable to move after picking up items in 3rd person due to the fidgety way that Cursed Loot uses encumbrance to slow you down. If this happens, simply go into first person and back out to move again.
 
 ### Adding Outfits
 
@@ -197,6 +197,10 @@ Import Settings: Click Here
 It should confirm this choice, wait for the message.
 
 If you are playing _Light But Kinky_ or have taken the necessary steps to enable FNIS, enable _Creature Animations_ on the _Animation Settings_ page, close the menus, and wait until the _Enabled_ message appears **twice**.
+
+### A bit of a note on strap-ons
+
+It seems that strap-ons are universally loathed among the Skyrim NSFW community, but SexLab loves them in female scenes and likes to use them at every opportunity if they are enabled. Disable them you say? I don't care, I'll just play a male animation anyway. So I have included an old and forgotten Oldrim mod called "equippable schlong" available in the strapons menu. It basically attaches a full SOS schlong to female characters with physics and collisions instead of a strap-on and is fully customizable from Racemenu. Just pull it out with the AddItemMenu, equip it, and adjust it to your liking, then drop it on the ground somewhere. It should auto-equip when appropriate (Amorous Adventures scenes are the worst for this)
 
 ## A Matter of Time
 
@@ -272,6 +276,8 @@ Hit _Load From File_ and exit the menu. Then re-enter.
 
 You might want to check out the hotkeys to see what they've been set to. They're inspired by our overlord.
 
+### Notes
+
 Keep in mind that if you play with _Light But Kinky_, you're going to have to come back here to the _Follower Tweaks_ menu and use the _Default Combat_ package for any followers you use. Otherwise the death alternative scenes will never trigger.
 
 In either variant, many followers may be overpowered, so if you find yourself being outshined, visit the same menu and disable all the _Stealth_ options, as well as nerfing overall damage to _0.50_ or even _0.10_ for BeastModes like Chloe. 
@@ -302,9 +308,23 @@ Hit _Enable and load profile_, customize to your taste. You'll be having a _lot_
 
 This mod takes a bit to activate. Exit the MCM and wait for two abilities to be added, then open it and continue.
 
+## SexLab LightMeUp
+
+This mod is finickly on defaults, largely because if you are using QuickLight to explore a dark area, it thinks the area is bright and won't activate. QuickLight is intended to light your surroundings, not your character, so this isn't ideal.
+
+### Settings
+
+Tick _Toggle Manual Control_ and ensure that _Lights Always On/Off_ is active. I would prefer assigning a hotkey to turn lights on and off as the user wishes, but this mod won't allow you to do so during a scene.
+
+If this mod and QuickLight are both active, you can always turn off QuickLight anytime.
+
 ## SexLab Solutions
 
-Only available with _Light But Sexy_.
+Only available with _Light But Sexy_. 
+
+### Followers
+
+Choose the appropriate options here to offer a follower instead of yourself for sexual favors. This is mainly useful if you aren't attracted to a particular sex.
 
 ### Miscellaneous
 
@@ -424,5 +444,21 @@ This menu takes a good minute to appear. It may seem stuck. Just wait. Afterward
 
 There you go, fellow deviant. However you wish to enjoy NSFW Skyrim, soft or hard, I hope your experience is fulfilling (or at least titillating.) And keep checking the NSFW channels for releases including _Cupid_, _Lotus_ and _Bakarim_ which are far more in-depth than I can muster.
 
+## Troubleshooting
 
+### Why don't my saves work?
+
+Now that I understand how it works and the advantages it offers, the Skyrim Save System Overhaul is in here, not to punish you as suspected, but to allow for automatic saving without scumming that would break a lot of the background scripting of this modlist. Set it as specified in the MCM section and forget it. If you die, exit the game, relaunch it, and continue from the main menu. Try to avoid using the hotkey to save as I _have_ had Cursed Loot break on me by using it. You'll get back to where you were soon, the saves happen at roughly five minute intervals when everything "calms down" in the background. If you really want to risk an after-death reload, wait until the 15 second countdown and autoload has elapsed. Hopefully this will prevent the dreaded save corruption. _Only the most recent 5 manual saves and 10 autosaves are stored, and their names and screenshots do not depict their contents. Use the most recent one unless absolutely necessary._
+
+### What are all these Form 43 warnings? I thought Form 43 was bad news. 
+
+In the normal modding world this would be true, but this is Lover's Lab, which is notoriously resistant to change. Some of the mods break if they are converted. So **do not attempt to convert the Form 43 plugins into form 44**! These are left this way intentionally. I can't stop MO2 from warning you about them but I can strongly insist that you not act on those warnings.
+
+### Someone (or something) tries to rope me into sex but everything just stops and I can't move.
+
+The automatic animations triggered from Devious Devices and Cursed Loot seem to suffer from almost intolerable script lag at times. I understand it's a known issue that is being worked on, but until it is resolved, you'll have to break your immersion a bit. If an animation seems stuck with all participants standing still unable to move, open the console with the tilde key (`), wait for all messages to cycle, then close the console again. You may have to repeat this process at least once.
+
+### I'm locked into some gear and I can't move in third person.
+
+Finally, sometimes the PC will become unable to move after picking up items in 3rd person due to the fidgety way that Cursed Loot uses encumbrance to slow you down. If this happens, simply go into first person and back out to move again.
 

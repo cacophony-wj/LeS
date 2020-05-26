@@ -1,8 +1,12 @@
 ## Changelog
 
+### 0.1.1
+
+A lot of changes this time around due to problems that arose during my own testing. Please start reporting these on the issues tab, people! The main one was the installation of the standalone Creature Framework 1.1.02B to prevent certain... invisible equipment. Recommend you backup your saves before updating if you use LBK. Disabled Atlas Map Marker's overworld map to prevent fast travel that skips quest triggers. Activated several mods that should be deactivated by default, but must be active to ensure their installation by Wabbajack. Adjusted the footsteps to prevent doubling of certain sound effects. Converted a couple of plugins to Form 44 that I suspect caused crashes. Clarified options within the MCM to increase stability, compatibility, and user choice.
+
 ### 0.1.0.2
 
-Hid the invalid script plugin leftover in MNC. This should cause no problems because the modder himself admitted he meant to remove it but forgot. Enabled the BodyGen3 folder from WJ NSFW so that it would properly download for the enduser. Changed breast physics to a more static variant to reflect possible usage of BodyGen. Finalized my ASLAL DCUR patch (hopefully) so there won't be any more damnable flickering in the slaver cave.
+Hid the invalid script plugin leftover in MNC. This should cause no problems because the modder himself admitted he meant to remove it but forgot. Enabled the BodyGen3 folder from WJ NSFW so that it would properly download for the enduser. Changed breast physics to a more static variant to reflect possible usage of BodyGen. Disabled fast-travel to non-vanilla locations to prevent scripted event bugs. Finalized my ASLAL DCUR patch (hopefully) so there won't be any more damnable flickering in the slaver cave. Clarified instructions for BodySlide and FNIS/Nemesis in the README.
 
 ### 0.1.0.1
 
