@@ -272,6 +272,10 @@ Hit _Load From File_ and exit the menu. Then re-enter.
 
 You might want to check out the hotkeys to see what they've been set to. They're inspired by our overlord.
 
+Keep in mind that if you play with _Light But Kinky_, you're going to have to come back here to the _Follower Tweaks_ menu and use the _Default Combat_ package for any followers you use. Otherwise the death alternative scenes will never trigger.
+
+In either variant, many followers may be overpowered, so if you find yourself being outshined, visit the same menu and disable all the _Stealth_ options, as well as nerfing overall damage to _0.50_ or even _0.10_ for BeastModes like Chloe. 
+
 ## GIST Soul Trap
 
 Just enable _Show message on soul trapped_.
@@ -372,21 +376,13 @@ _Dodge: Disable_ - Conflicts with CGO.
 
 ## Wildcat Combat
 
-_Disable Bow Interrupts_
+Be sure to press
 
-_Bow Attacks Cost: 0 Stamina_
+_Disable Dynamic Combat_
 
-_Disable Pulled/Held Bow Stamina Cost_
+Because it causes a lot of weird sheathing / unsheathing loops with CGO, conflicts with AGO's native bow stamina and interrupt mechanics, and also doesn't play well with Ultimate Combat's Timed Block. 
 
-_AGO_ has alternatives for all of these.
-
-Scroll down a bit and find
-
-_Disable Timed Block_
-
-The mechanic in _Ultimate Combat_ is better.
-
-Lastly, scroll back up and under _Difficulty_ hit _Allow Wildcat to Manage Difficulty_
+Under _Difficulty_ hit _Allow Wildcat to Manage Difficulty_ so you don't have overpowered followers.
 
 ## Defeat
 
