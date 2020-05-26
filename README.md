@@ -141,8 +141,26 @@ First of all, _disable all FNIS related mods in the left pane_ before you do any
 Defeat is ... a little buggy, to say the least... but I have included it in _Light But Sexy_ as a potential death alternative. I have most of it disabled because it breaks too often and forces a reload. About the only things left active in my setup are the ability to "surrender" with the _K_ key, or assault people with the _H_ key as per Defeat's description. Do them early because the script delay is godawful. If you want to enable more of it feel free, but be prepared for situations such as being stuck to the ground, unable to move, stuck to the ground _and_ unable to move, or unable to interact with anything or open your inventory. If you play a whole game without any of these happening I am curious to know what sorcery you used.
 
 ## Specific to Light But Kinky
+Switching to _Light But Kinky_ can be a little tricky, hopefully I can do an explanation justice. 
 
-Switching to _Light But Kinky_ can be a little tricky, hopefully I can do an explanation justice. First thing you'll want to do is choose _Light But Kinky_ from the dropdown list. Next, run FNIS for the creature animations. Disable _Nemesis Behavior Engine_ and _Sexy Nemisis Output_ in the left pane of MO2, enable all _FNIS_ mods (New Idles, Creatures, and Output) and make sure _FNIS.esp_ is enabled in the right pane. Then choose _GenerateFNISforUsers_ from the drop down and hit the run button. All you should have to do here is hit _Update Behavior_, which takes a couple of minutes and may cause your screen to act weird. Next, **disable** all FNIS options in the left pane and enable _Nemesis_ and _Kinky Nemesis Output._ Then run _Nemesis Behavior Engine_ from the dropdown and make sure to **uncheck** _360 Movement Behavior_ as it is incompatible with many of the Devious animations. Then hit _update engine_, which may take a bit, and _Launch Nemesis Engine_ to generate the last of the animations. Finally, **enable** FNIS Output and the dummy FNIS esp in the right pane and move it to the top, just above Sky_UI.esp. You should be good to go.
+1. First thing you'll want to do is choose _Light But Kinky_ from the dropdown list. 
+2. Next, run FNIS for the creature animations:  
+   1. **Disable** _Nemesis Behavior Engine_ and _Sexy Nemisis Output_ in the left pane of MO2
+   2. **Enable** all _FNIS_ mods (New Idles, Creatures, and Output) and make sure _FNIS.esp_ is enabled in the  right pane. 
+   3. Then choose _GenerateFNISforUsers_ from the drop down.
+   4. Hit the run button. All you should have to do here is hit _Update Behavior_, which takes a couple of minutes and may cause your screen to act weird. 
+3. After that, run Nemesis:
+   1. **Disable** all previously enabled FNIS mods in the left pane
+   2. **Enable** _Nemesis_ and _Kinky Nemesis Output_.
+   2. Then choose _Nemesis Behavior Engine_ from the drop down. 
+   3. **Uncheck** _360 Movement Behavior_ as it is incompatible with many of the Devious animations. 
+   4. Then hit _update engine_, which may take a bit.
+   5. After that, _Launch Nemesis Engine_ to generate the last of the animations. 
+4. **enable** _FNIS Output_
+5. In the right pane, move the dummy FNIS esp to the top, just above Sky_UI.esp, and enable it. 
+
+
+You should now be good to go.
 
 ### Cursed Loot
 
