@@ -1,5 +1,13 @@
 ## Changelog
 
+### 1.1
+
+Corrections based on feedback from WJ's modlist testers.
+
+### 1.0
+
+Preparation for initial submission.
+
 ### 0.1.1
 
 A lot of changes this time around due to problems that arose during my own testing. Please start reporting these on the issues tab, people! The main one was the installation of the standalone Creature Framework 1.1.02B to prevent certain... invisible equipment. Recommend you backup your saves before updating if you use LBK. Disabled Atlas Map Marker's overworld map to prevent fast travel that skips quest triggers. Activated several mods that should be deactivated by default, but must be active to ensure their installation by Wabbajack. Adjusted the footsteps to prevent doubling of certain sound effects. Converted a couple of plugins to Form 44 that I suspect caused crashes. Clarified options within the MCM to increase stability, compatibility, and user choice.

@@ -16,6 +16,7 @@
 *Schlongs of Skyrim - Core.esm
 *High Poly Head.esm
 *FISS.esp
+*DynDOLOD.esm
 *AHZmoreHUDInventory.esl
 *FNIS.esp
 *SkyUI_SE.esp
@@ -43,6 +44,7 @@
 *Cathedral Weathers.esp
 *CathedralWeatherMCM.esp
 *RealRainSE.esp
+*Obsidian In Cathedral.esp
 *StormLightning.esp
 *AHZmoreHUD.esp
 *BlendedRoads.esp
@@ -59,6 +61,7 @@
 *SJG Quick Light Patch.esp
 *Moonlight Tales Special Edition.esp
 *Moonlight Tales - Werebear Form Bug Fix Patch.esp
+*MoonlightTalesMCM.esp
 *DiverseDragonsCollectionSE.esp
 *AOS - Catherdral Weathers Patch.esp
 *Book of UUNP Iron And Steel.esp
@@ -133,8 +136,6 @@
 *HD Lods SSE.esp
 *JSwords-ImmersiveWeaponsPatch.esp
 *GIST-RusticSoulGems-patch.esp
-*Obsidian In Cathedral.esp
-*DarkerNights-ObsidianInCathedral.esp
 *Trade & Barter.esp
 *Dr_Bandolier.esp
 *Bandolier SOS Fix.esp
@@ -187,23 +188,32 @@
 *ELE_SSE.esp
 *RealisticWaterTwo.esp
 *Atlas Legendary.esp
+*Atlas Compass Tweaks.esp
 *Modern Brawl Bug Fix.esp
 *DBM Merge.esp
 *ELE Merge.esp
+*ELE-ELFX Patch AIO.esp
 *Bashed Patch, 0.esp
 *Sexy Smashed Patch.esp
+*Smash Override.esp
 *Cell Overrides.esp
 *ShoalsRestFlickerpatch.esp
 *Vampire Override.esp
 *RWT Forward.esp
-*Audio Overrides.esp
 *HairColor.esp
 *Navmesh CR.esp
 *BD CR.esp
-*Smash Override.esp
-*zPatch.esp
 *Double Males Patch.esp
+*Barter Override.esp
+*CGO Forward.esp
+*Dragon Safe.esp
+*Males Override.esp
+*zPatch.esp
+*DynDOLOD.esp
+*Occlusion.esp
+CGO Consistency.esp
 DCUR Light Patch.esp
 DCursed Torch.esp
 Kinky Smashed Patch.esp
 MNC Forward.esp
+Minor NPC CR.esp
