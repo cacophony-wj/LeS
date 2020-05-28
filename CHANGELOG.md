@@ -1,5 +1,9 @@
 ## Changelog
 
+### 1.1.1
+
+Fixed a few BFBs from Males of Skyrim.
+
 ### 1.1
 
 Corrections based on feedback from WJ's modlist testers.

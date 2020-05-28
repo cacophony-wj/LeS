@@ -197,13 +197,49 @@ _Light But Kinky_ is the sublist for the well, kinky among us, and it is all abo
 
 _Light But Sexy_ is enabled by default. To switch to the sublist, select it from the main "profiles" dropdown in the center-top of MO2. No further steps are required.
 
-##  8. <a name='AnoteonBodySlide'></a>A note on BodySlide
+##  8. <a name='AnoteonBodySlide'></a>A Note on BodySlide
 
-All the armors in this list are huge in size. The custom fits are not included by default. You will have to run BodySlide on your own or weird stuff will happen. To do so launch it from the _Executables_ menu on the right. Choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button. I recommend the one called "3BBB HangEmHigh.") Then disable the mod called _BodyGen3_ in Mod Organizer 2's left pane.
+All the armors in this list are huge in size. The custom fits are not included by default. 
 
-If you want to try an experimental _BodyGen_ feature, where each lady you meet has different measurements, leave _BodyGen3_ enabled and you must use the preset called _- Zeroed CBBE -_ or the body randomization will not work properly.
+**You MUST run BodySlide on your own before you launch Skyrim or weird stuff will happen. This _can_ and _will_ include people wearing purple underwear, people varying in size depending on what clothes they wear, and more.**
 
-To create the bodies and armors, click the X button next to the _Groups_ dropdown, tick the check box for _Build Morphs_ next to the _Batch Build_ button in the lower left, and then press _Batch Build_. You will have an intimidatingly long list of options to choose from which are mandatory, so be patient. If given a choice between 3BA or something else, choose 3BA. Otherwise 3BF or CBBE is fine. Hair color depends on what color hair you want poking out of helmets so roleplay it out.
+1. Launch _BodySlide_ from the _Executables_ menu on the right, where you can find a dropdown with items such as _SKSE_, _Skyrim_ and the _Skyrim Launcher_. 
+
+2. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. If this happens to you, follow steps **A** through **C** below. Otherwise, skip to step **3.**
+
+	A. Click the _Settings_ button in the lower right corner of _BodySlide_.
+	
+	B. Click _Browse_ next to _Game Data Path_.
+	
+	C. Select your **Data** directory within your **Skyrim Special Edition** directory.
+	
+3. Choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button. I recommend the one called "3BBB HangEmHigh.")
+	
+4. Disable the mod called _bodygen3_ in Mod Organizer 2's left pane. You'll find it at or near position **395**, just below _SKSE Settings._
+
+5. If you want to try an experimental _BodyGen_ feature, where each lady you meet has different measurements, leave _bodygen3_ **ENABLED** instead.
+	
+6. If you do leave BodyGen enabled, you **MUST** use the preset called _- Zeroed Sliders -_ or the body randomization will not work properly.
+
+7. Click the check box for _Build Morphs_ next to the _Batch Build_ button in the lower left
+	
+8.  Press _Batch Build_. You will have an intimidatingly long list of options to choose from which are mandatory, so be patient. 
+	
+9.  Always choose **3BA** before any other option.
+	
+10. Second in priority should be **3BF**
+	
+11. Third in priority should be **HDT**
+	
+12. Only choose **CBBE** if no other options are available.
+	
+13. Several helmets will have a hair color option. It only affects hair color poking out of a few helmets. This is personal choice.
+
+14. A few boots wiil feature _flat_ options. This essentially means _no high heels._ The other variants have high heels. Choose whichever you wish.
+
+15. Finally, press **Build** and wait for all the outfits to be built.
+
+You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown.
 
 ##  9. <a name='ANoteonSexLabfortheUninitiated'></a>A Note on SexLab for the Uninitiated
 
