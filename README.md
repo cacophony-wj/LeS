@@ -1,3 +1,5 @@
+- [A STRONG WARNING](#a-strong-warning)
+	- [Devious SE is still in **late beta!** Expect bugs!](#devious-se-is-still-in-late-beta-expect-bugs)
 - [Requirements](#requirements)
 - [System Specs](#system-specs)
 - [Installation](#installation)
@@ -82,6 +84,12 @@
 	- [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
 
 <h1>Licentia et Servitium: A Double-Sided Coin of Lover's Lab</h1>
+
+# A STRONG WARNING
+
+## Devious SE is still in **late beta!** Expect bugs!
+
+If you encounter _anything_ that you even _think_ is wrong, **especially** if you are playing the _Light But Kinky_ variant, please refer to [Troubleshooting](#troubleshooting) before asking on Github or Discord. Many of the most common questions are answered there. The signature mods in that build contain bugs, but are still playable, and will only improve with time.
 
 #  Requirements
 
@@ -258,7 +266,7 @@ All the armors in this list are huge in size. The custom fits are not included b
 29. I recommmend the **prisoner bikini** for DLC1, but for a little variety I invite you to examine the outfits and choose one you like.
 30. Whether your armor has fur trim or not is really up to you.
 31. Press **Build** and wait for all the outfits to be built.
-32. If you have _no interest_ in the _Light But Kinky_ variant, you are now finished. Skip to step **40**.
+32. If you have _no interest_ in the _Light But Kinky_ variant, you are now finished. Skip to step **44**.
 33. If you wish to play _Light But Kinky_, read on.
 34. First, **SWITCH TO THE LIGHT BUT KINKY VARIANT.**
 35. Click the small **magnifying glass** in the upper right corner of _BodySlide_ next to a dropdown box.
