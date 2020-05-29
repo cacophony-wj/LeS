@@ -207,23 +207,26 @@ All the armors in this list are huge in size. The custom fits are not included b
 5. If you want to try an experimental _BodyGen_ feature, where each lady you meet has different measurements, leave _bodygen3_ **ENABLED** instead.	
 6. If you do leave BodyGen enabled, you **MUST** use the preset called _- Zeroed Sliders -_ or the body randomization will not work properly.
 7. Click the check box for _Build Morphs_ next to the _Batch Build_ button in the lower left	
-8.  Press _Batch Build_. You will have an intimidatingly long list of options to choose from which are mandatory, so be patient. 	
-9.  For the first option, choose **SE 3BBB Body Amazing**
-10. Always choose **3BA** before any other option.
-11. I recommend the **PRIMARY** "variant" over anything marked **2** (as in "BD 3BF Dragonbone boots 2"). Keep in mind, anything marked **recommended** is ultimately up to you. You can always preview the outfit and decide for yourself.	
-11. Second in priority should be **3BF**
-14. Several helmets will have a hair color option. It only affects hair color poking out of a few helmets. This is personal choice.
-14. A few boots wiil feature **flat** options. This essentially means **no high heels.** The other variants have high heels. I recommend the **flat** variants so characters line up correctly with furniture.	
-14. There is one helmet (**glass**) that has a closed or open faced variant. I recommend open.
-15. Several boots have **low** variants which I recommend due to the high probability of clipping on the variants with stockings.
-16. The Nocturnal dress has a normal or **minidress** variant. The latter I recommend. It's a bit sexier.
-17. I recommend the **prisoner bikini** over the **prisoner clothes**.
-18. I recommend the **prisoner rag short** over the **prisoner rag**.
-19. There are several variants with **shoes** or **boots**. I recommend **shoes** to reduce the likelihood of clipping.
-20. I recommend the **vanilla** wedding dress variant. The normal one is sexier but has a weird lengthy strip that can behave strangely at times.
-21. I recommmend the **prisoner bikini** for DLC1, but for a little variety I invite you to examine the outfits and choose one you like.
-22. Whether your armor has fur trim or not is really up to you.
-24. Finally finished! Press **Build** and wait for all the outfits to be built.
+8.  **Hold down the CTRL key** (very important) and click _Batch Build_. 
+9.  You will see a huge list of bodies and armors. Just click _Build_.
+10. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**
+11. Now you will have a massive list of options to choose from which are mandatory, so be patient. 
+12. For the first option, choose **SE 3BBB Body Amazing**
+13. Always choose **3BA** before any other option.
+14. I recommend the **PRIMARY** "variant" over anything marked **2** (as in "BD 3BF Dragonbone boots 2"). Keep in mind, anything marked **recommended** is ultimately up to you. You can always preview the outfit and decide for yourself.	
+15. Second in priority should be **3BF**
+16. Several helmets will have a hair color option. It only affects hair color poking out of a few helmets. This is personal choice.
+17. A few boots wiil feature **flat** options. This essentially means **no high heels.** The other variants have high heels. I recommend the **flat** variants so characters line up correctly with furniture.	
+18. There is one helmet (**glass**) that has a closed or open faced variant. I recommend open.
+19. Several boots have **low** variants which I recommend due to the high probability of clipping on the variants with stockings.
+20. The Nocturnal dress has a normal or **minidress** variant. The latter I recommend. It's a bit sexier.
+21. I recommend the **prisoner bikini** over the **prisoner clothes**.
+22. I recommend the **prisoner rag short** over the **prisoner rag**.
+23. There are several variants with **shoes** or **boots**. I recommend **shoes** to reduce the likelihood of clipping.
+24. I recommend the **vanilla** wedding dress variant. The normal one is sexier but has a weird lengthy strip that can behave strangely at times.
+25. I recommmend the **prisoner bikini** for DLC1, but for a little variety I invite you to examine the outfits and choose one you like.
+26. Whether your armor has fur trim or not is really up to you.
+27. Finally finished! Press **Build** and wait for all the outfits to be built.
 
 You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown.
 
