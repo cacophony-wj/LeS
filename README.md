@@ -74,12 +74,12 @@
 	- [SSSO](#ssso)
 - [All done!](#all-done)
 - [Troubleshooting](#troubleshooting)
-		- [Why don't my saves work?](#why-dont-my-saves-work)
-		- [What are all these Form 43 warnings? I thought Form 43 was bad news.](#what-are-all-these-form-43-warnings-i-thought-form-43-was-bad-news)
-		- [My skin pokes through my armor! or My bald head pokes through my hood!](#my-skin-pokes-through-my-armor-or-my-bald-head-pokes-through-my-hood)
-		- [CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!](#cgo-isnt-leaning--dodging-or-when-i-go-into-an-adult-scene-i-hear-sounds-and-voices-but-they-just-stand-there)
-		- [I did all that but the things are still just standing there, especially when I get attacked.](#i-did-all-that-but-the-things-are-still-just-standing-there-especially-when-i-get-attacked)
-		- [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
+	- [Why don't my saves work?](#why-dont-my-saves-work)
+	- [What are all these Form 43 warnings? I thought Form 43 was bad news.](#what-are-all-these-form-43-warnings-i-thought-form-43-was-bad-news)
+	- [My skin pokes through my armor! or My bald head pokes through my hood!](#my-skin-pokes-through-my-armor-or-my-bald-head-pokes-through-my-hood)
+	- [CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!](#cgo-isnt-leaning--dodging-or-when-i-go-into-an-adult-scene-i-hear-sounds-and-voices-but-they-just-stand-there)
+	- [I did all that but the things are still just standing there, especially when I get attacked.](#i-did-all-that-but-the-things-are-still-just-standing-there-especially-when-i-get-attacked)
+	- [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
 
 #  Requirements
 
@@ -592,21 +592,21 @@ However you choose to enjoy NSFW Skyrim, soft or hard, I hope your experience is
 
 #  Troubleshooting
 
-###  Why don't my saves work?
+##  Why don't my saves work?
 
 Now that I understand how it works and the advantages it offers, the Skyrim Save System Overhaul is in here, not to punish you as suspected, but to allow for automatic saving without the problems that would break a lot of the background scripting of this modlist. Set it as specified in the MCM section and forget it. If you die, exit the game, relaunch it, and continue from the main menu. Try to avoid using the hotkey to save as I _have_ had Cursed Loot break on me by using it. You'll get back to where you were soon, the saves happen at roughly five minute intervals when everything "calms down" in the background. If you really want to risk an after-death reload, wait until the 15 second countdown and autoload has elapsed. Hopefully this will prevent the dreaded save corruption. _Only the most recent 5 manual saves and 10 autosaves are stored, and their names and screenshots do not depict their contents. Use the most recent one unless absolutely necessary._
 
-###  What are all these Form 43 warnings? I thought Form 43 was bad news. 
+##  What are all these Form 43 warnings? I thought Form 43 was bad news. 
 
 In the normal modding world this would be true, but this is Lover's Lab, which is notoriously resistant to change. Some of the mods have issues if they are converted. So **do not attempt to convert the Form 43 plugins into form 44**! These are left this way intentionally. I can't stop MO2 from warning you about them but I can strongly insist that you not act on those warnings.
 
-###  My skin pokes through my armor! or My bald head pokes through my hood!
+##  My skin pokes through my armor! or My bald head pokes through my hood!
 
 Particularly voluptuous (thicc) BodySlide presets will cause clipping (skin poking through clothing) on some outfit variants that are skintight. This may include randomized women from BodyGen. Nothing can be done about this so either ignore it or generate everyone with a more subdued BodySlide preset. 
 
 There are also issues with some hoods causing bald heads to poke through that I have yet to resolve. This mostly happens when the PC wears a hooded robe and crouches, so if it bothers you, don't do either of those things.
 
-### CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!
+## CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!
 
 I sometimes forget to run _Nemesis_ before uploading a build. Smack me on Github or in the channel and I'll do it. If you don't want to wait follow these instructions.
 
@@ -620,10 +620,10 @@ I sometimes forget to run _Nemesis_ before uploading a build. Smack me on Github
 8. When you receive the "Complete" message, close the Engine with the _X_ box.
 9. You are ready to play _Skyrim_ by choosing _SKSE_ from the _Executables_ drop down box and pressing **RUN**
 
-###  I did all that but the things are still just standing there, especially when I get attacked.
+##  I did all that but the things are still just standing there, especially when I get attacked.
 
 The automatic animations triggered from Devious Devices and Cursed Loot seem to suffer from almost intolerable script lag at times. I understand it's a known issue that is being worked on, but until it is resolved, you'll have to break your immersion a bit. If an animation seems stuck **and** there are no moans of pleasure, just various breathing and grunts (or silence), open the console with the tilde key (`), wait for all messages to cycle, then close the console again. You may have to repeat this process at least once.
 
-###  I'm locked into some gear and I can't move in third person.
+##  I'm locked into some gear and I can't move in third person.
 
 Finally, sometimes the PC will become unable to move after picking up items in 3rd person due to the fidgety way that Cursed Loot uses encumbrance to slow you down. If this happens, simply go into first person and back out to move again.
