@@ -73,7 +73,7 @@
 		- [SexLab](#sexlab-1)
 	- [SSSO](#ssso)
 - [All done!](#all-done)
-	- [Troubleshooting](#troubleshooting)
+- [Troubleshooting](#troubleshooting)
 		- [Why don't my saves work?](#why-dont-my-saves-work)
 		- [What are all these Form 43 warnings? I thought Form 43 was bad news.](#what-are-all-these-form-43-warnings-i-thought-form-43-was-bad-news)
 		- [My skin pokes through my armor! or My bald head pokes through my hood!](#my-skin-pokes-through-my-armor-or-my-bald-head-pokes-through-my-hood)
@@ -590,7 +590,7 @@ There you go, fellow deviant. Be sure to press **F9** for a last second save in 
 
 However you choose to enjoy NSFW Skyrim, soft or hard, I hope your experience is fulfilling (or at least titillating.) Keep checking the NSFW channels for releases including _Cupid_, _Lotus_ and _Bakarim_ which are far more in-depth than I can muster.
 
-##  Troubleshooting
+#  Troubleshooting
 
 ###  Why don't my saves work?
 
