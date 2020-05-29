@@ -258,13 +258,29 @@ Remember you can always watch a scene from an external view with SexLab's defaul
 
 ##  Updating
 
-If this Modlist receives an update, check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+**If you are in the middle of a playthrough, DO NOT UPDATE unless something in your game is broken.**
 
-**Wabbajack will delete all files that are not part of the Modlist when updating!**
+**It is possible that you will have problems with an old save if you update and then try to play very long with it.**
 
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+First, check the Changelog before doing anything. If you are not interested in the changes, or they do not address a bug you are having, **do not update**.
+
+If you're going to ignore my advice and try to continue a save anyway, copy out the entire _profiles_ folder within the _LeS_ directory to somewhere **you will remember.**
+
+Next, **move** the _BodySlide Output_ folder within the _mods_ folder to the root directory that _LeS_ is on (otherwise it'll take forever). **Importantly, remember where you did this.**
+
+**This is your final warning, Wabbajack will delete all files that are not part of the Modlist when updating!**
+
+**To confirm: all saves, BodySlide customizations, and additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!**
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+When the update is complete, **move** the _profiles_ folder back into the _LeS_ folder and choose **not** to overwrite. (Your saves will be restored but any configurations changed by the update will be kept.)
+
+Next **delete** the _profiles_ folder leftovers from your backup, as they only have old and useless files.
+
+Finally, **move** the _BodySlide Output_ folders back into the _mods_ folder and **do** choose to overwrite in case I've bone-headedly left something in there.
+
+You should be ready to continue as per the installation instructions.
 
 ##  Specific to Light But Sexy
 
@@ -611,14 +627,16 @@ There are also issues with some hoods causing bald heads to poke through that I 
 I sometimes forget to run _Nemesis_ before uploading a build. Smack me on Github or in the channel and I'll do it. If you don't want to wait follow these instructions.
 
 1. Choose whichever variant you wish to play, _Light But Sexy_ or _Light But Kinky_
-2. Select  _Nemesis Unlimited Behavior Engine_ from the _Executables_ drop down box (same place as _SKSE_ and _BodySlide_)
-3. Press **RUN**
-4. **Only for _Light But Sexy_**: Ensure that _Archery Gameplay Overhaul_, _Combat Gameplay Overhaul SE_, _360 Movement Behavior SE_, _Gender Specific Animations_, and _Ultimate Combat / TK Dodge_ are all **CHECKED**
-5. **Only for _Light But Kinky_**: Ensure that _Archery Gameplay Overhaul_, _Combat Gameplay Overhaul SE_, _Gender Specific Animations_, and _Ultimate Combat / TK Dodge_ are all **CHECKED**
-6. Press **Update Engine**. Be patient, it can sometimes take upwards of three minutes.
-7. Once you receive the message "Engine Update Complete," press **Launch Nemesis Behavior Engine.** This will also require patience.
-8. When you receive the "Complete" message, close the Engine with the _X_ box.
-9. You are ready to play _Skyrim_ by choosing _SKSE_ from the _Executables_ drop down box and pressing **RUN**
+2. **Ensure that all FNIS mods are disabled in the left pane. Yes, this includes FNIS Output.**
+3. Select  _Nemesis Unlimited Behavior Engine_ from the _Executables_ drop down box (same place as _SKSE_ and _BodySlide_)
+4. Press **RUN**
+5. **Only for _Light But Sexy_**: Ensure that _Archery Gameplay Overhaul_, _Combat Gameplay Overhaul SE_, _360 Movement Behavior SE_, _Gender Specific Animations_, and _Ultimate Combat / TK Dodge_ are all **CHECKED**
+6. **Only for _Light But Kinky_**: Ensure that _Archery Gameplay Overhaul_, _Combat Gameplay Overhaul SE_, _Gender Specific Animations_, and _Ultimate Combat / TK Dodge_ are all **CHECKED**
+7. Press **Update Engine**. Be patient, it can sometimes take upwards of three minutes.
+8. Once you receive the message "Engine Update Complete," press **Launch Nemesis Behavior Engine.** This will also require patience.
+9. When you receive the "Complete" message, close the Engine with the _X_ box.
+10. **Only for _Light But Kinky_**: Re-enable _FNIS Output_ in the left pane.
+11. You are ready to play _Skyrim_ by choosing _SKSE_ from the _Executables_ drop down box and pressing **RUN**
 
 ##  I did all that but the things are still just standing there, especially when I get attacked.
 
