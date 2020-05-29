@@ -1,4 +1,3 @@
-- [Licentia et Servitium: A Double-Sided Coin of Lover's Lab](#licentia-et-servitium-a-double-sided-coin-of-lovers-lab)
 - [Requirements](#requirements)
 - [System Specs](#system-specs)
 - [Installation](#installation)
@@ -82,7 +81,7 @@
 	- [I did all that but the things are still just standing there, especially when I get attacked.](#i-did-all-that-but-the-things-are-still-just-standing-there-especially-when-i-get-attacked)
 	- [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
 
-# Licentia et Servitium: A Double-Sided Coin of Lover's Lab
+<h1>Licentia et Servitium: A Double-Sided Coin of Lover's Lab</h1>
 
 #  Requirements
 
