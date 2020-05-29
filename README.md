@@ -9,7 +9,7 @@
 	- [Problems with Wabbajack](#problems-with-wabbajack)
 			- [Post-Installation](#post-installation)
 	- [LBS vs. LBK, How Do I Choose?](#lbs-vs-lbk-how-do-i-choose)
-	- [A Note on BodySlide](#a-note-on-bodyslide)
+	- [Building Bodies and Armors with BodySlide](#building-bodies-and-armors-with-bodyslide)
 	- [A Note on SexLab for the Uninitiated](#a-note-on-sexlab-for-the-uninitiated)
 	- [Admiring Yourself](#admiring-yourself)
 	- [Updating](#updating)
@@ -191,14 +191,16 @@ _Light But Kinky_ is the sublist for the well, kinky among us, and it is all abo
 
 _Light But Sexy_ is enabled by default. To switch to the sublist, select it from the main "profiles" dropdown in the center-top of MO2. No further steps are required.
 
-##  A Note on BodySlide
+##  Building Bodies and Armors with BodySlide
 
-All the armors in this list are huge in size. The custom fits are not included by default. 
+All the armors in this list are huge in size. The custom fits are not included by default.
 
 **You MUST run BodySlide on your own before you launch Skyrim or weird stuff will happen. This _can_ and _will_ include people wearing purple underwear, people varying in size depending on what clothes they wear, and more.**
 
-1. Launch _BodySlide_ from the _Executables_ menu on the right, where you can find a dropdown with items such as _SKSE_, _Skyrim_ and the _Skyrim Launcher_. 
-2. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. If this happens to you, follow steps **A** through **C** below. Otherwise, skip to step **3.**
+
+1. First, **MAKE CERTAIN YOU ARE ON LIGHT BUT SEXY.** Those armors should be done first.
+2. Launch _BodySlide_ from the _Executables_ menu on the right, where you can find a dropdown with items such as _SKSE_, _Skyrim_ and the _Skyrim Launcher_. 
+3. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. If this happens to you, follow steps **A** through **C** below. Otherwise, skip to step **3.**
 	A. Click the _Settings_ button in the lower right corner of _BodySlide_.	
 	B. Click _Browse_ next to _Game Data Path_.	
 	C. Select your **Data** directory within your **Skyrim Special Edition** directory.	
@@ -226,9 +228,20 @@ All the armors in this list are huge in size. The custom fits are not included b
 24. I recommend the **vanilla** wedding dress variant. The normal one is sexier but has a weird lengthy strip that can behave strangely at times.
 25. I recommmend the **prisoner bikini** for DLC1, but for a little variety I invite you to examine the outfits and choose one you like.
 26. Whether your armor has fur trim or not is really up to you.
-27. Finally finished! Press **Build** and wait for all the outfits to be built.
-
-You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown.
+27. Press **Build** and wait for all the outfits to be built.
+28. If you have _no interest_ in the _Light But Kinky_ variant, you are now finished. Skip to step **40**.
+29. If you wish to play _Light But Kinky_, read on.
+30. First, **SWITCH TO THE LIGHT BUT KINKY VARIANT.**
+31. Click the small **magnifying glass** in the upper right corner of _BodySlide_ next to a dropdown box.
+32. Select "Ghoose groups..." from the dropdown.
+33. Enter checkboxes in every box starting with _Cursed Loot_ all the way down to _Devious Devices 4.3 AIO 3BA - Outfit (Pushup)_
+34. Enter a checkbox in the box next to _Unassigned_.
+35. Press **OK**
+36. Repeat steps **6 - 11**.
+37. Always choose **3BA** before any other option.
+38. Always choose **DDX - UUNP/CBBE** over **DDX - UUNP CBBE**
+39. Press **Build** and wait for the rest of the outfits to be built.
+40. You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown.
 
 ##  A Note on SexLab for the Uninitiated
 
