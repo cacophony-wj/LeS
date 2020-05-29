@@ -1,3 +1,4 @@
+- [Licentia et Servitium: A Double-Sided Coin of Lover's Lab](#licentia-et-servitium-a-double-sided-coin-of-lovers-lab)
 - [Requirements](#requirements)
 - [System Specs](#system-specs)
 - [Installation](#installation)
@@ -8,11 +9,11 @@
 		- [Downloading and Installing](#downloading-and-installing)
 	- [Problems with Wabbajack](#problems-with-wabbajack)
 			- [Post-Installation](#post-installation)
+	- [Updating](#updating)
 	- [LBS vs. LBK, How Do I Choose?](#lbs-vs-lbk-how-do-i-choose)
 	- [Building Bodies and Armors with BodySlide](#building-bodies-and-armors-with-bodyslide)
 	- [A Note on SexLab for the Uninitiated](#a-note-on-sexlab-for-the-uninitiated)
 	- [Admiring Yourself](#admiring-yourself)
-	- [Updating](#updating)
 	- [Specific to Light But Sexy](#specific-to-light-but-sexy)
 		- [Defeat](#defeat)
 	- [Specific to Light But Kinky](#specific-to-light-but-kinky)
@@ -80,6 +81,8 @@
 	- [CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!](#cgo-isnt-leaning--dodging-or-when-i-go-into-an-adult-scene-i-hear-sounds-and-voices-but-they-just-stand-there)
 	- [I did all that but the things are still just standing there, especially when I get attacked.](#i-did-all-that-but-the-things-are-still-just-standing-there-especially-when-i-get-attacked)
 	- [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
+
+# Licentia et Servitium: A Double-Sided Coin of Lover's Lab
 
 #  Requirements
 
@@ -182,6 +185,32 @@ Download the latest ENB Series from <a href="http://enbdev.com/download_mod_tess
 
 Copy all of the files from the MO2/game folder files directory to your game folder.
 
+##  Updating
+
+**If you are in the middle of a playthrough, DO NOT UPDATE unless something in your game is broken.**
+
+**It is possible that you will have problems with an old save if you update and then try to play very long with it.**
+
+First, check the Changelog before doing anything. If you are not interested in the changes, or they do not address a bug you are having, **do not update**.
+
+If you're going to ignore my advice and try to continue a save anyway, copy out the entire _profiles_ folder within the _LeS_ directory to somewhere **you will remember.**
+
+Next, **move** the _BodySlide Output_ folder within the _mods_ folder to the root directory that _LeS_ is on (otherwise it'll take forever). **Importantly, remember where you did this.**
+
+**This is your final warning, Wabbajack will delete all files that are not part of the Modlist when updating!**
+
+**To confirm: all saves, BodySlide customizations, and additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!**
+
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+When the update is complete, **move** the _profiles_ folder back into the _LeS_ folder and choose **not** to overwrite. (Your saves will be restored but any configurations changed by the update will be kept.)
+
+Next **delete** the _profiles_ folder leftovers from your backup, as they only have old and useless files.
+
+Finally, **move** the _BodySlide Output_ folders back into the _mods_ folder and **do** choose to overwrite in case I've bone-headedly left something in there.
+
+You should be ready to continue as per the installation instructions.
+
 ##  LBS vs. LBK, How Do I Choose?
 
 Your kinks are a very private thing. There's no way I can create a list that appeals to everyone, so I have included two lists each centered around the most common uses for Lover's Lab for you to choose from.
@@ -255,32 +284,6 @@ For those who want a little POV action or to play primarily in first person, _IF
 **This means that you cannot switch to third person anymore without deactivating IFPV with _NUMPAD 0_!**
 
 Remember you can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_.
-
-##  Updating
-
-**If you are in the middle of a playthrough, DO NOT UPDATE unless something in your game is broken.**
-
-**It is possible that you will have problems with an old save if you update and then try to play very long with it.**
-
-First, check the Changelog before doing anything. If you are not interested in the changes, or they do not address a bug you are having, **do not update**.
-
-If you're going to ignore my advice and try to continue a save anyway, copy out the entire _profiles_ folder within the _LeS_ directory to somewhere **you will remember.**
-
-Next, **move** the _BodySlide Output_ folder within the _mods_ folder to the root directory that _LeS_ is on (otherwise it'll take forever). **Importantly, remember where you did this.**
-
-**This is your final warning, Wabbajack will delete all files that are not part of the Modlist when updating!**
-
-**To confirm: all saves, BodySlide customizations, and additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!**
-
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
-
-When the update is complete, **move** the _profiles_ folder back into the _LeS_ folder and choose **not** to overwrite. (Your saves will be restored but any configurations changed by the update will be kept.)
-
-Next **delete** the _profiles_ folder leftovers from your backup, as they only have old and useless files.
-
-Finally, **move** the _BodySlide Output_ folders back into the _mods_ folder and **do** choose to overwrite in case I've bone-headedly left something in there.
-
-You should be ready to continue as per the installation instructions.
 
 ##  Specific to Light But Sexy
 
