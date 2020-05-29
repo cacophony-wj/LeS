@@ -229,48 +229,48 @@ All the armors in this list are huge in size. The custom fits are not included b
 
 1. First, **MAKE CERTAIN YOU ARE ON LIGHT BUT SEXY.** Those armors should be done first.
 2. Launch _BodySlide_ from the _Executables_ menu on the right, where you can find a dropdown with items such as _SKSE_, _Skyrim_ and the _Skyrim Launcher_. 
-3. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. If this happens to you, follow steps **A** through **C** below. Otherwise, skip to step **3.**
-	A. Click the _Settings_ button in the lower right corner of _BodySlide_.	
-	B. Click _Browse_ next to _Game Data Path_.	
-	C. Select your **Data** directory within your **Skyrim Special Edition** directory.	
-3. Choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button. I recommend the one called "3BBB HangEmHigh.")	
-4. Disable the mod called _bodygen3_ in Mod Organizer 2's left pane. You'll find it at or near position **395**, just below _SKSE Settings._
-5. If you want to try an experimental _BodyGen_ feature, where each lady you meet has different measurements, leave _bodygen3_ **ENABLED** instead.	
-6. If you do leave BodyGen enabled, you **MUST** use the preset called _- Zeroed Sliders -_ or the body randomization will not work properly.
-7. Click the check box for _Build Morphs_ next to the _Batch Build_ button in the lower left	
-8.  **Hold down the CTRL key** (very important) and click _Batch Build_. 
-9.  You will see a huge list of bodies and armors. Just click _Build_.
-10. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**
-11. Now you will have a massive list of options to choose from which are mandatory, so be patient. 
-12. For the first option, choose **SE 3BBB Body Amazing**
-13. Always choose **3BA** before any other option.
-14. I recommend the **PRIMARY** "variant" over anything marked **2** (as in "BD 3BF Dragonbone boots 2"). Keep in mind, anything marked **recommended** is ultimately up to you. You can always preview the outfit and decide for yourself.	
-15. Second in priority should be **3BF**
-16. Several helmets will have a hair color option. It only affects hair color poking out of a few helmets. This is personal choice.
-17. A few boots wiil feature **flat** options. This essentially means **no high heels.** The other variants have high heels. I recommend the **flat** variants so characters line up correctly with furniture.	
-18. There is one helmet (**glass**) that has a closed or open faced variant. I recommend open.
-19. Several boots have **low** variants which I recommend due to the high probability of clipping on the variants with stockings.
-20. The Nocturnal dress has a normal or **minidress** variant. The latter I recommend. It's a bit sexier.
-21. I recommend the **prisoner bikini** over the **prisoner clothes**.
-22. I recommend the **prisoner rag short** over the **prisoner rag**.
-23. There are several variants with **shoes** or **boots**. I recommend **shoes** to reduce the likelihood of clipping.
-24. I recommend the **vanilla** wedding dress variant. The normal one is sexier but has a weird lengthy strip that can behave strangely at times.
-25. I recommmend the **prisoner bikini** for DLC1, but for a little variety I invite you to examine the outfits and choose one you like.
-26. Whether your armor has fur trim or not is really up to you.
-27. Press **Build** and wait for all the outfits to be built.
-28. If you have _no interest_ in the _Light But Kinky_ variant, you are now finished. Skip to step **40**.
-29. If you wish to play _Light But Kinky_, read on.
-30. First, **SWITCH TO THE LIGHT BUT KINKY VARIANT.**
-31. Click the small **magnifying glass** in the upper right corner of _BodySlide_ next to a dropdown box.
-32. Select "Ghoose groups..." from the dropdown.
-33. Enter checkboxes in every box starting with _Cursed Loot_ all the way down to _Devious Devices 4.3 AIO 3BA - Outfit (Pushup)_
-34. Enter a checkbox in the box next to _Unassigned_.
-35. Press **OK**
-36. Repeat steps **6 - 11**.
-37. Always choose **3BA** before any other option.
-38. Always choose **DDX - UUNP/CBBE** over **DDX - UUNP CBBE**
-39. Press **Build** and wait for the rest of the outfits to be built.
-40. You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown.
+3. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. Follow the steps below and it will correct itself. **If you do not get this error** it means that there is a Skyrim data folder in the same directory as mine and you need to _make sure_ it is the correct one, so follow the directions below anyway.
+4. Click the _Settings_ button in the lower right corner of _BodySlide_.	
+5. Click _Browse_ next to _Game Data Path_.	
+6. Select your **Data** directory within your **Skyrim Special Edition** directory.	
+7. Choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button. I recommend the one called "3BBB HangEmHigh.")	
+8. Disable the mod called _bodygen3_ in Mod Organizer 2's left pane. You'll find it at or near position **395**, just below _SKSE Settings._
+9. If you want to try an experimental _BodyGen_ feature, where each lady you meet has different measurements, leave _bodygen3_ **ENABLED** instead.	
+10. If you do leave BodyGen enabled, you **MUST** use the preset called _- Zeroed Sliders -_ or the body randomization will not work properly.
+11. Click the check box for _Build Morphs_ next to the _Batch Build_ button in the lower left	
+12. **Hold down the CTRL key** (very important) and click _Batch Build_. 
+13. You will see a huge list of bodies and armors. Just click _Build_.
+14. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**
+15. Now you will have a massive list of options to choose from which are mandatory, so be patient. 
+16. For the first option, choose **SE 3BBB Body Amazing**
+17. Always choose **3BA** before any other option.
+18. I recommend the **PRIMARY** "variant" over anything marked **2** (as in "BD 3BF Dragonbone boots 2"). Keep in mind, anything marked **recommended** is ultimately up to you. You can always preview the outfit and decide for yourself.	
+19. Second in priority should be **3BF**
+20. Several helmets will have a hair color option. It only affects hair color poking out of a few helmets. This is personal choice.
+21. A few boots wiil feature **flat** options. This essentially means **no high heels.** The other variants have high heels. I recommend the **flat** variants so characters line up correctly with furniture.	
+22. There is one helmet (**glass**) that has a closed or open faced variant. I recommend open.
+23. Several boots have **low** variants which I recommend due to the high probability of clipping on the variants with stockings.
+24. The Nocturnal dress has a normal or **minidress** variant. The latter I recommend. It's a bit sexier.
+25. I recommend the **prisoner bikini** over the **prisoner clothes**.
+26. I recommend the **prisoner rag short** over the **prisoner rag**.
+27. There are several variants with **shoes** or **boots**. I recommend **shoes** to reduce the likelihood of clipping.
+28. I recommend the **vanilla** wedding dress variant. The normal one is sexier but has a weird lengthy strip that can behave strangely at times.
+29. I recommmend the **prisoner bikini** for DLC1, but for a little variety I invite you to examine the outfits and choose one you like.
+30. Whether your armor has fur trim or not is really up to you.
+31. Press **Build** and wait for all the outfits to be built.
+32. If you have _no interest_ in the _Light But Kinky_ variant, you are now finished. Skip to step **40**.
+33. If you wish to play _Light But Kinky_, read on.
+34. First, **SWITCH TO THE LIGHT BUT KINKY VARIANT.**
+35. Click the small **magnifying glass** in the upper right corner of _BodySlide_ next to a dropdown box.
+36. Select "Ghoose groups..." from the dropdown.
+37. Enter checkboxes in every box starting with _Cursed Loot_ all the way down to _Devious Devices 4.3 AIO 3BA - Outfit (Pushup)_
+38. Enter a checkbox in the box next to _Unassigned_.
+39. Press **OK**
+40. Repeat steps **6 - 11**.
+41. Always choose **3BA** before any other option.
+42. Always choose **DDX - UUNP/CBBE** over **DDX - UUNP CBBE**
+43. Press **Build** and wait for the rest of the outfits to be built.
+44. You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown.
 
 ##  A Note on SexLab for the Uninitiated
 
