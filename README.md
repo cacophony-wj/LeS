@@ -77,7 +77,8 @@
 		- [Why don't my saves work?](#why-dont-my-saves-work)
 		- [What are all these Form 43 warnings? I thought Form 43 was bad news.](#what-are-all-these-form-43-warnings-i-thought-form-43-was-bad-news)
 		- [My skin pokes through my armor! or My bald head pokes through my hood!](#my-skin-pokes-through-my-armor-or-my-bald-head-pokes-through-my-hood)
-		- [Someone (or something) tries to rope me into sex but everything just stops and I can't move.](#someone-or-something-tries-to-rope-me-into-sex-but-everything-just-stops-and-i-cant-move)
+		- [CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!](#cgo-isnt-leaning--dodging-or-when-i-go-into-an-adult-scene-i-hear-sounds-and-voices-but-they-just-stand-there)
+		- [I did all that but the things are still just standing there, especially when I get attacked.](#i-did-all-that-but-the-things-are-still-just-standing-there-especially-when-i-get-attacked)
 		- [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
 
 #  Requirements
@@ -605,9 +606,23 @@ Particularly voluptuous (thicc) BodySlide presets will cause clipping (skin poki
 
 There are also issues with some hoods causing bald heads to poke through that I have yet to resolve. This mostly happens when the PC wears a hooded robe and crouches, so if it bothers you, don't do either of those things.
 
-###  Someone (or something) tries to rope me into sex but everything just stops and I can't move.
+### CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!
 
-The automatic animations triggered from Devious Devices and Cursed Loot seem to suffer from almost intolerable script lag at times. I understand it's a known issue that is being worked on, but until it is resolved, you'll have to break your immersion a bit. If an animation seems stuck with all participants standing still unable to move, open the console with the tilde key (`), wait for all messages to cycle, then close the console again. You may have to repeat this process at least once.
+I sometimes forget to run _Nemesis_ before uploading a build. Smack me on Github or in the channel and I'll do it. If you don't want to wait follow these instructions.
+
+1. Choose whichever variant you wish to play, _Light But Sexy_ or _Light But Kinky_
+2. Select  _Nemesis Unlimited Behavior Engine_ from the _Executables_ drop down box (same place as _SKSE_ and _BodySlide_)
+3. Press **RUN**
+4. **Only for _Light But Sexy_**: Ensure that _Archery Gameplay Overhaul_, _Combat Gameplay Overhaul SE_, _360 Movement Behavior SE_, _Gender Specific Animations_, and _Ultimate Combat / TK Dodge_ are all **CHECKED**
+5. **Only for _Light But Kinky_**: Ensure that _Archery Gameplay Overhaul_, _Combat Gameplay Overhaul SE_, _Gender Specific Animations_, and _Ultimate Combat / TK Dodge_ are all **CHECKED**
+6. Press **Update Engine**. Be patient, it can sometimes take upwards of three minutes.
+7. Once you receive the message "Engine Update Complete," press **Launch Nemesis Behavior Engine.** This will also require patience.
+8. When you receive the "Complete" message, close the Engine with the _X_ box.
+9. You are ready to play _Skyrim_ by choosing _SKSE_ from the _Executables_ drop down box and pressing **RUN**
+
+###  I did all that but the things are still just standing there, especially when I get attacked.
+
+The automatic animations triggered from Devious Devices and Cursed Loot seem to suffer from almost intolerable script lag at times. I understand it's a known issue that is being worked on, but until it is resolved, you'll have to break your immersion a bit. If an animation seems stuck **and** there are no moans of pleasure, just various breathing and grunts (or silence), open the console with the tilde key (`), wait for all messages to cycle, then close the console again. You may have to repeat this process at least once.
 
 ###  I'm locked into some gear and I can't move in third person.
 
