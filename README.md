@@ -76,7 +76,9 @@
 		- [SexLab](#sexlab-1)
 - [All done!](#all-done)
 - [Troubleshooting](#troubleshooting)
+	- [I can't even launch _Mod Organizer_ because it tells me I don't have permission for a downloads directory.](#i-cant-even-launch-mod-organizer-because-it-tells-me-i-dont-have-permission-for-a-downloads-directory)
 	- [What are all these Form 43 warnings? I thought Form 43 was bad news.](#what-are-all-these-form-43-warnings-i-thought-form-43-was-bad-news)
+	- [I tried to wear a piece of gear but my body disappeared!](#i-tried-to-wear-a-piece-of-gear-but-my-body-disappeared)
 	- [My skin pokes through my armor! or My bald head pokes through my hood!](#my-skin-pokes-through-my-armor-or-my-bald-head-pokes-through-my-hood)
 	- [CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!](#cgo-isnt-leaning--dodging-or-when-i-go-into-an-adult-scene-i-hear-sounds-and-voices-but-they-just-stand-there)
 	- [I did all that but the things are still just standing there, especially when I get attacked.](#i-did-all-that-but-the-things-are-still-just-standing-there-especially-when-i-get-attacked)
@@ -615,9 +617,17 @@ However you choose to enjoy NSFW Skyrim, soft or hard, I hope your experience is
 
 #  Troubleshooting
 
+## I can't even launch _Mod Organizer_ because it tells me I don't have permission for a downloads directory.
+
+This is my mistake because I have such little free hard drive space as a modlist developer. Sometimes I switch directories around and forget to revert them. If this happens to you, open _ModOrganizer.ini_ and type in your downloads directory instead of the one I have listed.
+
 ##  What are all these Form 43 warnings? I thought Form 43 was bad news. 
 
 In the normal modding world this would be true, but this is Lover's Lab, which is notoriously resistant to change. Some of the mods have issues if they are converted. So **do not attempt to convert the Form 43 plugins into form 44**! These are left this way intentionally. I can't stop MO2 from warning you about them but I can strongly insist that you not act on those warnings.
+
+## I tried to wear a piece of gear but my body disappeared!
+
+The _Devious_ equipment is invisible unless _BodySlide_ is fully run. Follow all the steps in the _BodySlide_ section again.
 
 ##  My skin pokes through my armor! or My bald head pokes through my hood!
 
