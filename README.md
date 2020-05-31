@@ -19,6 +19,7 @@
 		- [Defeat](#defeat)
 	- [Specific to Light But Kinky](#specific-to-light-but-kinky)
 		- [Cursed Loot](#cursed-loot)
+	- [Best Save Practices: READ ME!](#best-save-practices-read-me)
 	- [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)
 - [Game MCM Options](#game-mcm-options)
 	- [SexLab](#sexlab)
@@ -73,10 +74,8 @@
 	- [ZaZ Animation Pack](#zaz-animation-pack)
 		- [General](#general-3)
 		- [SexLab](#sexlab-1)
-	- [SSSO](#ssso)
 - [All done!](#all-done)
 - [Troubleshooting](#troubleshooting)
-	- [Why don't my saves work?](#why-dont-my-saves-work)
 	- [What are all these Form 43 warnings? I thought Form 43 was bad news.](#what-are-all-these-form-43-warnings-i-thought-form-43-was-bad-news)
 	- [My skin pokes through my armor! or My bald head pokes through my hood!](#my-skin-pokes-through-my-armor-or-my-bald-head-pokes-through-my-hood)
 	- [CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!](#cgo-isnt-leaning--dodging-or-when-i-go-into-an-adult-scene-i-hear-sounds-and-voices-but-they-just-stand-there)
@@ -235,50 +234,53 @@ All the armors in this list are huge in size. The custom fits are not included b
 **You MUST run BodySlide on your own before you launch Skyrim or weird stuff will happen. This _can_ and _will_ include people wearing purple underwear, people varying in size depending on what clothes they wear, and more.**
 
 
-1. First, **MAKE CERTAIN YOU ARE ON LIGHT BUT SEXY.** Those armors should be done first.
-2. Launch _BodySlide_ from the _Executables_ menu on the right, where you can find a dropdown with items such as _SKSE_, _Skyrim_ and the _Skyrim Launcher_. 
-3. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. Follow the steps below and it will correct itself. **If you do not get this error** it means that there is a Skyrim data folder in the same directory as mine and you need to _make sure_ it is the correct one, so follow the directions below anyway.
-4. Click the _Settings_ button in the lower right corner of _BodySlide_.	
-5. Click _Browse_ next to _Game Data Path_.	
-6. Select your **Data** directory within your **Skyrim Special Edition** directory.	
-7. Choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button. I recommend the one called "3BBB HangEmHigh.")	
-8. Disable the mod called _bodygen3_ in Mod Organizer 2's left pane. You'll find it at or near position **395**, just below _SKSE Settings._
-9. If you want to try an experimental _BodyGen_ feature, where each lady you meet has different measurements, leave _bodygen3_ **ENABLED** instead.	
-10. If you do leave BodyGen enabled, you **MUST** use the preset called _- Zeroed Sliders -_ or the body randomization will not work properly.
-11. Click the check box for _Build Morphs_ next to the _Batch Build_ button in the lower left	
-12. **Hold down the CTRL key** (very important) and click _Batch Build_. 
-13. You will see a huge list of bodies and armors. Just click _Build_.
-14. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**
-15. Now you will have a massive list of options to choose from which are mandatory, so be patient. 
-16. For the first option, choose **SE 3BBB Body Amazing**
-17. Always choose **3BA** before any other option.
-18. I recommend the **PRIMARY** "variant" over anything marked **2** (as in "BD 3BF Dragonbone boots 2"). Keep in mind, anything marked **recommended** is ultimately up to you. You can always preview the outfit and decide for yourself.	
-19. Second in priority should be **3BF**
-20. Several helmets will have a hair color option. It only affects hair color poking out of a few helmets. This is personal choice.
-21. A few boots wiil feature **flat** options. This essentially means **no high heels.** The other variants have high heels. I recommend the **flat** variants so characters line up correctly with furniture.	
-22. There is one helmet (**glass**) that has a closed or open faced variant. I recommend open.
-23. Several boots have **low** variants which I recommend due to the high probability of clipping on the variants with stockings.
-24. The Nocturnal dress has a normal or **minidress** variant. The latter I recommend. It's a bit sexier.
-25. I recommend the **prisoner bikini** over the **prisoner clothes**.
-26. I recommend the **prisoner rag short** over the **prisoner rag**.
-27. There are several variants with **shoes** or **boots**. I recommend **shoes** to reduce the likelihood of clipping.
-28. I recommend the **vanilla** wedding dress variant. The normal one is sexier but has a weird lengthy strip that can behave strangely at times.
-29. I recommmend the **prisoner bikini** for DLC1, but for a little variety I invite you to examine the outfits and choose one you like.
-30. Whether your armor has fur trim or not is really up to you.
-31. Press **Build** and wait for all the outfits to be built.
-32. If you have _no interest_ in the _Light But Kinky_ variant, you are now finished. Skip to step **44**.
-33. If you wish to play _Light But Kinky_, read on.
-34. First, **SWITCH TO THE LIGHT BUT KINKY VARIANT.**
-35. Click the small **magnifying glass** in the upper right corner of _BodySlide_ next to a dropdown box.
-36. Select "Ghoose groups..." from the dropdown.
-37. Enter checkboxes in every box starting with _Cursed Loot_ all the way down to _Devious Devices 4.3 AIO 3BA - Outfit (Pushup)_
-38. Enter a checkbox in the box next to _Unassigned_.
-39. Press **OK**
-40. Repeat steps **6 - 11**.
-41. Always choose **3BA** before any other option.
-42. Always choose **DDX - UUNP/CBBE** over **DDX - UUNP CBBE**
-43. Press **Build** and wait for the rest of the outfits to be built.
-44. You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown.
+1. First, decide whether or not you want to use the _BodyGen_ feature from **RaceMenu**. In short, _BodyGen_ dynamically adjusts the measurements and proportions of females in the game so that they will look differently from each other. With the normal method, all bodies look close to the preset you select in _BodySlide._ It is possible to change methods mid-game, but it is not possible to remove morphs from NPCs you have already met. _BodyGen_ is enabled by default at or near position **400** in the left pane, just below _SKSE Settings._ If you do not wish to use it, uncheck it.
+2. **MAKE CERTAIN YOU ARE ON LIGHT BUT SEXY.** Those armors should be done first.
+3. Launch _BodySlide_ from the _Executables_ menu on the right, where you can find a dropdown with items such as _SKSE_, _Skyrim_ and the _Skyrim Launcher_. 
+4. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. Follow the steps below and it will correct itself. **If you do not get this error** it means that there is a Skyrim data folder in the same directory as mine and you need to _make sure_ it is the correct one, so follow the directions below anyway.
+5. Check the _Group Filter_ dropdown to ensure that it is blank. (It's just to the left of the _Outfit Filter_ in the upper-right corner.) If anything is listed there, click the **X button** next to it to clear any entries.
+6. Click the _Settings_ button in the lower right corner of _BodySlide_.	
+7. Click _Browse_ next to _Game Data Path_.	
+8. Select your **Data** directory within your **Skyrim Special Edition** directory.	
+9. If you left _BodyGen_ enabled, you **MUST** use the preset called _- Zeroed Sliders -_ or the body randomization will not work properly.
+10. If you disabled _BodyGen_, choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button.) I recommend the one called "3BBB HangEmHigh." It offers variety in NPCs based on character weight, whereas most other presets in the list are more uniform.	
+14. Ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
+15. **Hold down the CTRL key** (very important) and click _Batch Build_. 
+16. You will see a huge list of bodies and armors. Just click _Build_.
+17. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**
+18. Now you will have a massive list of options to choose from which are mandatory, so be patient. 
+19. For the first option, choose **SE 3BBB Body Amazing**
+20. Always choose **3BA** before any other option.
+21. I recommend the **PRIMARY** "variant" over anything marked **2** (as in "BD 3BF Dragonbone boots 2"). Keep in mind, anything marked **recommended** is ultimately up to you. You can always preview the outfit and decide for yourself.	
+22. Second in priority should be **3BF**
+23. Several helmets will have a hair color option. It only affects hair color poking out of a few helmets. This is personal choice.
+24. A few boots will feature **flat** options. This essentially means **no high heels.** The other variants have high heels. I recommend the **flat** variants so characters line up correctly with furniture.	
+25. There is one helmet (**glass**) that has a closed or open faced variant. I recommend open.
+26. Several boots have **low** variants which I recommend due to the high probability of clipping on the variants with stockings.
+27. The Nocturnal dress has a normal or **minidress** variant. The latter I recommend. It's a bit sexier.
+28. I recommend the **prisoner bikini** over the **prisoner clothes**.
+29. I recommend the **prisoner rag short** over the **prisoner rag**.
+30. There are several variants with **shoes** or **boots**. I recommend **shoes** to reduce the likelihood of clipping.
+31. I recommend the **vanilla** wedding dress variant. The normal one is sexier but has a weird lengthy strip that can behave strangely at times.
+32. I recommmend the **prisoner bikini** for DLC1, but for a little variety I invite you to examine the outfits and choose one you like.
+33. Whether your armor has fur trim or not is really up to you.
+34. Press **Build** and wait for all the outfits to be built.
+35. If you have _no interest_ in the _Light But Kinky_ variant, you are now finished. Skip to step **44**.
+36. If you wish to play _Light But Kinky_, read on.
+37. First, close _BodySlide._
+38. Next, **SWITCH TO THE LIGHT BUT KINKY VARIANT.**
+39. Launch _BodySlide_ again.
+40. Click the small **magnifying glass** within the _Groups Filter_ dropdown.
+41. Select "Ghoose groups..." from the dropdown.
+42. Enter checkboxes in every box starting with _Cursed Loot_ all the way down to _Devious Devices 4.3 AIO 3BA - Outfit (Pushup)_
+43. Enter a checkbox in the box next to _Unassigned_.
+44. Press **OK**
+45. Repeat steps **6 - 11**.
+46. Always choose **3BA** before any other option.
+47. Always choose **DDX - UUNP/CBBE** over **DDX - UUNP CBBE**
+48. Press **Build** and wait for the rest of the outfits to be built.
+49. If at any point you received a message that an outfit failed to build, write down the outfit that failed, select it from the dropdown, and click the big _Build_ button in the bottom-center. Repeat for any other failed outfits until you get no errors.
+50. You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown.
 
 ##  A Note on SexLab for the Uninitiated
 
@@ -303,6 +305,17 @@ Defeat is ... a little buggy, to say the least... but I have included it in _Lig
 ###  Cursed Loot
 
 The thing you have to remember about _Cursed Loot_ is that, once its in your modlist, your game is no longer about Skyrim and it is now about Cursed Loot. It does everything from overhauling loot, to adding followers, to changing combat and buffs, to prostitution, to prison overhaul, to death alternatives. It even has an alternate start and other quests to help you get a feel for how the mod works. Once you activate _Light But Kinky_, I have provided two gameplay options for this mod. Both are enabled to ensure they are downloaded but one is hidden. The first (and recommended) option is _Cursed Loot Lenient_ which you will see under **Outputs** in the left pane. Leave everything untouched for infrequent, mild encounters with bondage gear that's relatively easy to escape from until you hit level 20 where things start getting a bit more hardcore. If you are a glutton for punishment and enjoy walking extremely slowly while tied up and clicking menus over and over in an attempt to escape, double-click on _Cursed Loot Punishing._, go to the _FileTree_ tab at the top, and find the _JSON_ file that has _mohidden_ at the end and choose _Unhide_. When you finally get sick of it and wish to go back to lenient, repeat the process except choose _Hide._ It's probably best to treat this as a nightmarish survival mode that you should only play to avoid your invitable enslavement or imprisonment for as long as possible before starting over. The key "mechanic" of this mod (such as it is) is that you keep your arousal down via sexual acts to prevent "cursed traps" from triggering that lock you into bondage gear, make you more aroused, spiraling down into a self-defeating loop. For more details I suggest you do a little searching on LoversLab.com for the Cursed Loot landing page and read up on it. It shouldn't be difficult to find, it's about the most popular mod there.
+
+## Best Save Practices: READ ME!
+
+Heavily modded Skyrim setups can result in save corruption in the best of circumstances. It is not likely but it is possible, and considering this might result in a save that can never be loaded again, highly undesirable. This likelihood is increased now that Wabbajack is introducing _Lover's Lab_ mods into the mix, which are notorious for resource-heavy cloak scripting, inappropriately terminated scripts that persist on the save file, and other issues. That is why I must **insist** that you follow _Wabbajack Official Save Diligence_ while playing this modlist. _If you die_ while playing, _do not allow the game to load you into the same cell (dungeon, cave, region) that you died in._ There are three ways to prevent this. 
+
+1. All autosaving is disabled by default. Save every time you are about to pass through a door requiring a load screen where you might die. If you meet your end, load the save before you entered. Only complete zones from "bonfire to bonfire" (load screen to load screen) like this, and this way you will avoid the possibility of save corruption.
+2. Save as much as you like, but after every death, completely exit Skyrim to the desktop and launch the game again to continue. This is the most recommended but also most annoying option considering how long a Skyrim with 400 mods takes to boot up.
+3. If in large exterior areas like Tamriel, only save every five to ten minutes or before entering an interior zone to ensure you cross a full cell before saving. Only load saves made at these intervals.
+4. **The most important thing to remember is that you can NOT "save scum" (load and save, load and save, seconds apart to get the best result) like you can in an unmodded game.** You will almost guarantee save corruption if you do this.
+
+I experimented with alternate autosave systems to prevent all these headaches, but found several instances where they saved the game right at the beginning or during unavoidable SexLab scenes, such that when reloaded, an immediate crash was the only result. This is just as bad as a corrupt save, in my opinion, so I have ceased the experimentation. If save corruption develops into a more serious issue I may explore respawn possibilities for LeS.
 
 ##  Adding Followers, Outfits, and Other Mods
 
@@ -594,22 +607,6 @@ Don't change anything if you're on "Punishing." Otherwise, set **Bound Hands** t
 
 This menu takes a good minute to appear after you click on it. It may seem stuck. Just wait. Afterward, hit **SexLab Animations: Register** and wait a good bit until the greyed out word _Registered_ appears. Then uncheck the **Override** as Devious already handles this function.
 
-##  SSSO
-
-Before configuring this section, be sure to **Save Manually from the System Menu** so you can come back here and start a fresh, fully configured game if you so desire. You **will not** be able to change genders or races with RaceMenu or your whole save will break beyond repair. To change genders or races, you will have to start over from square one with a new game and configure all the menus again. I know, it sucks, but it can't be helped.
-
-Set options as follows:
-
-**Minimum interval: 5 MINUTES**
-
-**Manual Save Key: F9**
-
-Enable **Rotating Automatic Save**
-
-Enable **Rotating Manual Save**
-
-Allow autosaves to handle all saves except in the rarest of cases. If a manual save is absolutely necessary, only save with this mod's F9 hotkey. Only load your most recent save. This helps prevent save corruption from saving and reloading too much. You may not like it, but you'll like a dead save that no longer loads after 400 hours of play even less.
-
 # All done!
 
 There you go, fellow deviant. Be sure to press **F9** for a last second save in case spawning into Skyrim prompts a crash (which has been known to happen). Talk to the Mara statue to begin your journey. If you are on _Light But Sexy_, I recommend one of the _Something Sexy_ starts (dropped nude into a sticky situation) and if you are on _Light But Kinky_, I recommend the _Sex Slave_ start for a good look into how _Cursed Loot_ works. Spoiler though, there is no sex, just lots of bondage gear. 
@@ -617,10 +614,6 @@ There you go, fellow deviant. Be sure to press **F9** for a last second save in 
 However you choose to enjoy NSFW Skyrim, soft or hard, I hope your experience is fulfilling (or at least titillating.) Keep checking the NSFW channels for releases including _Cupid_, _Lotus_ and _Bakarim_ which are far more in-depth than I can muster.
 
 #  Troubleshooting
-
-##  Why don't my saves work?
-
-Now that I understand how it works and the advantages it offers, the Skyrim Save System Overhaul is in here, not to punish you as suspected, but to allow for automatic saving without the problems that would break a lot of the background scripting of this modlist. Set it as specified in the MCM section and forget it. If you die, exit the game, relaunch it, and continue from the main menu. Try to avoid using the hotkey to save as I _have_ had Cursed Loot break on me by using it. You'll get back to where you were soon, the saves happen at roughly five minute intervals when everything "calms down" in the background. If you really want to risk an after-death reload, wait until the 15 second countdown and autoload has elapsed. Hopefully this will prevent the dreaded save corruption. _Only the most recent 5 manual saves and 10 autosaves are stored, and their names and screenshots do not depict their contents. Use the most recent one unless absolutely necessary._
 
 ##  What are all these Form 43 warnings? I thought Form 43 was bad news. 
 

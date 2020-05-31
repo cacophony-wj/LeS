@@ -33,8 +33,8 @@
 +xLODGen Output
 -LODOutput_separator
 +zEdit Output
-+BodySlide Output
 +BodySlide Presets
++BodySlide Output
 +bodygen3
 +Nemesis Sexy Output
 +SSEEdit Output
@@ -42,7 +42,7 @@
 -Outputs_separator
 +Smashed Patch
 +Bashed Patch
-+Legacy of the Dragonborn Patches (Official)
++Legacy of the Dragonborn Patches (Official) v2.0
 +QUASIPC - Qwinn's Unified Automated Self Installing Patch Compendium
 -Patch Mods_separator
 +ELE Merge
@@ -73,12 +73,12 @@
 -SexLab Animations_separator
 +Modern Brawl Bug Fix
 -Late Loaders_separator
-+Enhanced Blood Textures
 +Frozen Electrocuted Combustion
 +Inferno - Fire Effects Redux
 +Deadly Spell Impacts
++Enhanced Blood Textures - LITE
 -Effects_separator
-+Combat Gameplay Overhaul
++Combat Gameplay Overhaul SE
 +Ultimate Combat SE
 +360 Movement Behavior SE
 +Wildcat - Combat of Skyrim
@@ -211,7 +211,7 @@
 +Kalilies NPCs - Cutting Room Floor Patch
 +Kalilies NPCs
 +Vilkas and Farkas by Netherwalk
-+Males of Skyrim FaceGen
+-Males of Skyrim FaceGen
 +Males of Skyrim
 +Followers Hirelings and Housecarls SSE
 +Metalsabers Beautiful Orcs of Skyrim
@@ -285,6 +285,7 @@
 +Hyperborean Snow
 +Underground - a dungeon texture overhaul
 +Ruins Clutter Improved SE
++Grass FPS Booster
 +The Elder Scrolls - Veydosebrom
 +Realistic Water Two
 +CC's Enhanced Ore Veins SSE - 2K
@@ -358,20 +359,15 @@
 -UI + HUD_separator
 +Immersive First Person View
 -Camera_separator
-+ISC Enhanced Blood Textures Patch
 +Audio Overhaul and Immersive Sounds Patch Redux
 +Immersive Sounds - Compendium
 +Cathedral Weathers - Audio Overhaul Patch for Skyrim SE patch
 +Consistency Patch for Immersive Weapons
-+Compatibility Patch for Enhanced Blood Textures
 +Audio Overhaul for Skyrim SE
 -Audio_separator
 +Lore-Based Loading Screens
 -Loading Screens_separator
-+Skyrim SafeSave System Overhaul - Rotating save and optional Hardcore mode
-+Skyrim Save System Overhaul
 +Yes Im Sure
-+Better Jumping SE
 +Simply Knock SKSE64 DLL
 +Simply Knock SE
 +Raven Rock - Fix Exit on Horseback
@@ -384,6 +380,7 @@
 +First Person Sneak Strafe-Walk Stutter Fix
 +Fixed body collision
 +No BS AI Projectile Dodge (Magic and Arrows) - Immersive Projectiles Nondetection of Enemies
++Fix Note icon for SkyUI (SKSE64 plugin)
 +Enchantment Reload Fix SE
 +GIST - Genuinely Intelligent Soul Trap SE
 +Dragon Stalking Fix
@@ -400,7 +397,7 @@
 +More Informative Console
 +PrivateProfileRedirector SE - Faster game start (INI file cacher)
 +ConsoleUtilSSE
-+SSE Display Tweaks
++SSE Display Tweaks 0.4.1
 +SSE Engine Fixes (skse64 plugin)
 +Address Library for SKSE Plugins
 -SKSE Plugins_separator

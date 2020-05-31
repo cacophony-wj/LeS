@@ -1,5 +1,25 @@
 ## Changelog
 
+### 1.1.4.1
+
+- Forgot to enable Display Tweaks for Light But Kinky. Rather important so I'm uploading this hotfix.
+- Added a neat little plugin to make sure "notes" are distinguishable from "books" in your inventory.
+
+### 1.1.4
+
+- Updated Legacy of the Dragonborn Patches (Official) to v2.0. The only way this will affect you is if you are collecting items from the mod Artifacts of Skyrim. One artifact is missable if not collected from a corpse before it disappears. Only update if you experience this issue.
+- Updated SSE Display Tweaks to the latest version because mine was taken down. This is not a critical update either.
+
+### 1.1.3
+
+- Removed SSSO due to possibly incompatible save triggers near the beginning of SL scenes.
+- Implemented a grass FPS fix although it may lead to less variability in grass cover density.
+- Fixed an issue where footsteps could be heard while jumping.
+
+### 1.1.2
+
+Corrected all those damn Males of Skyrim again and spawned them all to make sure they looked good and talked to them all to make sure they didn't crash. The 2 Ulfrics shouting FusRoDah at the 2 Tulliuses made this difficult. Hopefully an ongoing Nemesis problem has been resolved as well.
+
 ### 1.1.1
 
 Fixed a few BFBs from Males of Skyrim.

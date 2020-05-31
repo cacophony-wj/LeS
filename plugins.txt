@@ -21,14 +21,15 @@
 *FNIS.esp
 *SkyUI_SE.esp
 *UIExtensions.esp
-*Skyrim Save System Overhaul.esp
 *TerrainLodRedone.esp
 *Audio Overhaul Skyrim.esp
+*dD - Enhanced Blood Main LITE.esp
 *SMIM-SE-Merged-All.esp
 *Chesko_LoreBasedLoadingScreens.esp
 *Immersive Sounds - Compendium.esp
 *AddItemMenuSE.esp
 *Veydosebrom.esp
+*Grass FPS Booster.esp
 *EnhancedLightsandFX.esp
 *Summermyst - Enchantments of Skyrim.esp
 *Cutting Room Floor.esp
@@ -67,8 +68,6 @@
 *Book of UUNP Iron And Steel.esp
 *Immersive Weapons.esp
 *Wildcat - Combat of Skyrim.esp
-*dD - Enhanced Blood Main.esp
-*dD-Larger Splatter Size.esp
 *DSerArcheryGameplayOverhaul.esp
 *UltimateCombat.esp
 *DSerCombatGameplayOverhaul.esp
@@ -76,7 +75,6 @@
 *DSer360MovementBehavior.esp
 *AMB Glass Variants Lore.esp
 *Differently Ebony.esp
-*Particle Patch for ENB SSE.esp
 *Thunderchild - Epic Shout Package.esp
 *MoonAndStar_MAS.esp
 *moonpath.esp
@@ -123,16 +121,13 @@
 *Animallica.esp
 *VolumeticMists.esp
 *TheEyesOfBeauty.esp
-*Artifacts CR.esp
 *IcePenguinWorldMap.esp
 *Qw_ISC_CRF Patch.esp
 *CBBE.esp
 *Audio Overhaul Skyrim - Immersive Sounds Patch.esp
-*Audio Overhaul Skyrim - Enhanced Blood Patch.esp
 *Audio Overhaul Skyrim - Immersive Weapons Patch.esp
 *Enhanced Vanilla Trees SSE.esp
 *MajesticMountains.esp
-*ISC Enhanced Blood Patch.esp
 *HD Lods SSE.esp
 *JSwords-ImmersiveWeaponsPatch.esp
 *GIST-RusticSoulGems-patch.esp
@@ -208,7 +203,10 @@
 *CGO Forward.esp
 *Dragon Safe.esp
 *Males Override.esp
+*Artifacts CR.esp
 *zPatch.esp
+*Minor NPC CR.esp
+*SLSolutions CR.esp
 *DynDOLOD.esp
 *Occlusion.esp
 CGO Consistency.esp
@@ -216,4 +214,3 @@ DCUR Light Patch.esp
 DCursed Torch.esp
 Kinky Smashed Patch.esp
 MNC Forward.esp
-Minor NPC CR.esp
