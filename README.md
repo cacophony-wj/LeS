@@ -738,9 +738,11 @@ I sometimes forget to run _Nemesis_ before uploading a build. Smack me on Github
 10. **Only for _Light But Kinky_**: Re-enable _FNIS Output_ in the left pane.
 11. You are ready to play _Skyrim_ by choosing _SKSE_ from the _Executables_ drop down box and pressing **RUN**
 
-##  I did all that but the things are still just standing there, especially when I get attacked.
+##  I did all that but the things are still just standing there, especially when I assault someone / get assaulted.
 
-The automatic animations triggered from Devious Devices and Cursed Loot seem to suffer from almost intolerable script lag at times. I understand it's a known issue that is being worked on, but until it is resolved, you'll have to break your immersion a bit. If an animation seems stuck **and** there are no moans of pleasure, just various breathing and grunts (or silence), open the console with the tilde key (`), wait for all messages to cycle, then close the console again. You may have to repeat this process at least once.
+_Skyrim Special Edition_ is not well supported by the _Lover's Lab_ community, or at least not as robustly. Most players seeking to use such content do so on _Oldrim_ or _Legendary Edition,_ which unfortunately suffers from an inferior engine as far as stability and memory management goes. _Legendary Edition_ is also not "officially" available on _Steam_ any longer, which discourages primary mod (and modlist) developers from supporting it. 
+
+As such, animations triggered from the SE versions of _Defeat_ and _Cursed Loot_ seem to be called in a slightly different fashion than those from _SL Tools_, _SL Solutions_, or _SLEN_. They suffer from intolerable script lag at times, regardless of how many mods or animations are installed. I understand it's a known issue that is being worked on, but until it is resolved, you'll have to break your immersion a bit. If an animation seems stuck **and** there are no moans of pleasure, just various breathing and grunts (or silence), open the console with the tilde key (`), wait for all messages to cycle, then close the console again. You may have to repeat this process at least once.
 
 ## My belly is huge and ugly _or_ my breasts look extremely malformed!
 
