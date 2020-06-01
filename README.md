@@ -43,6 +43,7 @@
 		- [System](#system)
 		- [Notes](#notes)
 	- [GIST Soul Trap](#gist-soul-trap)
+	- [Moonlight Tales](#moonlight-tales)
 	- [Quick Light](#quick-light)
 	- [Sacrosanct Vampires](#sacrosanct-vampires)
 	- [SexLab Aroused](#sexlab-aroused)
@@ -71,6 +72,7 @@
 	- [Wildcat Combat](#wildcat-combat)
 	- [Defeat](#defeat-1)
 		- [General Settings](#general-settings)
+	- [XPMSE](#xpmse)
 	- [ZaZ Animation Pack](#zaz-animation-pack)
 		- [General](#general-3)
 		- [SexLab](#sexlab-1)
@@ -80,9 +82,16 @@
 	- [What are all these Form 43 warnings? I thought Form 43 was bad news.](#what-are-all-these-form-43-warnings-i-thought-form-43-was-bad-news)
 	- [I tried to wear a piece of gear but my body disappeared!](#i-tried-to-wear-a-piece-of-gear-but-my-body-disappeared)
 	- [My skin pokes through my armor! or My bald head pokes through my hood!](#my-skin-pokes-through-my-armor-or-my-bald-head-pokes-through-my-hood)
+	- [Some of me is too _jiggly_! (Especially the belly.)](#some-of-me-is-too-jiggly-especially-the-belly)
+	- [I read a skill book but my skill didn't go up!](#i-read-a-skill-book-but-my-skill-didnt-go-up)
+	- [I'm running _Light But Kinky_ and I can't find my save!](#im-running-light-but-kinky-and-i-cant-find-my-save)
 	- [CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!](#cgo-isnt-leaning--dodging-or-when-i-go-into-an-adult-scene-i-hear-sounds-and-voices-but-they-just-stand-there)
 	- [I did all that but the things are still just standing there, especially when I get attacked.](#i-did-all-that-but-the-things-are-still-just-standing-there-especially-when-i-get-attacked)
+	- [My belly is huge and ugly _or_ my breasts look extremely malformed!](#my-belly-is-huge-and-ugly-or-my-breasts-look-extremely-malformed)
+	- [My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.](#my-arms-wont-go-into-a-binder-or-my-hands-are-floating-outside-of-my-bindings-or-my-gag-wont-go-in-my-mouth-or-one-of-these-is-true-for-an-npc)
 	- [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
+	- [I was locked up in the "princess" start and something killed me and I couldn't do anything! This isn't fair!](#i-was-locked-up-in-the-princess-start-and-something-killed-me-and-i-couldnt-do-anything-this-isnt-fair)
+	- [I can't find those damn keys in the _Light But Kinky_ "princess" start!](#i-cant-find-those-damn-keys-in-the-light-but-kinky-princess-start)
 
 <h1>Licentia et Servitium: A Double-Sided Coin of Lover's Lab</h1>
 
@@ -274,10 +283,10 @@ All the armors in this list are huge in size. The custom fits are not included b
 39. Launch _BodySlide_ again.
 40. Click the small **magnifying glass** within the _Groups Filter_ dropdown.
 41. Select "Choose groups..." from the dropdown.
-42. Enter checkboxes in every box starting with _Cursed Loot_ all the way down to _Devious Devices 4.3 AIO 3BA - Outfit (Pushup)_.
+42. Enter checkboxes in every box starting with _Cursed Loot_ all the way down to _Devious Devices 4.3 AIO 3BA - Outfit (Pushup)_
 43. Enter a checkbox in the box next to _Unassigned_.
-44. Press **OK**.
-45. Repeat steps **9 - 14**.
+44. Press **OK**
+45. Repeat steps **12 - 15**.
 46. Always choose **3BA** before any other option.
 47. Always choose **DDX - UUNP/CBBE** over **DDX - UUNP CBBE**.
 48. Press **Build** and wait for the rest of the outfits to be built.
@@ -321,7 +330,47 @@ I experimented with alternate autosave systems to prevent all these headaches, b
 
 ##  Adding Followers, Outfits, and Other Mods
 
-This is not "officially" supported as per Wabbajack Rule 11. I may or may not help you do so anyway (in the Licentia support channel) depending on how busy I am. It is expected that you have familiarity with Mod Organizer 2, xEdit, FNIS, Nemesis, and a touch of conflict resolution before you try to do anything beyond basic outfit additions.
+This is not "officially" supported as per _Wabbajack Rule 11_. That said, I know you want to do it anyway, so I will offer this instruction.
+
+**Screen Archery** by adding _Poser Mods_ is not supported. Download the _Cupid_ modlist for those.
+
+For _Gear_ it's as simple as adding them under _Extra Gear or Followers_ in the left pane and the very bottom in the right pane. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenuPack_ (in your inventory by default) to search for the item by name and put it in your inventory.
+
+For _Follower Mods_ add them and enable them under _Extra Gear or Followers_ in the left pane and just above _DynDOLOD_ in the right pane. If they have a lot of custom scripting (Lucien and Inigo are especially guilty of this, but you can check the mod's description to make sure), you will have to craft an _NFF Ignore Token_ and equip it on them after you recruit them. Be sure _not_ to "Import" them into the _Framework_ or everything will break. If their mod contains any _World Edits_ (changes to game spaces handled in my modlist), there may be more severe conflicts that I will have to help you resolve. No way to know for sure unless you check for conflicts with xEdit.
+
+Finally, there is a reason I didn't pile this list with a best-of _Lover's Lab_ collection. As I said in the NSFW channel, most _Lover's Lab_ mods feature extensive scripting which conflicts with other mods, adds too much of a burden to Papyrus (Skyrim's scripting engine), or both. Mods that watch for changes in people or mobs are especially bad for _cloak scripts_ that never terminate. This includes mods that let your hair grow, your boobs get full of milk, or god forbid give every woman a menstrual cycle. I do not and can not support the addition of these mods. If you want them, play with them until they break and start over, because they will break. To solve all these issues would require knowledge of Papyrus coding which I do not have, and likely a migration of a lot of the code to a more efficient scripting language. 
+
+I have a list for you! Do not ask me about installing or fixing these mods as I **will not** help you. And to be even more of a downer, I can almost guarantee a bad time if you try to use more than one of them at a time. On the upside, you may end up like me and lose all interest in _playing_ games in favor of _fixing_ them. In fact, it's a much less expensive hobby!
+
+	- Dripping When Aroused
+	- Egg Factory
+	- Estrus Chaurus
+	- EstrusForSkyrimSE
+	- Fall of the Dragonborn SSE
+	- Fertility Mode
+	- Fill Her Up SE
+	- Horny Creatures of Skyrim
+	- Horrible Harrassment
+	- Horrible Harrassment for Him SE
+	- Immersive Hair Growth and Styling
+	- Milk Addict SE
+	- Milk Mod Economy SE (Full or Light)
+	- Mini SSE Needs
+	- Sanguine's Debauchery Enhanced
+	- Scent of Sex SE
+	- Sexlab Approach Redux (For Her or For Him)
+	- Sexlab Hentai Pregnancy Special Edition
+	- Sexlab Survival Special Edition
+	- Skooma Whore SE
+	- SL Separate Orgasm SE
+	- SlaveTats
+	- Spank That Ass SE
+	- The Milk Maid SE
+	- The Sisterhood of Dibella
+
+I will also not support or convert any mods listed as _unstable, beta, or uncoverted_ on _Lover's Lab_. Check the _Conversion Tracking_ pin in **#NSFW-mod-discussion** for full details.
+
+All that said, if you can't figure out a mod on your own that I did not mention above, I may help you work it in on a case-by-case basis depending on how busy I am. It is expected that you have familiarity with Mod Organizer 2, xEdit, FNIS, Nemesis, and a touch of conflict resolution before you try to do anything beyond basic outfit additions.
 
 # Game MCM Options
 
@@ -397,11 +446,17 @@ The only one you need to de-select is **Persistent Arrows.**
 
 Set **Hotkey** to _Shift._ This enables you to use any weapon one or two handed. Keep in mind that the way you wield a weapon affects how you skill up, e.g. two-handed grip levels up two-handed, etc. Dual-wielding bacon is not yet an option.
 
+Disable **NPCs Change Grip**.
+
 Alter **Speed Change** and **Stationary Speed Boost** down a notch to 20% to reduce the power level of CGO.
 
 **Enable iFrames** for a little Souls-ish gameplay.
 
+Ensure that **NPCs Dodge** is _unchecked_.
+
 I like the procedural 1.00 leaning, but if it seems a bit silly to you, toning it back to 0.50 might be more appropriate.
+
+Finally scroll down and under **Unlocked Movement** ensure that **Power Attacks (NPCs)** is _unchecked_.
 
 ##  Cursed Loot
 
@@ -456,6 +511,20 @@ In either variant, many followers may be overpowered (especially Chloe), so if y
 ##  GIST Soul Trap
 
 Just enable **Show message on soul trapped**
+
+## Moonlight Tales
+
+Disable **Transform Back Stagger**
+
+Set **Difficulty Scale** to _Expert_ (This makes your werewolf form more powerful, not less)
+
+Set **Werewolf Appearance** to _Alpha (Black with Red Eyes)
+
+_When you spawn in game_
+
+The "Ancient Ring" will ask you for your Difficulty again. Answer _Expert._
+
+Use this MCM to remove the "Ancient Ring" from your inventory under **Tools**.
 
 ##  Quick Light
 
@@ -565,10 +634,6 @@ Select **Barter Presets: Medium**
 
 Disable **Speed Bonus.**
 
-Under **Stagger**, disable or set all options to zero to avoid conflicts with **AGO**.
-
-Also disable all checkboxes under **Locational Damage.**
-
 ###  NPC Setting
 
 **NPC**
@@ -596,6 +661,12 @@ First hit **Install Mod.** Close the MCM and wait for the message _Defeat: Insta
 Re-open.
 
 Next, hit **Import Settings** on the right.
+
+## XPMSE
+
+Only relevant to _Light But Kinky_.
+
+I don't know why but this mod gets all wonky on _LBK_. Change all of the _Styles_ options to _Default_ or you'll have weird issues like disappearing sheathed weapons or drawn arrows sticking to your hand.
 
 ##  ZaZ Animation Pack
 
@@ -635,6 +706,18 @@ Particularly voluptuous (thicc) BodySlide presets will cause clipping (skin poki
 
 There are also issues with some hoods causing bald heads to poke through that I have yet to resolve. This mostly happens when the PC wears a hooded robe and crouches, so if it bothers you, don't do either of those things.
 
+## Some of me is too _jiggly_! (Especially the belly.)
+
+I tried to minimize it as much as possible, but the available CBPC presets are kinda not ideal. Either reinstall the _CBBE 3BBB_ mod (position 256) and experiment with the CBPC options or install _Sinful CBPC_ (Google it) for fine control. Load order shouldn't matter, but if the MCM won't appear, open the console and type _setstage ski_configmanagerinstance 1_ and wait for the message(s).
+
+## I read a skill book but my skill didn't go up!
+
+This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. If you're not locked up with something alleviate that need and then read the book. If you're locked into gear and can't _take care of business_, you're out of luck. Leave the book where it is and read the next one you come across, otherwise it will be wasted.
+
+## I'm running _Light But Kinky_ and I can't find my save!
+
+Try using _Show All Saves._ Devious or Cursed Loot (one of the two) sometimes puts them in a weird place, most likely because of legacy scripts.
+
 ## CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!
 
 I sometimes forget to run _Nemesis_ before uploading a build. Smack me on Github or in the channel and I'll do it. If you don't want to wait follow these instructions.
@@ -655,6 +738,22 @@ I sometimes forget to run _Nemesis_ before uploading a build. Smack me on Github
 
 The automatic animations triggered from Devious Devices and Cursed Loot seem to suffer from almost intolerable script lag at times. I understand it's a known issue that is being worked on, but until it is resolved, you'll have to break your immersion a bit. If an animation seems stuck **and** there are no moans of pleasure, just various breathing and grunts (or silence), open the console with the tilde key (`), wait for all messages to cycle, then close the console again. You may have to repeat this process at least once.
 
+## My belly is huge and ugly _or_ my breasts look extremely malformed!
+
+The presets I recommend are not compatible with _Cursed Loot_ body morphs. Either disable them or change presets and rebuild all of _BodySlide._ Ensure that the morph "maximums" are not greater than _0.2_ for bellies and _0.5_ for other _parts_.
+
+## My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.
+
+First, if you added something, remove it or rerun _Wabbajack._ If you didn't add anything, there's not much I can do. _Devious_ handling of these matters is extremely finicky in its original version on Oldrim and even more so for Special Edition. Facial Expressions in Special Edition have always been a problem and the NPC arm / invisible hands problem persists to this day no matter which version you use. If you want a more bug-free game, don't use _Devious Devices_ because this is **way** out of Skyrim's purview.
+
 ##  I'm locked into some gear and I can't move in third person.
 
-Finally, sometimes the PC will become unable to move after picking up items in 3rd person due to the fidgety way that Cursed Loot uses encumbrance to slow you down. If this happens, simply go into first person and back out to move again.
+_Devious Devices_ doesn't like the SE version of _Immersive First Persion View_ very much. Don't disable IFPV after enabling it or you will get this bug every time you stop moving while in restrictive gear. If you were unaware of this fact, save your game, reload, and the problem should go away. Don't enable _Immersive First Person View_ while locked up unless you plan to stay in first person.
+
+## I was locked up in the "princess" start and something killed me and I couldn't do anything! This isn't fair!
+
+Life isn't fair and _Cursed Loot_ doubles down on that. Seriously, though, there are a couple of weird spawn areas that can be troublesome with _Animallica_ and _Immersive Patrols_. Be sure to save your game before exiting the hideout either time and hope you don't get a mob spawn nearby or at Sarethi farm.
+
+## I can't find those damn keys in the _Light But Kinky_ "princess" start!
+
+They are non-existent until triggered. The _hideout key_ spawns outside on a random slaver corpse after you are free from the cage. You must search every body until you find it. I will tell you that the bodies are all near the road and do not go beyond the man on the ledge on one extreme or the man in the weeds on the other, so keep checking. The _office key_ spawns when you search the body of the Slaver Boss and read the note pop-up. Search every corpse and chest in the room until you find it. If you can't find it at first, keep searching until you do. I have never had an instance where it didn't show (and I have tested it many, many, _many_ times)

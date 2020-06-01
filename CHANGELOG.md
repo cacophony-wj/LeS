@@ -1,5 +1,17 @@
 ## Changelog
 
+### 1.1.4.3
+
+- Reworked my light patches into the **DCUR Ultimate Light Patch** to fix the "Slave Princess" lighting once and for all.
+- Disabled body morphs on both _DCUR_ configs to prevent weirdness with my presets.
+- Adjusted belly bounce without much success.
+- Other minor bone-headed oversights corrected, can't remember them all.
+- Reworked the readme with fixes from Anonymous as well as added additional warnings and troubleshooting steps.
+
+### 1.1.4.2
+
+Stealth update to fix some bone-headed configuration mistakes that arose from me working on too many damn modlists at a time. I'm not going to mention them anywhere else, so if you have a problem with the version on the Wabbajack menu download this one.
+
 ### 1.1.4.1
 
 - Forgot to enable Display Tweaks for Light But Kinky. Rather important so I'm uploading this hotfix.
