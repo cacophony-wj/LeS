@@ -249,12 +249,12 @@ All the armors in this list are huge in size. The custom fits are not included b
 14. Ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
 15. **Hold down the CTRL key** (very important) and click _Batch Build_. 
 16. You will see a huge list of bodies and armors. Just click _Build_.
-17. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**
+17. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
 18. Now you will have a massive list of options to choose from which are mandatory, so be patient. 
-19. For the first option, choose **SE 3BBB Body Amazing**
+19. For the first option, choose **SE 3BBB Body Amazing**.
 20. Always choose **3BA** before any other option.
 21. I recommend the **PRIMARY** "variant" over anything marked **2** (as in "BD 3BF Dragonbone boots 2"). Keep in mind, anything marked **recommended** is ultimately up to you. You can always preview the outfit and decide for yourself.	
-22. Second in priority should be **3BF**
+22. Second in priority should be **3BF**.
 23. Several helmets will have a hair color option. It only affects hair color poking out of a few helmets. This is personal choice.
 24. A few boots will feature **flat** options. This essentially means **no high heels.** The other variants have high heels. I recommend the **flat** variants so characters line up correctly with furniture.	
 25. There is one helmet (**glass**) that has a closed or open faced variant. I recommend open.
@@ -273,13 +273,13 @@ All the armors in this list are huge in size. The custom fits are not included b
 38. Next, **SWITCH TO THE LIGHT BUT KINKY VARIANT.**
 39. Launch _BodySlide_ again.
 40. Click the small **magnifying glass** within the _Groups Filter_ dropdown.
-41. Select "Ghoose groups..." from the dropdown.
-42. Enter checkboxes in every box starting with _Cursed Loot_ all the way down to _Devious Devices 4.3 AIO 3BA - Outfit (Pushup)_
+41. Select "Choose groups..." from the dropdown.
+42. Enter checkboxes in every box starting with _Cursed Loot_ all the way down to _Devious Devices 4.3 AIO 3BA - Outfit (Pushup)_.
 43. Enter a checkbox in the box next to _Unassigned_.
-44. Press **OK**
-45. Repeat steps **6 - 11**.
+44. Press **OK**.
+45. Repeat steps **9 - 14**.
 46. Always choose **3BA** before any other option.
-47. Always choose **DDX - UUNP/CBBE** over **DDX - UUNP CBBE**
+47. Always choose **DDX - UUNP/CBBE** over **DDX - UUNP CBBE**.
 48. Press **Build** and wait for the rest of the outfits to be built.
 49. If at any point you received a message that an outfit failed to build, write down the outfit that failed, select it from the dropdown, and click the big _Build_ button in the bottom-center. Repeat for any other failed outfits until you get no errors.
 50. You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown.
