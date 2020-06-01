@@ -1,5 +1,11 @@
 ## Changelog
 
+### 1.1.4.4
+
+- The bogus facegen from the CK was enabled again for the men, causing BFBs in Light But Kinky. I removed them and damn it all to hell.
+- Minor bugfixes and changes to bring the game settings away from my neanderthal inverted-controller-using playstyle in line with the majority of players.
+- Another once-over of the readme.
+
 ### 1.1.4.3
 
 - Reworked my light patches into the **DCUR Ultimate Light Patch** to fix the "Slave Princess" lighting once and for all.
