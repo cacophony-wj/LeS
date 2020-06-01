@@ -103,11 +103,11 @@ If you encounter _anything_ that you even _think_ is wrong, **especially** if yo
 
 #  Requirements
 
-It's recommended that you sign up for a Premium account on _The Nexus_ for five bucks a month (http://nexusmods.com)
+It's recommended that you sign up for a Premium account on _The Nexus_ for five bucks a month (http://nexusmods.com).
 
 Otherwise you'll have to download every file manually and put it in the right folder.
 
-Also you'll need a Lover's Lab account (http://loverslab.com)
+You'll need a Lover's Lab account (http://loverslab.com).
 
 Also, with the addition of the _Devious_ group of mods, you may wish to sign up for _MEGA_ as well, given that throttling and caps are in place for anonymous users. (http://mega.co.nz)
 
@@ -119,11 +119,11 @@ I currently use a rather beefy machine with an RTX card, but my previous machine
 
 # Installation
 
-This section is shamelessly copied and pasted from erri120's excellent Lotus readme. I hope he doesn't object.
+This section is shamelessly copied and pasted from _erri120_'s excellent _Lotus_ readme. I hope he doesn't object.
 
 ##  Pre-Installation
 
-These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to Updating.
+These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to **Updating.** (#updating)
 
 ####  Installing Microsoft Visual C++ Redistributable Package
 
@@ -137,13 +137,13 @@ The Steam Overlay can cause issues with ENB and is recommended to be turned off.
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the General tab and un-tick the Enable the Steam Overlay while in-game checkbox.
 
-Change Steams Update Behavior
+**Change Steam's Update Behavior**
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
-To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the Updates tab and change Automatic updates to Only update this game when I launch it. You should also disable the Steam Cloud while you're at it.
+To ensure that Steam does not automatically update the game for you and lock you out of playing your _Wabbajack_ modlist(s), head over to the Properties window, navigate to the Updates tab and change Automatic updates to _Only update this game when I launch it_. You should also disable the _Steam Cloud_ while you're at it.
 
-Set the Game language to English
+**Set the Game language to English**
 
 Wabbajack will check your game files and make sure that we have the same version. This also means that any other language than English will fail the installation.
 
@@ -151,11 +151,11 @@ Open the Steam Properties window, navigate to the Language tab and select Englis
 
 **Clean Skyrim**
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the Skyrim Special Edition folder in Documents/My Games/. You can also use Skyrim Shredder by trawz that will clean your installation.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the Skyrim Special Edition folder in Documents/My Games/. If you have download throttles or caps, or just don't want to wait, you can also use <a href="https://www.nexusmods.com/skyrimspecialedition/mods/30133">Skyrim Shredder</a> by trawz to clean your installation.
 
 **Start Skyrim**
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and open the Options menu.
+After you have done everything above and have a clean SSE installation ready, start the Launcher and open the Options menu.
 
     Click on Ultra
     Set the Aspect Ratio and Resolution to your monitor's native values
@@ -188,7 +188,7 @@ If a mod updated and the old files got deleted, it is impossible to download the
 
 **x is not a whitelisted download:**
 
-This can happen when I update the modlist. Check if a new update is available and wait if there is none.
+This can happen when I update the modlist. Check if a new update to the modlist is available and wait if there is none.
 
 **Wabbajack could not find my game folder:**
 
@@ -212,7 +212,7 @@ First, check the Changelog before doing anything. If you are not interested in t
 
 If you're going to ignore my advice and try to continue a save anyway, copy out the entire _profiles_ folder within the _LeS_ directory to somewhere **you will remember.**
 
-Next, **move** the _BodySlide Output_ folder within the _mods_ folder to the root directory that _LeS_ is on (otherwise it'll take forever). **Importantly, remember where you did this.**
+Next, **move** the _BodySlide Output_ folder within the _mods_ folder to the root directory that _Licentia et Servitium_ is on (otherwise it'll take forever). **Importantly, remember where you did this.**
 
 **This is your final warning, Wabbajack will delete all files that are not part of the Modlist when updating!**
 
@@ -220,7 +220,7 @@ Next, **move** the _BodySlide Output_ folder within the _mods_ folder to the roo
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
 
-When the update is complete, **move** the _profiles_ folder back into the _LeS_ folder and choose **not** to overwrite. (Your saves will be restored but any configurations changed by the update will be kept.)
+When the update is complete, **move** the _profiles_ folder back into the _Licentia et Servitium_ folder and choose **not** to overwrite. (Your saves will be restored but any configurations changed by the update will be kept.)
 
 Next **delete** the _profiles_ folder leftovers from your backup, as they only have old and useless files.
 
@@ -242,19 +242,18 @@ _Light But Sexy_ is enabled by default. To switch to the sublist, select it from
 
 All the armors in this list are huge in size. The custom fits are not included by default.
 
-**You MUST run BodySlide on your own before you launch Skyrim or weird stuff will happen. This _can_ and _will_ include people wearing purple underwear, people varying in size depending on what clothes they wear, and more.**
+**You MUST run BodySlide on your own before you launch Skyrim or weird stuff will happen. This _can_ and _will_ include people wearing ugly brown underwear, people with body proportions that change when nude or wearing different outfits, and more.**
 
-
-1. First, decide whether or not you want to use the _BodyGen_ feature from **RaceMenu**. In short, _BodyGen_ dynamically adjusts the measurements and proportions of females in the game so that they will look differently from each other. With the normal method, all bodies look close to the preset you select in _BodySlide._ It is possible to change methods mid-game, but it is not possible to remove morphs from NPCs you have already met. _BodyGen_ is enabled by default at or near position **400** in the left pane, just below _SKSE Settings._ If you do not wish to use it, uncheck it.
+1. First, decide whether or not you want to use the _BodyGen_ feature from **RaceMenu**. In short, _BodyGen_ dynamically adjusts the measurements and proportions of females in the game so that they will look differently from each other. With the normal method, all bodies look close to the preset you select in _BodySlide._ It is possible to change methods mid-game, but it is not possible to remove morphs from NPCs you have already met. _BodyGen_ is enabled by default in _Light but Sexy_ but disabled in _Light but Kinky_ due to sometimes strange behavior with _Devious Devices_. The mod is located slightly above position **400** in the left pane, right below _SKSE Settings._ Decide what you want and choose appropriately.
 2. **MAKE CERTAIN YOU ARE ON LIGHT BUT SEXY.** Those armors should be done first.
 3. Launch _BodySlide_ from the _Executables_ menu on the right, where you can find a dropdown with items such as _SKSE_, _Skyrim_ and the _Skyrim Launcher_. 
 4. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. Follow the steps below and it will correct itself. **If you do not get this error** it means that there is a Skyrim data folder in the same directory as mine and you need to _make sure_ it is the correct one, so follow the directions below anyway.
-5. Check the _Group Filter_ dropdown to ensure that it is blank. (It's just to the left of the _Outfit Filter_ in the upper-right corner.) If anything is listed there, click the **X button** next to it to clear any entries.
-6. Click the _Settings_ button in the lower right corner of _BodySlide_.	
+5. Click the _Settings_ button in the lower right corner of _BodySlide_.	
 7. Click _Browse_ next to _Game Data Path_.	
 8. Select your **Data** directory within your **Skyrim Special Edition** directory.	
-9. If you left _BodyGen_ enabled, you **MUST** use the preset called _- Zeroed Sliders -_ or the body randomization will not work properly.
-10. If you disabled _BodyGen_, choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button.) I recommend the one called "3BBB HangEmHigh." It offers variety in NPCs based on character weight, whereas most other presets in the list are more uniform.	
+9. Check the _Group Filter_ dropdown to ensure that it is blank. (It's just to the left of the _Outfit Filter_ in the upper-right corner.) If anything is listed there, click the **X button** next to it to clear any entries.
+9. If _BodyGen_ is enabled, you **MUST** use the preset called _- Zeroed Sliders -_ or the body randomization will not work properly.
+10. If _BodyGen_ is disabled, choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button.) I recommend the one called "3BBB HangEmHigh." It offers variety in NPCs based on character weight, whereas most other presets in the list are more uniform.
 14. Ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
 15. **Hold down the CTRL key** (very important) and click _Batch Build_. 
 16. You will see a huge list of bodies and armors. Just click _Build_.
@@ -299,23 +298,23 @@ Skyrim was never designed to have animations injected into it. It most certainly
 
 ##  Admiring Yourself
 
-For those who want a little POV action or to play primarily in first person, _IFPV_ (Immersive First-Person View) is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode (F key by default) and press _NUMPAD 0_ to enable it. Then press the first person key again and look downward. Tah-Dah! Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. To switch to _vanilla_ first person for gameplay, hit the change view key at any time. 
+For those who want a little POV action or to play primarily in first person, _IFPV_ (Immersive First-Person View) is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode (F key by default) and press _NUMPAD 0_ to enable it. Then press the F key again and look downward. Tah-Dah! Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. To switch to _vanilla_ first person for gameplay, hit the F key at any time. _If you are on Light but Kinky, please note issues with IFPV in the Troubleshooting section._
 
-**This means that you cannot switch to third person anymore without deactivating IFPV with _NUMPAD 0_!**
+**You cannot switch to third person anymore without deactivating IFPV with _NUMPAD 0_!**
 
-Remember you can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_.
+You can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_. Use the mouse to look around and WASD to move your "camera".
 
 ##  Specific to Light But Sexy
 
 ###  Defeat
 
-Defeat is ... a little buggy, to say the least... but I have included it in _Light But Sexy_ as a potential death alternative. I have most of it disabled because it breaks too often and forces a reload. About the only things left active in my setup are the ability to "surrender" with the _K_ key, or assault people with the _H_ key as per Defeat's description. Do them as soon as you're outnumbered if you want a scene because the delay can be excessive. If you want to enable more of it feel free, but be prepared for situations such as being stuck to the ground, unable to move, stuck to the ground _and_ unable to move, or unable to interact with anything or open your inventory.
+Defeat is ... a little buggy, to say the least... but I have included it in _Light But Sexy_ as a potential death alternative. I have most of it disabled because it breaks too often and forces a reload. About the only things left active in my setup are the ability to "surrender" with the _K_ key, or assault people with the _G_ key. Surrender as soon as you're outnumbered if you want a scene because the delay can be excessive. You can attempt assaults with _G_ if you are **completely undetected** but it will often fail with a two minute timeout before you can try again. This being _Defeat_, it does not inform you of failures or successes. A better option is to back up until your crosshair disappears from your target and press _G_ to "target". You should receive a message that says "_Target_ Marked." Knock them down with an unarmed attack. (If they are really weak they might die from a critical strike.) As much as I would have liked to leave _Witness Intervention_ enabled it is just a total cluster when things start going wrong. Honestly you probably shouldn't even bother, even though _Defeat_ does let you do a lot of devious things after you knock somebody down. It's easier to just set up a scene with _Tools_ (NumPad 2) and use your imagination. If you want to enable more of this mod's features it feel free, but be prepared for situations such as being stuck to the ground, unable to move, stuck to the ground _and_ unable to move, or unable to interact with anything or open your inventory. I will not help you resolve Defeat's issues.
 
 ##  Specific to Light But Kinky
 
 ###  Cursed Loot
 
-The thing you have to remember about _Cursed Loot_ is that, once its in your modlist, your game is no longer about Skyrim and it is now about Cursed Loot. It does everything from overhauling loot, to adding followers, to changing combat and buffs, to prostitution, to prison overhaul, to death alternatives. It even has an alternate start and other quests to help you get a feel for how the mod works. Once you activate _Light But Kinky_, I have provided two gameplay options for this mod. Both are enabled to ensure they are downloaded but one is hidden. The first (and recommended) option is _Cursed Loot Lenient_ which you will see under **Outputs** in the left pane. Leave everything untouched for infrequent, mild encounters with bondage gear that's relatively easy to escape from until you hit level 20 where things start getting a bit more hardcore. If you are a glutton for punishment and enjoy walking extremely slowly while tied up and clicking menus over and over in an attempt to escape, double-click on _Cursed Loot Punishing._, go to the _FileTree_ tab at the top, and find the _JSON_ file that has _mohidden_ at the end and choose _Unhide_. When you finally get sick of it and wish to go back to lenient, repeat the process except choose _Hide._ It's probably best to treat this as a nightmarish survival mode that you should only play to avoid your invitable enslavement or imprisonment for as long as possible before starting over. The key "mechanic" of this mod (such as it is) is that you keep your arousal down via sexual acts to prevent "cursed traps" from triggering that lock you into bondage gear, make you more aroused, spiraling down into a self-defeating loop. For more details I suggest you do a little searching on LoversLab.com for the Cursed Loot landing page and read up on it. It shouldn't be difficult to find, it's about the most popular mod there.
+The thing you have to remember about _Cursed Loot_ is that, once its in your modlist, your game is no longer about Skyrim and it is now about Cursed Loot. It does everything from overhauling loot, to adding followers, to changing combat and buffs, to prostitution, to prison overhaul, to death alternatives. It even has an alternate start and other quests to help you get a feel for how the mod works. Once you activate _Light But Kinky_, I have provided two gameplay options for this mod. Both are enabled to ensure they are downloaded but one is hidden. The first (and recommended) option is _Cursed Loot Lenient_ which you will see under **Outputs** in the left pane. Leave everything untouched for infrequent, mild encounters with bondage gear that's relatively easy to escape from until you hit level 20 where things start getting a bit more hardcore. If you are a glutton for punishment, double-click on _Cursed Loot Punishing._, go to the _FileTree_ tab at the top, and find the _JSON_ file that has _mohidden_ at the end and choose _Unhide_. If it starts to frustrate you and you wish to go back to lenient, repeat the process except choose _Hide._ It's probably best to treat this as a nightmarish survival mode that you should only play to avoid your invitable enslavement or imprisonment for as long as possible before starting over. The key "mechanic" of this mod (such as it is) is that you keep your arousal down via sexual acts to prevent "cursed traps" from triggering that lock you into bondage gear, make you more aroused, spiraling down into a self-defeating loop. One tip that people often miss: lucky charms against curses, bondage keys and sex-related potions are almost always hidden in flowers, plants, and bushes for some weird reason. (I guess that's where all the creeps hide to watch the women in Iron Pasties.) For more details I suggest you do a little searching on LoversLab.com for the Cursed Loot landing page and read up on it. It shouldn't be difficult to find, it's about the most popular mod there.
 
 ## Best Save Practices: READ ME!
 
@@ -324,23 +323,25 @@ Heavily modded Skyrim setups can result in save corruption in the best of circum
 1. All autosaving is disabled by default. Save every time you are about to pass through a door requiring a load screen where you might die. If you meet your end, load the save before you entered. Only complete zones from "bonfire to bonfire" (load screen to load screen) like this, and this way you will avoid the possibility of save corruption.
 2. Save as much as you like, but after every death, completely exit Skyrim to the desktop and launch the game again to continue. This is the most recommended but also most annoying option considering how long a Skyrim with 400 mods takes to boot up.
 3. If in large exterior areas like Tamriel, only save every five to ten minutes or before entering an interior zone to ensure you cross a full cell before saving. Only load saves made at these intervals.
-4. **The most important thing to remember is that you can NOT "save scum" (load and save, load and save, seconds apart to get the best result) like you can in an unmodded game.** You will almost guarantee save corruption if you do this.
+4. **The most important thing to remember is that you can NOT "save scum" (load and save, load and save, seconds apart to get the best result) like you can in an unmodded game.** You will almost guarantee crashing and/or save corruption if you do this.
 
-I experimented with alternate autosave systems to prevent all these headaches, but found several instances where they saved the game right at the beginning or during unavoidable SexLab scenes, such that when reloaded, an immediate crash was the only result. This is just as bad as a corrupt save, in my opinion, so I have ceased the experimentation. If save corruption develops into a more serious issue I may explore respawn possibilities for LeS.
+I experimented with alternate autosave systems to prevent all these headaches, but found several instances where they saved the game right at the beginning or during unavoidable SexLab scenes, such that when reloaded, an immediate crash was the only result. This is just as bad as a corrupt save, in my opinion, so I have ceased the experimentation. **Don't Get Me Wrong** SSSO would be a beautiful mod in this list were it not for _SexLab_'s quirks. If save corruption develops into a more serious issue I may explore respawn possibilities for LeS.
 
 ##  Adding Followers, Outfits, and Other Mods
 
 This is not "officially" supported as per _Wabbajack Rule 11_. That said, I know you want to do it anyway, so I will offer this instruction.
 
-**Screen Archery** by adding _Poser Mods_ is not supported. Download the _Cupid_ modlist for those.
+**Screen Archery** by adding _Poser Mods_ is not supported. Download the _Cupid_ modlist for this purpose.
 
-For _Gear_ it's as simple as adding them under _Extra Gear or Followers_ in the left pane and the very bottom in the right pane. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenuPack_ (in your inventory by default) to search for the item by name and put it in your inventory.
+For _Gear_ it's as simple as adding it under _Extra Gear_ in the left pane and the very bottom in the right pane. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenuPack_ (in your inventory by default) to search for the item by name and put it in your inventory. _AddItem_ is the ultimate cheat, by the way, so don't use it if you want to play the game part of the game. I leave it in because this list is mostly sexy people having sex and I want players to look the way they want while they run around in it.
 
-For _Follower Mods_ add them and enable them under _Extra Gear or Followers_ in the left pane and just above _DynDOLOD_ in the right pane. If they have a lot of custom scripting (Lucien and Inigo are especially guilty of this, but you can check the mod's description to make sure), you will have to craft an _NFF Ignore Token_ and equip it on them after you recruit them. Be sure _not_ to "Import" them into the _Framework_ or everything will break. If their mod contains any _World Edits_ (changes to game spaces handled in my modlist), there may be more severe conflicts that I will have to help you resolve. No way to know for sure unless you check for conflicts with xEdit.
+For _Follower Mods_ add them and enable them under _Extra Gear_ in the left pane and just above _DynDOLOD_ in the right pane. If they have a lot of custom scripting (Lucien and Inigo are especially guilty of this, but you can check the mod's description to make sure), you will have to craft an _NFF Ignore Token_ and equip it on them after you recruit them. Be sure _not_ to "Import" incompatible followers into the _Framework_ or everything will break. If their mod contains any _World Edits_ (changes to game spaces handled in my modlist), there may be more severe conflicts that I will have to help you resolve. This usually only happens if the Follower has quests to go along with them. No way to know for sure unless you check for conflicts with xEdit.
 
-Finally, there is a reason I didn't pile this list with a best-of _Lover's Lab_ collection. As I said in the NSFW channel, most _Lover's Lab_ mods feature extensive scripting which conflicts with other mods, adds too much of a burden to Papyrus (Skyrim's scripting engine), or both. Mods that watch for changes in people or mobs are especially bad for _cloak scripts_ that never terminate. This includes mods that let your hair grow, your boobs get full of milk, or god forbid give every woman a menstrual cycle. I do not and can not support the addition of these mods. If you want them, play with them until they break and start over, because they will break. To solve all these issues would require knowledge of Papyrus coding which I do not have, and likely a migration of a lot of the code to a more efficient scripting language. 
+Finally, there is a reason I didn't pile this list with a best-of _Lover's Lab_ collection. As I said in the NSFW channel, most _Lover's Lab_ mods feature extensive scripting which conflicts with other mods, adds too much of a burden to Papyrus (Skyrim's scripting engine), or both. Mods that watch for changes in people or mobs are especially bad for _cloak scripts_ that never terminate. This includes mods that let your hair grow, your boobs get full of milk, or god forbid give every woman a menstrual cycle. I do not and can not support the addition of these mods. If you want them, play with them until they break and start the game over from a pre-configured save in the cell. I can almost guarantee that they will break unless you are extremely conservative. To solve all these issues would require knowledge of Papyrus coding which I do not have, and likely a migration of a lot of the code to a more efficient scripting language. 
 
-I have a list for you! Do not ask me about installing or fixing these mods as I **will not** help you. And to be even more of a downer, I can almost guarantee a bad time if you try to use more than one of them at a time. On the upside, you may end up like me and lose all interest in _playing_ games in favor of _fixing_ them. In fact, it's a much less expensive hobby!
+It might be possible to squeeze in a greater amount of such mods on a more barebones version of Skyrim. If so, I invite you to download a simple "base" list from **#unofficial-modlist-submissions** to ensure you have critical fixes and then build your list up from scratch. You can always drop by **#NSFW-mod-discussion** to compare experiences.
+
+Before asking about adding a mod, read the list below. I **will not** help you add any of these to _Licentia et Servitium_ or any other list except a basic bugfixing one. And I hate to say it but I can almost guarantee a bad time if you try to use more than one of them at a time.
 
 	- Dripping When Aroused
 	- Egg Factory
@@ -390,13 +391,13 @@ Close the menu and wait for a message in the upper left corner informing you tha
 
 **Sexuality: Your choice.**
 
-Only determines with sex causes your arousal level to increase if you see them naked.
+Only determines which sex causes your arousal level to increase if you see them naked.
 
 ###  Rebuild & Clean
 
 Click **Import Settings: Click Here**
 
-It should confirm this choice, wait for the message.
+It should confirm this choice, wait for the message after you click it.
 
 If you are playing _Light But Kinky_ **and** wish to experience potentially involuntary encounters with non-humanoid entities, enable _Creature Animations_ on the _Animation Settings_ page, close the menus, and wait until the _Enabled_ message appears **twice**.
 
@@ -404,27 +405,28 @@ If you are playing _Light But Kinky_ **and** wish to experience potentially invo
 
 It seems that strap-ons are universally loathed among the Skyrim NSFW community, but SexLab loves them in female scenes and likes to use them at every opportunity if they are enabled. So I have included an old and forgotten Oldrim mod called "equippable schlong" available in the **Rebuild/Clean Menu**. It basically attaches a full SOS schlong to female characters with physics and collisions instead of a strap-on and is fully customizable from Racemenu. To use it, follow these steps:
 
-1. Go back to **Rebuild/Clean**
-2. Disable the terrible SexLab strapon by clicking **Calyps Strapon - Remove**
-3. Close the MCM and open your inventory
-4. Click on the item _AddItemMenu_
-5. Pull out the item _AddItemMenu - Search_ (the one with the box icon, not the book icon)
-6. Close and re-open your inventory
-7. Click on _AddItemMenu - Search_
-8. Type in _Schlong_ and click on _Equipable Schlong_ (yes it is misspelled)
-9. If you are running _Light But Kinky_ be sure to configure _Cursed Loot_ as per the instructions first or you will cover the schlong in shame when you go naked
-10. Open the console with the _tilde_ key (`)
-11. Type in _TFC_
-12. Close the console with the same key
-13. Adjust the camera with WASD + mouse to get a good view of the pelvic region, preferably from the side
-14. Open the console again
-15. Type in _showracemenu_
-16. Navigate over to _Genitals_
-17. Adjust that bad boy as you see fit
+1. Go back to **Rebuild/Clean**.
+2. Disable the terrible SexLab strapon by clicking **Calyps Strapon - Remove**.
+3. Close the MCM and open your inventory.
+4. Click on the item _AddItemMenu_.
+5. Pull out the item _AddItemMenu - Search_ (the one with the box icon, not the book icon).
+6. Close and re-open your inventory.
+7. Click on _AddItemMenu - Search_.
+8. Type in _Schlong_ and click on _Equipable Schlong_ (yes it is misspelled).
+9. If you are running _Light But Kinky_ be sure to configure _Cursed Loot_ as per the instructions first or you will cover the schlong in shame when you go naked.
+10. Equip the schlong from your inventory.
+10. Open the console with the _tilde_ key (`).
+11. Type in _TFC_.
+12. Close the console with the same key.
+13. Adjust the camera with WASD + mouse to get a good view of the pelvic region, preferably from the side.
+14. Open the console again.
+15. Type in _showracemenu_.
+16. Navigate over to _Genitals_.
+17. Adjust that bad boy as you see fit.
 18. Open your inventory and drop it on the ground.
 19. Open the console again and type tfc a final time.
 
-It should automatically appear when appropriate (Amorous Adventures scenes are the worst for this.)
+It should automatically appear when appropriate (Amorous Adventures scenes are the worst for this).
 
 ##  A Matter of Time
 
@@ -454,7 +456,7 @@ Alter **Speed Change** and **Stationary Speed Boost** down a notch to 20% to red
 
 Ensure that **NPCs Dodge** is _unchecked_.
 
-I like the procedural 1.00 leaning, but if it seems a bit silly to you, toning it back to 0.50 might be more appropriate.
+I like the _procedural 1.00 leaning_, but if it seems a bit silly to you, toning it back to _0.50_ might be more appropriate.
 
 Finally scroll down and under **Unlocked Movement** ensure that **Power Attacks (NPCs)** is _unchecked_.
 
@@ -588,7 +590,9 @@ Disable **Active Effects HUD**
 
 ###  Controls
 
-Set the first four **Favorite Groups** to _F5 - F8_ to avoid a conflict with follower commands.
+Set the first four **Favorite Groups** to _F5 - F8_ to avoid a conflict with follower commands. 
+
+**PLEASE NOTE**: QuickSave is set to _F9_ and QuickLoad to _F10_ in both of my variants. Do not change them back.
 
 ##  SL Anim Loader
 
@@ -604,7 +608,7 @@ Wait for the "Registered X new animations" message. Be patient, it can take up t
 
 ###  Scanner Settings
 
-Customize the scanner to your taste. It will tell you who (or what) is horny and how much. If you are only interested in females, choose that option. If you are only interested in humanoids, choose that option. It's up to you.
+Customize the scanner to your taste. It will tell you who (or what) is horny and how greatly. If you are only interested in females, choose that option. If you are only interested in humanoids, choose that option. It's up to you.
 
 I must insist that you set **Interval** of no lower than _60_ and a **Range** of no greater than _1024_.
 
@@ -638,7 +642,7 @@ Disable **Speed Bonus.**
 
 **NPC**
 
-Select **Dodge: Disable** or you'll have conflicts with CGO.
+Select **Dodge: Disable**.
 
 ##  Wildcat Combat
 
@@ -646,7 +650,7 @@ Be sure to press
 
 **Disable Dynamic Combat**
 
-Because it causes a lot of weird sheathing / unsheathing loops with CGO, conflicts with AGO's native bow stamina and interrupt mechanics, and also doesn't play well with Ultimate Combat's Timed Block. 
+Because it causes a lot of weirdness.
 
 Under **Difficulty** hit _Allow Wildcat to Manage Difficulty_ so you don't have overpowered followers.
 
@@ -682,7 +686,7 @@ This menu takes a good minute to appear after you click on it. It may seem stuck
 
 # All done!
 
-There you go, fellow deviant. Be sure to press **F9** for a last second save in case spawning into Skyrim prompts a crash (which has been known to happen). Talk to the Mara statue to begin your journey. If you are on _Light But Sexy_, I recommend one of the _Something Sexy_ starts (dropped nude into a sticky situation) and if you are on _Light But Kinky_, I recommend the _Sex Slave_ start for a good look into how _Cursed Loot_ works. Spoiler though, there is no sex, just lots of bondage gear. 
+There you go, fellow deviant. Be sure to press **F9** for a last second save in case spawning into Skyrim prompts a crash (which has been known to happen). Talk to the Mara statue to begin your journey. If you are on _Light But Sexy_, I recommend one of the _Something Sexy_ starts (dropped nude into a sticky situation) and if you are on _Light But Kinky_, I recommend the _Sex Slave_ start for a good look into how _Cursed Loot_ works. Spoiler though, there is no sex, just lots of bouncy-boobed slow-walking in bondage gear. 
 
 However you choose to enjoy NSFW Skyrim, soft or hard, I hope your experience is fulfilling (or at least titillating.) Keep checking the NSFW channels for releases including _Cupid_, _Lotus_ and _Bakarim_ which are far more in-depth than I can muster.
 
