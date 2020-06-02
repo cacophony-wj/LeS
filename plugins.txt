@@ -185,9 +185,9 @@
 *DBM Merge.esp
 *ELE Merge.esp
 *ELE-ELFX Patch AIO.esp
-*Bashed Patch, 0.esp
 *Sexy Smashed Patch.esp
 *Smash Override.esp
+*Bashed Patch, 0.esp
 *Cell Overrides.esp
 *ShoalsRestFlickerpatch.esp
 *Vampire Override.esp
