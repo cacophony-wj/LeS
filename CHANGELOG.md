@@ -1,5 +1,13 @@
 ## Changelog
 
+### 1.2
+
+- Updated Nemesis to version 0.84c which necessitated the duplication of a ton of other folders for proper dual-profile function.
+- Most importantly for the end-user, consolidated the BodySlide groups to reduce those 47 steps down to something more manageable.
+- Removed "Improved Clouds and Fog" and updated required steps in the README to reflect this.
+- Changed ENBs per user recommendation to Harlandson's. Not sure I like the grimdarkness of it but at least its up-to-date. May switch it out for PI-CHO if I can figure how to get rid of the shininess.
+- Added more information about adding mods to the README, against my better judgment.
+
 ### 1.1.4.4
 
 - The bogus facegen from the CK was enabled again for the men, causing BFBs in Light But Kinky. I removed them and damn it all to hell.
