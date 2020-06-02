@@ -232,11 +232,11 @@ You should be ready to continue as per the installation instructions.
 
 Your kinks are a very private thing. There's no way I can create a list that appeals to everyone, so I have included two lists each centered around the most common uses for Lover's Lab for you to choose from.
 
-_Light But Sexy_ is the default list, primarily intended to offer the option to have sex with attractive people as you play through a significantly modded Skyrim. Those choosing to play male characters or non-submissive females should choose this option so they don't find themselves intruded upon. Sexy roleplay is available via _Amorous Adventures_ which features full voice acting (despite incredibly cheesy dialog and quests), _SexLab Solutions_ which lets you pass varying skill checks by offering your (or your follower's) body, and _SexLab Eager NPCS_ (also known as "SLEN") which uses a rudimentary seduction system to improve your relationship with others via sex. Defeat, although fairly buggy as a death alternative, is also included to make combat sacrifices an option.
+_Light But Sexy_ is the primary list, primarily intended to offer the option to have sex with attractive people as you play through a significantly modded Skyrim. Those choosing to play male characters or non-submissive females should choose this option so they don't find themselves intruded upon. Sexy roleplay is available via _Amorous Adventures_ which features full voice acting (despite incredibly cheesy dialog and quests), _SexLab Solutions_ which lets you pass varying skill checks by offering your (or your follower's) body, and _SexLab Eager NPCS_ (also known as "SLEN") which uses a rudimentary seduction system to improve your relationship with others via sex. Defeat, although fairly buggy as a death alternative, is also included to make combat sacrifices an option.
 
 _Light But Kinky_ is the sublist for the well, kinky among us, and it is all about the _Cursed Loot_. Basically you will be fighting against magical traps that lock you in various restraining devices with little hope of escape, making yourself available to be exploited by anyone who might happen to be around. Given that _Devious Devices_ have no male body models (or only very limited ones) and you will find yourself having a lot of shall we say, "involuntary" sex, this modlist is only recommended for female submissive characters. _Cursed Loot_ also has a death and surrender alternative with of course further bondage options, and rudimentary creature support is included for the monster fans.
 
-_Light But Sexy_ is enabled by default. To switch to the sublist, select it from the main "profiles" dropdown in the center-top of MO2. No further steps are required.
+Even though it is far more niche, _Light But Kinky_ is enabled by default. This is because more armors need to be built for it and I wished to consolidate all steps. If you wish to play _Light But Sexy_, first complete the steps in [Building Bodies and Armors with BodySlide](#building-bodies-and-armors-with-bodyslide) and then select _Light But Sexy_ from the main "profiles" dropdown in the center-top of MO2. No further steps are required.
 
 ##  Building Bodies and Armors with BodySlide
 
@@ -244,53 +244,41 @@ All the armors in this list are huge in size. The custom fits are not included b
 
 **You MUST run BodySlide on your own before you launch Skyrim or weird stuff will happen. This _can_ and _will_ include people wearing ugly brown underwear, people with body proportions that change when nude or wearing different outfits, and more.**
 
-1. First, decide whether or not you want to use the _BodyGen_ feature from **RaceMenu**. In short, _BodyGen_ dynamically adjusts the measurements and proportions of females in the game so that they will look differently from each other. With the normal method, all bodies look close to the preset you select in _BodySlide._ It is possible to change methods mid-game, but it is not possible to remove morphs from NPCs you have already met. _BodyGen_ is enabled by default in _Light but Sexy_ but disabled in _Light but Kinky_ due to sometimes strange behavior with _Devious Devices_. The mod is located slightly above position **400** in the left pane, right below _SKSE Settings._ Decide what you want and choose appropriately.
-2. **MAKE CERTAIN YOU ARE ON LIGHT BUT SEXY.** Those armors should be done first.
+1. **MAKE CERTAIN YOU ARE ON LIGHT BUT KINKY.** Doing so with ensure that all armors for both profiles will be built in one go.
+1. First, decide whether or not you want to use the _BodyGen_ feature from **RaceMenu**. In short, _BodyGen_ dynamically adjusts the measurements and proportions of females in the game so that they will look differently from each other. With the normal method, all bodies look close to the preset you select in _BodySlide._ It is possible to change methods mid-game, but it is not possible to remove changes from people you have already met. _BodyGen_ is enabled by default. The mod is located slightly above position **400** in the left pane, right below _SKSE Settings._ Decide what you want and choose appropriately.
 3. Launch _BodySlide_ from the _Executables_ menu on the right, where you can find a dropdown with items such as _SKSE_, _Skyrim_ and the _Skyrim Launcher_. 
 4. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. Follow the steps below and it will correct itself. **If you do not get this error** it means that there is a Skyrim data folder in the same directory as mine and you need to _make sure_ it is the correct one, so follow the directions below anyway.
 5. Click the _Settings_ button in the lower right corner of _BodySlide_.	
 7. Click _Browse_ next to _Game Data Path_.	
 8. Select your **Data** directory within your **Skyrim Special Edition** directory.	
-9. Check the _Group Filter_ dropdown to ensure that it is blank. (It's just to the left of the _Outfit Filter_ in the upper-right corner.) If anything is listed there, click the **X button** next to it to clear any entries.
+9. Check the _Group Filter_ dropdown to ensure that it reads _3BBB_. (It's just to the left of the _Outfit Filter_ in the upper-right corner.) 
+10. If that dropdown is blank, or something else is listed there, click the small **magnifying glass** within the _Groups Filter_ dropdown.
+11. Place a check in the box beside _3BBB_ the top option.
+12. Click **OK**.
 9. If _BodyGen_ is enabled, you **MUST** use the preset called _- Zeroed Sliders -_ or the body randomization will not work properly.
 10. If _BodyGen_ is disabled, choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button.) I recommend the one called "3BBB HangEmHigh." It offers variety in NPCs based on character weight, whereas most other presets in the list are more uniform.
 14. Ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
 15. **Hold down the CTRL key** (very important) and click _Batch Build_. 
 16. You will see a huge list of bodies and armors. Just click _Build_.
 17. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
-18. Now you will have a massive list of options to choose from which are mandatory, so be patient. 
-19. For the first option, choose **SE 3BBB Body Amazing**.
-20. Always choose **3BA** before any other option.
-21. I recommend the **PRIMARY** "variant" over anything marked **2** (as in "BD 3BF Dragonbone boots 2"). Keep in mind, anything marked **recommended** is ultimately up to you. You can always preview the outfit and decide for yourself.	
-22. Second in priority should be **3BF**.
-23. Several helmets will have a hair color option. It only affects hair color poking out of a few helmets. This is personal choice.
-24. A few boots will feature **flat** options. This essentially means **no high heels.** The other variants have high heels. I recommend the **flat** variants so characters line up correctly with furniture.	
-25. There is one helmet (**glass**) that has a closed or open faced variant. I recommend open.
-26. Several boots have **low** variants which I recommend due to the high probability of clipping on the variants with stockings.
-27. The Nocturnal dress has a normal or **minidress** variant. The latter I recommend. It's a bit sexier.
-28. I recommend the **prisoner bikini** over the **prisoner clothes**.
-29. I recommend the **prisoner rag short** over the **prisoner rag**.
-30. There are several variants with **shoes** or **boots**. I recommend **shoes** to reduce the likelihood of clipping.
-31. I recommend the **vanilla** wedding dress variant. The normal one is sexier but has a weird lengthy strip that can behave strangely at times.
-32. I recommmend the **prisoner bikini** for DLC1, but for a little variety I invite you to examine the outfits and choose one you like.
-33. Whether your armor has fur trim or not is really up to you.
-34. Press **Build** and wait for all the outfits to be built.
-35. If you have _no interest_ in the _Light But Kinky_ variant, you are now finished. Skip to step **44**.
-36. If you wish to play _Light But Kinky_, read on.
-37. First, close _BodySlide._
-38. Next, **SWITCH TO THE LIGHT BUT KINKY VARIANT.**
-39. Launch _BodySlide_ again.
-40. Click the small **magnifying glass** within the _Groups Filter_ dropdown.
-41. Select "Choose groups..." from the dropdown.
-42. Enter checkboxes in every box starting with _Cursed Loot_ all the way down to _Devious Devices 4.3 AIO 3BA - Outfit (Pushup)_
-43. Enter a checkbox in the box next to _Unassigned_.
-44. Press **OK**
-45. Repeat steps **12 - 15**.
-46. Always choose **3BA** before any other option.
-47. Always choose **DDX - UUNP/CBBE** over **DDX - UUNP CBBE**.
-48. Press **Build** and wait for the rest of the outfits to be built.
+18. I have combined the options greatly so nobody has to waste a lot of time in here. The only thing you need to choose is the color of hair poking out of a few helmets. If you are female, it is probably best to put your own hair color here. If you are male, it doesn't matter, but any female you encounter with one of these helmets will have the hair color you chose here.
+19. Once you have all four helmets chose, press **OK**.
+20. Wait for all the outfits to be built.
+35. If you have _no interest_ in the _Light But Kinky_ variant, you are now finished. Skip to the last step.
+36. Click the magnifying glass next to _3BBB_.
+37. Uncheck _3BBB_ at the top and check _Unassigned_ at the bottom.
+14. Ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
+15. **Hold down the CTRL key** (very important) and click _Batch Build_. 
+16. Right-click anywhere in the small window and choose _Select None_.
+17. Scroll through the list until you find "BreastRopeExtreme01." Only the most extreme of breast ropes for us!
+18. Select all entries until you reach "BreastRopeWithWaistRopeExtreme02" and then stop.
+19. Scroll all the way to the bottom of the small window.
+20. Starting at the bottom and moving up, check the entries from "ZAZGSBDoggieBelt" to "Shibari."
+21. Press _Build_.
+17. A prompt will appear asking where to put your custom-fitted breast ropes. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
+18. The ropes should build so fast you'll hardly notice.
 49. If at any point you received a message that an outfit failed to build, write down the outfit that failed, select it from the dropdown, and click the big _Build_ button in the bottom-center. Repeat for any other failed outfits until you get no errors.
-50. You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown.
+50. You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown. Make certain to switch back to _Light But Sexy_ if that is the list you wish to play. **If you do not wish to use BodyGen, you will have to disable it again for _Light But Sexy_.**
 
 ##  A Note on SexLab for the Uninitiated
 
@@ -622,7 +610,11 @@ This takes a bit too. Exit the MCM and re-enter.
 
 ###  Presets
 
-Chose **Ultra Realistic** and wait for it to say _DONE_
+Choose **Ultra Realistic** and wait for it to say _DONE_
+
+### Advanced
+
+Be certain to tick **Compatibility Mode**.
 
 ##  Trade & Barter
 
