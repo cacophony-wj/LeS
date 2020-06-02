@@ -50,7 +50,6 @@ Dragon Stalking Fix.esp
 Cathedral Weathers.esp
 CathedralWeatherMCM.esp
 RealRainSE.esp
-Obsidian In Cathedral.esp
 StormLightning.esp
 AHZmoreHUD.esp
 BlendedRoads.esp
@@ -76,8 +75,8 @@ Wildcat - Combat of Skyrim.esp
 DSerArcheryGameplayOverhaul.esp
 UltimateCombat.esp
 DSerCombatGameplayOverhaul.esp
-NoBSAIProjectileDodge.esp
 DSer360MovementBehavior.esp
+NoBSAIProjectileDodge.esp
 AMB Glass Variants Lore.esp
 Differently Ebony.esp
 Thunderchild - Epic Shout Package.esp
@@ -148,8 +147,6 @@ nwsFollowerFramework.esp
 SexlabLightMeUp.esp
 SexLabTools.esp
 SLAnimLoader.esp
-SLALAnimObj.esp
-AnubAnimObj.esp
 NCK30Obj.esp
 SLAL_ProxyAnimObjects.esp
 PsycheAnimationObjects.esp
@@ -215,7 +212,6 @@ SLSolutions CR.esp
 DynDOLOD.esp
 Occlusion.esp
 CGO Consistency.esp
-DCUR Light Patch.esp
-DCursed Torch.esp
 Kinky Smashed Patch.esp
 MNC Forward.esp
+DCUR Ultimate Light Patch.esp
