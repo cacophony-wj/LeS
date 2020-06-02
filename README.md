@@ -245,22 +245,21 @@ All the armors in this list are huge in size. The custom fits are not included b
 **You MUST run BodySlide on your own before you launch Skyrim or weird stuff will happen. This _can_ and _will_ include people wearing ugly brown underwear, people with body proportions that change when nude or wearing different outfits, and more.**
 
 1. **MAKE CERTAIN YOU ARE ON LIGHT BUT KINKY.** Doing so with ensure that all armors for both profiles will be built in one go.
-1. First, decide whether or not you want to use the _BodyGen_ feature from **RaceMenu**. In short, _BodyGen_ dynamically adjusts the measurements and proportions of females in the game so that they will look differently from each other. With the normal method, all bodies look close to the preset you select in _BodySlide._ It is possible to change methods mid-game, but it is not possible to remove changes from people you have already met. _BodyGen_ is enabled by default. The mod is located slightly above position **400** in the left pane, right below _SKSE Settings._ Decide what you want and choose appropriately.
 3. Launch _BodySlide_ from the _Executables_ menu on the right, where you can find a dropdown with items such as _SKSE_, _Skyrim_ and the _Skyrim Launcher_. 
 4. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. Follow the steps below and it will correct itself. **If you do not get this error** it means that there is a Skyrim data folder in the same directory as mine and you need to _make sure_ it is the correct one, so follow the directions below anyway.
 5. Click the _Settings_ button in the lower right corner of _BodySlide_.	
 7. Click _Browse_ next to _Game Data Path_.	
-8. Select your **Data** directory within your **Skyrim Special Edition** directory.	
+8. Select your **Data** directory within your **Skyrim Special Edition** directory.
+9. Ensure that the _Preset_ is set to "3BBB HangEmHigh."
 9. Check the _Group Filter_ dropdown to ensure that it reads _3BBB_. (It's just to the left of the _Outfit Filter_ in the upper-right corner.) 
 10. If that dropdown is blank, or something else is listed there, click the small **magnifying glass** within the _Groups Filter_ dropdown.
-11. Place a check in the box beside _3BBB_ the top option.
+11. Place a check in the box beside _3BBB_ (the top option).
 12. Click **OK**.
-9. If _BodyGen_ is enabled, you **MUST** use the preset called _- Zeroed Sliders -_ or the body randomization will not work properly.
-10. If _BodyGen_ is disabled, choose the body you want from the _Preset_ menu. (You can see what it looks like by hitting the **Preview** button.) I recommend the one called "3BBB HangEmHigh." It offers variety in NPCs based on character weight, whereas most other presets in the list are more uniform.
 14. Ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
 15. **Hold down the CTRL key** (very important) and click _Batch Build_. 
 16. You will see a huge list of bodies and armors. Just click _Build_.
 17. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
+18. **Do not put your armors anywhere but _BodySlide Output_. Do not put them inside a _meshes_ folder inside of _BodySlide Output_. They should go only in _BodySlide Output_.**
 18. I have combined the options greatly so nobody has to waste a lot of time in here. The only thing you need to choose is the color of hair poking out of a few helmets. If you are female, it is probably best to put your own hair color here. If you are male, it doesn't matter, but any female you encounter with one of these helmets will have the hair color you chose here.
 19. Once you have all four helmets chosen, press **OK**.
 20. Wait for all the outfits to be built.
@@ -276,9 +275,10 @@ All the armors in this list are huge in size. The custom fits are not included b
 20. Starting at the bottom and moving up, check the entries from "ZAZGSBDoggieBelt" to "Shibari."
 21. Press _Build_.
 17. A prompt will appear asking where to put your custom-fitted breast ropes. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
+18. **Do not put your ropes anywhere but _BodySlide Output_. Do not put them inside a _meshes_ folder inside of _BodySlide Output_. They should go only in _BodySlide Output_.**
 18. The ropes should build so fast you'll hardly notice.
 49. If at any point you received a message that an outfit failed to build, write down the outfit that failed, select it from the dropdown, and click the big _Build_ button in the bottom-center. Repeat for any other failed outfits until you get no errors.
-50. You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown. Make certain to switch back to _Light But Sexy_ if that is the list you wish to play. **If you do not wish to use BodyGen, you will have to disable it again for _Light But Sexy_.**
+50. You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown. Make certain to switch back to _Light But Sexy_ if that is the list you wish to play.
 
 ##  A Note on SexLab for the Uninitiated
 
@@ -430,27 +430,31 @@ Answer yes and wait for confirmation.
 
 The only one you need to de-select is **Persistent Arrows.**
 
+## CBBE 3BBB Addon
+
+**Only necessary for _Light But Kinky_**
+
+Click on every **Use Slot** and change it to _60 - Devious Devices Compatible_.
+
 ##  CGO
 
 ###  Settings
 
 Set **Hotkey** to _Shift._ This enables you to use any weapon one or two handed. Keep in mind that the way you wield a weapon affects how you skill up, e.g. two-handed grip levels up two-handed, etc. Dual-wielding bacon is not yet an option.
 
-Disable **NPCs Change Grip**.
-
-Alter **Speed Change** and **Stationary Speed Boost** down a notch to 20% to reduce the power level of CGO.
+Set **Dual Wield Blocking** to _Mouse 3_. This is your scroll-wheel button, if you have one. Otherwise, you are going to have to make a judgment call.
 
 **Enable iFrames** for a little Souls-ish gameplay.
 
 Ensure that **NPCs Dodge** is _unchecked_.
 
-I like the _procedural 1.00 leaning_, but if it seems a bit silly to you, toning it back to _0.50_ might be more appropriate.
+I like the _procedural 1.00 leaning_, but if it seems a bit silly to you, toning it back to _0.50_ might be more appropriate. Turn it off completely if you hate the idea of it.
 
 Finally scroll down and under **Unlocked Movement** ensure that **Power Attacks (NPCs)** is _unchecked_.
 
 ##  Cursed Loot
 
-Only available with _Light But Kinky_.
+**Only available with _Light But Kinky_.**
 
 This mod will act wildly different depending on whether you enabled the _Lenient_ or _Punishing_ preset in MO2. In either case, go to
 
@@ -464,13 +468,13 @@ These boys are plenty hard on Vanilla, so just remove **Knockdown** from their a
 
 ##  Devious Device Helpers
 
-Only available with _Light But Kinky_.
+**Only available with _Light But Kinky_.**
 
 This is a lot to take in so just disable the random bondage option for Shops and Other Dwellings. Just keep in mind if your follower asks to tie you up to give it some serious thought!
 
 ##  Devious Devices
 
-Only available with _Light But Kinky_.
+**Only available with _Light But Kinky_.**
 
 Tailor this to your _Cursed Loot_ preset. If you are running "Punishing" just leave everything as it is. If you are running "Lenient" I recommend tuning all the difficulties to **Vanilla**, **Disable Lock Jam**, set **Blindfold Strength** to 0.10 and **Dark Fog Strength** to 200, disable **Boots Slowdown Effect**, **Hardcore Bondage Mittens** and set **Hobble Skirt Debuff Strength** to 25, which is the lowest (fastest movement) it will go.
 
@@ -492,15 +496,17 @@ Hit **Load From File** and exit the menu. Then re-enter.
 
 You might want to check out the hotkeys to see what they've been set to. They're inspired by our overlord.
 
-###  Notes
-
-Keep in mind that if you play with _Light But Kinky_, you're going to have to come back here to the **Follower Tweaks** menu and use the **Default Combat** package for any followers you use. Otherwise the death alternative scenes will never trigger.
-
-In either variant, many followers may be overpowered (especially Chloe), so if you find yourself being outshined, visit the same menu and disable all the **Stealth** options, as well as nerfing overall damage to **0.50** or even **0.10**. 
-
 ##  GIST Soul Trap
 
 Just enable **Show message on soul trapped**
+
+## LOTD Settings
+
+This is primarily intended for moments in _Light But Kinky_ when you can't Fast Travel.
+
+### Shipment Crate Locations
+
+Enable the following: _Carriages_, _Inns_, _Player Homes_.
 
 ## Moonlight Tales
 
@@ -534,7 +540,7 @@ Hit **Purge Dead Actors Every 10 Game Days** and **Enable SOS**.
 
 ##  SexLab Eager NPCs
 
-Only available with _Light But Sexy_. 
+**Only available with _Light But Sexy_.**
 
 ###  General
 
@@ -558,7 +564,7 @@ If this mod and QuickLight are both shining, you can always turn off QuickLight 
 
 ##  SexLab Solutions
 
-Only available with _Light But Sexy_. 
+**Only available with _Light But Sexy_.**
 
 ###  Followers
 
@@ -644,7 +650,7 @@ Be sure to press
 
 Because it causes a lot of weirdness.
 
-Under **Difficulty** hit _Allow Wildcat to Manage Difficulty_ so you don't have overpowered followers.
+Under **Difficulty** hit _Allow Wildcat to Manage Difficulty_.
 
 ##  Defeat
 
@@ -660,7 +666,7 @@ Next, hit **Import Settings** on the right.
 
 ## XPMSE
 
-Only relevant to _Light But Kinky_.
+**Only relevant to _Light But Kinky_.**
 
 I don't know why but this mod gets all wonky on _LBK_. Change all of the _Styles_ options to _Default_ or you'll have weird issues like disappearing sheathed weapons or drawn arrows sticking to your hand.
 
@@ -748,10 +754,14 @@ First, if you added something, remove it or rerun _Wabbajack._ If you didn't add
 
 _Devious Devices_ doesn't like the SE version of _Immersive First Persion View_ very much. Don't disable IFPV after enabling it or you will get this bug every time you stop moving while in restrictive gear. If you were unaware of this fact, save your game, reload, and the problem should go away. Don't enable _Immersive First Person View_ while locked up unless you plan to stay in first person.
 
-## I was locked up in the "princess" start and something killed me and I couldn't do anything! This isn't fair!
+## I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!
 
 Life isn't fair and _Cursed Loot_ doubles down on that. Seriously, though, there are a couple of weird spawn areas that can be troublesome with _Animallica_ and _Immersive Patrols_. Be sure to save your game before exiting the hideout either time and hope you don't get a mob spawn nearby or at Sarethi farm.
 
 ## I can't find those damn keys in the _Light But Kinky_ "princess" start!
 
 They are non-existent until triggered. The _hideout key_ spawns outside on a random slaver corpse after you are free from the cage. You must search every body until you find it. I will tell you that the bodies are all near the road and do not go beyond the man on the ledge on one extreme or the man in the weeds on the other, so keep checking. The _office key_ spawns when you search the body of the Slaver Boss and read the note pop-up. Search every corpse and chest in the room until you find it. If you can't find it at first, keep searching until you do. I have never had an instance where it didn't show (and I have tested it many, many, _many_ times)
+
+## Where the hell do I go after Chloe tells me about the secret passage?
+
+Go back out the way you came and to the cave where Ralof and Hadvar are. Everything breaks if you go through _Cursed Loot's_ shortcut and the _Unofficial Patch_ makes sure to tell you about it, so I have removed that option. Go all the way back in the cave until you get to the room with the spiders, kill them (or let Chloe do it, she's a beast) and saerch the Imperials in there for a _Torn Note_. Read the note.
