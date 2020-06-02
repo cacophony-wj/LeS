@@ -262,7 +262,7 @@ All the armors in this list are huge in size. The custom fits are not included b
 16. You will see a huge list of bodies and armors. Just click _Build_.
 17. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
 18. I have combined the options greatly so nobody has to waste a lot of time in here. The only thing you need to choose is the color of hair poking out of a few helmets. If you are female, it is probably best to put your own hair color here. If you are male, it doesn't matter, but any female you encounter with one of these helmets will have the hair color you chose here.
-19. Once you have all four helmets chose, press **OK**.
+19. Once you have all four helmets chosen, press **OK**.
 20. Wait for all the outfits to be built.
 35. If you have _no interest_ in the _Light But Kinky_ variant, you are now finished. Skip to the last step.
 36. Click the magnifying glass next to _3BBB_.
@@ -271,7 +271,7 @@ All the armors in this list are huge in size. The custom fits are not included b
 15. **Hold down the CTRL key** (very important) and click _Batch Build_. 
 16. Right-click anywhere in the small window and choose _Select None_.
 17. Scroll through the list until you find "BreastRopeExtreme01." Only the most extreme of breast ropes for us!
-18. Select all entries until you reach "BreastRopeWithWaistRopeExtreme02" and then stop.
+18. Select all entries until you reach "BreastRopeWithWaistRopeExtreme02", select it, and then stop.
 19. Scroll all the way to the bottom of the small window.
 20. Starting at the bottom and moving up, check the entries from "ZAZGSBDoggieBelt" to "Shibari."
 21. Press _Build_.
@@ -321,11 +321,11 @@ This is not "officially" supported as per _Wabbajack Rule 11_. That said, I know
 
 **Screen Archery** by adding _Poser Mods_ is not supported. Download the _Cupid_ modlist for this purpose.
 
-For _Gear_ it's as simple as adding it under _Extra Gear_ in the left pane and the very bottom in the right pane. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenuPack_ (in your inventory by default) to search for the item by name and put it in your inventory. _AddItem_ is the ultimate cheat, by the way, so don't use it if you want to play the game part of the game. I leave it in because this list is mostly sexy people having sex and I want players to look the way they want while they run around in it.
+For _Gear_ it's as simple as adding it under _Added Mods_ and above _INTENTIONALLY DISABLED_ in the left pane and the very bottom in the right pane. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenuPackSE_ (in your inventory by default) to search for the item by name and put it in your inventory. _AddItem_ is the ultimate cheat, by the way, so don't use it if you want to play the "game" part of the game. I leave it in because this list is mostly sexy people having sex and I want players to look the way they want while they run around in it.
 
-For _Follower Mods_ add them and enable them under _Extra Gear_ in the left pane and just above _DynDOLOD_ in the right pane. If they have a lot of custom scripting (Lucien and Inigo are especially guilty of this, but you can check the mod's description to make sure), you will have to craft an _NFF Ignore Token_ and equip it on them after you recruit them. Be sure _not_ to "Import" incompatible followers into the _Framework_ or everything will break. If their mod contains any _World Edits_ (changes to game spaces handled in my modlist), there may be more severe conflicts that I will have to help you resolve. This usually only happens if the Follower has quests to go along with them. No way to know for sure unless you check for conflicts with xEdit.
+For _Follower Mods_ add them and enable them under _Added Mods_ and above _INTENTIONALLY DISABLED_ in the left pane and just above _DynDOLOD_ in the right pane. If they have a lot of custom scripting (Lucien and Inigo are especially guilty of this), you will have to craft an _NFF Ignore Token_ and equip it on them after you recruit them. Be sure _not_ to "Import" incompatible followers into the _Framework_ or everything will break. If you are unsure about your follower, read its description page and all compatibility notes for any problems with "Nether Follower Framework." If any are mentioned, you will probably need an Ignore Token. If your follower mod contains any _world or cell edits_ (changes to game spaces handled in my modlist), there may be more severe conflicts that I will have to help you resolve. This usually only happens if the Follower has quests to go along with them. No way to know for sure unless you "filter for conflicts" with _SSEEdit._
 
-Finally, there is a reason I didn't pile this list with a best-of _Lover's Lab_ collection. As I said in the NSFW channel, most _Lover's Lab_ mods feature extensive scripting which conflicts with other mods, adds too much of a burden to Papyrus (Skyrim's scripting engine), or both. Mods that watch for changes in people or mobs are especially bad for _cloak scripts_ that never terminate. This includes mods that let your hair grow, your boobs get full of milk, or god forbid give every woman a menstrual cycle. I do not and can not support the addition of these mods. If you want them, play with them until they break and start the game over from a pre-configured save in the cell. I can almost guarantee that they will break unless you are extremely conservative. To solve all these issues would require knowledge of Papyrus coding which I do not have, and likely a migration of a lot of the code to a more efficient scripting language. 
+Finally, there is a reason I didn't pile this list with a "greatest hits of _Lover's Lab_" collection. Most _Lover's Lab_ mods feature extensive scripting which conflicts with other mods, adds a large burden to Papyrus (Skyrim's rather inefficient scripting engine), or both. Mods that constantly scan for changes in the player, other people, or creatures are especially bad for _cloak scripts_ that never terminate. This includes mods that let your hair grow, your boobs get full of milk, or god forbid give every woman in Tamriel a menstrual cycle. I do not and can not support the addition of these mods. If you want them, play with them until they break and start the game over from a pre-configured save in the cell. I can almost guarantee that they will break unless you are extremely conservative. To solve all these issues would require knowledge of Papyrus coding which I do not possess, and likely a migration of a lot of the code to a more efficient scripting language. 
 
 It might be possible to squeeze in a greater amount of such mods on a more barebones version of Skyrim. If so, I invite you to download a simple "base" list from **#unofficial-modlist-submissions** to ensure you have critical fixes and then build your list up from scratch. You can always drop by **#NSFW-mod-discussion** to compare experiences.
 
@@ -357,7 +357,7 @@ Before asking about adding a mod, read the list below. I **will not** help you a
 	- The Milk Maid SE
 	- The Sisterhood of Dibella
 
-I will also not support or convert any mods listed as _unstable, beta, or uncoverted_ on _Lover's Lab_. Check the _Conversion Tracking_ pin in **#NSFW-mod-discussion** for full details.
+I will also not support or convert any mods listed as _unstable, beta, or uncoverted_ on _Lover's Lab_. Check the _Conversion Tracking_ pin in **#NSFW-mod-discussion** before asking.
 
 All that said, if you can't figure out a mod on your own that I did not mention above, I may help you work it in on a case-by-case basis depending on how busy I am. It is expected that you have familiarity with Mod Organizer 2, xEdit, FNIS, Nemesis, and a touch of conflict resolution before you try to do anything beyond basic outfit additions.
 
