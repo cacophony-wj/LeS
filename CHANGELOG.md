@@ -1,5 +1,12 @@
 ## Changelog
 
+### 1.2.1
+
+- Reworked the Leveled Lists to prevent multiple gear spawns on corpses. This _does not appear_ to be entirely possible for Helgen Keep.
+- Balanced the _Cursed Loot_ alternate start to prevent a dumptruck of overpowered gear from being unloaded on the player. Corpses were practically bursting with enchanted greatswords for Chloe to use. Not to mention the conveniently placed "Berserker" gear granting huge buffs to 2-Handed skill and damage...
+- Did away with BodyGen and reworked "3BBB HangEmHigh" so that preset can be used with _Cursed Loot's_ morphs.
+- Adjusted the _morph_ settings so that hopefully the stomach doesn't grow to ridiculous proportions.
+
 ### 1.2
 
 - Updated Nemesis to version 0.84c which necessitated the duplication of a ton of other folders for proper dual-profile function.
