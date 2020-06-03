@@ -1,5 +1,12 @@
 ## Changelog
 
+### 1.2.1.1
+
+- Replaced _Masculine Khajiits_ with _Better Khajiits_ to support SOS. Swapped out _Feminine Khajiits_ to match.
+- Replaced _Masculine Argonians_ with _Argonian Dragonic for SOS_ for the same reason. Swapped out the feminine variant to match.
+- Added a preset compilation on user request to make up for my terribad sculpting.
+- Added two eye mods to support those presets. Sorry for all the eyes!
+
 ### 1.2.1
 
 - Reworked the Leveled Lists to prevent multiple gear spawns on corpses. This _does not appear_ to be entirely possible for Helgen Keep.
