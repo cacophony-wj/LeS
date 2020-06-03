@@ -361,6 +361,24 @@ I will also not support or convert any mods listed as _unstable, beta, or uncove
 
 All that said, if you can't figure out a mod on your own that I did not mention above, I may help you work it in on a case-by-case basis depending on how busy I am. It is expected that you have familiarity with Mod Organizer 2, xEdit, FNIS, Nemesis, and a touch of conflict resolution before you try to do anything beyond basic outfit additions.
 
+# A bit of a note on System Settings: IMPORTANT!
+
+I have had users experience incidents where my Skyrim default settings were not being installed upon the completion of _Wabbajack._ Before continuing, ensure that under the _System Menu_ (ESC) the following options are chosen.
+
+## Settings 
+
+### Gameplay
+
+Everything here should be **UNCHECKED** except for _Show Floating Markers_. Difficulty is recommended at _Expert_, but is ultimately up to you.
+
+### Display
+
+_Depth of Field_ should be all the way to the left.
+
+## Controls
+
+These are all to your liking, except for _Quicksave_ which should be set to _F9_, and _Quickload_ which should be set to _F10_. Don't worry about using them becuase _Engine Fixes_ converts them to full saves.
+
 # Game MCM Options
 
 **NOTE**: Any menus or options not specifically mentioned here can be ignored.
