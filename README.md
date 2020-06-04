@@ -101,6 +101,7 @@
 	- [I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!](#i-was-locked-up-in-the-princess-start-and-something-defeated-me-and-i-got-teleported-somewhere-and-the-quest-was-completely-broken-this-isnt-fair)
 	- [I can't find those damn keys in the _Light But Kinky_ "princess" start!](#i-cant-find-those-damn-keys-in-the-light-but-kinky-princess-start)
 	- [Where the hell do I go after Chloe tells me about the secret passage?](#where-the-hell-do-i-go-after-chloe-tells-me-about-the-secret-passage)
+	- [None of the "payment" animations take place in the Shopping Quest! I'm stuck in a loop!](#none-of-the-payment-animations-take-place-in-the-shopping-quest-im-stuck-in-a-loop)
 
 <h1>Licentia et Servitium: A Double-Sided Coin of Lover's Lab</h1>
 
@@ -792,3 +793,7 @@ They are non-existent until triggered. The _hideout key_ spawns outside on a ran
 ## Where the hell do I go after Chloe tells me about the secret passage?
 
 Go back out the way you came and to the cave where Ralof and Hadvar are. Everything breaks if you go through _Cursed Loot's_ shortcut and the _Unofficial Patch_ makes sure to tell you about it, so I have removed that option. Go all the way back in the cave until you get to the room with the spiders, kill them (or let Chloe do it, she's a beast) and saerch the Imperials in there for a _Torn Note_. Read the note.
+
+## None of the "payment" animations take place in the Shopping Quest! I'm stuck in a loop!
+
+This quest, in which you pick up supplies for buyers in order to be freed from gear, is horribly broken and has been since it was added. It will be disabled in a future update, but for now, either never select this dialog option or disable the entire quest chain yourself in _Cursed Loot_'s "Miscellaneous" menu.
