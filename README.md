@@ -733,7 +733,11 @@ Don't change anything if you're on "Punishing." Otherwise, set **Bound Hands** t
 
 ###  SexLab
 
-This menu takes a good minute to appear after you click on it. It may seem stuck. Just wait. Afterward, hit **SexLab Animations: Register** and wait a good bit until the greyed out word _Registered_ appears. Then uncheck the **Override** as Devious already handles this function.
+This menu takes a good minute to appear after you click on it. It may seem stuck. Just wait. 
+
+**SexLab Animations**: To the right of this you will see _Register_. Click it and wait a good bit until the greyed out word _Registered_ appears. 
+
+Under **Animation**, uncheck **Override** as Devious already handles this function.
 
 # All done!
 
