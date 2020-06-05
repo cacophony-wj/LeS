@@ -61,6 +61,7 @@ QuickLight.esp
 RaceMenu.esp
 RaceMenuPlugin.esp
 KS Hairdo's.esp
+SINful CBP.esp
 CrittersAintSnitches.esp
 3BBB.esp
 SJG Quick Light Patch.esp
@@ -124,7 +125,13 @@ Qw_RusticSoulgemsSorted_ISC Patch.esp
 GoOnAhead.esp
 Animallica.esp
 VolumeticMists.esp
+Lupine_ZiovendianBodypaints.esp
+WNB_WeatheredNordicBodypaints.esp
+VWA_VanillaWarpaintsAbsolution.esp
+SGEyebrows.esp
 TheEyesOfBeauty.esp
+Eyes of Aber.esp
+TW3Eyes.esp
 IcePenguinWorldMap.esp
 Qw_ISC_CRF Patch.esp
 CBBE.esp

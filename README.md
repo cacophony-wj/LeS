@@ -34,9 +34,11 @@
 		- [Presets](#presets)
 	- [AGO](#ago)
 		- [Settings](#settings-1)
+	- [Cathedral Weather](#cathedral-weather)
+		- [Settings](#settings-2)
 	- [CBBE 3BBB Addon](#cbbe-3bbb-addon)
 	- [CGO](#cgo)
-		- [Settings](#settings-2)
+		- [Settings](#settings-3)
 	- [Cursed Loot](#cursed-loot-1)
 		- [Debug](#debug)
 	- [Deadly Dragons](#deadly-dragons)
@@ -57,10 +59,11 @@
 	- [SexLab Eager NPCs](#sexlab-eager-npcs)
 		- [General](#general)
 	- [SexLab LightMeUp](#sexlab-lightmeup)
-		- [Settings](#settings-3)
+		- [Settings](#settings-4)
 	- [SexLab Solutions](#sexlab-solutions)
 		- [Followers](#followers)
 		- [Miscellaneous](#miscellaneous)
+	- [SINFul CBP](#sinful-cbp)
 	- [Sky UI](#sky-ui)
 		- [General](#general-1)
 		- [Controls](#controls-1)
@@ -88,6 +91,7 @@
 - [Troubleshooting](#troubleshooting)
 	- [I can't even launch _Mod Organizer_ because it tells me I don't have permission for a downloads directory.](#i-cant-even-launch-mod-organizer-because-it-tells-me-i-dont-have-permission-for-a-downloads-directory)
 	- [What are all these Form 43 warnings? I thought Form 43 was bad news.](#what-are-all-these-form-43-warnings-i-thought-form-43-was-bad-news)
+	- [Why are there so many duplicated animation folders? _or_ Why do I have to CTRL-CLICK to build _BodySlide_?](#why-are-there-so-many-duplicated-animation-folders-or-why-do-i-have-to-ctrl-click-to-build-bodyslide)
 	- [I tried to wear a piece of gear but my body disappeared!](#i-tried-to-wear-a-piece-of-gear-but-my-body-disappeared)
 	- [My skin pokes through my armor! or My bald head pokes through my hood!](#my-skin-pokes-through-my-armor-or-my-bald-head-pokes-through-my-hood)
 	- [Some of me is too _jiggly_! (Especially the belly.)](#some-of-me-is-too-jiggly-especially-the-belly)
@@ -95,13 +99,12 @@
 	- [I'm running _Light But Kinky_ and I can't find my save!](#im-running-light-but-kinky-and-i-cant-find-my-save)
 	- [CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!](#cgo-isnt-leaning--dodging-or-when-i-go-into-an-adult-scene-i-hear-sounds-and-voices-but-they-just-stand-there)
 	- [I did all that but the things are still just standing there, especially when I assault someone / get assaulted.](#i-did-all-that-but-the-things-are-still-just-standing-there-especially-when-i-assault-someone--get-assaulted)
-	- [My belly is huge and ugly _or_ my breasts look extremely malformed!](#my-belly-is-huge-and-ugly-or-my-breasts-look-extremely-malformed)
 	- [My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.](#my-arms-wont-go-into-a-binder-or-my-hands-are-floating-outside-of-my-bindings-or-my-gag-wont-go-in-my-mouth-or-one-of-these-is-true-for-an-npc)
 	- [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
+- [Gameplay Tips - Walkthroughs - Light Spoilers for the Hopelessly Stuck.](#gameplay-tips---walkthroughs---light-spoilers-for-the-hopelessly-stuck)
 	- [I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!](#i-was-locked-up-in-the-princess-start-and-something-defeated-me-and-i-got-teleported-somewhere-and-the-quest-was-completely-broken-this-isnt-fair)
 	- [I can't find those damn keys in the _Light But Kinky_ "princess" start!](#i-cant-find-those-damn-keys-in-the-light-but-kinky-princess-start)
 	- [Where the hell do I go after Chloe tells me about the secret passage?](#where-the-hell-do-i-go-after-chloe-tells-me-about-the-secret-passage)
-	- [None of the "payment" animations take place in the Shopping Quest! I'm stuck in a loop!](#none-of-the-payment-animations-take-place-in-the-shopping-quest-im-stuck-in-a-loop)
 
 <h1>Licentia et Servitium: A Double-Sided Coin of Lover's Lab</h1>
 
@@ -204,6 +207,18 @@ This can happen when I update the modlist. Check if a new update to the modlist 
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the Pre-Installation step.
 
+**MEGA files stuck at _100%_**
+
+The files from MEGA are very large and must be verified. Please be extremely patient and allow each file to hash for at least 30 minutes, up to two hours if you are not using a solid-state drive. If you are certain you can't download the files any other way, try manual download from the Manifest in Wabbajack's lower-left corner.
+
+**MEGA download cap exceeded.**
+
+This shouldn't happen unless you download the list multiple times or download multiple Wabbajack lists. I'm afraid you'll have to wait 24h and try again.
+
+**Wabbajack cannot continue because of unknown files.**
+
+Move your downloads folder outside of your _LeS_ folder, ensure the _LeS_ folder is clear of all files, then close and restart Wabbajack. Be sure to point the downloads box to your relocated downloads folder.
+
 ####  Post-Installation
 
 **Copy Game Folder Files**
@@ -211,6 +226,10 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 Download the latest ENB Series from <a href="http://enbdev.com/download_mod_tesskyrimse.htm">here</a> and copy d3d11.dll and d3dcompiler_46e.dll to your game folder.
 
 Copy all of the files from the MO2/game folder files directory to your game folder.
+
+**Deactivate FNIS**
+
+_Fore's New Idles in Skyrim_ must be _enabled_ for Wabbajack to download it, but _disabled_ to play this modlist without issues. To do so, uncheck everything related to _FNIS_ if you are using _Light But Sexy._ If you are using _Light But Kinky_, disable everything but _FNIS Output_.
 
 ##  Updating
 
@@ -292,7 +311,7 @@ All the armors in this list are huge in size. The custom fits are not included b
 
 ##  A Note on SexLab for the Uninitiated
 
-Skyrim was never designed to have animations injected into it. It most certainly was never intended to pair two actors in a close space and perfectly align them for a sex scene. Animators do a lot of the work, but the engine is far from ideal. On top of that, there are many poorly aligned animations out there. A couple are even in the default SexLab package from Oldrim, and have never been corrected or removed. In any case, no matter how good your animations, you will often find problems like: people kissing the air, _parts_ not going _into_ each other, characters floating above the ground, or even more wacked-out stuff like falling into the ground, clipping into furniture, or people going invisible. Fortunately (if not annoyingly), SexLab allows you to correct _some_ of this with manual positioning for each animation. Here's how it works... the _L_ key on your keyboard moves you _forward,_ i.e. closer to your partner. _Shift-L_ moves you _backward,_ or the reverse. _;_ moves you _up_, or higher in elevation than your partner. _Shift-;_ does the reverse. Finally, _'_ moves you _Right_ compared to your partner, whereas _Shift-'_ moves you _Left_. (Or maybe the other left.) Get used to these, you'll be using them a lot.
+Skyrim was never designed to have animations injected into it. It most certainly was never intended to pair two actors in a close space and perfectly align them for a sex scene. Animators do a lot of the work, but the engine is far from ideal. On top of that, there are many poorly aligned animations out there. In any case, no matter how good your animations, you will often find problems like: people kissing the air, _parts_ not going _into_ each other, characters floating above the ground, or even more wacked-out stuff like falling into the ground, clipping into furniture, or people going invisible. Fortunately, SexLab allows you to correct _some_ of this with manual positioning for each animation. Here's how it works... the _L_ key on your keyboard moves you _forward,_ i.e. closer to your partner. _Shift-L_ moves you _backward,_ or the reverse. _;_ moves you _up_, or higher in elevation than your partner. _Shift-;_ does the reverse. Finally, _'_ moves you _Right_ compared to your partner, whereas _Shift-'_ moves you _Left_. (Or maybe the other left.) Get used to these, you'll be using them a lot.
 
 ##  Admiring Yourself
 
@@ -331,15 +350,15 @@ This is not "officially" supported as per _Wabbajack Rule 11_. That said, I know
 
 **Screen Archery** by adding _Poser Mods_ is not supported. Download the _Cupid_ modlist for this purpose.
 
-For _Gear_ it's as simple as adding it under _Added Mods_ and above _INTENTIONALLY DISABLED_ in the left pane and the very bottom in the right pane. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenuPackSE_ (in your inventory by default) to search for the item by name and put it in your inventory. _AddItem_ is the ultimate cheat, by the way, so don't use it if you want to play the "game" part of the game. I leave it in because this list is mostly sexy people having sex and I want players to look the way they want while they run around in it.
+For _Gear_ it's as simple as adding it under _Added Mods_ and above _INTENTIONALLY DISABLED_ in the left pane and the very bottom in the right pane. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenuPackSE_ (in your inventory by default) to search for the item by name and put it in your inventory. _AddItem_ is the ultimate cheat, by the way, so don't use it if you want to play the "game" part of the game. I leave it in because this list is mostly sexy people and I want players to look good exactly the way they want.
 
-For _Follower Mods_ add them and enable them under _Added Mods_ and above _INTENTIONALLY DISABLED_ in the left pane and just above _DynDOLOD_ in the right pane. If they have a lot of custom scripting (Lucien and Inigo are especially guilty of this), you will have to craft an _NFF Ignore Token_ and equip it on them after you recruit them. Be sure _not_ to "Import" incompatible followers into the _Framework_ or everything will break. If you are unsure about your follower, read its description page and all compatibility notes for any problems with "Nether Follower Framework." If any are mentioned, you will probably need an Ignore Token. If your follower mod contains any _world or cell edits_ (changes to game spaces handled in my modlist), there may be more severe conflicts that I will have to help you resolve. This usually only happens if the Follower has quests to go along with them. No way to know for sure unless you "filter for conflicts" with _SSEEdit._
+For _Follower Mods_ add them and enable them under _Added Mods_ and above _INTENTIONALLY DISABLED_ in the left pane and just above _DynDOLOD_ in the right pane. If they have a lot of custom scripting (Lucien and Inigo are especially guilty of this), you will have to craft an _NFF Ignore Token_ and equip it on them after you recruit them. Be sure _not_ to "Import" incompatible followers into the _Framework_ or everything will break. If you are unsure about your follower, read its description page and all compatibility notes for any problems with "Nether Follower Framework." If any are mentioned, you will probably need an Ignore Token. If your follower mod contains any _world or cell edits_ (changes to game spaces handled in my modlist), there may be more severe conflicts. This usually only happens if the Follower has quests to go along with them. No way to know for sure unless you "filter for conflicts" with _SSEEdit._
 
-Finally, there is a reason I didn't pile this list with a "greatest hits of _Lover's Lab_" collection. Most _Lover's Lab_ mods feature extensive scripting which conflicts with other mods, adds a large burden to Papyrus (Skyrim's rather inefficient scripting engine), or both. Mods that constantly scan for changes in the player, other people, or creatures are especially bad for _cloak scripts_ that never terminate. This includes mods that let your hair grow, your boobs get full of milk, or god forbid give every woman in Tamriel a menstrual cycle. I do not and can not support the addition of these mods. If you want them, play with them until they break and start the game over from a pre-configured save in the cell. I can almost guarantee that they will break unless you are extremely conservative. To solve all these issues would require knowledge of Papyrus coding which I do not possess, and likely a migration of a lot of the code to a more efficient scripting language. 
+Finally, there is a reason I didn't pile this list with the "Greatest Hits of _Lover's Lab_". Most _Lover's Lab_ mods feature extensive scripting which conflicts with other mods, adds a large burden to Papyrus (Skyrim's rather inefficient scripting engine), or both. Mods that constantly scan for changes in the player, other people, or creatures are especially bad for _cloak scripts_ that never terminate. This includes mods that let your hair grow, your boobs get full of milk, or god forbid give every woman in Tamriel a menstrual cycle. I do not and can not support the addition of these mods. If you want them, play with them until they break and start the game over from a pre-configured save in the cell. I can almost guarantee that they will break unless you are extremely conservative. To solve all these issues would require knowledge of Papyrus coding which I do not possess, and likely a migration of a lot of the code to a more efficient scripting language. 
 
 It might be possible to squeeze in a greater amount of such mods on a more barebones version of Skyrim. If so, I invite you to download a simple "base" list from **#unofficial-modlist-submissions** to ensure you have critical fixes and then build your list up from scratch. You can always drop by **#NSFW-mod-discussion** to compare experiences.
 
-Before asking about adding a mod, read the list below. I **will not** help you add any of these to _Licentia et Servitium_ or any other list except a basic bugfixing one. And I hate to say it but I can almost guarantee a bad time if you try to use more than one of them at a time.
+Before asking about adding a mod, read the list below. I **will not** help you add any of these to _Licentia et Servitium_ or any other list. And I hate to say it but I can almost guarantee significant difficulties if you try to use more than one of them at a time. I am not saying they are "bad" mods, just that they are difficult to implement or maybe just incompatible with my setup. 
 
 	- Dripping When Aroused
 	- Egg Factory
@@ -367,7 +386,7 @@ Before asking about adding a mod, read the list below. I **will not** help you a
 	- The Milk Maid SE
 	- The Sisterhood of Dibella
 
-I will also not support or convert any mods listed as _unstable, beta, or uncoverted_ on _Lover's Lab_. Check the _Conversion Tracking_ pin in **#NSFW-mod-discussion** before asking.
+**The above list is incomplete.** I will also not support or convert any mods listed as _unstable, beta, or uncoverted_ on _Lover's Lab_. This includes a few big ones like Sanguine's Debauchery and Slaverun Reloaded. For a full list of converted and unconverted mods, check the _Conversion Tracking_ pin in **#NSFW-mod-discussion**.
 
 All that said, if you can't figure out a mod on your own that I did not mention above, I may help you work it in on a case-by-case basis depending on how busy I am. It is expected that you have familiarity with Mod Organizer 2, xEdit, FNIS, Nemesis, and a touch of conflict resolution before you try to do anything beyond basic outfit additions.
 
@@ -457,6 +476,12 @@ Answer yes and wait for confirmation.
 ###  Settings
 
 The only one you need to de-select is **Persistent Arrows.**
+
+## Cathedral Weather
+
+### Settings
+
+Uncheck **Configuration Spell**.
 
 ## CBBE 3BBB Addon
 
@@ -578,17 +603,9 @@ This mod takes a bit to activate. Exit the MCM and wait for two abilities to be 
 
 ##  SexLab LightMeUp
 
-This mod is finickly on defaults, largely because if you are using QuickLight to explore a dark area, it thinks the area is bright and won't activate. QuickLight is intended to light your surroundings, not your character, so this isn't ideal.
+### Settings
 
-###  Settings
-
-Tick **Toggle Manual Control**
-
-Ensure that **Lights Always On/Off** is active.
-
-I would prefer assigning a hotkey to turn lights on and off as the user wishes, but this mod won't allow you to do so during a scene.
-
-If this mod and QuickLight are both shining, you can always turn off QuickLight anytime.
+Change &&Minimum lighting for auto lights** to _75._
 
 ##  SexLab Solutions
 
@@ -601,6 +618,14 @@ Choose the appropriate options here to offer a follower instead of yourself for 
 ###  Miscellaneous
 
 **Integration**: click _SLEN integration_
+
+## SINFul CBP
+
+I recommend you **Load into** Slot 01, which uses the _Popstar_ preset with very low belly bounce exception.
+
+But feel free to try out a different preset by selecting one and jiggling your jigglies.
+
+**Note**: Any time you turn on _SMP_ these settings are overridden by that engine.
 
 ##  Sky UI
 
@@ -726,6 +751,10 @@ This is my mistake because I have such little free hard drive space as a modlist
 
 In the normal modding world this would be true, but this is Lover's Lab, which is notoriously resistant to change. Some of the mods have issues if they are converted. So **do not attempt to convert the Form 43 plugins into form 44**! These are left this way intentionally. I can't stop MO2 from warning you about them but I can strongly insist that you not act on those warnings.
 
+## Why are there so many duplicated animation folders? _or_ Why do I have to CTRL-CLICK to build _BodySlide_?
+
+_Mod Organizer 2_ does not put edits to existing files in the _overwrite_ folder, only newly created files. _CBBE_, _3BBB_ and _BD_ come with "default" meshes that will be changed by _BodySlide_ if you do not direct them to the proper directory yourself. Likewise, _Nemesis_ edits all the animation source files when it updates instead of putting the changes in the overwrite folder. If you don't believe me, I encourage you to check _MO2_'s documentation or the _Nemesis_ closed _Issues_ section on Github. If this doesn't convince you, I encourage you to test it yourself.
+
 ## I tried to wear a piece of gear but my body disappeared!
 
 The _Devious_ equipment is invisible unless _BodySlide_ is fully run. Follow all the steps in the _BodySlide_ section again.
@@ -770,10 +799,6 @@ _Skyrim Special Edition_ is not well supported by the _Lover's Lab_ community, o
 
 As such, animations triggered from the SE versions of _Defeat_ and _Cursed Loot_ seem to be called in a slightly different fashion than those from _SL Tools_, _SL Solutions_, or _SLEN_. They suffer from intolerable script lag at times, regardless of how many mods or animations are installed. I understand it's a known issue that is being worked on, but until it is resolved, you'll have to break your immersion a bit. If an animation seems stuck **and** there are no moans of pleasure, just various breathing and grunts (or silence), open the console with the tilde key (`), wait for all messages to cycle, then close the console again. You may have to repeat this process at least once.
 
-## My belly is huge and ugly _or_ my breasts look extremely malformed!
-
-The presets I recommend are not compatible with _Cursed Loot_ body morphs. Either disable them or change presets and rebuild all of _BodySlide._ Ensure that the morph "maximums" are not greater than _0.2_ for bellies and _0.5_ for other _parts_.
-
 ## My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.
 
 First, if you added something, remove it or rerun _Wabbajack._ If you didn't add anything, there's not much I can do. _Devious_ handling of these matters is extremely finicky in its original version on Oldrim and even more so for Special Edition. Facial Expressions in Special Edition have always been a problem and the NPC arm / invisible hands problem persists to this day no matter which version you use. If you want a more bug-free game, don't use _Devious Devices_ because this is **way** out of Skyrim's purview.
@@ -781,6 +806,8 @@ First, if you added something, remove it or rerun _Wabbajack._ If you didn't add
 ##  I'm locked into some gear and I can't move in third person.
 
 _Devious Devices_ doesn't like the SE version of _Immersive First Persion View_ very much. Don't disable IFPV after enabling it or you will get this bug every time you stop moving while in restrictive gear. If you were unaware of this fact, save your game, reload, and the problem should go away. Don't enable _Immersive First Person View_ while locked up unless you plan to stay in first person.
+
+# Gameplay Tips - Walkthroughs - Light Spoilers for the Hopelessly Stuck.
 
 ## I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!
 
@@ -792,8 +819,4 @@ They are non-existent until triggered. The _hideout key_ spawns outside on a ran
 
 ## Where the hell do I go after Chloe tells me about the secret passage?
 
-Go back out the way you came and to the cave where Ralof and Hadvar are. Everything breaks if you go through _Cursed Loot's_ shortcut and the _Unofficial Patch_ makes sure to tell you about it, so I have removed that option. Go all the way back in the cave until you get to the room with the spiders, kill them (or let Chloe do it, she's a beast) and saerch the Imperials in there for a _Torn Note_. Read the note.
-
-## None of the "payment" animations take place in the Shopping Quest! I'm stuck in a loop!
-
-This quest, in which you pick up supplies for buyers in order to be freed from gear, is horribly broken and has been since it was added. It will be disabled in a future update, but for now, either never select this dialog option or disable the entire quest chain yourself in _Cursed Loot_'s "Miscellaneous" menu.
+Go back out the way you came and to the cave where Ralof and Hadvar are. The main quest may break if you go through _Cursed Loot's_ "narrow passage" shortcut and the _Unofficial Patch_ makes sure to warn you about it, so I have removed that option. Go all the way back in the cave until you get to the room with the spiders, kill them (or let Chloe do it, she's a beast) and search the Imperials in there for a _Torn Note_. Read the note.

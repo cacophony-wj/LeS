@@ -1,5 +1,13 @@
 ## Changelog
 
+### 1.2.2
+
+- I have been through seven ENB's and not found a single one I like better than _Silent Horizons._ I return to it and humbly reject future suggestions.
+- Added _SinfulCBP_ so players have the option to customize non-_SMP_ jiggles, particularly belly bounce. Don't like looking like a walking bowl of Jell-O? Change that here.
+- Added an even larger collection of _RaceMenu_ presets with associated overlay, makeup, and eye color dependencies.
+- Tweaked _Cursed Loot_ settings on both difficulties.
+- Updated and revamped the README to reflect assorted changes.
+  
 ### 1.2.1.1
 
 - Replaced _Masculine Khajiits_ with _Better Khajiits_ to support SOS. Swapped out _Feminine Khajiits_ to match.
