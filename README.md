@@ -9,7 +9,7 @@
 	- [Using Wabbajack](#using-wabbajack)
 		- [Downloading and Installing](#downloading-and-installing)
 	- [Problems with Wabbajack](#problems-with-wabbajack)
-			- [Post-Installation](#post-installation)
+		- [Post-Installation](#post-installation)
 	- [Updating](#updating)
 	- [LBS vs. LBK, How Do I Choose?](#lbs-vs-lbk-how-do-i-choose)
 	- [Building Bodies and Armors with BodySlide](#building-bodies-and-armors-with-bodyslide)
@@ -105,6 +105,7 @@
 	- [I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!](#i-was-locked-up-in-the-princess-start-and-something-defeated-me-and-i-got-teleported-somewhere-and-the-quest-was-completely-broken-this-isnt-fair)
 	- [I can't find those damn keys in the _Light But Kinky_ "princess" start!](#i-cant-find-those-damn-keys-in-the-light-but-kinky-princess-start)
 	- [Where the hell do I go after Chloe tells me about the secret passage?](#where-the-hell-do-i-go-after-chloe-tells-me-about-the-secret-passage)
+	- [I was bound and then defeated and then teleported somewhere and now I can't get up from the ground!](#i-was-bound-and-then-defeated-and-then-teleported-somewhere-and-now-i-cant-get-up-from-the-ground)
 
 <h1>Licentia et Servitium: A Double-Sided Coin of Lover's Lab</h1>
 
@@ -219,7 +220,7 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 Move your downloads folder outside of your _LeS_ folder, ensure the _LeS_ folder is clear of all files, then close and restart Wabbajack. Be sure to point the downloads box to your relocated downloads folder.
 
-####  Post-Installation
+###  Post-Installation
 
 **Copy Game Folder Files**
 
@@ -263,9 +264,9 @@ Your kinks are a very private thing. There's no way I can create a list that app
 
 _Light But Sexy_ is the primary list, primarily intended to offer the option to have sex with attractive people as you play through a significantly modded Skyrim. Those choosing to play male characters or non-submissive females should choose this option so they don't find themselves intruded upon. Sexy roleplay is available via _Amorous Adventures_ which features full voice acting (despite incredibly cheesy dialog and quests), _SexLab Solutions_ which lets you pass varying skill checks by offering your (or your follower's) body, and _SexLab Eager NPCS_ (also known as "SLEN") which uses a rudimentary seduction system to improve your relationship with others via sex. Defeat, although fairly buggy as a death alternative, is also included to make combat sacrifices an option.
 
-_Light But Kinky_ is the sublist for the well, kinky among us, and it is all about the _Cursed Loot_. Basically you will be fighting against magical traps that lock you in various restraining devices with little hope of escape, making yourself available to be exploited by anyone who might happen to be around. Given that _Devious Devices_ have no male body models (or only very limited ones) and you will find yourself having a lot of shall we say, "involuntary" sex, this modlist is only recommended for female submissive characters. _Cursed Loot_ also has a death and surrender alternative with of course further bondage options, and rudimentary creature support is included for the monster fans.
+_Light But Kinky_ is the sublist for the well, kinky among us, and it is all about the _Cursed Loot_. Basically you will be fighting against magical traps that lock you in various restraining devices with little hope of escape, making yourself available to be exploited by anyone who might happen to be around. Given that _Devious Devices_ have no male body models (or only very limited ones) and you will find yourself having a lot of shall we say, "surprise" sex, this modlist is only recommended for female submissive characters. _Cursed Loot_ also has a death and surrender alternative with of course further bondage options, and rudimentary creature support is included.
 
-Even though it is far more niche, _Light But Kinky_ is enabled by default. This is because more armors need to be built for it and I wished to consolidate all steps. If you wish to play _Light But Sexy_, first complete the steps in [Building Bodies and Armors with BodySlide](#building-bodies-and-armors-with-bodyslide) and then select _Light But Sexy_ from the main "profiles" dropdown in the center-top of MO2. No further steps are required.
+Even though it is far more niche, _Light But Kinky_ is enabled by default. This is because more armors need to be built for it and I wished to combine all steps. If you wish to play _Light But Sexy_, first complete the steps in [Building Bodies and Armors with BodySlide](#building-bodies-and-armors-with-bodyslide) and then select _Light But Sexy_ from the main "profiles" dropdown in the center-top of MO2. No further steps are required.
 
 ##  Building Bodies and Armors with BodySlide
 
@@ -824,3 +825,7 @@ They are non-existent until triggered. The _hideout key_ spawns outside on a ran
 ## Where the hell do I go after Chloe tells me about the secret passage?
 
 Go back out the way you came and to the cave where Ralof and Hadvar are. The main quest may break if you go through _Cursed Loot's_ "narrow passage" shortcut and the _Unofficial Patch_ makes sure to warn you about it, so I have removed that option. Go all the way back in the cave until you get to the room with the spiders, kill them (or let Chloe do it, she's a beast) and search the Imperials in there for a _Torn Note_. Read the note.
+
+## I was bound and then defeated and then teleported somewhere and now I can't get up from the ground!
+
+Wait 30 seconds, save, wait 30 more seconds, reload the save you just made. If this doesn't allow you to stand up, you'll have to load a game from before you were defeated.
