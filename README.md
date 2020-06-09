@@ -20,6 +20,7 @@
 	- [Specific to Light But Kinky](#specific-to-light-but-kinky)
 		- [Cursed Loot](#cursed-loot)
 	- [Best Save Practices: READ ME!](#best-save-practices-read-me)
+	- [A word about ENBs](#a-word-about-enbs)
 	- [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)
 - [A bit of a note on System Settings: IMPORTANT!](#a-bit-of-a-note-on-system-settings-important)
 	- [Settings](#settings)
@@ -214,7 +215,7 @@ The files from MEGA are very large and must be verified. Please be extremely pat
 
 **MEGA download cap exceeded.**
 
-This shouldn't happen unless you download the list multiple times or download multiple Wabbajack lists. I'm afraid you'll have to wait 24h and try again.
+This shouldn't happen unless you download the list multiple times or download multiple Wabbajack lists. Sometimes it does anyway. Try signing up for a MEGA account, or if you have already done so, try logging out of it and downloading anonymously (although much more slowly).
 
 **Wabbajack cannot continue because of unknown files.**
 
@@ -344,6 +345,19 @@ Heavily modded Skyrim setups can result in save corruption in the best of circum
 4. **The most important thing to remember is that you can NOT "save scum" (load and save, load and save, seconds apart to get the best result) like you can in an unmodded game.** You will almost guarantee crashing and/or save corruption if you do this.
 
 I experimented with alternate autosave systems to prevent all these headaches, but found several instances where they saved the game right at the beginning or during unavoidable SexLab scenes, such that when reloaded, an immediate crash was the only result. This is just as bad as a corrupt save, in my opinion, so I have ceased the experimentation. **Don't Get Me Wrong** SSSO would be a beautiful mod in this list were it not for _SexLab_'s quirks. If save corruption develops into a more serious issue I may explore respawn possibilities for LeS.
+
+## A word about ENBs
+
+The weather and lighting mods I have in this list look best with _Silent Horizons_, and I have tried almost a dozen of them. But, some people may feel its too vibrant, bloomy, or cartoony, so feel free to swap out as you see fit, but keep in mind these notes and warnings:
+
+_Re-Engaged_ is probably the best runner-up because it has the best overall "realistic" look but I like things a little more vibrant.
+_Hardlandson's_ is a great third choice with fantastic interiors and atmospheric fogs. Personally I think the exteriors are a little too washed out.
+_lJoss_ is great performance wise but even more terrible about vibrance than Silent Horizons: almost looks like watercolor with this list.
+_PI-CHO_ looks great for character close-ups and resembles Silent Horizons for everything else, but glare and shine in wet or rainy areas almost looks like fireworks.
+_Rudy_ will technically work but is not recommended as it has no variant which supports Cathedral Weathers.
+_Serio_ is probably the best ENB for customizing the Cathedral imagespaces with the MCM but comes off _far_ too bright for this list.
+
+The other ENB's seemed either so inferior or were completely incompatible that I didn't mention them. I also left out any ENB preset that hasn't updated in over six months, since at least the "wet" shader effect was added to the binaries.
 
 ##  Adding Followers, Outfits, and Other Mods
 

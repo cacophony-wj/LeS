@@ -1,5 +1,13 @@
 ## Changelog
 
+### 1.2.3
+
+- Installed the latest version of _CBBE 3BBB_ in an attempt to resolve a breast flattening issue while jogging / sprinting.
+- Removed _360 Movement Behavior_ for the same reason.
+- Fixed the custom body on a handful of custom NPCs.
+- Pared back the animation count a tad, particularly for creatures.
+- Created a SliderSet for another damn buggy elbowbinder variant.
+ 
 ### 1.2.2
 
 - I have been through seven ENB's and not found a single one I like better than _Silent Horizons._ I return to it and humbly reject future suggestions.

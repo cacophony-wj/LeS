@@ -76,7 +76,6 @@ Wildcat - Combat of Skyrim.esp
 DSerArcheryGameplayOverhaul.esp
 UltimateCombat.esp
 DSerCombatGameplayOverhaul.esp
-DSer360MovementBehavior.esp
 NoBSAIProjectileDodge.esp
 AMB Glass Variants Lore.esp
 Differently Ebony.esp
@@ -156,7 +155,6 @@ SexLabTools.esp
 SLAnimLoader.esp
 NCK30Obj.esp
 SLAL_ProxyAnimObjects.esp
-PsycheAnimationObjects.esp
 SLA Monitor Widget.esp
 SexLabDefeat.esp
 SexLab-AmorousAdventures.esp

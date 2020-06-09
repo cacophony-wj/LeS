@@ -14,7 +14,6 @@
 -Expressive Facial Animation -Male Edition- - Kinky
 -Expressive Facial Animation -Female Edition- - Kinky
 -D13 Faster GET UP STAND UP animation vanilla friendly SSE - Kinky
--PsycheAnimation SE 1.1.0V - Kinky
 -SLAL ProxyAnims SE v2.2 - Kinky
 -SLAL Animations by Leito v1.6 - Kinky
 -ZaZ BreastRopeExtreme fix
@@ -76,7 +75,6 @@
 +SL Defeat SSE
 -SexLab Radiant_separator
 +NCK30 SLAL 2.2 SSE
-+PsycheAnimation SE 1.1.0V
 +SLAL ProxyAnims SE v2.2
 +MilkySLAL-1-8
 +SLAL Animations by Leito v1.6
@@ -90,7 +88,6 @@
 -Effects_separator
 +Combat Gameplay Overhaul SE
 +Ultimate Combat SE
-+360 Movement Behavior SE
 +Wildcat - Combat of Skyrim
 -Melee_separator
 +AGO - Nemesis Patch
