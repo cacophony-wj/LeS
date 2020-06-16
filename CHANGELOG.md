@@ -1,5 +1,10 @@
 ## Changelog
 
+### 1.2.4
+
+- Updated Bijin AIO 2019 to Bijin AIO 2020
+- Updated Smoking Torches & Candles
+  
 ### 1.2.3
 
 - Installed the latest version of _CBBE 3BBB_ in an attempt to resolve a breast flattening issue while jogging / sprinting.
