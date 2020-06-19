@@ -1,9 +1,15 @@
 ## Changelog
 
+### 1.2.5
+
+- Forgot to enable _Bijin_ in _LBS_, d'oh.
+- Updated _Interesting NPCs Hotfix_ to _4.3.4_
+- Added _RaceMenu High Heels_ but I don't think it'll fix everything.
+
 ### 1.2.4
 
-- Updated Bijin AIO 2019 to Bijin AIO 2020
-- Updated Smoking Torches & Candles
+- Updated _Bijin AIO 2019_ to _Bijin AIO 2020_
+- Updated _Smoking Torches & Candles_
   
 ### 1.2.3
 

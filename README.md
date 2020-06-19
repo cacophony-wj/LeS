@@ -98,10 +98,12 @@
 	- [Some of me is too _jiggly_! (Especially the belly.)](#some-of-me-is-too-jiggly-especially-the-belly)
 	- [I read a skill book but my skill didn't go up!](#i-read-a-skill-book-but-my-skill-didnt-go-up)
 	- [I'm running _Light But Kinky_ and I can't find my save!](#im-running-light-but-kinky-and-i-cant-find-my-save)
+	- [The head bob is making me sick! I want to turn it off!](#the-head-bob-is-making-me-sick-i-want-to-turn-it-off)
 	- [CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!](#cgo-isnt-leaning--dodging-or-when-i-go-into-an-adult-scene-i-hear-sounds-and-voices-but-they-just-stand-there)
 	- [I did all that but the things are still just standing there, especially when I assault someone / get assaulted.](#i-did-all-that-but-the-things-are-still-just-standing-there-especially-when-i-assault-someone--get-assaulted)
 	- [My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.](#my-arms-wont-go-into-a-binder-or-my-hands-are-floating-outside-of-my-bindings-or-my-gag-wont-go-in-my-mouth-or-one-of-these-is-true-for-an-npc)
 	- [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
+	- [Stuff is disabled. Did you forget? Or, can I enable it all, for the best of both worlds?](#stuff-is-disabled-did-you-forget-or-can-i-enable-it-all-for-the-best-of-both-worlds)
 - [Gameplay Tips - Walkthroughs - Light Spoilers for the Hopelessly Stuck.](#gameplay-tips---walkthroughs---light-spoilers-for-the-hopelessly-stuck)
 	- [I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!](#i-was-locked-up-in-the-princess-start-and-something-defeated-me-and-i-got-teleported-somewhere-and-the-quest-was-completely-broken-this-isnt-fair)
 	- [I can't find those damn keys in the _Light But Kinky_ "princess" start!](#i-cant-find-those-damn-keys-in-the-light-but-kinky-princess-start)
@@ -796,6 +798,10 @@ This is because you "can't concentrate" if you're horny, so you don't get 100% s
 
 Try using _Show All Saves._ Devious or Cursed Loot (one of the two) sometimes puts them in a weird place, most likely because of legacy scripts.
 
+## The head bob is making me sick! I want to turn it off!
+
+Untick _Immersive First Person View_ in the left pane, then go into the MCM for _CGO_ and set _Camera Noise Mult (1st Person)_ to 0.00.
+
 ## CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!
 
 I sometimes forget to run _Nemesis_ before uploading a build. Smack me on Github or in the channel and I'll do it. If you don't want to wait follow these instructions.
@@ -825,6 +831,18 @@ First, if you added something, remove it or rerun _Wabbajack._ If you didn't add
 ##  I'm locked into some gear and I can't move in third person.
 
 _Devious Devices_ doesn't like the SE version of _Immersive First Persion View_ very much. Don't disable IFPV after enabling it or you will get this bug every time you stop moving while in restrictive gear. If you were unaware of this fact, save your game, reload, and the problem should go away. Don't enable _Immersive First Person View_ while locked up unless you plan to stay in first person.
+
+## Stuff is disabled. Did you forget? Or, can I enable it all, for the best of both worlds?
+
+No. All that stuff is disabled on purpose. Most of it is for technical reasons. For example, _Cursed Loot_ shuts down all of _Eager NPCs_ functions, even if you disable _Cursed Loot_, so the two won't work together. This being the biggest way to experience consequence-free romance, I left the other "free love" mods disabled for roleplay reasons, since _Light But Kinky_ is supposed to be a harsh, punishing world. If you really want more options in _Light But Kinky_, these mods are _okay_ to enable, but don't fit the theme:
+
+- Amorous Adventures Extended SSE v1.2.3
+- AmorousAdventures 3.4 SE
+- SexLab Solutions v3 - Revisited SE v1.1.5
+
+Just tick them in the left pane, move them under "SexLab Quests", and move the ESPs that showed up at the bottom of the right pane somewhere with the rest of the SexLab stuff. It shouldn't matter too much where since none of them conflict with anything. _Do not_ enable anything else because it all conflicts even though multiple support threads might assure you it doesn't. For example, _Defeat_ does not recognize equipped devices, so you can totally be taken advantage of straight through chastity gear in a full set.
+
+As far as enabling stuff in _Light But Sexy_... _don't try it._ None of the Devious stuff will work because of the reasons above. You might could get creatures to work but it would be very complicated and would probably end up in a T-Pose that requires a full reinstall of Nemesis and FNIS. Just trust me on this, if you want kink you already have it in _LBK_. Spend some time in _Cursed Loot's_ MCM disabling the parts you hate. It can all be figured out just from the menu, but the support thread for the mod on _Lover's Lab_ goes into more detail. A few kind folks in there even share their own setups that you can import!
 
 # Gameplay Tips - Walkthroughs - Light Spoilers for the Hopelessly Stuck.
 
