@@ -566,6 +566,10 @@ Hit **Load From File** and exit the menu. Then re-enter.
 
 You might want to check out the hotkeys to see what they've been set to. They're inspired by our overlord.
 
+_The QuickSave buttons need to be changed if you use these Hotkeys._ I recommend going to **Settings > Controls** and setting _QuickSave_ to F9 and _QuickLoad_ to F9. 
+
+If the old keys are baked in your memory, please leave them alone and disable the follower hotkeys here. All the same tasks can be accomplished via spells.
+
 ##  GIST Soul Trap
 
 Just enable **Show message on soul trapped**
