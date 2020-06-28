@@ -1,7 +1,10 @@
-- [A STRONG WARNING](#a-strong-warning)
-	- [Devious SE is still in **late beta!** Expect bugs!](#devious-se-is-still-in-late-beta-expect-bugs)
-- [Requirements](#requirements)
-- [System Specs](#system-specs)
+- [Licentia et Servitium: A Double-Sided Coin of Lover's Lab](#licentia-et-servitium-a-double-sided-coin-of-lovers-lab)
+	- [Preamble](#preamble)
+		- [Wabbajack](#wabbajack)
+	- [A STRONG WARNING](#a-strong-warning)
+	- [SexLab SE is still in **late beta!** Expect bugs!](#sexlab-se-is-still-in-late-beta-expect-bugs)
+	- [Requirements](#requirements)
+		- [System Specs](#system-specs)
 - [Installation](#installation)
 	- [Pre-Installation](#pre-installation)
 			- [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -12,7 +15,17 @@
 		- [Post-Installation](#post-installation)
 	- [Updating](#updating)
 	- [LBS vs. LBK, How Do I Choose?](#lbs-vs-lbk-how-do-i-choose)
-	- [Building Bodies and Armors with BodySlide](#building-bodies-and-armors-with-bodyslide)
+	- [Important Mods you should know about](#important-mods-you-should-know-about)
+		- [SexLab - Frameworks](#sexlab---frameworks)
+		- [Devious Devices](#devious-devices)
+		- [SexLab - Others](#sexlab---others)
+		- [Nomkaz](#nomkaz)
+	- [_SFW_ MOD DESCRIPTIONS UNDER CONSTRUCTION](#sfw-mod-descriptions-under-construction)
+	- [Female Bodies And Armors](#female-bodies-and-armors)
+		- ["BodyGen4"](#bodygen4)
+		- [Running BodySlide](#running-bodyslide)
+	- [A bit of a note on schlongs and strap-ons](#a-bit-of-a-note-on-schlongs-and-strap-ons)
+	- [The below sections will be reworked and relocated](#the-below-sections-will-be-reworked-and-relocated)
 	- [A Note on SexLab for the Uninitiated](#a-note-on-sexlab-for-the-uninitiated)
 	- [Admiring Yourself](#admiring-yourself)
 	- [Specific to Light But Sexy](#specific-to-light-but-sexy)
@@ -27,116 +40,162 @@
 		- [Gameplay](#gameplay)
 		- [Display](#display)
 	- [Controls](#controls)
-- [Game MCM Options](#game-mcm-options)
-	- [SexLab](#sexlab)
-		- [Sex Diary](#sex-diary)
-		- [Rebuild & Clean](#rebuild--clean)
-	- [A Matter of Time](#a-matter-of-time)
-		- [Presets](#presets)
-	- [AGO](#ago)
-		- [Settings](#settings-1)
-	- [Cathedral Weather](#cathedral-weather)
-		- [Settings](#settings-2)
-	- [CBBE 3BBB Addon](#cbbe-3bbb-addon)
-	- [CGO](#cgo)
-		- [Settings](#settings-3)
-	- [Cursed Loot](#cursed-loot-1)
-		- [Debug](#debug)
-	- [Deadly Dragons](#deadly-dragons)
-	- [Devious Device Helpers](#devious-device-helpers)
-	- [Devious Devices](#devious-devices)
-	- [Extended UI](#extended-ui)
-	- [FEC](#fec)
-		- [Player Effects](#player-effects)
-	- [Follower Framework](#follower-framework)
-		- [System](#system)
-	- [GIST Soul Trap](#gist-soul-trap)
-	- [LOTD Settings](#lotd-settings)
-		- [Shipment Crate Locations](#shipment-crate-locations)
-	- [Moonlight Tales](#moonlight-tales)
-	- [Quick Light](#quick-light)
-	- [Sacrosanct Vampires](#sacrosanct-vampires)
-	- [SexLab Aroused](#sexlab-aroused)
-	- [SexLab Eager NPCs](#sexlab-eager-npcs)
-		- [General](#general)
-	- [SexLab LightMeUp](#sexlab-lightmeup)
-		- [Settings](#settings-4)
-	- [SexLab Solutions](#sexlab-solutions)
-		- [Followers](#followers)
-		- [Miscellaneous](#miscellaneous)
-	- [SINFul CBP](#sinful-cbp)
-	- [Sky UI](#sky-ui)
-		- [General](#general-1)
-		- [Controls](#controls-1)
-	- [SL Anim Loader](#sl-anim-loader)
-		- [General Options](#general-options)
-	- [SLA Monitor Widget](#sla-monitor-widget)
-		- [Scanner Settings](#scanner-settings)
-		- [Widget Looks](#widget-looks)
-	- [Storm Lightning](#storm-lightning)
-		- [Presets](#presets-1)
-		- [Advanced](#advanced)
-	- [Trade & Barter](#trade--barter)
-		- [Barter Rates](#barter-rates)
-	- [Ultimate Combat](#ultimate-combat)
-		- [General](#general-2)
-		- [NPC Setting](#npc-setting)
-	- [Wildcat Combat](#wildcat-combat)
-	- [Defeat](#defeat-1)
-		- [General Settings](#general-settings)
-	- [XPMSE](#xpmse)
-	- [ZaZ Animation Pack](#zaz-animation-pack)
-		- [General](#general-3)
-		- [SexLab](#sexlab-1)
-- [All done!](#all-done)
-- [Troubleshooting](#troubleshooting)
-	- [I can't even launch _Mod Organizer_ because it tells me I don't have permission for a downloads directory.](#i-cant-even-launch-mod-organizer-because-it-tells-me-i-dont-have-permission-for-a-downloads-directory)
-	- [What are all these Form 43 warnings? I thought Form 43 was bad news.](#what-are-all-these-form-43-warnings-i-thought-form-43-was-bad-news)
-	- [Why are there so many duplicated animation folders? _or_ Why do I have to CTRL-CLICK to build _BodySlide_?](#why-are-there-so-many-duplicated-animation-folders-or-why-do-i-have-to-ctrl-click-to-build-bodyslide)
-	- [I tried to wear a piece of gear but my body disappeared!](#i-tried-to-wear-a-piece-of-gear-but-my-body-disappeared)
-	- [My skin pokes through my armor! or My bald head pokes through my hood!](#my-skin-pokes-through-my-armor-or-my-bald-head-pokes-through-my-hood)
-	- [Some of me is too _jiggly_! (Especially the belly.)](#some-of-me-is-too-jiggly-especially-the-belly)
-	- [I read a skill book but my skill didn't go up!](#i-read-a-skill-book-but-my-skill-didnt-go-up)
-	- [I'm running _Light But Kinky_ and I can't find my save!](#im-running-light-but-kinky-and-i-cant-find-my-save)
-	- [The head bob is making me sick! I want to turn it off!](#the-head-bob-is-making-me-sick-i-want-to-turn-it-off)
-	- [CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!](#cgo-isnt-leaning--dodging-or-when-i-go-into-an-adult-scene-i-hear-sounds-and-voices-but-they-just-stand-there)
-	- [I did all that but the things are still just standing there, especially when I assault someone / get assaulted.](#i-did-all-that-but-the-things-are-still-just-standing-there-especially-when-i-assault-someone--get-assaulted)
-	- [My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.](#my-arms-wont-go-into-a-binder-or-my-hands-are-floating-outside-of-my-bindings-or-my-gag-wont-go-in-my-mouth-or-one-of-these-is-true-for-an-npc)
-	- [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
-	- [Stuff is disabled. Did you forget? Or, can I enable it all, for the best of both worlds?](#stuff-is-disabled-did-you-forget-or-can-i-enable-it-all-for-the-best-of-both-worlds)
-- [Gameplay Tips - Walkthroughs - Light Spoilers for the Hopelessly Stuck.](#gameplay-tips---walkthroughs---light-spoilers-for-the-hopelessly-stuck)
-	- [I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!](#i-was-locked-up-in-the-princess-start-and-something-defeated-me-and-i-got-teleported-somewhere-and-the-quest-was-completely-broken-this-isnt-fair)
-	- [I can't find those damn keys in the _Light But Kinky_ "princess" start!](#i-cant-find-those-damn-keys-in-the-light-but-kinky-princess-start)
-	- [Where the hell do I go after Chloe tells me about the secret passage?](#where-the-hell-do-i-go-after-chloe-tells-me-about-the-secret-passage)
-	- [I was bound and then defeated and then teleported somewhere and now I can't get up from the ground!](#i-was-bound-and-then-defeated-and-then-teleported-somewhere-and-now-i-cant-get-up-from-the-ground)
+	- [Game MCM Options](#game-mcm-options)
+		- [SexLab](#sexlab)
+			- [Install](#install)
+			- [Rebuild & Clean](#rebuild--clean)
+			- [Animation Settings](#animation-settings)
+			- [Sex Diary](#sex-diary)
+		- [SAVE AND LOAD!](#save-and-load)
+		- [SL Anim Loader](#sl-anim-loader)
+			- [General Options](#general-options)
+		- [A Matter of Time](#a-matter-of-time)
+			- [Presets](#presets)
+		- [AGO](#ago)
+			- [Settings](#settings-1)
+		- [Cathedral Weather](#cathedral-weather)
+			- [Settings](#settings-2)
+		- [CGO](#cgo)
+			- [Settings](#settings-3)
+		- [Cursed Loot](#cursed-loot-1)
+			- [Debug](#debug)
+		- [Deadly Dragons](#deadly-dragons)
+			- [Dragons](#dragons)
+		- [Devious Devices Helpers](#devious-devices-helpers)
+		- [Extended UI](#extended-ui)
+			- [Stats Menu](#stats-menu)
+		- [Follower Framework](#follower-framework)
+			- [System](#system)
+		- [GIST Soul Trap](#gist-soul-trap)
+			- [Main](#main)
+			- [Leveling](#leveling)
+		- [LOTD Settings](#lotd-settings)
+			- [General](#general)
+		- [Moonlight Tales](#moonlight-tales)
+			- [Tools](#tools)
+		- [Quick Light](#quick-light)
+		- [Sacrosanct Vampires](#sacrosanct-vampires)
+			- [Vampire Spells, Powers and Abilities](#vampire-spells-powers-and-abilities)
+		- [SexLab Aroused](#sexlab-aroused)
+			- [Settings](#settings-4)
+		- [SexLab Eager NPCs](#sexlab-eager-npcs)
+			- [General](#general-1)
+		- [SexLab Solutions](#sexlab-solutions)
+			- [follower](#follower)
+			- [Miscellaneous](#miscellaneous)
+		- [SexLab Tools](#sexlab-tools)
+			- [Settings](#settings-5)
+		- [Sky UI](#sky-ui)
+			- [General](#general-2)
+			- [Controls](#controls-1)
+		- [SLA Monitor Widget](#sla-monitor-widget)
+			- [Profiles](#profiles)
+			- [Scanner Settings](#scanner-settings)
+		- [Storm Lightning](#storm-lightning)
+			- [Presets](#presets-1)
+			- [Advanced](#advanced)
+		- [Summermyst Enchantments](#summermyst-enchantments)
+		- [Trade & Barter](#trade--barter)
+			- [Barter Rates](#barter-rates)
+		- [Ultimate Combat](#ultimate-combat)
+			- [General](#general-3)
+			- [NPC Setting](#npc-setting)
+		- [Wildcat Combat](#wildcat-combat)
+			- [Stamina Costs](#stamina-costs)
+			- [Injuries](#injuries)
+			- [Timed Block](#timed-block)
+			- [difficulty](#difficulty)
+		- [XPMSE](#xpmse)
+		- [ZaZ Animation Pack](#zaz-animation-pack)
+			- [SexLab](#sexlab-1)
+		- [Defeat](#defeat-1)
+			- [General Settings](#general-settings)
+	- [All done!](#all-done)
+	- [Troubleshooting](#troubleshooting)
+		- [What are all these Form 43 warnings? I thought Form 43 was bad news.](#what-are-all-these-form-43-warnings-i-thought-form-43-was-bad-news)
+		- [Why are there so many duplicated animation folders? _or_ Why do I have to CTRL-CLICK to build _BodySlide_?](#why-are-there-so-many-duplicated-animation-folders-or-why-do-i-have-to-ctrl-click-to-build-bodyslide)
+		- [I tried to wear a piece of gear but my body disappeared!](#i-tried-to-wear-a-piece-of-gear-but-my-body-disappeared)
+		- [My skin pokes through my armor! or My bald head pokes through my hood!](#my-skin-pokes-through-my-armor-or-my-bald-head-pokes-through-my-hood)
+		- [Some of me is too _jiggly_! (Especially the belly.)](#some-of-me-is-too-jiggly-especially-the-belly)
+		- [I read a skill book but my skill didn't go up!](#i-read-a-skill-book-but-my-skill-didnt-go-up)
+		- [I'm running _Light But Kinky_ and I can't find my save!](#im-running-light-but-kinky-and-i-cant-find-my-save)
+		- [The head bob is making me sick! I want to turn it off!](#the-head-bob-is-making-me-sick-i-want-to-turn-it-off)
+		- [CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!](#cgo-isnt-leaning--dodging-or-when-i-go-into-an-adult-scene-i-hear-sounds-and-voices-but-they-just-stand-there)
+		- [I did all that but the things are still just standing there, especially when I get assaulted.](#i-did-all-that-but-the-things-are-still-just-standing-there-especially-when-i-get-assaulted)
+		- [My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.](#my-arms-wont-go-into-a-binder-or-my-hands-are-floating-outside-of-my-bindings-or-my-gag-wont-go-in-my-mouth-or-one-of-these-is-true-for-an-npc)
+		- [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
+		- [I'm playing _Light But Kinky_ and I'm in such an incredible amount of bondage gear that I can't do anything at all!](#im-playing-light-but-kinky-and-im-in-such-an-incredible-amount-of-bondage-gear-that-i-cant-do-anything-at-all)
+		- [Stuff is disabled. Did you forget? Or, can I enable it all, for the best of both worlds?](#stuff-is-disabled-did-you-forget-or-can-i-enable-it-all-for-the-best-of-both-worlds)
+	- [Gameplay Tips - Walkthroughs - Light Spoilers for the Hopelessly Stuck.](#gameplay-tips---walkthroughs---light-spoilers-for-the-hopelessly-stuck)
+		- [I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!](#i-was-locked-up-in-the-princess-start-and-something-defeated-me-and-i-got-teleported-somewhere-and-the-quest-was-completely-broken-this-isnt-fair)
+		- [I can't find those damn keys in the _Light But Kinky_ "princess" start!](#i-cant-find-those-damn-keys-in-the-light-but-kinky-princess-start)
+		- [Where the hell do I go after Chloe tells me about the secret passage?](#where-the-hell-do-i-go-after-chloe-tells-me-about-the-secret-passage)
+		- [I was bound and then defeated and then teleported somewhere and now I can't get up from the ground!](#i-was-bound-and-then-defeated-and-then-teleported-somewhere-and-now-i-cant-get-up-from-the-ground)
+	- [Removing the Modlist](#removing-the-modlist)
+	- [Contact](#contact)
+	- [Contributing](#contributing)
+	- [Changelog](#changelog)
 
-<h1>Licentia et Servitium: A Double-Sided Coin of Lover's Lab</h1>
+# Licentia et Servitium: A Double-Sided Coin of Lover's Lab
 
-# A STRONG WARNING
+## Preamble
 
-## Devious SE is still in **late beta!** Expect bugs!
+**This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-If you encounter _anything_ that you even _think_ is wrong, **especially** if you are playing the _Light But Kinky_ variant, please refer to [Troubleshooting](#troubleshooting) before asking on Github or Discord. Many of the most common questions are answered there. The signature mods in that build contain bugs, but are still playable, and will only improve with time.
+I'm [cacophony](https://github.com/cacophony-wj), a humble Wabbjack modlist developer with only marginal experience, but I have created this modlist to fill an essential void while Wabbajack's primary _NSFW_ list is under maintenance. 
 
-#  Requirements
+That said, I have been modding _NSFW_ content into games since the first _Nude Raider_ patch so I like to think I know my way around the basics. 
 
-It's recommended that you sign up for a Premium account on _The Nexus_ for five bucks a month (http://nexusmods.com).
+While not as full-featured as many lists, if you want a basic Skyrim gameplay and sexual overhaul that offers options for characters of multiple identities and fetishes, you are welcome here.
 
-Otherwise you'll have to download every file manually and put it in the right folder.
+### Wabbajack
 
-You'll need a Lover's Lab account (http://loverslab.com).
+Somewhat important section for people that don't know what Wabbajack is and how it works.
 
-Also, with the addition of the _Devious_ group of mods, you may wish to sign up for _MEGA_ as well, given that throttling and caps are in place for anonymous users. (http://mega.co.nz)
+Let's start with some terminology: `Modpack` vs `Modlist`
 
-And, this is the last one I swear, you'll want to sign up at Vector Plexus for the awesome High-Poly Head, it's definitely worth it. (https://vectorplexus.com/)
+**Modpack**:
+Commonly found in the Minecraft modding scene, a modpack is a collection of mods put together in a single file. Often compressed into a zip, 7z or rar archive, this single file contains an entire modding setup and is very large in size as every file from every mod is included. Uploading a Modpack to the Internet means distributing possible copyrighted content and has lead to huge backlash in other modding scenes.
 
-#  System Specs
+**Modlist (written guide)**:
+A written guide like STEP, Lexys LOTD SE Mod Guide or The Phoenix Flavour that tells the user what, when, and how to download and install an effective combination of mods. In order to reproduce the same setup of the guide author you will pick up a lot of new modding tricks and learn many things previously unknown to you. Depending on the depth of the guide, process not only takes a very long time but is very error prone if the user does not read everything extremely carefully and repeat it exactly.
 
-I currently use a rather beefy machine with an RTX card, but my previous machine had these specs: _Intel i7-4790k, 16GB DDR3 RAM, NVIDIA GTX 1080_, and it was perfectly sufficient for this modlist as well as most others on Wabbajack, even though load times were a bit excessive. The most important gatekeepers are probably at least 6GB VRAM and an SSD for loading everything into memory and _especially_ hashing files for installation and upgrades. 
+**Modlist (Wabbajack)**:
+A Wabbajack Modlist can be compared to a written guide except it is not written for humans but for machines. The resulting _.wabbajack_ file contains instructions on what, when, and how to download and install a combination of mods in order to replicate the entire setup of the author without bundling any assets.
+
+Now lets talk about Wabbajack:
+
+Wabbajack is an automated Modlist installer that can recreate contents of a folder on another machine without ever distributing copyrighted materials or syncing data between the source and destination machine. Wabbajack will create instructions for a Modlist when compiling, those can be as simple as _Download Mod abc from the Nexus_ or complex as _Build BSAs from scratch using the following files_.
+
+Wabbajack came into existing around July 2019 and the community has been growing past the 18 thousand mark with hundreds of daily users. The start was somewhat bumpy, because a lot of people, especially mod authors, had {and sometimes still have) no idea what Wabbajack does and simply think it's some kind of Modpack thing. If you want more information checkout, our website at [wabbajack.org](https://www.wabbajack.org/), made by [erri120](https://github.com/erri120)].
+
+## A STRONG WARNING
+
+## SexLab SE is still in **late beta!** Expect bugs!
+
+Before posting a question to one of the _NSFW_ Discord channels, refer to [Troubleshooting](#troubleshooting). Many common questions are answered there.
+
+## Requirements
+
+- [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
+- [LoversLab Account](https://www.loverslab.com/)
+- [VectorPlexus Account](https://vectorplexus.com/)
+- [MEGA Account](https://mega.nz/aff=a94uEwwXPLU) (OPTIONAL BUT HIGHLY RECOMMENDED)
+- A brain, eyes and time to read through this README
+
+You can also install any Wabbajack Modlist without a Nexus Premium account but you will have to download each file manually. A MEGA account as an optional requirement because there are some big files on MEGA that need to be downloaded. You don't need one but MEGA has a limit on how much an anonymous user can download.
+
+You can login to various sites using the internal login manager in Wabbajack. It can be accessed using the gear icon in the top right corner. Your credentials are encrypted and can only be decrypted on your machine as your current user, see [`ProtectedData` Class](https://docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.protecteddata?view=netframework-4.8) and [DPAPI](https://en.wikipedia.org/wiki/Data_Protection_API) for more information.
+
+### System Specs
+
+- CPU: >= 7th gen Intel processor OR >= AMD Ryzen 3000 series processor
+- GPU: >= 1060, you need at least 6GB of VRAM
+- RAM: >= DDR4 with at least 16GBs
+
+Everything should be installed on an SSD that has at least 256GB of space available. Also check [Tweaking Performance](#tweaking-performance) if you want more FPS. **You won't be able to play the modlist with 4GB of VRAM&**.
 
 # Installation
-
-This section is shamelessly copied and pasted from _erri120_'s excellent _Lotus_ readme. I hope he doesn't object.
 
 ##  Pre-Installation
 
@@ -201,11 +260,11 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 **Could not download x:**
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait till I update the Modlist.
+If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait till the modlist receives an update.
 
 **x is not a whitelisted download:**
 
-This can happen when I update the modlist. Check if a new update to the modlist is available and wait if there is none.
+This can happen when update the modlist receives an update. Check if a new update to the modlist is available and wait if there is none.
 
 **Wabbajack could not find my game folder:**
 
@@ -221,7 +280,7 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 **Wabbajack cannot continue because of unknown files.**
 
-Move your downloads folder outside of your _LeS_ folder, ensure the _LeS_ folder is clear of all files, then close and restart Wabbajack. Be sure to point the downloads box to your relocated downloads folder.
+Move your downloads folder outside of your _LeS Directory_, ensure the _LeS Directory_ is clear of all files, then close and restart Wabbajack. Be sure to point the downloads box to your relocated downloads folder.
 
 ###  Post-Installation
 
@@ -229,11 +288,7 @@ Move your downloads folder outside of your _LeS_ folder, ensure the _LeS_ folder
 
 Download the latest ENB Series from <a href="http://enbdev.com/download_mod_tesskyrimse.htm">here</a> and copy d3d11.dll and d3dcompiler_46e.dll to your game folder.
 
-Copy all of the files from the MO2/game folder files directory to your game folder.
-
-**Deactivate FNIS**
-
-_Fore's New Idles in Skyrim_ must be _enabled_ for Wabbajack to download it, but _disabled_ to play this modlist without issues. To do so, uncheck everything related to _FNIS_ if you are using _Light But Sexy._ If you are using _Light But Kinky_, disable everything but _FNIS Output_.
+Copy all of the files from the _LeS Directory/game folder files_ directory to your game folder.
 
 ##  Updating
 
@@ -271,47 +326,159 @@ _Light But Kinky_ is the sublist for the well, kinky among us, and it is all abo
 
 Even though it is far more niche, _Light But Kinky_ is enabled by default. This is because more armors need to be built for it and I wished to combine all steps. If you wish to play _Light But Sexy_, first complete the steps in [Building Bodies and Armors with BodySlide](#building-bodies-and-armors-with-bodyslide) and then select _Light But Sexy_ from the main "profiles" dropdown in the center-top of MO2. No further steps are required.
 
-##  Building Bodies and Armors with BodySlide
+## Important Mods you should know about
 
-All the armors in this list are huge in size. The custom fits are not included by default.
+This section contains information about some of the most important mods in this setup. I made this section so end-users know exactly what mods change what and can read-up on stuff they find interesting as well as give props to the mod authors.
 
-**You MUST run BodySlide on your own before you launch Skyrim or weird stuff will happen. This _can_ and _will_ include people wearing ugly brown underwear, people with body proportions that change when nude or wearing different outfits, and more.**
+### SexLab - Frameworks
+
+You know this would be first, didn't you...
+[SexLab Framework](https://www.loverslab.com/topic/91861-sexlab-framework-se-163-beta-8-november-22nd-2019/) is the core of all installed LL mods. Do note that this is a **beta build**. [SLAL](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/) or _SexLab Animation Loader_ and [SexLab Aroused Redux](https://www.loverslab.com/files/file/5482-sexlab-aroused-redux-sse-version-29/) are included as well.
+
+The _Light but Kinky_ variant includes [Creature Framework](https://www.loverslab.com/files/file/5462-creature-framework-se/) and [More Nasty Critters](https://www.loverslab.com/files/file/4130-more-nasty-critters-slal-edition/).
+
+[ZAZ](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/) is a requirement for other mods so you get that and the [ZAZ 8.0+ CBBE HDT Rev3](https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I) version.
+
+Links:
+
+- [SexLab Framework SE](https://www.loverslab.com/topic/91861-sexlab-framework-se-163-beta-8-november-22nd-2019/)
+- [SexLab Animation Loader SSE](https://www.loverslab.com/files/file/5328-sexlab-animation-loader-sse/) by [Andreis](https://www.loverslab.com/profile/1770706-andreis/)
+- [SexLab Aroused Redux SSE Version](https://www.loverslab.com/files/file/5482-sexlab-aroused-redux-sse-version-29/) by [fishburger67](https://www.loverslab.com/profile/441678-fishburger67/)
+- [Creature Framework SE](https://www.loverslab.com/files/file/5462-creature-framework-se/) original by [Ep1cL3w7z](https://www.loverslab.com/profile/67752-ep1cl3w7z/)
+- [More Nasty Critters Special Edition](https://www.loverslab.com/files/file/4130-more-nasty-critters-slal-edition/) by [MadMansGun](https://www.loverslab.com/profile/71862-madmansgun/)
+- [ZAZ Animation Packs for SE](https://www.loverslab.com/files/file/5957-zaz-animation-packs-for-se/)
+- [ZAZ 8.0+ CBBE HDT Rev3](https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I)
+
+### Devious Devices
+
+[Devious Devices](https://www.loverslab.com/topic/99700-devious-devices-se-43/) or DD for short is a very interesting mod and the foundation for [Devious Skyrim](https://www.loverslab.com/topic/30855-devious-skyrim/) (you should definitely read that post if you are into BDSM content). The conversion to SSE is a bit... funky to say the least but they finally build the SKSE plugin for 2.0.17. The conversion contains all three base mods: [Assets](https://www.loverslab.com/files/file/269-devious-devices-assets/), [Expansion](https://www.loverslab.com/files/file/1305-devious-devices-expansion/) and [Integration](https://www.loverslab.com/files/file/371-devious-devices-integration/).
+
+The outfit conversions in the base DD AIO are incompatible with the body type I use so [3BA Bodyslides for Devious Devices](https://www.loverslab.com/files/file/11938-3ba-bodyslides-for-devious-devices-43-aio/) is included to help with that.
+
+DD alone does not do much as a framework. The biggest gameplay mod for DD is DCUR aka [Deviously Cursed Loot](https://www.loverslab.com/topic/33986-deviously-cursed-loot-v85-2020-03-24/). This mod is *huge*. Takes like 20mins to do the MCM and you should, no, you _must_ read up on it _thoroughly_ if you want to customize it. I have tried my best at configuring this mod in a way that makes sense and enables you to actually play the game without being tied up, locked up or assaulted every 5 meters. The main premise of this mods still stands:
+
+> Cursed Loot is a bondage and domination (BD) themed mod that will get you into trouble of the erotic kind when playing Skyrim. Beware when looting containers and defeated enemies in Skyrim!
+
+There are dangers in Skyrim, mainly in Dungeons, that will keep you on guard and are more of an exception than a rule to make them more impactful. I will try tweaking the config more over time so be sure to voice your opinion (see [Contact](#contact)).
+
+[Devious Devices Helpers](https://www.loverslab.com/files/file/9197-devious-devices-helpers-se/) counteracts all the restraints and makes your followers smarter when it comes to dealing with them.
+
+> While playing with Deviously Cursed Loot and other Devious Devices mods, I found that my character being tied up and helpless was amusing for about five minutes.
+
+This is what I am going for: have fun for some time but then get back to playing the game. The combination of Cursed Loot and Helpers should hopefully provide that gameplay experience. The entire thing is still experimental so expect tweaks to come over time.
+
+Some big DD mods like [Sanguines Debauchery](https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/#comments) are not yet ready for SSE.
+
+Links:
+
+- [Devious Devices SE](https://www.loverslab.com/topic/99700-devious-devices-se-43/)
+- [3BA Bodyslides for Devious Devices](https://www.loverslab.com/files/file/11938-3ba-bodyslides-for-devious-devices-43-aio/) by [Grummkol](https://www.loverslab.com/profile/2854288-grummkol/)
+- [Devious Devices Helpers SE](https://www.loverslab.com/files/file/9197-devious-devices-helpers-se/) original by [TurboNerd](https://www.loverslab.com/profile/1172444-turbonerd/) converted by [nomkaz](#nomkaz)
+
+### SexLab - Others
+
+The following mods have a more _supportive_ role and do not fit any of the other categories.
+
+[SexLab Aroused Monitor Widget](https://www.loverslab.com/files/file/11466-sexlab-aroused-monitor-widget-se/) adds a little widget that displays the arousal levels of nearby actors.
+
+[SexLab Tools](https://www.loverslab.com/files/file/2018-sexlab-tools-v30/) gives you tools to control a scene.
+
+[Sexlab LightMeUp](https://www.loverslab.com/files/file/8275-sexlab-lightmeup/) will illuminate the current SexLab scene so you don't have to pull out any additional torches and can actually see whats happening.
+
+Links:
+
+- [SexLab Aroused Monitor Widget SE](https://www.loverslab.com/files/file/11466-sexlab-aroused-monitor-widget-se/) original by [BeamerMiasma](https://www.loverslab.com/profile/424489-beamermiasma/) converted by [Ecohex](https://www.loverslab.com/profile/3318668-ecohex/)
+- [SexLab Tools](https://www.loverslab.com/files/file/2018-sexlab-tools-v30/) by [Goubo](https://www.loverslab.com/profile/175859-goubo/)
+- [Sexlab LightMeUp](https://www.loverslab.com/files/file/8275-sexlab-lightmeup/) by [Yinkle](https://www.loverslab.com/profile/2924493-yinkle/)
+
+### Nomkaz
+
+You may have seen his name pop up a few hundred times when browsing the [Skyrim: Special Edition](https://www.loverslab.com/files/category/163-skyrim-special-edition/) category on LoversLab. This dude converted everything. Check his profile and leave a nice comment for all his work!
+
+- [LL Profile](https://www.loverslab.com/profile/2695162-nomkaz/)
+- [Patreon](https://www.patreon.com/nomkazsskyrimsemods)
+
+## _SFW_ MOD DESCRIPTIONS UNDER CONSTRUCTION
+ 
+##  Female Bodies And Armors
+
+I'm guessing you came here to appreciate the female form. This Modlist offers two options for that. 
+
+### "BodyGen4"
+
+The "Default" option is a series of procedurally generated body proportions for every person in the game based on their race. Typically, high elves will tend to be more petite, whereas orcs will tend to be more voluptous. If you wish to use this option, download _BodySlide.Output.7z_ from <a href="https://github.com/cacophony-wj/BS.for.LeS/"here</a> and extract it to your _LeS Directory/mods/BodySlide Output/_ folder. When finished, it should contain a folder named _meshes_ with about a dozen other folders inside. These bodies and armors will look funky without BodyGen enabled, so you will have to follow the steps below if you don't wish to use that feature.
+
+### Running BodySlide
+
+If you want to generate your own bodies, **first of all** you need to disable **_BodyGen4_** in the left pane or things will get _really_ weird.
+
+you will also have to follow all of the steps below.
 
 1. **MAKE CERTAIN YOU ARE ON LIGHT BUT KINKY.** Doing so with ensure that all armors for both profiles will be built in one go.
-3. Launch _BodySlide_ from the _Executables_ menu on the right, where you can find a dropdown with items such as _SKSE_, _Skyrim_ and the _Skyrim Launcher_. 
-4. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. Follow the steps below and it will correct itself. **If you do not get this error** it means that there is a Skyrim data folder in the same directory as mine and you need to _make sure_ it is the correct one, so follow the directions below anyway.
-5. Click the _Settings_ button in the lower right corner of _BodySlide_.	
-7. Click _Browse_ next to _Game Data Path_.	
-8. Select your **Data** directory within your **Skyrim Special Edition** directory.
-9. Ensure that the _Preset_ is set to "3BBB HangEmHigh."
-9. Check the _Group Filter_ dropdown to ensure that it reads _3BBB_. (It's just to the left of the _Outfit Filter_ in the upper-right corner.) 
-10. If that dropdown is blank, or something else is listed there, click the small **magnifying glass** within the _Groups Filter_ dropdown.
-11. Place a check in the box beside _3BBB_ (the top option).
-12. Click **OK**.
-14. Ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
-15. **Hold down the CTRL key** (very important) and click _Batch Build_. 
-16. You will see a huge list of bodies and armors. Just click _Build_.
-17. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
-18. **Do not put your armors anywhere but _BodySlide Output_. Do not put them inside a _meshes_ folder inside of _BodySlide Output_. They should go only in _BodySlide Output_.**
-18. I have combined the options greatly so nobody has to waste a lot of time in here. The only thing you need to choose is the color of hair poking out of a few helmets. If you are female, it is probably best to put your own hair color here. If you are male, it doesn't matter, but any female you encounter with one of these helmets will have the hair color you chose here.
-19. Once you have all four helmets chosen, press **OK**.
-20. Wait for all the outfits to be built.
-35. If you have _no interest_ in the _Light But Kinky_ variant, you are now finished. Skip to the last step.
-36. Click the magnifying glass next to _3BBB_.
-37. Uncheck _3BBB_ at the top and check _Unassigned_ at the bottom.
-14. Ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
-15. **Hold down the CTRL key** (very important) and click _Batch Build_. 
-16. Right-click anywhere in the small window and choose _Select None_.
-17. Scroll through the list until you find "BreastRopeExtreme01." Only the most extreme of breast ropes for us!
-18. Select all entries until you reach "BreastRopeWithWaistRopeExtreme02", select it, and then stop.
-19. Scroll all the way to the bottom of the small window.
-20. Starting at the bottom and moving up, check the entries from "ZAZGSBDoggieBelt" to "Shibari."
-21. Press _Build_.
-17. A prompt will appear asking where to put your custom-fitted breast ropes. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
-18. **Do not put your ropes anywhere but _BodySlide Output_. Do not put them inside a _meshes_ folder inside of _BodySlide Output_. They should go only in _BodySlide Output_.**
-18. The ropes should build so fast you'll hardly notice.
-49. If at any point you received a message that an outfit failed to build, write down the outfit that failed, select it from the dropdown, and click the big _Build_ button in the bottom-center. Repeat for any other failed outfits until you get no errors.
-50. You should now be ready to launch Skyrim with the _SKSE_ option under the _Executables_ dropdown. Make certain to switch back to _Light But Sexy_ if that is the list you wish to play.
+2. Launch _BodySlide x64_ from the _Executables_ menu on the right, the one with the **Run** button. 
+3. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. Follow the steps below and it will correct itself. **If you do not get this error** it means that there is a Skyrim data folder in the same directory as mine and you need to _make sure_ it is the correct one, so follow the directions below anyway.
+4. Click the _Settings_ button in the lower right corner of _BodySlide_.	
+5. Click _Browse_ next to _Game Data Path_.	
+6. Select your **Data** directory within your **Skyrim Special Edition** directory.
+7. Ensure that the _Preset_ is set to "3BBB HangEmHigh." If you wish to use a different one, select it from the menu or install your own.
+8. Check the _Group Filter_ dropdown to ensure that it reads _3BBB_. (It's just to the left of the _Outfit Filter_ in the upper-right corner.) 
+9.  If that dropdown is blank, or something else is listed there, click the small **magnifying glass** within the _Groups Filter_ dropdown.
+10. Place a check in the box beside _3BBB_ (the top option).
+11. Click **OK**.
+12. Ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
+13. **Hold down the CTRL key** (very important) and click _Batch Build_. 
+14. You will see a huge list of bodies and armors. Just click _Build_.
+15. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
+16. **Do not put your armors anywhere but _BodySlide Output_.**
+17. I have combined the options greatly so nobody has to waste a lot of time in here. The only thing you need to choose is the color of hair poking out of a few helmets. If you are female, it is probably best to put your own hair color here. If you are male, it doesn't matter, but any female you encounter with one of these helmets will have the hair color you chose here.
+18. Once you have all four helmets chosen, press **OK**.
+19. Wait for all the outfits to be built.
+20. If you have _no interest_ in the _Light But Kinky_ variant, you are now finished. Skip to the last step.
+21. Click the magnifying glass next to _3BBB_.
+22. Uncheck _3BBB_ at the top and check _Unassigned_ at the bottom.
+23. Ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
+24. **Hold down the CTRL key** (very important) and click _Batch Build_. 
+25. Right-click anywhere in the small window and choose _Select None_.
+26. Scroll through the list until you find "BreastRopeExtreme01."
+27. Select five entries.
+28. The last one selected should be "BreastRopeWithWaistRopeExtreme02."
+29. Scroll all the way to the bottom of the small window.
+30. Starting at the bottom and moving up, sekect the eight entries from "ZAZGSBDoggieBelt" to "Shibari."
+31. Press _Build_.
+32. A prompt will appear asking where to put your custom-fitted breast ropes. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
+33. **Do not put your ropes anywhere but _BodySlide Output_.**
+34. The ropes should build so fast you'll hardly notice.
+35. If at any point you received a message that an outfit failed to build, write down the outfit that failed, select it from the dropdown, and click the big _Build_ button in the bottom-center. Repeat for any other failed outfits until you get no errors.
+36. You should now be ready to launch Skyrim with the **_RUN ME_** dropdown. Make certain to switch back to _Light But Sexy_ if that is the list you wish to play.
+
+## A bit of a note on schlongs and strap-ons
+
+Rather than use _SexLab_'s rather boring and badly-fitted strapon for scenes were a female is mistakenly placed in male role, an Oldrim mod called _Equippable Schlong_ has been included. To configure its appearance, follow these steps:
+
+1. Open the inventory.
+4. Click on the item _AddItemMenu_.
+5. Pull out the item _AddItemMenu - Search_ (the one with the box icon, not the book icon).
+6. Close and re-open the inventory.
+7. Click on _AddItemMenu - Search_.
+8. Type in _Schlong_ and click on _Equipable Schlong_ (yes it is misspelled).
+9. If you are running _Light But Kinky_ be sure to configure _Cursed Loot_ as per the instructions first or you will cover the schlong in shame when you go naked.
+10. Equip the schlong from your inventory.
+11. Open the console with the _tilde_ key (`).
+12. Type in _TFC_.
+13. Close the console with the same key.
+14. Adjust the camera with WASD + mouse to get a good view of the pelvic region, preferably from the side.
+15. Open the console again.
+16. Type in _showracemenu_.
+17. Navigate over to _Genitals_.
+18. Adjust that bad boy as you see fit.
+19. Open your inventory and drop it on the ground.
+20. Open the console again and type tfc a final time.
+
+It should automatically appear when appropriate (Amorous Adventures scenes are the worst for this).
+
+If you are male, the above steps can also be used to customize your own schlong.
+
+## The below sections will be reworked and relocated 
 
 ##  A Note on SexLab for the Uninitiated
 
@@ -329,7 +496,7 @@ You can always watch a scene from an external view with SexLab's default freecam
 
 ###  Defeat
 
-Defeat is ... a little buggy, to say the least... but I have included it in _Light But Sexy_ as a potential death alternative. I have most of it disabled because it breaks too often and forces a reload. About the only things left active in my setup are the ability to "surrender" with the _K_ key, or assault people with the _G_ key. Surrender as soon as you're outnumbered if you want a scene because the delay can be excessive. You can attempt assaults with _G_ if you are **completely undetected** but it will often fail with a two minute timeout before you can try again. This being _Defeat_, it does not inform you of failures or successes. A better option is to back up until your crosshair disappears from your target and press _G_ to "target". You should receive a message that says "_Target_ Marked." Knock them down with an unarmed attack. (If they are really weak they might die from a critical strike.) As much as I would have liked to leave _Witness Intervention_ enabled it is just a total cluster when things start going wrong. Honestly you probably shouldn't even bother, even though _Defeat_ does let you do a lot of devious things after you knock somebody down. It's easier to just set up a scene with _Tools_ (NumPad 2) and use your imagination. If you want to enable more of this mod's features it feel free, but be prepared for situations such as being stuck to the ground, unable to move, stuck to the ground _and_ unable to move, or unable to interact with anything or open your inventory. I will not help you resolve Defeat's issues.
+Defeat is ... a little buggy, to say the least... but I have included it in _Light But Sexy_ as a potential death alternative. I have most of it disabled because it breaks too often and forces a reload. About the only thing left active in my setup is the ability to "surrender" with the _K_ key. Surrender as soon as you're outnumbered if you want a scene because the script delay can be excessive. If you want to enable more of this mod's features feel free, but be prepared for situations such as being stuck to the ground, unable to move, stuck to the ground _and_ unable to move, or unable to interact with anything or open your inventory. I will not help you resolve Defeat's issues.
 
 ##  Specific to Light But Kinky
 
@@ -367,11 +534,11 @@ This is not "officially" supported as per _Wabbajack Rule 11_. That said, I know
 
 **Screen Archery** by adding _Poser Mods_ is not supported. Download the _Cupid_ modlist for this purpose.
 
-For _Gear_ it's as simple as adding it under _Added Mods_ and above _INTENTIONALLY DISABLED_ in the left pane and the very bottom in the right pane. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenuPackSE_ (in your inventory by default) to search for the item by name and put it in your inventory. _AddItem_ is the ultimate cheat, by the way, so don't use it if you want to play the "game" part of the game. I leave it in because this list is mostly sexy people and I want players to look good exactly the way they want.
+For _Gear_ it's as simple as adding it under _Added Mods_ and above _BodySlide Output - LEAVE HERE AT THE END_ in the left pane and the very bottom in the right pane. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenuPackSE_ (in your inventory by default) to search for the item by name and put it in your inventory. _AddItem_ is the ultimate cheat, by the way, so don't use it if you want to play the "game" part of the game. I leave it in because this list is mostly sexy people and I want players to look good exactly the way they want.
 
-For _Follower Mods_ add them and enable them under _Added Mods_ and above _INTENTIONALLY DISABLED_ in the left pane and just above _DynDOLOD_ in the right pane. If they have a lot of custom scripting (Lucien and Inigo are especially guilty of this), you will have to craft an _NFF Ignore Token_ and equip it on them after you recruit them. Be sure _not_ to "Import" incompatible followers into the _Framework_ or everything will break. If you are unsure about your follower, read its description page and all compatibility notes for any problems with "Nether Follower Framework." If any are mentioned, you will probably need an Ignore Token. If your follower mod contains any _world or cell edits_ (changes to game spaces handled in my modlist), there may be more severe conflicts. This usually only happens if the Follower has quests to go along with them. No way to know for sure unless you "filter for conflicts" with _SSEEdit._
+For _Follower Mods_ add them and enable them under _Added Mods_ and above _BodySlide Output - LEAVE HERE AT THE END_ in the left pane and just above _DynDOLOD_ in the right pane. If they have a lot of custom scripting (Lucien and Inigo are especially guilty of this), you will have to craft an _NFF Ignore Token_ and equip it on them after you recruit them. Be sure _not_ to "Import" *any* followers into the _Framework_ or everything will break. Also, do not recruit *any* followers that do not have a default menu option to do so. If you are unsure about your follower, read its description page and all compatibility notes for any problems with "Nether Follower Framework." If any are mentioned, you will probably need an Ignore Token. If your follower mod contains any _world or cell edits_ (changes to game spaces handled in my modlist), there may be more severe conflicts. This usually only happens if the Follower has quests to go along with them. No way to know for sure unless you "filter for conflicts" with _SSEEdit._
 
-Finally, there is a reason I didn't pile this list with the "Greatest Hits of _Lover's Lab_". Most _Lover's Lab_ mods feature extensive scripting which conflicts with other mods, adds a large burden to Papyrus (Skyrim's rather inefficient scripting engine), or both. Mods that constantly scan for changes in the player, other people, or creatures are especially bad for _cloak scripts_ that never terminate. This includes mods that let your hair grow, your boobs get full of milk, or god forbid give every woman in Tamriel a menstrual cycle. I do not and can not support the addition of these mods. If you want them, play with them until they break and start the game over from a pre-configured save in the cell. I can almost guarantee that they will break unless you are extremely conservative. To solve all these issues would require knowledge of Papyrus coding which I do not possess, and likely a migration of a lot of the code to a more efficient scripting language. 
+Finally, there is a reason I didn't pile this list with the "Greatest Hits of _Lover's Lab_". Most _Lover's Lab_ mods feature extensive scripting which conflicts with other mods, adds a large burden to Papyrus (Skyrim's rather inefficient scripting engine), or both. Mods that constantly scan for changes in the player, other people, or creatures are especially bad for _cloak scripts_ that never terminate. This includes mods that let your hair grow, your boobs get full of milk, or god forbid give every woman in Tamriel a menstrual cycle. I do not and can not support the addition of these mods. If you want them, play with them until they break and start the game over from a pre-configured save in the cell. I can almost guarantee that they will break unless you are extremely conservative. To solve all these issues would require knowledge of Papyrus coding which I do not possess. 
 
 It might be possible to squeeze in a greater amount of such mods on a more barebones version of Skyrim. If so, I invite you to download a simple "base" list from **#unofficial-modlist-submissions** to ensure you have critical fixes and then build your list up from scratch. You can always drop by **#NSFW-mod-discussion** to compare experiences.
 
@@ -425,443 +592,525 @@ _Depth of Field_ should be all the way to the left.
 
 These are all to your liking, except for _Quicksave_ which should be set to _F9_, and _Quickload_ which should be set to _F10_. Don't worry about using them becuase _Engine Fixes_ converts them to full saves.
 
-# Game MCM Options
+## Game MCM Options
 
-**NOTE**: Any menus or options not specifically mentioned here can be ignored.
+**NOTE:** Any menus or options not specifically mentioned here can be ignored.
 
-It is _very important_ to **wait** until _all_ messages have ceased appearing in the upper left corner of the screen before continuing. Even after they have stopped, give it another five or ten seconds, just in case.
+It is _very important_ to **wait** until _all_ messages have both ceased appearing and disappearing in the upper left corner of the screen before continuing.
 
-##  SexLab
+### SexLab
 
-Under **Install**
+#### Install
 
-Click **INSTALL/UPDATE SEXLAB 163 SE DEV BETA 8**
+Under **SexLab 1.63 SE dev beta 8 by Ashal@LoversLab.com**
 
-Close the menu and wait for a message in the upper left corner informing you that SexLab is ready. Then open the MCM and continue.
+Click _INSTALL/UPDATE SEXLAB 163 SE DEV BETA 8_
 
-###  Sex Diary
+Close the menu and wait. Once again, a series of messages will appear in the upper left corner. 
 
-**Sexuality: Your choice.**
+Do not touch the mouse or keyboard until the following message appears:
 
-Only determines which sex causes your arousal level to increase if you see them naked.
+**SexLab - SexLab v1.63 SE dev beta 8 - Ready!**
 
-###  Rebuild & Clean
+Then open the MCM and continue.
 
-Click **Import Settings: Click Here**
+####  Rebuild & Clean
 
-It should confirm this choice, wait for the message after you click it.
+Just below **Debug / Development Mode** in the upper right corner, click _Import Settings: Click Here_
 
-If you are playing _Light But Kinky_ **and** wish to experience potentially involuntary encounters with non-humanoid entities, enable _Creature Animations_ on the _Animation Settings_ page, close the menus, and wait until the _Enabled_ message appears **twice**.
+A message will appear which concludes with "Do you want to continue?" Click _Accept_
 
-**A bit of a note on strap-ons**
+Another message will appear, "SexLab configuration successfully imported." Click _Accept_
 
-It seems that strap-ons are universally loathed among the Skyrim NSFW community, but SexLab loves them in female scenes and likes to use them at every opportunity if they are enabled. So I have included an old and forgotten Oldrim mod called "equippable schlong" available in the **Rebuild/Clean Menu**. It basically attaches a full SOS schlong to female characters with physics and collisions instead of a strap-on and is fully customizable from Racemenu. To use it, follow these steps:
+Finally, under **Available Strap-ons** near the lower left you will see _Calyps Strapon REMOVE_. Click this option and wait for it to disappear from the list of strap-ons.
 
-1. Go back to **Rebuild/Clean**.
-2. Disable the terrible SexLab strapon by clicking **Calyps Strapon - Remove**.
-3. Close the MCM and open your inventory.
-4. Click on the item _AddItemMenu_.
-5. Pull out the item _AddItemMenu - Search_ (the one with the box icon, not the book icon).
-6. Close and re-open your inventory.
-7. Click on _AddItemMenu - Search_.
-8. Type in _Schlong_ and click on _Equipable Schlong_ (yes it is misspelled).
-9. If you are running _Light But Kinky_ be sure to configure _Cursed Loot_ as per the instructions first or you will cover the schlong in shame when you go naked.
-10. Equip the schlong from your inventory.
-10. Open the console with the _tilde_ key (`).
-11. Type in _TFC_.
-12. Close the console with the same key.
-13. Adjust the camera with WASD + mouse to get a good view of the pelvic region, preferably from the side.
-14. Open the console again.
-15. Type in _showracemenu_.
-16. Navigate over to _Genitals_.
-17. Adjust that bad boy as you see fit.
-18. Open your inventory and drop it on the ground.
-19. Open the console again and type tfc a final time.
+If _Light But Kinky_ is the active profile, navigate to
 
-It should automatically appear when appropriate (Amorous Adventures scenes are the worst for this).
+#### Animation Settings
 
-##  A Matter of Time
+And click _Allow creature animation_ in the upper right. Close the MCM and wait until a message stating **SexLab Creature Animations Installed** appears **twice**.
 
-###  Presets
+Creature animations **will not work** for the _Light But Sexy_ profile. Do not attempt it.
 
-Click **User Settings: Load User Settings**
+Finally, _SexLab_ is configured so that opposite-sex characters cause you to become aroused by default. If you wish to change this, reopen the MCM and navigate to
 
-Answer yes and wait for confirmation.
+#### Sex Diary
 
-##  AGO
+Under **Sexual stats** on the right, click _Sexuality_ until your preference (Bisexual, Homosexual or Lesbian) appears.
 
-###  Settings
+### SAVE AND LOAD!
 
-The only one you need to de-select is **Persistent Arrows.**
+Lover's Lab recommends saving and loading the game immediately after fully configuring SexLab. Please do so now. If the QuickSave and QuickLoad buttons have changed, recall that they are now _F9_ and _F10_.
 
-## Cathedral Weather
+###  SL Anim Loader
 
-### Settings
+####  General Options
 
-Uncheck **Configuration Spell**.
+Click _Enable All: Click Here_
 
-## CBBE 3BBB Addon
+Click _Register Animations: Click Here_
 
-**Only necessary for _Light But Kinky_**
+Wait for the **Registered _X_ new animations** message (the number varies for each profile). Be patient, it can take up to five minutes.
 
-Click on every **Use Slot** and change it to _60 - Devious Devices Compatible_.
+###  A Matter of Time
 
-##  CGO
+####  Presets
 
-###  Settings
+Click _User Settings: Load User Settings_
 
-Set **Hotkey** to _Shift._ This enables you to use any weapon one or two handed. Keep in mind that the way you wield a weapon affects how you skill up, e.g. two-handed grip levels up two-handed, etc. Dual-wielding bacon is not yet an option.
+Answer with _Accept_ and wait for the message **The configuration was loaded successfully.**
 
-Set **Dual Wield Blocking** to _Mouse 3_. This is your scroll-wheel button, if you have one. Otherwise, you are going to have to make a judgment call.
+### AGO
 
-**Enable iFrames** for a little Souls-ish gameplay.
+#### Settings
 
-Ensure that **NPCs Dodge** is _unchecked_.
+Disable _Persistent Arrows_
 
-I like the _procedural 1.00 leaning_, but if it seems a bit silly to you, toning it back to _0.50_ might be more appropriate. Turn it off completely if you hate the idea of it.
+### Cathedral Weather
 
-Finally scroll down and under **Unlocked Movement** ensure that **Power Attacks (NPCs)** is _unchecked_.
+#### Settings
 
-##  Cursed Loot
+Disable _Configuration Spell_
+
+###  CGO
+
+#### Settings
+
+_Unlocked Grip_
+
+Click on _ESC_ next to _Hotkey_ and press the _Shift_ key.
+
+Uncheck _Sweeping 2H Hitboxes_
+
+Uncheck _NPCs Change Grip_
+
+Uncheck _Skill Matches Grip_
+
+Set **Stationary Speed Boost** to _0%_
+
+_Dual Wield Blocking_
+
+Click on _ESC_ next to _Hotkey_ and click down on your mouse wheel (should say _M3_ after this)
+
+_Dodge Roll_
+
+Uncheck _Enable iFrames_
+
+Uncheck _NPCs Dodge_
+
+_Leaning_
+
+I prefer the _procedural leaning_ and _camera movement_ at X1.00, but it disagrees with many players' sense of style or their stomachs.
+
+To ensure this doesn't happen for any other users, I recommend the following values:
+
+**Lean Multiplier (1st Person)**: _X0.25_
+
+**Lean Multiplier (3rd Person)**: _X0.25_
+
+_Camera Noise_
+
+**Camera Noise Mult (1st Person)**: _X0.25_
+
+### Cursed Loot
 
 **Only available with _Light But Kinky_.**
 
-This mod will act wildly different depending on whether you enabled the _Lenient_ or _Punishing_ preset in MO2. In either case, go to
+#### Debug
 
-###  Debug
+Click _Import Settings - USE_ and upon viewing the message asking **Are you sure?** click _Accept_
 
-And hit **Import Settings** and confirm.
+### Deadly Dragons
 
-##  Deadly Dragons
+#### Dragons
 
-These boys are plenty hard on Vanilla, so just remove **Knockdown** from their abilities.
+_Special_
 
-##  Devious Device Helpers
+Uncheck _Knockdown_
 
-**Only available with _Light But Kinky_.**
-
-This is a lot to take in so just disable the random bondage option for Shops and Other Dwellings. Just keep in mind if your follower asks to tie you up to give it some serious thought!
-
-##  Devious Devices
+### Devious Devices Helpers
 
 **Only available with _Light But Kinky_.**
 
-Tailor this to your _Cursed Loot_ preset. If you are running "Punishing" just leave everything as it is. If you are running "Lenient" I recommend tuning all the difficulties to **Vanilla**, **Disable Lock Jam**, set **Blindfold Strength** to 0.10 and **Dark Fog Strength** to 200, disable **Boots Slowdown Effect**, **Hardcore Bondage Mittens** and set **Hobble Skirt Debuff Strength** to 25, which is the lowest (fastest movement) it will go.
+Uncheck _Shops_
 
-##  Extended UI
+Uncheck _Other Dwellings_
 
-Check **Hide Legendary UI elements**, **Show attribute modifiers**, and **Show skill modifiers**.
+###  Extended UI
 
-##  FEC
+#### Stats Menu
 
-###  Player Effects
+Check _Hide Legendary UI elements, Show attribute modifiers,_ and _Show skill modifiers_.
 
-You could spend all day in here so I just recommend enabling **Soul Absorb**.
+###  Follower Framework
 
-##  Follower Framework
+####  System
 
-###  System
+In the upper right, click _Load From File - CLICK HERE_
 
-Hit **Load From File** and exit the menu. Then re-enter.
+At the message **Settings Loaded. Please exist the MCM menu to apply all changes.** click _Ok_
 
-You might want to check out the hotkeys to see what they've been set to. They're inspired by our overlord.
+Exit the MCM and re-open it.
 
-_The QuickSave buttons need to be changed if you use these Hotkeys._ I recommend going to **Settings > Controls** and setting _QuickSave_ to F9 and _QuickLoad_ to F9. 
+Familiarize yourself with the keys under this menu's header labeled **Hotkeyed Abilities**.
 
-If the old keys are baked in your memory, please leave them alone and disable the follower hotkeys here. All the same tasks can be accomplished via spells.
+### GIST Soul Trap
 
-##  GIST Soul Trap
+#### Main
 
-Just enable **Show message on soul trapped**
+_Notifications_
 
-## LOTD Settings
+Enable _Show message on soul trapped_
+
+#### Leveling
+
+Check _Enable Leveling System_
+
+For the skill, select _Enchanting_
+
+### LOTD Settings
 
 This is primarily intended for moments in _Light But Kinky_ when you can't Fast Travel.
 
-### Shipment Crate Locations
+#### General
 
-Enable the following: _Carriages_, _Inns_, _Player Homes_.
+_Shipment Crate Locations_
 
-## Moonlight Tales
+Enable _Carriages_
 
-Disable **Transform Back Stagger**
+Enable _Inns_
 
-Set **Difficulty Scale** to _Expert_ (This makes your werewolf form more powerful, not less)
+Enable _Player Homes_
 
-Set **Werewolf Appearance** to _Alpha (Black with Red Eyes)
+### Moonlight Tales
 
-_When you spawn in game_
+#### Tools
 
-The "Ancient Ring" will ask you for your Difficulty again. Answer _Expert._
+_General_
 
-Use this MCM to remove the "Ancient Ring" from your inventory under **Tools**.
+Uncheck _Transform Back Stagger_
 
-##  Quick Light
+_Apperance_
 
-Set **Type of Light Source** to _Lantern_
+Select _Alpha (Black with Red Eyes)_
 
-**Brightness** to _Wide
+_Lunar Transformations_
 
-**Light Key** to _NUMPAD 1_
+Click _SKINWALKER (MEDIUM CHANCE)_ and change it to _Full Moon Fever (Full Moon Only)_
 
-##  Sacrosanct Vampires
+###  Quick Light
 
-Only thing you need to tick here is **Fortitude: Disable**
+_Brightness: Wide_
 
-##  SexLab Aroused
+_Light Key: NUMPAD 1_
 
-Hit **Purge Dead Actors Every 10 Game Days** and **Enable SOS**.
+Uncheck _Enable to Long press activation key_
 
-##  SexLab Eager NPCs
+### Sacrosanct Vampires
+
+#### Vampire Spells, Powers and Abilities
+
+Click _Fortitude: Disable_
+
+###  SexLab Aroused
+
+#### Settings
+
+_General_
+
+Check _Purge Dead Actors Every 10 Game Days_
+
+Check _Enable SOS_.
+
+###  SexLab Eager NPCs
 
 **Only available with _Light But Sexy_.**
 
-###  General
+####  General
 
-Hit **Enable and load profile**. You'll be having a _lot_ of sex on the installed profile. If that bothers you, come back to this menu and tinker with the options until you get something you like.
+Click _Enable and load profile - (CLICK)_. 
 
-This mod takes a bit to activate. Exit the MCM and wait for two abilities to be added, then open it and continue.
+Upon receiving the message **Profile loaded successfully!** click _OK_ and close the MCM.
 
-##  SexLab LightMeUp
+You'll be having a _lot_ of sex on the installed profile. If that bothers you, come back to this menu and tinker with the options until you get something you like.
 
-### Settings
+This mod takes a bit to activate. 
 
-Change &&Minimum lighting for auto lights** to _75._
+Wait for two messages to appear in the upper left: **Mounted Exposure (SLEN) added** and **Masturbate (SLEN) added**.
 
-##  SexLab Solutions
+###  SexLab Solutions
 
 **Only available with _Light But Sexy_.**
 
-###  Followers
+####  follower
 
 Choose the appropriate options here to offer a follower instead of yourself for sexual favors. This is mainly useful if you aren't attracted to a particular sex.
 
-###  Miscellaneous
+####  Miscellaneous
 
-**Integration**: click _SLEN integration_
+_Integration_
 
-## SINFul CBP
+Click _SLEN integration_
 
-I recommend you **Load into** Slot 01, which uses the _Popstar_ preset with very low belly bounce exception.
+### SexLab Tools
 
-But feel free to try out a different preset by selecting one and jiggling your jigglies.
+#### Settings
 
-**Note**: Any time you turn on _SMP_ these settings are overridden by that engine.
+_Matchmaker queue_
 
-##  Sky UI
+**Matchmaker queue key**: set to _NUMPAD 2_
 
-###  General
+Ignore the message that the key is already mapped and answer "Yes."
 
-**Font Size** to _Small_
+**Please Note**: You can hover your crosshair over any actor and press _NUMPAD 2_ to set up a sex scene. While a scene is running, you can press the _H_ key to select from a list of available scenes.
 
-Disable **Active Effects HUD**
+###  Sky UI
 
-###  Controls
+####  General
+
+_Item List_
+
+**Font Size**: _Small_
+
+_Active EFfects HUD_
+
+Uncheck _Enabled_
+
+####  Controls
+
+**First ensure that you have configured QuickSave to F9 and Quickload to F10 or you will lose all your work so far.**
 
 Set the first four **Favorite Groups** to _F5 - F8_ to avoid a conflict with follower commands. 
 
-**PLEASE NOTE**: QuickSave is set to _F9_ and QuickLoad to _F10_ in both of my variants. Do not change them back.
+###  SLA Monitor Widget
 
-##  SL Anim Loader
+####  Profiles
 
-###  General Options
+Click _Load from global profile_
 
-Press **Enable All: Click Here**
+Choose _Global.1_, the only one available.
 
-Press **Register Animations: Click Here**
+Upon receiving the message which concludes **Are you sure you want to continue?**, click _Accept_
 
-Wait for the "Registered X new animations" message. Be patient, it can take up to five minutes.
+It will take a few moments, then the message **The Global.1 profile was restored successfully.** will appear.
 
-##  SLA Monitor Widget
+Close and re-open the MCM.
 
-###  Scanner Settings
+####  Scanner Settings
 
 Customize the scanner to your taste. It will tell you who (or what) is horny and how greatly. If you are only interested in females, choose that option. If you are only interested in humanoids, choose that option. It's up to you.
 
 I must insist that you set **Interval** of no lower than _60_ and a **Range** of no greater than _1024_.
 
-###  Widget Looks
+###  Storm Lightning
 
-Recommend **Vertical Anchor** of _Center_ and **Font size** of _16 PTS._
+####  Presets
 
-This takes a bit too. Exit the MCM and re-enter.
+Choose _Ultra Realistic_ and wait for it to say **DONE**
 
-##  Storm Lightning
+#### Advanced
 
-###  Presets
+Check _Compatibility Mode_
 
-Choose **Ultra Realistic** and wait for it to say _DONE_
+### Summermyst Enchantments
 
-### Advanced
+Check _Enable Fortify Skill Caps_
 
-Be certain to tick **Compatibility Mode**.
+###  Trade & Barter
 
-##  Trade & Barter
+####  Barter Rates
 
-###  Barter Rates
+_Settings_
 
-Enable **Modify Barter Settings**
+Enable _Modify Barter Settings_
 
-Select **Barter Presets: Medium**
+_Presets_
 
-##  Ultimate Combat
+Select _Barter Presets: Medium_
 
-###  General
+### Ultimate Combat
 
-Disable **Speed Bonus.**
+#### General
 
-###  NPC Setting
+_Game Balance Settings_
 
-**NPC**
+Disable _Speed Bonus_
 
-Select **Dodge: Disable**.
+_Others_
 
-##  Wildcat Combat
+Disable _Swing Effect_
 
-Be sure to press
+_Locational Damage_
 
-**Disable Dynamic Combat**
+Increase _Headshot Damage Mult_ to _2.0_
 
-Because it causes a lot of weirdness.
+#### NPC Setting
 
-Under **Difficulty** hit _Allow Wildcat to Manage Difficulty_.
+_NPC_
 
-##  Defeat
+Select _Dodge: Disable_
 
-Only available with _Light But Sexy_.
+### Wildcat Combat
 
-###  General Settings
+#### Stamina Costs
 
-First hit **Install Mod.** Close the MCM and wait for the message _Defeat: Installed_. 
+Check _Disable Pulled/Held Bow Stamina Cost_
+
+Scroll down to the bottom.
+
+#### Injuries
+
+Check _Switch to Burst Injuries_
+
+#### Timed Block
+
+Check _Disable Timed Block_
+
+#### difficulty
+
+Check _Allow Wildcat to Manage Difficulty_
+
+### XPMSE
+
+Check _Disable Style Cloak Spell_
+
+###  ZaZ Animation Pack
+
+**Only available with _Light But Kinky_.**
+
+####  SexLab
+
+When first clicking this menu, it may appear to be stuck. It takes about a minute to show any visible change. Just wait. 
+
+**SexLab Animations**: Click the grayed out word _Register_ and wait 30 - 60 seconds until the greyed out word _Registered_ appears. 
+
+Under **Animation**, uncheck _Override_ as Devious already handles this function.
+
+###  Defeat
+
+**Only available with _Light But Sexy_.**
+
+Please ensure that you have configured every other MCM before this one.
+
+Then save and load your game.
+
+This is in case you need to change settings upon a restart, because Defeat must always be configured _last_.
+
+####  General Settings
+
+Click _Mod Status - DISABLED_
+
+Upon receiving the message **Installing... you must close the menu and wait until you see the notification.** click _Accept_
+
+Close the MCM and wait for the message **Defeat: Installed**. 
 
 Re-open.
 
-Next, hit **Import Settings** on the right.
+Next, click _Import Settings_ on the right.
 
-## XPMSE
+## All done!
 
-**Only relevant to _Light But Kinky_.**
+There you go, fellow deviant. Be sure to press **F10** for a last second save in case spawning into Skyrim prompts a crash (which has been known to happen, it helps if you give it a minute before trying). Talk to the Mara statue to begin your journey. If you are on _Light But Sexy_, I recommend one of the _Something Sexy_ starts (dropped nude into a sticky situation) and if you are on _Light But Kinky_, I recommend the _Sex Slave_ start for a good look into how _Cursed Loot_ works. Spoiler though, there is no sex, just lots of bouncy-boobed slow-walking in bondage gear.
 
-I don't know why but this mod gets all wonky on _LBK_. Change all of the _Styles_ options to _Default_ or you'll have weird issues like disappearing sheathed weapons or drawn arrows sticking to your hand.
+##  Troubleshooting
 
-##  ZaZ Animation Pack
-
-Only available with _Light But Kinky_.
-
-###  General
-
-Don't change anything if you're on "Punishing." Otherwise, set **Bound Hands** to _Light Struggle,_ **Shackled Movement Speed** to 100%, and **Blindfold Amount** and **Pulse** to 10%.
-
-###  SexLab
-
-This menu takes a good minute to appear after you click on it. It may seem stuck. Just wait. 
-
-**SexLab Animations**: To the right of this you will see _Register_. Click it and wait a good bit until the greyed out word _Registered_ appears. 
-
-Under **Animation**, uncheck **Override** as Devious already handles this function.
-
-# All done!
-
-There you go, fellow deviant. Be sure to press **F9** for a last second save in case spawning into Skyrim prompts a crash (which has been known to happen). Talk to the Mara statue to begin your journey. If you are on _Light But Sexy_, I recommend one of the _Something Sexy_ starts (dropped nude into a sticky situation) and if you are on _Light But Kinky_, I recommend the _Sex Slave_ start for a good look into how _Cursed Loot_ works. Spoiler though, there is no sex, just lots of bouncy-boobed slow-walking in bondage gear. 
-
-However you choose to enjoy NSFW Skyrim, soft or hard, I hope your experience is fulfilling (or at least titillating.) Keep checking the NSFW channels for releases including _Cupid_, _Lotus_ and _Bakarim_ which are far more in-depth than I can muster.
-
-#  Troubleshooting
-
-## I can't even launch _Mod Organizer_ because it tells me I don't have permission for a downloads directory.
-
-This is my mistake because I have such little free hard drive space as a modlist developer. Sometimes I switch directories around and forget to revert them. If this happens to you, open _ModOrganizer.ini_ and type in your downloads directory instead of the one I have listed.
-
-##  What are all these Form 43 warnings? I thought Form 43 was bad news. 
+###  What are all these Form 43 warnings? I thought Form 43 was bad news. 
 
 In the normal modding world this would be true, but this is Lover's Lab, which is notoriously resistant to change. Some of the mods have issues if they are converted. So **do not attempt to convert the Form 43 plugins into form 44**! These are left this way intentionally. I can't stop MO2 from warning you about them but I can strongly insist that you not act on those warnings.
 
-## Why are there so many duplicated animation folders? _or_ Why do I have to CTRL-CLICK to build _BodySlide_?
+### Why are there so many duplicated animation folders? _or_ Why do I have to CTRL-CLICK to build _BodySlide_?
 
 _Mod Organizer 2_ does not put edits to existing files in the _overwrite_ folder, only newly created files. _CBBE_, _3BBB_ and _BD_ come with "default" meshes that will be changed by _BodySlide_ if you do not direct them to the proper directory yourself. Likewise, _Nemesis_ edits all the animation source files when it updates instead of putting the changes in the overwrite folder. If you don't believe me, I encourage you to check _MO2_'s documentation or the _Nemesis_ closed _Issues_ section on Github. If this doesn't convince you, I encourage you to test it yourself.
 
-## I tried to wear a piece of gear but my body disappeared!
+### I tried to wear a piece of gear but my body disappeared!
 
-The _Devious_ equipment is invisible unless _BodySlide_ is fully run. Follow all the steps in the _BodySlide_ section again.
+The _Devious_ equipment is invisible unless _BodySlide_ is fully run. Follow all the steps in the _BodySlide_ section.
 
-##  My skin pokes through my armor! or My bald head pokes through my hood!
+###  My skin pokes through my armor! or My bald head pokes through my hood!
 
 Particularly voluptuous (thicc) BodySlide presets will cause clipping (skin poking through clothing) on some outfit variants that are skintight. This may include randomized women from BodyGen. Nothing can be done about this so either ignore it or generate everyone with a more subdued BodySlide preset. 
 
 There are also issues with some hoods causing bald heads to poke through that I have yet to resolve. This mostly happens when the PC wears a hooded robe and crouches, so if it bothers you, don't do either of those things.
 
-## Some of me is too _jiggly_! (Especially the belly.)
+### Some of me is too _jiggly_! (Especially the belly.)
 
 I tried to minimize it as much as possible, but the available CBPC presets are kinda not ideal. Either reinstall the _CBBE 3BBB_ mod (position 256) and experiment with the CBPC options or install _Sinful CBPC_ (Google it) for fine control. Load order shouldn't matter, but if the MCM won't appear, open the console and type _setstage ski_configmanagerinstance 1_ and wait for the message(s).
 
-## I read a skill book but my skill didn't go up!
+### I read a skill book but my skill didn't go up!
 
-This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. If you're not locked up with something alleviate that need and then read the book. If you're locked into gear and can't _take care of business_, you're out of luck. Leave the book where it is and read the next one you come across, otherwise it will be wasted.
+This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. If you're not locked up with something, alleviate that need and then read the book. If you're locked into gear and can't _take care of business_, you're out of luck. Leave the book where it is and read the next one you come across, otherwise it will be wasted.
 
-## I'm running _Light But Kinky_ and I can't find my save!
+### I'm running _Light But Kinky_ and I can't find my save!
 
 Try using _Show All Saves._ Devious or Cursed Loot (one of the two) sometimes puts them in a weird place, most likely because of legacy scripts.
 
-## The head bob is making me sick! I want to turn it off!
+### The head bob is making me sick! I want to turn it off!
 
 Untick _Immersive First Person View_ in the left pane, then go into the MCM for _CGO_ and set _Camera Noise Mult (1st Person)_ to 0.00.
 
-## CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!
+### CGO isn't leaning / dodging! _or_ When I go into an adult scene, I hear sounds and voices but they just stand there!
 
-I sometimes forget to run _Nemesis_ before uploading a build. Smack me on Github or in the channel and I'll do it. If you don't want to wait follow these instructions.
+I sometimes forget to run _Nemesis_ before uploading a build. Make a comment in Discord and I'll get to it when possible.
 
-1. Choose whichever variant you wish to play, _Light But Sexy_ or _Light But Kinky_
-2. **Ensure that all FNIS mods are disabled in the left pane. Yes, this includes FNIS Output.**
-3. Select  _Nemesis Unlimited Behavior Engine_ from the _Executables_ drop down box (same place as _SKSE_ and _BodySlide_)
-4. Press **RUN**
-5. **Only for _Light But Sexy_**: Ensure that _Archery Gameplay Overhaul_, _Combat Gameplay Overhaul SE_, _360 Movement Behavior SE_, _Gender Specific Animations_, and _Ultimate Combat / TK Dodge_ are all **CHECKED**
-6. **Only for _Light But Kinky_**: Ensure that _Archery Gameplay Overhaul_, _Combat Gameplay Overhaul SE_, _Gender Specific Animations_, and _Ultimate Combat / TK Dodge_ are all **CHECKED**
-7. Press **Update Engine**. Be patient, it can sometimes take upwards of three minutes.
-8. Once you receive the message "Engine Update Complete," press **Launch Nemesis Behavior Engine.** This will also require patience.
-9. When you receive the "Complete" message, close the Engine with the _X_ box.
-10. **Only for _Light But Kinky_**: Re-enable _FNIS Output_ in the left pane.
-11. You are ready to play _Skyrim_ by choosing _SKSE_ from the _Executables_ drop down box and pressing **RUN**
+###  I did all that but the things are still just standing there, especially when I get assaulted.
 
-##  I did all that but the things are still just standing there, especially when I assault someone / get assaulted.
-
-_Skyrim Special Edition_ is not well supported by the _Lover's Lab_ community, or at least not as robustly. Most players seeking to use such content do so on _Oldrim_ or _Legendary Edition,_ which unfortunately suffers from an inferior engine as far as stability and memory management goes. _Legendary Edition_ is also not "officially" available on _Steam_ any longer, which discourages primary mod (and modlist) developers from supporting it. 
+_Skyrim Special Edition_ is not well supported by the _Lover's Lab_ community, or at least not as robustly. Most players seeking to use such content do so on _Oldrim_ or _Legendary Edition,_ which unfortunately suffers from an inferior engine as far as stability and memory management goes. _Legendary Edition_ is also not "officially" available on _Steam_ any longer, which discourages mainstream mod (and modlist) authors from supporting it. 
 
 As such, animations triggered from the SE versions of _Defeat_ and _Cursed Loot_ seem to be called in a slightly different fashion than those from _SL Tools_, _SL Solutions_, or _SLEN_. They suffer from intolerable script lag at times, regardless of how many mods or animations are installed. I understand it's a known issue that is being worked on, but until it is resolved, you'll have to break your immersion a bit. If an animation seems stuck **and** there are no moans of pleasure, just various breathing and grunts (or silence), open the console with the tilde key (`), wait for all messages to cycle, then close the console again. You may have to repeat this process at least once.
 
-## My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.
+### My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.
 
 First, if you added something, remove it or rerun _Wabbajack._ If you didn't add anything, there's not much I can do. _Devious_ handling of these matters is extremely finicky in its original version on Oldrim and even more so for Special Edition. Facial Expressions in Special Edition have always been a problem and the NPC arm / invisible hands problem persists to this day no matter which version you use. If you want a more bug-free game, don't use _Devious Devices_ because this is **way** out of Skyrim's purview.
 
-##  I'm locked into some gear and I can't move in third person.
+###  I'm locked into some gear and I can't move in third person.
 
 _Devious Devices_ doesn't like the SE version of _Immersive First Persion View_ very much. Don't disable IFPV after enabling it or you will get this bug every time you stop moving while in restrictive gear. If you were unaware of this fact, save your game, reload, and the problem should go away. Don't enable _Immersive First Person View_ while locked up unless you plan to stay in first person.
 
-## Stuff is disabled. Did you forget? Or, can I enable it all, for the best of both worlds?
+### I'm playing _Light But Kinky_ and I'm in such an incredible amount of bondage gear that I can't do anything at all!
+
+Time to reload a save before you got into that situation. Seriously, if there were an option to prevent nested equipping of Devious Devices I would enable it. But there isn't. Not without disabling most of the hilariously meme-worthy scenarios. If you get equipped in anything extremely punishing, I recommend reloading your game if anything else really punishing gets equipped on you. Unless you just want to see how ridiculous things can get.
+
+### Stuff is disabled. Did you forget? Or, can I enable it all, for the best of both worlds?
 
 No. All that stuff is disabled on purpose. Most of it is for technical reasons. For example, _Cursed Loot_ shuts down all of _Eager NPCs_ functions, even if you disable _Cursed Loot_, so the two won't work together. This being the biggest way to experience consequence-free romance, I left the other "free love" mods disabled for roleplay reasons, since _Light But Kinky_ is supposed to be a harsh, punishing world. If you really want more options in _Light But Kinky_, these mods are _okay_ to enable, but don't fit the theme:
 
 - Amorous Adventures Extended SSE v1.2.3
-- AmorousAdventures 3.4 SE
 - SexLab Solutions v3 - Revisited SE v1.1.5
 
 Just tick them in the left pane, move them under "SexLab Quests", and move the ESPs that showed up at the bottom of the right pane somewhere with the rest of the SexLab stuff. It shouldn't matter too much where since none of them conflict with anything. _Do not_ enable anything else because it all conflicts even though multiple support threads might assure you it doesn't. For example, _Defeat_ does not recognize equipped devices, so you can totally be taken advantage of straight through chastity gear in a full set.
 
 As far as enabling stuff in _Light But Sexy_... _don't try it._ None of the Devious stuff will work because of the reasons above. You might could get creatures to work but it would be very complicated and would probably end up in a T-Pose that requires a full reinstall of Nemesis and FNIS. Just trust me on this, if you want kink you already have it in _LBK_. Spend some time in _Cursed Loot's_ MCM disabling the parts you hate. It can all be figured out just from the menu, but the support thread for the mod on _Lover's Lab_ goes into more detail. A few kind folks in there even share their own setups that you can import!
 
-# Gameplay Tips - Walkthroughs - Light Spoilers for the Hopelessly Stuck.
+## Gameplay Tips - Walkthroughs - Light Spoilers for the Hopelessly Stuck.
 
-## I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!
+### I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!
 
 Life isn't fair and _Cursed Loot_ doubles down on that. Seriously, though, there are a couple of weird spawn areas that can be troublesome with _Animallica_ and _Immersive Patrols_. Be sure to save your game before exiting the hideout either time and hope you don't get a mob spawn nearby or at Sarethi farm.
 
-## I can't find those damn keys in the _Light But Kinky_ "princess" start!
+### I can't find those damn keys in the _Light But Kinky_ "princess" start!
 
 They are non-existent until triggered. The _hideout key_ spawns outside on a random slaver corpse after you are free from the cage. You must search every body until you find it. I will tell you that the bodies are all near the road and do not go beyond the man on the ledge on one extreme or the man in the weeds on the other, so keep checking. The _office key_ spawns when you search the body of the Slaver Boss and read the note pop-up. Search every corpse and chest in the room until you find it. If you can't find it at first, keep searching until you do. I have never had an instance where it didn't show (and I have tested it many, many, _many_ times)
 
-## Where the hell do I go after Chloe tells me about the secret passage?
+### Where the hell do I go after Chloe tells me about the secret passage?
 
 Go back out the way you came and to the cave where Ralof and Hadvar are. The main quest may break if you go through _Cursed Loot's_ "narrow passage" shortcut and the _Unofficial Patch_ makes sure to warn you about it, so I have removed that option. Go all the way back in the cave until you get to the room with the spiders, kill them (or let Chloe do it, she's a beast) and search the Imperials in there for a _Torn Note_. Read the note.
 
-## I was bound and then defeated and then teleported somewhere and now I can't get up from the ground!
+### I was bound and then defeated and then teleported somewhere and now I can't get up from the ground!
 
 Wait 30 seconds, save, wait 30 more seconds, reload the save you just made. If this doesn't allow you to stand up, you'll have to load a game from before you were defeated.
+
+## Removing the Modlist
+
+You can just remove the _LeS_ folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
+
+## Contact
+
+I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-et-servitium-support).
+
+## Contributing
+
+See [Contributing](CONTRIBUTING.md).
+
+## Changelog
+
+See [Changelog](CHANGELOG.md).

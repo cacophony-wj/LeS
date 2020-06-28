@@ -5,9 +5,6 @@
 *SexLabAroused.esm
 *LegacyoftheDragonborn.esm
 *MajesticMountains_Landscape.esm
-*ApachiiHair.esm
-*ApachiiHairFemales.esm
-*ApachiiHairMales.esm
 *3DNPC.esp
 *Vigilant.esm
 *Wyrmstooth.esp
@@ -42,12 +39,14 @@
 *dD-No Spinning Death Animation.esp
 *Fixed body collision.esp
 *Dragon Stalking Fix.esp
+*RaceMenuHH.esp
 *Cathedral Weathers.esp
 *CathedralWeatherMCM.esp
 *RealRainSE.esp
 *StormLightning.esp
 *AHZmoreHUD.esp
 *BlendedRoads.esp
+*FMS_FemaleMakeupSuite.esp
 *Extended UI.esp
 *SimplyKnock.esp
 *AMatterOfTime.esp
@@ -56,7 +55,6 @@
 *RaceMenu.esp
 *RaceMenuPlugin.esp
 *KS Hairdo's.esp
-*SINful CBP.esp
 *CrittersAintSnitches.esp
 *3BBB.esp
 *SJG Quick Light Patch.esp
@@ -69,6 +67,9 @@
 *Immersive Weapons.esp
 *Wildcat - Combat of Skyrim.esp
 *DSerArcheryGameplayOverhaul.esp
+*Archery Tweaks.esp
+*AT - Ordinator Patch.esp
+*AT - Immersive Weapons Patch.esp
 *UltimateCombat.esp
 *DSerCombatGameplayOverhaul.esp
 *NoBSAIProjectileDodge.esp
@@ -119,13 +120,16 @@
 *GoOnAhead.esp
 *Animallica.esp
 *VolumeticMists.esp
+*CrestysDistantMists.esp
 *Lupine_ZiovendianBodypaints.esp
+*Sakora's Make Up Kit - Natural Colors.esp
 *WNB_WeatheredNordicBodypaints.esp
 *VWA_VanillaWarpaintsAbsolution.esp
 *SGEyebrows.esp
 *TheEyesOfBeauty.esp
 *Eyes of Aber.esp
 *TW3Eyes.esp
+*CrestysDistantMists_CathedralWeathers_Patch.esp
 *IcePenguinWorldMap.esp
 *Qw_ISC_CRF Patch.esp
 *CBBE.esp
@@ -153,7 +157,6 @@
 *SLA Monitor Widget.esp
 *SexLabDefeat.esp
 *SexLab-AmorousAdventures.esp
-*AmorAdvExtended.esp
 *SexLab_Solutions.esp
 *SLPrivacy.esp
 *Cuyima 3DNPC - Redone.esp
@@ -209,9 +212,12 @@
 *zPatch.esp
 *Minor NPC CR.esp
 *SLSolutions CR.esp
+*Book Heels Fix.esp
 *DynDOLOD.esp
 *Occlusion.esp
 CGO Consistency.esp
 Kinky Smashed Patch.esp
 MNC Forward.esp
 DCUR Ultimate Light Patch.esp
+CGO-Overrun Patch.esp
+BuyThoseSabreCatEyes.esp
