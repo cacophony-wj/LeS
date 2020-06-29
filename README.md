@@ -62,6 +62,7 @@
 		- [Deadly Dragons](#deadly-dragons)
 			- [Dragons](#dragons)
 		- [Devious Devices Helpers](#devious-devices-helpers)
+			- [Basic Settings](#basic-settings)
 		- [Extended UI](#extended-ui)
 			- [Stats Menu](#stats-menu)
 		- [Follower Framework](#follower-framework)
@@ -89,8 +90,8 @@
 			- [General](#general-2)
 			- [Controls](#controls-1)
 		- [SLA Monitor Widget](#sla-monitor-widget)
-			- [Profiles](#profiles)
 			- [Scanner Settings](#scanner-settings)
+			- [Widget Looks](#widget-looks)
 		- [Storm Lightning](#storm-lightning)
 			- [Presets](#presets-1)
 			- [Advanced](#advanced)
@@ -732,6 +733,10 @@ Uncheck _Knockdown_
 
 **Only available with _Light But Kinky_.**
 
+#### Basic Settings
+
+_Where follower may ask to tie player_
+
 Uncheck _Shops_
 
 Uncheck _Other Dwellings_
@@ -884,23 +889,17 @@ Set the first four **Favorite Groups** to _F5 - F8_ to avoid a conflict with fol
 
 ###  SLA Monitor Widget
 
-####  Profiles
-
-Click _Load from global profile_
-
-Choose _Global.1_, the only one available.
-
-Upon receiving the message which concludes **Are you sure you want to continue?**, click _Accept_
-
-It will take a few moments, then the message **The Global.1 profile was restored successfully.** will appear.
-
-Close and re-open the MCM.
-
 ####  Scanner Settings
 
 Customize the scanner to your taste. It will tell you who (or what) is horny and how greatly. If you are only interested in females, choose that option. If you are only interested in humanoids, choose that option. It's up to you.
 
 I must insist that you set **Interval** of no lower than _60_ and a **Range** of no greater than _1024_.
+
+#### Widget Looks
+
+Click _Vertical Anchor - Top_ and change it to _Center_
+
+Click _Font Size - 12 PTS._ and increase it to _16_
 
 ###  Storm Lightning
 
