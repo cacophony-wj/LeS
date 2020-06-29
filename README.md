@@ -126,6 +126,7 @@
 		- [My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.](#my-arms-wont-go-into-a-binder-or-my-hands-are-floating-outside-of-my-bindings-or-my-gag-wont-go-in-my-mouth-or-one-of-these-is-true-for-an-npc)
 		- [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
 		- [I'm playing _Light But Kinky_ and I'm in such an incredible amount of bondage gear that I can't do anything at all!](#im-playing-light-but-kinky-and-im-in-such-an-incredible-amount-of-bondage-gear-that-i-cant-do-anything-at-all)
+		- [I want creatures in _Light But Sexy_!](#i-want-creatures-in-light-but-sexy)
 		- [Stuff is disabled. Did you forget? Or, can I enable it all, for the best of both worlds?](#stuff-is-disabled-did-you-forget-or-can-i-enable-it-all-for-the-best-of-both-worlds)
 	- [Gameplay Tips - Walkthroughs - Light Spoilers for the Hopelessly Stuck.](#gameplay-tips---walkthroughs---light-spoilers-for-the-hopelessly-stuck)
 		- [I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!](#i-was-locked-up-in-the-princess-start-and-something-defeated-me-and-i-got-teleported-somewhere-and-the-quest-was-completely-broken-this-isnt-fair)
@@ -407,7 +408,7 @@ I'm guessing you came here to appreciate the female form. This Modlist offers tw
 
 ### "BodyGen4"
 
-The "Default" option is a series of procedurally generated body proportions for every person in the game based on their race. Typically, high elves will tend to be more petite, whereas orcs will tend to be more voluptous. If you wish to use this option, download _BodySlide.Output.7z_ from <a href="https://github.com/cacophony-wj/BS.for.LeS/"here</a> and extract it to your _LeS Directory/mods/BodySlide Output/_ folder. When finished, it should contain a folder named _meshes_ with about a dozen other folders inside. These bodies and armors will look funky without BodyGen enabled, so you will have to follow the steps below if you don't wish to use that feature.
+The "Default" option is a series of procedurally generated body proportions for every person in the game based on their race. For example, elves will tend to be more petite, whereas orcs will tend to be more voluptuous. If you wish to use this option, download _BodySlide.Output.7z_ from <a href="https://github.com/cacophony-wj/BS.for.LeS/">here</a> and extract it to your _LeS Directory/mods/BodySlide Output/_ folder. When finished, it should contain a folder named _meshes_ with about a dozen other folders inside. These bodies and armors will look funky without BodyGen enabled, so you will have to follow the steps below if you don't wish to use that feature. Also, please note that this means your body will be an incredibly dull default CBBE body until customized via _3BBB Morphs_ in RaceMenu. You will have to do this every time you start a new game. In addition, body morphs are not as responsive with _BodyGen_ enabled. If you don't see a change, give it a second or two. Finally, not all of the _3BBB Morphs_ do something, or at least that I can determine. You'll just have to deal with this.
 
 ### Running BodySlide
 
@@ -1069,6 +1070,10 @@ _Devious Devices_ doesn't like the SE version of _Immersive First Persion View_ 
 
 Time to reload a save before you got into that situation. Seriously, if there were an option to prevent nested equipping of Devious Devices I would enable it. But there isn't. Not without disabling most of the hilariously meme-worthy scenarios. If you get equipped in anything extremely punishing, I recommend reloading your game if anything else really punishing gets equipped on you. Unless you just want to see how ridiculous things can get.
 
+### I want creatures in _Light But Sexy_!
+
+Thanks to a helpful user an easy way to accomplish this has been discovered and tested. Enable _only_ the creature animations in the **INTENTIONALLY DISABLED** section, move them with the other _SexLab Animations_, and re-run _Nemesis Behavioral Engine_ from the dropdown. Ensure that all four menu options remain checked. Do _not_ reinstall any of the animation packs, or add your own, as the end result will probably be frozen animations (aka the T-Pose). Ensure that no new ESPs are enabled at the bottom of the right pane.
+
 ### Stuff is disabled. Did you forget? Or, can I enable it all, for the best of both worlds?
 
 No. All that stuff is disabled on purpose. Most of it is for technical reasons. For example, _Cursed Loot_ shuts down all of _Eager NPCs_ functions, even if you disable _Cursed Loot_, so the two won't work together. This being the biggest way to experience consequence-free romance, I left the other "free love" mods disabled for roleplay reasons, since _Light But Kinky_ is supposed to be a harsh, punishing world. If you really want more options in _Light But Kinky_, these mods are _okay_ to enable, but don't fit the theme:
@@ -1078,7 +1083,7 @@ No. All that stuff is disabled on purpose. Most of it is for technical reasons. 
 
 Just tick them in the left pane, move them under "SexLab Quests", and move the ESPs that showed up at the bottom of the right pane somewhere with the rest of the SexLab stuff. It shouldn't matter too much where since none of them conflict with anything. _Do not_ enable anything else because it all conflicts even though multiple support threads might assure you it doesn't. For example, _Defeat_ does not recognize equipped devices, so you can totally be taken advantage of straight through chastity gear in a full set.
 
-As far as enabling stuff in _Light But Sexy_... _don't try it._ None of the Devious stuff will work because of the reasons above. You might could get creatures to work but it would be very complicated and would probably end up in a T-Pose that requires a full reinstall of Nemesis and FNIS. Just trust me on this, if you want kink you already have it in _LBK_. Spend some time in _Cursed Loot's_ MCM disabling the parts you hate. It can all be figured out just from the menu, but the support thread for the mod on _Lover's Lab_ goes into more detail. A few kind folks in there even share their own setups that you can import!
+As far as enabling stuff in _Light But Sexy_... _don't try it._ None of the Devious stuff will work because of the reasons above.
 
 ## Gameplay Tips - Walkthroughs - Light Spoilers for the Hopelessly Stuck.
 
