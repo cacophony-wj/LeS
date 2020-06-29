@@ -1,5 +1,33 @@
 ## Changelog
 
+### 1.3
+
+- Removed Amorous Adventures Extended due to incompatibilities with the Dawnguard questline.
+- Installed Archery Tweaks to enable greater ease targeting distant objects (I'm looking at you, _sun_)
+- Patched several UUNP mage boot variants that had invisible calves (for real this time)
+- There are now a wide variety of warpaints, body paints and makeups. Such a wide variety. So many.
+- Attempted and abandoned MCM Automation again, I'll try it later when I work up the patience.
+
+The increase in revision means this version is _not_ save compatible. If you want to continue your save, _do not update_.
+
+### 1.2.7.1
+
+- Yeah man I have no idea.
+
+### 1.2.7.0
+
+- Added Frenchy's makeup and paints.
+- Added Frenchy's preset.
+- Get to work, Frenchy!
+ 
+### 1.2.6.1
+
+- Fixed a couple oversights that should have been obvious. I'm too embarr'ssed to say what they were.
+
+### 1.2.6
+
+Updated Book of UUNP (3BBB Conversion) to 1.2.4.
+
 ### 1.2.5
 
 - Forgot to enable _Bijin_ in _LBS_, d'oh.
