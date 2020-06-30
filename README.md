@@ -1015,7 +1015,7 @@ Next, click _Import Settings_ on the right.
 
 ## All done!
 
-There you go, fellow deviant. Be sure to press **F10** for a last second save in case spawning into Skyrim prompts a crash (which has been known to happen, it helps if you give it a minute before trying). Talk to the Mara statue to begin your journey. If you are on _Light But Sexy_, I recommend one of the _Something Sexy_ starts (dropped nude into a sticky situation) and if you are on _Light But Kinky_, I recommend the _Sex Slave_ start for a good look into how _Cursed Loot_ works. Spoiler though, there is no sex, just lots of bouncy-boobed slow-walking in bondage gear.
+There you go, fellow deviant. Be sure to press **F9** for a last second save in case spawning into Skyrim prompts a crash (which has been known to happen, it helps if you give it a minute before trying). Talk to the Mara statue to begin your journey. If you are on _Light But Sexy_, I recommend one of the _Something Sexy_ starts (dropped nude into a sticky situation) and if you are on _Light But Kinky_, I recommend the _Sex Slave_ start for a good look into how _Cursed Loot_ works. Spoiler though, there is no sex, just lots of bouncy-boobed slow-walking in bondage gear.
 
 ##  Troubleshooting
 
