@@ -1,4 +1,5 @@
 - [Licentia et Servitium: A Double-Sided Coin of Lover's Lab](#licentia-et-servitium-a-double-sided-coin-of-lovers-lab)
+	- [BEFORE YOU CONTINUE:](#before-you-continue)
 	- [Preamble](#preamble)
 		- [Wabbajack](#wabbajack)
 	- [A STRONG WARNING](#a-strong-warning)
@@ -140,6 +141,10 @@
 
 # Licentia et Servitium: A Double-Sided Coin of Lover's Lab
 
+## BEFORE YOU CONTINUE: 
+
+Check to see if there is a more recent version in the Github RELEASES section. It should only take a few minutes to update.
+
 ## Preamble
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
@@ -148,7 +153,7 @@ I'm [cacophony](https://github.com/cacophony-wj), a humble Wabbjack modlist deve
 
 That said, I have been modding _NSFW_ content into games since the first _Nude Raider_ patch so I like to think I know my way around the basics. 
 
-While not as full-featured as many lists, if you want a basic Skyrim gameplay and sexual overhaul that offers options for characters of multiple identities and fetishes, you are welcome here.
+While not as full-featured as many lists, if you want a basic Skyrim gameplay and sexual overhaul that offers options for characters of multiple optional identities and fetishes, you are welcome here.
 
 ### Wabbajack
 
