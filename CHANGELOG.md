@@ -1,5 +1,15 @@
 ## Changelog
 
+### 1.4
+
+- Replaced Skyrim HD with Skyrim Realistic Overhaul for compatibility reasons
+- Updated Cutting Room Floor to v3.1.8
+- Removed JaySus Swords from the leveled lists.
+- Updated NCK30 Animations to v2.3
+- Updated Billyy's Animations to 3.4.2
+- Removed Anub's Animations.
+- Reduced reliance on MEGA.
+
 ### 1.3
 
 - Removed Amorous Adventures Extended due to incompatibilities with the Dawnguard questline.

@@ -17,11 +17,17 @@
 	- [Updating](#updating)
 	- [LBS vs. LBK, How Do I Choose?](#lbs-vs-lbk-how-do-i-choose)
 	- [Important Mods you should know about](#important-mods-you-should-know-about)
+	- [NSFW Mods](#nsfw-mods)
 		- [SexLab - Frameworks](#sexlab---frameworks)
 		- [Devious Devices](#devious-devices)
 		- [SexLab - Others](#sexlab---others)
 		- [Nomkaz](#nomkaz)
-	- [_SFW_ MOD DESCRIPTIONS UNDER CONSTRUCTION](#sfw-mod-descriptions-under-construction)
+	- [SFW Mods](#sfw-mods)
+		- [Dragons](#dragons)
+		- [Animals](#animals)
+		- [Followers](#followers)
+		- [Transformations](#transformations)
+	- [(MORE TO BE ADDED LATER)](#more-to-be-added-later)
 	- [Female Bodies And Armors](#female-bodies-and-armors)
 		- ["BodyGen4"](#bodygen4)
 		- [Running BodySlide](#running-bodyslide)
@@ -61,7 +67,7 @@
 		- [Cursed Loot](#cursed-loot-1)
 			- [Debug](#debug)
 		- [Deadly Dragons](#deadly-dragons)
-			- [Dragons](#dragons)
+			- [Dragons](#dragons-1)
 		- [Devious Devices Helpers](#devious-devices-helpers)
 			- [Basic Settings](#basic-settings)
 		- [Extended UI](#extended-ui)
@@ -275,7 +281,7 @@ This can happen when update the modlist receives an update. Check if a new updat
 
 **Wabbajack could not find my game folder:**
 
-Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the Pre-Installation step.
+Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the Pre-Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator.
 
 **MEGA files stuck at _100%_**
 
@@ -336,6 +342,8 @@ Even though it is far more niche, _Light But Kinky_ is enabled by default. This 
 ## Important Mods you should know about
 
 This section contains information about some of the most important mods in this setup. I made this section so end-users know exactly what mods change what and can read-up on stuff they find interesting as well as give props to the mod authors.
+
+## NSFW Mods
 
 ### SexLab - Frameworks
 
@@ -405,7 +413,27 @@ You may have seen his name pop up a few hundred times when browsing the [Skyrim:
 - [LL Profile](https://www.loverslab.com/profile/2695162-nomkaz/)
 - [Patreon](https://www.patreon.com/nomkazsskyrimsemods)
 
-## _SFW_ MOD DESCRIPTIONS UNDER CONSTRUCTION
+## SFW Mods
+
+I'm just going to touch on these since most of them are in other lists (particularly Lexy's), so many people will already be familiar with them.
+
+### Dragons
+
+The familiar combo of _Deadly Dragons + Diverse Dragons + Dragon Variants_ is in here, with all that entails. It's rather difficult if you're used to the boring dragons from vanilla Skyrim because now they shoot fireballs and rain them from the sky among loads of other things, so if you're new to this setup get ready.
+
+### Animals
+
+I have included [Animallica](https://www.nexusmods.com/skyrimspecialedition/mods/20456) for greater variety in taxidermy targets because the same old wolves get boring fast and Immersive Creatures has crashing issues on a lot of setups. There's a bit of an incompatibility with MNC if you're on Kinky but I think the added variety is worth it as I rarely play with that mod. 
+
+### Followers
+
+I use [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076) to allow for up to 100 followers or summoned NPC's (but realistically you'll have to keep it to six or fewer). Most of the options are self-explanatory but if you want then to join you at your level and gain them when you do, you can open the console, click on them, and enter the command "bat nfflevel"
+
+### Transformations
+
+My chosen vampire mod is Enai's [Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928) because it's the most compatible, but for werewolves I use the old standby [Moonlight Tales](https://www.nexusmods.com/skyrim/mods/35470). Both are a bit overpowered in this setup but you can tweak the MCMs if you find things getting too easy.
+
+## (MORE TO BE ADDED LATER)
  
 ##  Female Bodies And Armors
 
