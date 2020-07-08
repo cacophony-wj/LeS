@@ -1,9 +1,9 @@
-# Licentia et Servitium: A Double-Sided Coin of Lover's Lab
+# Licentia et Servitium
 
 ![Status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/LeS/badge.json)
 ![Installs](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/LeS/total_installs_badge.json)
 
-[Licentia et Servitium: A Double-Sided Coin of Lover's Lab](#licentia-et-servitium-a-double-sided-coin-of-lovers-lab)
+- [Licentia et Servitium: A Double-Sided Coin of Lover's Lab](#licentia-et-servitium-a-double-sided-coin-of-lovers-lab)
 	- [BEFORE YOU CONTINUE:](#before-you-continue)
 	- [Preamble](#preamble)
 		- [Wabbajack](#wabbajack)
