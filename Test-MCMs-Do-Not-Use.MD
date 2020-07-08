@@ -41,13 +41,45 @@ Creature animations **will not work** for the _Light But Sexy_ profile. Do not a
 
 Finally, _SexLab_ is configured so that opposite-sex characters cause you to become aroused by default. If you wish to change this, reopen the MCM and navigate to
 
-#### Sex Diary
+#### Sex Diary / Journal
 
 Under **Sexual stats** on the right, click _Sexuality_ until your preference (Bisexual, Homosexual or Lesbian) appears.
+
+#### Puppet Master
+
+Here is where you can put a check next to _Exhibitionism_ if you want your arousal to rise when you are naked.
 
 ### SAVE AND LOAD!
 
 Lover's Lab recommends saving and loading the game immediately after fully configuring SexLab. Please do so now. If the QuickSave and QuickLoad buttons have changed, recall that they are now _F9_ and _F10_.
+
+###  ZaZ Animation Pack
+
+**Only available with _Light But Kinky_.**
+
+####  SexLab
+
+When first clicking this menu, it may appear to be stuck. It takes about a minute to show any visible change. Just wait. 
+
+**SexLab Animations**: Click the grayed out word _Register_ and wait 30 - 60 seconds until the greyed out word _Registered_ appears. 
+
+Under **Animation**, uncheck _Override_ as Devious already handles this function.
+
+### M2M Animations
+
+#### Only available with _Light But Sexy_
+
+I have included gay animations for those interested. SLEN requires them for its gay scenes, and many of them are higher quality than most straight animations. If this content offends you, do not click this menu. For those who wish it, select
+
+#### Config M2M
+
+_M2M Version 9.00 for SexLab 1.62_
+
+_Register SexLab Anims_
+
+And wait for the message "SexLab's Animation Registry has been updated."
+
+Click _Accept_
 
 ###  SL Anim Loader
 
@@ -185,6 +217,10 @@ _Item List_
 
 **Font Size**: _Small_
 
+_Active Effects HUD_
+
+**Icon Size**: _Small_
+
 ####  Controls
 
 **First ensure that you have configured QuickSave to F9 and Quickload to F10 or you will lose all your work so far.**
@@ -209,21 +245,25 @@ _Presets_
 
 Select _Barter Presets: Medium_
 
+### VioLens
+
+#### Profile System
+
+Click _Load - Select_.
+
+A menu will appear. Select _VioLens_ and click _Exit_.
+
+When you get the message "Are you sure you want to load?" click _Load_.
+
+Wait a moment. You will see some stuff cycling. Then the message
+
+_"VioLens.VLMS" Loaded_
+
+Press _OK_
+
 ### XPMSE
 
 Check _Disable Style Cloak Spell_
-
-###  ZaZ Animation Pack
-
-**Only available with _Light But Kinky_.**
-
-####  SexLab
-
-When first clicking this menu, it may appear to be stuck. It takes about a minute to show any visible change. Just wait. 
-
-**SexLab Animations**: Click the grayed out word _Register_ and wait 30 - 60 seconds until the greyed out word _Registered_ appears. 
-
-Under **Animation**, uncheck _Override_ as Devious already handles this function.
 
 ###  Defeat
 
