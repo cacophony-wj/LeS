@@ -6,6 +6,10 @@
 
 _Mod Organizer 2_ does not put edits to existing files in the _overwrite_ folder, only newly created files. _CBBE_, _3BBB_ and _BD_ come with "default" meshes that will be changed by _BodySlide_ if you do not direct them to the proper directory yourself. Likewise, _Nemesis_ edits all the animation source files when it updates instead of putting the changes in the overwrite folder. If you don't believe me, I encourage you to check _MO2_'s documentation or the _Nemesis_ closed _Issues_ section on Github. If this doesn't convince you, I encourage you to test it yourself.
 
+### I look really old no matter what I do.
+
+Change your character's complexion, or load a Preset from within RaceMenu.
+
 ### I tried to wear a piece of gear but my body disappeared!
 
 The _Devious_ equipment is invisible unless _BodySlide_ is fully run. Follow all the steps in the _BodySlide_ section.
