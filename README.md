@@ -150,6 +150,8 @@
 	- [Contributing](#contributing)
 	- [Changelog](#changelog)
 
+# Licentia et Servitium: A Double-Sided Coin of Lover's Lab
+
 ## BEFORE YOU CONTINUE: 
 
 Check to see if there is a more recent version in the Github RELEASES section. It should only take a few minutes to update.
