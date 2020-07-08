@@ -2,17 +2,11 @@
 
 ## A bit of a note on System Settings
 
-I have had users experience incidents where my Skyrim default settings were not being installed upon the completion of _Wabbajack._ Before continuing, ensure that under the _System Menu_ (ESC) the following options are chosen.
+I turned the music off. See below. You will also need to set your QuickSave and QuickLoad hotkeys, as Wabbajack does not change them.
 
-## Settings 
+### Audio
 
-### Gameplay
-
-Everything here should be **UNCHECKED** except for _Show Floating Markers_. Difficulty is recommended at _Expert_, but is ultimately up to you.
-
-### Display
-
-_Depth of Field_ should be all the way to the left.
+I have heard Jeremy Soule's default _Skyrim_ tracks so much that I am tired of them. I listen to something else. The music is at zero. If you want it, turn it up.
 
 ## Controls
 
@@ -40,6 +34,8 @@ Do not touch the mouse or keyboard until the following message appears:
 
 Then open the MCM and continue.
 
+### SexLab
+
 ####  Rebuild & Clean
 
 Just below **Debug / Development Mode** in the upper right corner, click _Import Settings: Click Here_
@@ -60,9 +56,11 @@ Creature animations **will not work** for the _Light But Sexy_ profile. Do not a
 
 Finally, _SexLab_ is configured so that opposite-sex characters cause you to become aroused by default. If you wish to change this, reopen the MCM and navigate to
 
+### SexLab
+
 #### Sex Diary / Journal
 
-Under **Sexual stats** on the right, click _Sexuality_ until your preference (Bisexual, Homosexual or Lesbian) appears.
+Under **Sexual stats** on the right, click _Sexuality_ until your preference (Bisexual, Gay, or Lesbian) appears.
 
 ### SAVE AND LOAD!
 
@@ -106,23 +104,21 @@ Click _Register Animations: Click Here_
 
 Wait for the **Registered _X_ new animations** message (the number varies for each profile). Be patient, it can take up to five minutes.
 
+### Cathedral Weathers
+
+Click _Load Settings_
+
 ###  CGO
 
 #### Settings
 
-_Unlocked Grip_
-
-Click on _ESC_ next to _Hotkey_ and press the _Shift_ key.
-
-_Dual Wield Blocking_
-
-Click on _ESC_ next to _Hotkey_ and click down on your mouse wheel (should say _M3_ after this)
+I have configured everything but the leaning for you. Changing from one-handed to two-handed is done with the _Left Shift_ key. Dual-Wield Blocking is done with the _Scroll Wheel Button_ (or _MOUSE 3_). Dodge roll is set to _CTRL_ when moving. When standing still, you will crouch or uncrouch.
 
 _Leaning_
 
 I prefer the _procedural leaning_ and _camera movement_ at X1.00, but it disagrees with many players' stomachs.
 
-To ensure this doesn't happen for any other users, I recommend the following values:
+If you find uncomfortable nausea happening to you, I recommend the following values:
 
 _Lean Multiplier (1st Person)_: _X0.00_
 
@@ -186,7 +182,7 @@ Check _Enable SOS_.
 
 #### Puppet Master
 
-Here is where you can put a check next to _Exhibitionism_ if you want your arousal to rise when you are naked.
+Here is where you can put a check next to _Is Exhibitionist_ if you want your arousal to rise when you are naked.
 
 ###  SexLab Eager NPCs
 
@@ -255,6 +251,10 @@ Set the first four **Favorite Groups** to _F5 - F8_ to avoid a conflict with fol
 ####  Presets
 
 Choose _Ultra Realistic_ and wait for it to say **DONE**
+
+#### Advanced
+
+Check Compatibility Mode
 
 ###  Trade & Barter
 
