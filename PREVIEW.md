@@ -10,7 +10,7 @@
 - _Legacy of the Dragonborn_ has been updated to _5.2_.
 - _Ultimate Combat_ and _Wildcat_ have been removed in favor of emphasizing _CGO_. Plus the scripts on those, my god.
 - Added _Archery Tweaks_ so hopefully my users can hit the sun now.
-- _Frozen Electrical Combustion_ has been updated to _3.5.1. It has been customized for carnage.
+- _Frozen Electrical Combustion_ has been updated to _3.5.1_. It has been customized for carnage.
 - _VioLens_ has been added. It has also been customized for carnage.
 - _Skill Uncapper_ has been balanced for progression with _Ordinator_. _Experience_ is still not used.
 - Changed the Werewolf mod to _Growl._
