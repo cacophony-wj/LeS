@@ -258,7 +258,7 @@ The women will look super weird if you don't build them. Follow the steps in the
 
 The next step is to configure the game. Launch _Skyrim: Special Edition_ from the **RUN ME** command, create your character, and follow _all_ of the instructions in the below link:
 
-[Licentia et Servitium Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.md)
+[Licentia et Servitium Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
 
 ## A word about ENBs
 
