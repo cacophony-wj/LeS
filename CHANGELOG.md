@@ -40,7 +40,6 @@
 - _Faster Mining SE_ has been included for less annoying mining without more annoying bloat.
 - Removed a few Alternate Starts that were horribly broken with this combination of mods.
 - Archived some of the more massive modes into BSAs for shorter load times.
-- Switched ENB to _PI-CHO_ with the _Silent Horizons_ "Stylization Suite" add-on.
 - Updated LODs to reflect the new _DynDOLOD Resources 2.83_.
 - Cleared textures from body presets that are no longer available on the _Nexus_ which were causing bugs.
 - Eliminated _Bash_ and _Smash_ and patched everything manually. Lighting is not perfect yet, sorry.
