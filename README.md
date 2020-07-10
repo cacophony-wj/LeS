@@ -252,7 +252,7 @@ This section goes into further detail about invididual mod setups in the modlist
 
 The women will look super weird if you don't build them. Follow the steps in the below section.
 
-[Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDES.md)
+[Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
 
 ## Game Settings - System and MCM
 
