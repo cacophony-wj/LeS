@@ -4,7 +4,7 @@
 ![Installs](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/LeS/total_installs_badge.json)
 
 - [Licentia et Servitium](#licentia-et-servitium)
-- [Licentia et Servitium: A Double-Sided Coin of Lover's Lab](#licentia-et-servitium-a-double-sided-coin-of-lovers-lab)
+- [Licentia et Servitium: A Modest Sampling of Lover's Lab](#licentia-et-servitium-a-modest-sampling-of-lovers-lab)
 	- [BEFORE YOU CONTINUE:](#before-you-continue)
 	- [Preamble](#preamble)
 		- [Wabbajack](#wabbajack)
@@ -25,6 +25,7 @@
 	- [A Note on SexLab for the Uninitiated](#a-note-on-sexlab-for-the-uninitiated)
 	- [Admiring Yourself](#admiring-yourself)
 	- [Specific Mods](#specific-mods)
+	- [Crafting the Female Bodies](#crafting-the-female-bodies)
 	- [Game Settings - System and MCM](#game-settings---system-and-mcm)
 	- [A word about ENBs](#a-word-about-enbs)
 	- [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)
@@ -33,7 +34,7 @@
 	- [Contributing](#contributing)
 	- [Changelog](#changelog)
 
-# Licentia et Servitium: A Double-Sided Coin of Lover's Lab
+# Licentia et Servitium: A Modest Sampling of Lover's Lab
 
 ## BEFORE YOU CONTINUE: 
 
@@ -246,6 +247,12 @@ This section goes into further detail about invididual mod setups in the modlist
 [Important NSFW Mods You Should Know About](https://github.com/cacophony-wj/NSFW.md)
 
 [Important SFW Mods You Should Know About](https://github.com/cacophony-wj/SFW.md)
+
+## Crafting the Female Bodies
+
+The women will look super weird if you don't build them. Follow the steps in the below section.
+
+[Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/BODYSLIDES.md)
 
 ## Game Settings - System and MCM
 
