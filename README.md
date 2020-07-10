@@ -236,7 +236,7 @@ For those who want to experience POV scenes or to play primarily in first person
 
 **You cannot switch to third person anymore without deactivating IFPV with _NUMPAD 0_!**
 
-To _disable IFPV_ once you have enabled it, ensure that you **can** see your body when you look downward, then press _NUMPAD 0_. You will automatically switch to a third person view. Once more the _F_ key will return to its default function, as will the scroll wheel. _If you are on Light but Kinky, please note issues with IFPV in the [Troubleshooting](https://github.com/cacophony-wj/LeS/TROUBLESHOOTING.md) section._
+To _disable IFPV_ once you have enabled it, ensure that you **can** see your body when you look downward, then press _NUMPAD 0_. You will automatically switch to a third person view. Once more the _F_ key will return to its default function, as will the scroll wheel. _If you are on Light but Kinky, please note issues with IFPV in the [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md) section._
 
 You can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_. Use the mouse to look around and WASD to move your "camera".
 
@@ -244,21 +244,21 @@ You can always watch a scene from an external view with SexLab's default freecam
 
 This section goes into further detail about invididual mod setups in the modlist and, while informative, not strictly necessary if you just want to play the game. Keep in mind that I basically paraphrased from the _Lotus_ README.
 
-[Important NSFW Mods You Should Know About](https://github.com/cacophony-wj/NSFW.md)
+[Important NSFW Mods You Should Know About](https://github.com/cacophony-wj/LeS/blob/master/NSFW.md)
 
-[Important SFW Mods You Should Know About](https://github.com/cacophony-wj/SFW.md)
+[Important SFW Mods You Should Know About](https://github.com/cacophony-wj/LeS/blob/master/SFW.md)
 
 ## Crafting the Female Bodies
 
 The women will look super weird if you don't build them. Follow the steps in the below section.
 
-[Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/BODYSLIDES.md)
+[Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDES.md)
 
 ## Game Settings - System and MCM
 
 The next step is to configure the game. Launch _Skyrim: Special Edition_ from the **RUN ME** command, create your character, and follow _all_ of the instructions in the below link:
 
-[Licentia et Servitium Configuration](https://github.com/cacophony-wj/MCMs.md)
+[Licentia et Servitium Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.md)
 
 ## A word about ENBs
 
