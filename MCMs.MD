@@ -126,7 +126,7 @@ Navigate to
 
 #### Debug
 
-And click _Shut down all functions_, then wait until it is unchecked.
+And click _Shut down all functions_, then wait until it is checked.
 
 Otherwise, click _Import Settings - USE_ and upon receiving the message **Are you sure?** click _Accept_
 
