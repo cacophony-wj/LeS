@@ -1,15 +1,19 @@
 
+## female Faces
+
+Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard). There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name.
+
 ##  Female Bodies And Outfits
 
 I'm guessing you came here to appreciate the female form. This Modlist offers two options for that. 
 
 ### "BodyGen4"
 
-The "Default" option is a series of procedurally generated body proportions for every person in the game based on their race. For example, elves will tend to be more petite, whereas orcs will tend to be more voluptuous. If you wish to use this option, download _BodyGen.Output.7z_ from [here](https://github.com/cacophony-wj/BS.for.LeS/) and extract it to your _LeS Directory/mods/BodySlide Output/_ folder. When finished, it should contain a folder named _meshes_ with about a dozen other folders inside. These bodies and armors will look funky without BodyGen enabled, so you will have to follow the steps below if you don't wish to use that feature. Also, please note that this means your body will be an incredibly dull default CBBE body until customized via _3BBB Morphs_ in RaceMenu. You will have to do this every time you start a new game. In addition, body morphs are not as responsive with _BodyGen_ enabled. If you don't see a change, give it a second or two. Finally, not all of the _3BBB Morphs_ do something, or at least that I can determine. You'll just have to deal with this.
+This is the standard option. It makes elves thin and orcs thick among other things. Every woman is a bit different. If you wish to use this option, download _BodyGen.Output.7z_ from [here](https://github.com/cacophony-wj/BS.for.LeS/releases/tag/0.1.G) and extract it to your _LeS Directory/mods/BodySlide Output/_ folder. When finished, it should contain a folder named _meshes_ with about a dozen other folders inside. These bodies and armors will look funky without BodyGen enabled. Your body will start plain and randomly change all the time unless you edit all your proportions by hand under _3BBB Morphs_. 
 
 ### "3BBB HangEmHigh"
 
-If you want to use a static body based around NPC weight values instead of RaceMenu morphs, download _3BBB.Output.7z_ from the link above and disable _BodyGen4_ in the left pane of MO2. One advantage to this is you get a supermodel style thin or thicc body just by sliding the weight slider around. Also, this body responds well to in-game live morphing features like boob growth from _Cursed Loot_ or belly growth from ... certain other things. Please enjoy this preset if you can, I worked hard on it, but I realize everyone has their own taste.
+If you want to use a non-random body based on how thin or thick the game designers meant people to be, download _3BBB.Output.7z_ from [here](https://github.com/cacophony-wj/BS.for.LeS/releases/tag/0.1.B) and **disable _BodyGen4_ in the left pane of MO2**. This process is much easier, just adjust "body size" in RaceMenu to change between thin and thick, instead of manually changing several dozen sliders.
 
 ### Running BodySlide
 

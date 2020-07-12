@@ -66,6 +66,8 @@ Lover's Lab recommends saving and loading the game immediately after fully confi
 
 **If you are a male character, or have no interest in _Devious Devices_ or BDSM content, ignore this menu.**
 
+**Last warning, taking the step below enables some bondage animations.**
+
 ####  SexLab
 
 When first clicking this menu, it may appear to be stuck. It takes about a minute to show any visible change. Just wait. 
@@ -128,7 +130,19 @@ Navigate to
 
 And click _Shut down all functions_, then wait until it is checked.
 
-Otherwise, click _Import Settings - USE_ and upon receiving the message **Are you sure?** click _Accept_
+**Repeat, if you do not want bondage you must disable Cursed Loot here immediately.**
+
+**Bondage keys will still appear as loot due to reasons and I can't stop that so please don't mention it.**
+
+#### Debug
+
+**If you are a female character and wish to fight bondage gear almost as much as you do bandits do the following**
+
+Click _Import Settings - USE_ and upon receiving the message **Are you sure?** click _Accept_
+
+**Last warning, if you have not disabled Cursed Loot at this moment you will randomly be tied up.**
+
+**Last warning, if you are male and have not disabled Cursed Loot you will randomly go invisible.**
 
 ### Devious Devices Helpers
 
@@ -140,6 +154,8 @@ Uncheck _Follower asks to tie player_
 
 You will still have bondage related dialogs in conversations with followers. Can't be helped, so don't select them.
 
+**Last warning, if you do not do the above your follower will ask to tie you up every three days**
+
 ###  Follower Framework
 
 ####  System
@@ -150,11 +166,7 @@ At the message **Settings Loaded. Please exist the MCM menu to apply all changes
 
 Exit the MCM and re-open it.
 
-Familiarize yourself with the keys under this menu's header labeled **Hotkeyed Abilities**.
-
 ### LOTD Settings
-
-This is primarily intended for moments while using _Cursed Loot_ when you can't Fast Travel.
 
 #### General
 
@@ -168,7 +180,7 @@ Enable _Player Homes_
 
 ###  Quick Light
 
-_Brightness: Bright_
+_Brightness: Wide_
 
 _Light Key: NUMPAD 1_
 
@@ -180,7 +192,7 @@ Uncheck _Enable to Long press activation key_
 
 _Sex Duration for full Reward_
 
-Click on it and slide it to something more sane, like say, zero seconds.
+Slide to zero, all the way left.
 
 ###  SexLab Aroused
 
@@ -190,19 +202,15 @@ _General_
 
 Check _Enable SOS_.
 
-#### Puppet Master
-
-Here is where you can put a check next to _Is Exhibitionist_ if you want your arousal to rise when you are naked.
-
 ### SexLab Confabulation
 
 Not thoroughly tested but you might want to check out
 
-#### Troubleshoot
+#### Troubleshoot (the menu)
 
 And disable things that aren't your thing.
 
-Please do this. Horses may be involved if you don't.
+**Please do this. Horses may be involved if you don't.**
 
 ###  SexLab Eager NPCs
 
@@ -234,7 +242,7 @@ _Matchmaker queue_
 
 Ignore the message that the key is already mapped and answer "Yes."
 
-**Please Note**: You can hover your crosshair over any actor and press _NUMPAD 2_ to set up a sex scene. Please note that the _first_ slot is always the _receiver_ in a sex scene. Every other slot is an _actor._. To add yourself to a slot, hover your crosshair over a nonliving object and press _NUMPAD 2_. Then select a slot. To begin the scene instead, select _Begin scene_. While a scene is running, you can press the _H_ key to select from a list of available animations.
+**Please Note**: You can hover your crosshair over any actor and press _NUMPAD 2_ to set up a sex scene. Please note that the _first_ slot is always the _receiver_ in a sex scene. Every other slot is an _actor._. To add yourself to a slot, hover your crosshair over a nonliving object and press _NUMPAD 2_. Then select a slot. To begin the scene instead, select _Begin scene_. While a scene is running, you can press the _Shift+H_ keys to select from a list of commands.
 
 ###  Sky UI
 
@@ -247,12 +255,6 @@ _Item List_
 _Active Effects HUD_
 
 **Icon Size**: _Small_
-
-####  Controls
-
-**First ensure that you have configured QuickSave to F9 and Quickload to F10 or you will lose all your work so far.**
-
-Set the first four **Favorite Groups** to _F5 - F8_ to avoid a conflict with follower commands. 
 
 ### Spank That Ass
 
@@ -277,6 +279,8 @@ Scroll down until you see
 #### Import/Export Settings
 
 Click _Import Settings_
+
+**Last warning, if you do not disable the above you will get spanked and make female sex noises when having sex.**
 
 ###  Storm Lightning
 
@@ -322,7 +326,7 @@ Check _Disable Style Cloak Spell_
 
 ###  Defeat
 
-**Please note, if involuntary sex is not a roleplaying kink of yours, do not enable this mod**
+**Please note, you will enable sexual assault if you enable this. Do not do this if it offends you.**
 
 **It is recommended to only enable this if you disabled _Cursed Loot_. If you insist on trying it, please return to the _Cursed Loot_ MCM and disable _Combat Surrender._**
 
