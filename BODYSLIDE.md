@@ -5,7 +5,9 @@ Creating a face is very time consuming so I have included many presets. Use your
 
 ##  Female Bodies And Outfits
 
-I'm guessing you came here to appreciate the female form. This Modlist offers two options for that. 
+I'm guessing you came here to appreciate the female form. This Modlist offers three options for that. 
+
+**PLEASE NOTE: Only use _ONE_ of the following options. Things will look stupid if you try to mix them.**
 
 ### "BodyGen4"
 
@@ -13,11 +15,19 @@ This is the standard option. It makes elves thin and orcs thick among other thin
 
 ### "3BBB HangEmHigh"
 
-If you want to use a non-random body based on how thin or thick the game designers meant people to be, download _3BBB.Output.7z_ from [here](https://github.com/cacophony-wj/BS.for.LeS/releases/tag/0.1.B) and **disable _BodyGen4_ in the left pane of MO2**. This process is much easier, just adjust "body size" in RaceMenu to change between thin and thick, instead of manually changing several dozen sliders.
+If you want to use a non-random body based on how thin or thick the game designers meant people to be, download _3BBB.Output.7z_ from [here](https://github.com/cacophony-wj/BS.for.LeS/releases/tag/0.1.B) and **disable _BodyGen4_ in the left pane of MO2**. 
+
+**Please note, you MUST DISABLE BODYGEN4 for this, otherwise boobs will be the size of planets**
+
+This process is much easier, just adjust "body size" in RaceMenu to change between thin and thick, instead of manually changing several dozen sliders.
 
 ### Running BodySlide
 
-If you want to generate your own bodies, **first of all** you need to disable **_BodyGen4_** in the left pane or things will get _really_ weird. I have included a couple of _3BBB_ bodies and _many_ _CBBE_ ones, but you can always install your own.
+If you want to generate your own bodies, **first of all** you need to disable **_BodyGen4_** in the left pane. 
+
+**Please note, you MUST DISABLE BODYGEN4 for this, otherwise boobs will be the size of planets**
+
+I have included a couple of _3BBB_ bodies and _many_ _CBBE_ ones, but you can always install your own.
 
 You will also have to follow all of the steps below.
 
@@ -28,23 +38,26 @@ You will also have to follow all of the steps below.
 6. Select your **Data** directory within your **Skyrim Special Edition** directory.
 7. Check the _Group Filter_ dropdown (the one with the tiny magnifying glass) to ensure that it is blank.
 8. If it is not, click the small _X_ to clear it.
-9.  In the top left dropdown, select one of the _CBBE_ options, such as _DCL - CBBE - Zipsuit_
+9.  In the top left dropdown, select one of the _CBBE_ options, such as _DCL - CBBE - Armbinder_
 10. Select your preset from the dropdown below that.
 11. Preview it with the appropriate button.
 12. Once you are satisfied, ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
 13. **Hold down the CTRL key** (very important) and click _Batch Build_. 
-14. You will see a huge list of bodies and armors. Just click _Build_.
-15. A prompt will appear asking where to put your custom-fitted armors. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
-16. **Do not put your armors anywhere but _BodySlide Output_.**
-17. For output set #1, choose _SE 3BBB Body Amazing_.
-18. For all other options, choose _3BA_ if it is listed.
-19. If it is not, choose _CBBE_.
-20. This includes the _KS Collision Morphs._ **Absolutely do not choose BHUNP or TBD for these.**
-21. Press **Build*.
-22. Wait for your armors to be built in the popup labeled **Processing Outfits**. There should be close to 900 of them.
-23. You should receive the message "All outfits processed successfully!"
-24. If you receive any error messages, repeat the process from step 13.
-25. When all outfits are successfully built, you may continue.
+14. You will see a huge list of bodies and outfits. Just click _Build_.
+15. A prompt will appear asking where to put your custom-fitted outfits. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
+16. **Do not put your outfits anywhere but _BodySlide Output_.**
+17. When finished, navigate to **_LeS Directory/mods/BodySlide Output/meshes_** and make sure about a dozen outfits folders are there.
+18. If there is only a _meshes_ folder there, move it to **_LeS Directory/mods/BodySlide Output_**
+19. **Confirm that all the outfits folders are in **_LeS Directory/mods/BodySlide Output/meshes. They should not be located _anywhere_ else.**
+20. For output set #1, choose _SE 3BBB Body Amazing_.
+21. For all other options, choose _3BA_ if it is listed.
+22. If it is not, choose _CBBE_.
+23. This includes the _KS Collision Morphs._ **Absolutely do not choose BHUNP or TBD for these.**
+24. Press **Build*.
+25. Wait for your armors to be built in the popup labeled **Processing Outfits**. There should be close to 900 of them.
+26. You should receive the message "All outfits processed successfully!"
+27. If you receive any error messages, repeat the process from step 13.
+28. When all outfits are successfully built, you may continue.
 
 ## A bit of a note on schlongs and strap-ons
 

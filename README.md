@@ -37,7 +37,7 @@
 
 ## BEFORE YOU CONTINUE: 
 
-The GitHub version is more current than the one downloaded from Wabbajack. Download 2.0.1 from releases ->
+The UI version is the most up to date. Get the one from Wabbajack's Main Menu (UI)
 
 ## Preamble
 
