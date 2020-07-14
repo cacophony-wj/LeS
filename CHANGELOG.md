@@ -1,3 +1,19 @@
+## 2.0.1.2
+
+- Some of my patches weren't merged properly.
+- Hopefully fixed the flickering issue.
+- REPLACE GAME FOLDER FILES
+
+## 2.0.1
+
+An animation tag didn't play for me. This can not be tolerated. If you have an animation that doesn't play, get this.
+
+## 2.0.0.2
+
+- Fixed a problem with archived textures causing crashes.
+- Introduced, then fixed, a problem with a UI interface causing crashes on launch.
+- Utilized facegen exports for NPCs from Oldrim from a friendly source
+
 ## 2.0
 
 - Blended _Light but Sexy_ and _Light But Kinky_ into one profile with the option to disable undesirable features.

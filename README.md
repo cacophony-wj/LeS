@@ -37,7 +37,7 @@
 
 ## BEFORE YOU CONTINUE: 
 
-The UI version is the most up to date. Get the one from Wabbajack's Main Menu (UI)
+The **Github** version is the most up to date. Get the **2.0.1.2** one from the **Releases Section ->**
 
 ## Preamble
 
@@ -113,7 +113,7 @@ Open the Steam Properties window, navigate to the Language tab and select Englis
 
 **Clean Skyrim**
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the Skyrim Special Edition folder in Documents/My Games/. If you have download throttles or caps, or just don't want to wait, you can also use <a href="https://www.nexusmods.com/skyrimspecialedition/mods/30133">Skyrim Shredder</a> by trawz to clean your installation.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the Skyrim Special Edition folder in Documents/My Games/. If you have download throttles or caps, or just don't want to wait, you can also use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) by trawz to clean your installation.
 
 **Start Skyrim**
 
