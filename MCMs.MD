@@ -124,15 +124,35 @@ You may also find that the first-person roll animation causes you to feel uneasy
 
 **If you are a male character, or have no interest in BDSM and submissive roleplay do the following**
 
-Navigate to
+First, disable bondage-related loot drops by navigating to 
+
+#### Miscellaneous Options
+
+And in the top right, set the following sliders to _0.0%_
+
+_Restraints Drop Chance_
+
+_Lucky Charm drop chance_
+
+Still more loot to disable.
+
+#### Escape Options
+
+_Escape Options_
+
+Uncheck _Container key drops enabled_
+
+Uncheck _Dead body key drops enabled_
+
+Finally, navigate to
 
 #### Debug
 
 And click _Shut down all functions_, then wait until it is checked.
 
-**Repeat, if you do not want bondage you must disable Cursed Loot here immediately.**
+**Repeat, if you do not want bondage you must disable Cursed Loot as per the above section!**
 
-**Bondage keys will still appear as loot due to reasons and I can't stop that so please don't mention it.**
+**NO, I don't know why "Shut Down All Functions" doesn't shut down all functions**
 
 #### Debug
 
