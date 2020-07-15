@@ -368,13 +368,13 @@ Re-open.
 
 Next, click _Import Settings_ on the right.
 
-**_ALL DEATH IS DISABLED WITH THIS MOD. IT IS EXTREMELY EXPERIMENTAL_**
+**I have disabled all player-as-victim functions except for surrender.**
 
-**_YOU WILL BE ASSAULTED BY ANY PERSON INSTEAD_**
+**This is because an invalid assaulter will ruin your save.**
 
-**_INVALID ASSAULTS WILL DO NOTHING AND LEAVE YOU A MOMENT TO RECOVER YOUR COMPOSURE AND TRY AGAIN_**
+**Surrender with the _K_ key and do it quick or you will die instead.**
 
-**_ON THE UPSIDE, YOU DON'T HAVE TO WORRY ABOUT THE SKYRIM LOAD ON DEATH PROBLEM_**
+Player-as-aggressor and NPC-to-NPC are enabled until I inevitably demonstrate they are still broken.
 
 If you want to enable or disable things such as men, women, flying purple people eaters, do so in the "player as victim" section.
 

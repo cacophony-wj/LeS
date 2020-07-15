@@ -39,6 +39,8 @@
 
 The **Github** version is the most up to date. Get the **2.0.1.2** one from the **Releases Section ->**
 
+Also, **minor fixes** have been posted in the support channel. Check the pins once you get in there (small thumbtack icon)
+
 ## Preamble
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
