@@ -71,7 +71,6 @@ Before posting a question to Discord, look at [Troubleshooting](#troubleshooting
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
-- [VectorPlexus Account](https://vectorplexus.com/)
 - [MEGA Account](https://mega.nz/aff=a94uEwwXPLU) (OPTIONAL BUT HIGHLY RECOMMENDED)
 - A brain, eyes and time to read through this README
 
@@ -132,11 +131,10 @@ Start the game and exit once you're in the main menu.
 
 ###  Downloading and Installing
 
-The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD. You will also need an additional 30 GB beyond the modlists' official size to store temporary working files. It is not recommended to allow your drive to get over 90% full (red bar in File Explorer) so be sure to leave yourself a little headroom on top of all that.
 
-    Open Wabbajack
-    Load the Modlist from Disk
-    Adjust the download and installation paths
+    Adjust the Installation Location to the root directory (C:\, D:\, etc) of one of your drives
+    Ensure the Download Location is within that directory
     Click the Go/Begin button
     Wait for Wabbajack to finish
 
