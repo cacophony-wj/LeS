@@ -128,7 +128,9 @@ _Camera Noise_
 
 _Camera Noise Mult (1st Person)_: _X0.00_
 
-You may also find that the first-person roll animation causes you to feel uneasy. I recommend dropping to third person for melee in that case.
+**You may also find that the first-person roll animation causes you to feel motion sick.**
+
+Either disable it and set it to _Hotkey_ (with _ESC_ as the value) or switch to third person if you want to roll.
 
 ### Cursed Loot
 
