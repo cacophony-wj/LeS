@@ -15,11 +15,11 @@ This is the standard option. It makes elves thin and orcs thick among other thin
 
 ### "3BBB HangEmHigh"
 
-If you want to use a non-random body based on how thin or thick the game designers meant people to be, download _3BBB.Output.7z_ from [here](https://github.com/cacophony-wj/BS.for.LeS/releases/tag/0.1.B) and **disable _BodyGen4_ in the left pane of MO2**. 
-
-**Please note, you MUST DISABLE BODYGEN4 for this, otherwise boobs will be the size of planets**
+If you want to use a non-random body based on how thin or thick the game designers meant people to be, download _3BBB.Output.7z_ from [here](https://github.com/cacophony-wj/BS.for.LeS/releases/tag/0.1.B) and **disable _BodyGen4_ in the left pane of MO2**. Then extract it to your _LeS Directory/mods/BodySlide Output/_ folder.
 
 This process is much easier, just adjust "body size" in RaceMenu to change between thin and thick, instead of manually changing several dozen sliders.
+
+#### Please note: Not all morphs are working at this time. Try CBBE morphs if the 3BBB ones don't work. Turns out some of my outfits may have issues.
 
 ### Running BodySlide
 
@@ -86,4 +86,4 @@ It should automatically appear when appropriate (Amorous Adventures scenes are t
 
 If you are male, the above steps can also be used to customize your own schlong.
 
-Unfortunately I've not matched the equippable schlong to the Demoniac skin yet. It looks pretty off. But it's still better than Calyps. I'm tired. Give me time.
+Unfortunately I've not matched the equippable schlong to the Demoniac skin yet. It looks pretty off. But it's still better than Calyps.

@@ -12,6 +12,8 @@ I have heard Jeremy Soule's default _Skyrim_ tracks so much that I am tired of t
 
 These are all to your liking, except for _Quicksave_ which should be set to _F9_, and _Quickload_ which should be set to _F10_. Don't worry about using them becuase _Engine Fixes_ converts them to full saves.
 
+I'm oldschool so sometimes I play with an inverted controller. If your controls are inverted you might have to change it since I forgot to.
+
 ## Game MCM Options
 
 **NOTE:** Any menus or options not specifically mentioned here can be ignored.
@@ -48,7 +50,7 @@ Finally, under **Available Strap-ons** near the lower left you will see _Calyps 
 
 #### Animation Settings
 
-If you have a furry side, click _Allow creature animation_ in the upper right. This is **not** limited to werewolves and vampires so be **sure** you want to get **freaky** before you enable it. If you do so, close the MCM and wait until a message stating **SexLab Creature Animations Installed** appears **twice**.
+_**Creature animations are enabled by default**._ To prevent this, click _Allow creature animation_ in the upper right and make sure it's disabled. These are **not** limited to werewolves and vampires so be **sure** you want to get **freaky** before you allow it to remain enabled.
 
 Finally, _SexLab_ is configured so that nude, opposite-sex characters cause you to become aroused by default. If you wish to change this, reopen the MCM and navigate to
 
@@ -78,15 +80,23 @@ Under **Animation**, uncheck _Override_ as Devious already handles this function
 
 ###  SL Anim Loader
 
-####  General Options
+#### General Options
 
 Click _Enable All: Click Here_
+
+#### More Nasty Critters
+
+These animations don't suit me. I recommend clicking _Disable All_. But to each their own.
+
+#### General Options
 
 Click _Rebuild SexLab Anim Registry_. (For those familiar with _SexLab_, this is necessary due to some of the non-_SLAL_ animations I included.)
 
 Open the console with the _Tilde_ key (~) and wait for all messages to stop. It can take a _very_ long time. 
 
 You will see a popup that reads "Animation registry has been successfully reset" but ignore it. You need to wait until all of the animations find their slots.
+
+You will know it is finished when you see an animation called "Proxy Spoils of War"
 
 ### AGO
 
@@ -106,7 +116,7 @@ I have configured everything but the leaning for you. Changing from one-handed t
 
 _Leaning_
 
-I prefer the _procedural leaning_ and _camera movement_ at X1.00, but it disagrees with many players' stomachs.
+I prefer the _procedural leaning_ and _camera movement_ (also known as **bobbing**) at X1.00, but it disagrees with many players' stomachs.
 
 If you find uncomfortable nausea happening to you, I recommend the following values:
 
@@ -368,13 +378,23 @@ Re-open.
 
 Next, click _Import Settings_ on the right.
 
-**I have disabled all player-as-victim functions except for surrender.**
+**I have disabled all victim functions except for surrender.**
 
-**This is because an invalid assaulter will ruin your save.**
+This is because an invalid assaulter will ruin your save.
 
-**Surrender with the _K_ key and do it quick or you will die instead.**
+Surrender with the _K_ key and do it quick or you will die instead.
 
-Player-as-aggressor and NPC-to-NPC are enabled until I inevitably demonstrate they are still broken.
+Only surrender to things you want to take advantage of you.
+
+**Stealth defeats do not work with Nemesis.**
+
+I will not change to FNIS for this one function. I would rather dual wield greatswords than surprise sex people.
+
+If you must assault someone, mark them with _G_ and hit them with an unarmed attack.
+
+Please note that anyone else who sees you may attack you when you do this.
+
+**NPC vs NPC is disabled for now.**
 
 If you want to enable or disable things such as men, women, flying purple people eaters, do so in the "player as victim" section.
 

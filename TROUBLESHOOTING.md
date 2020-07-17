@@ -2,23 +2,15 @@
 
 ## Technical
 
-### Why are there so many duplicated animation folders? _or_ Why do I have to CTRL-CLICK to build _BodySlide_?
+### Why do I have to CTRL-CLICK to build _BodySlide_?
 
 _Mod Organizer 2_ does not put edits to existing files in the _overwrite_ folder, only newly created files. _CBBE_, _3BBB_ and _BD_ come with "default" meshes that will be changed by _BodySlide_ if you do not direct them to the proper directory yourself. Likewise, _Nemesis_ edits all the animation source files when it updates instead of putting the changes in the overwrite folder. If you don't believe me, I encourage you to check _MO2_'s documentation or the _Nemesis_ closed _Issues_ section on Github. If this doesn't convince you, I encourage you to test it yourself.
 
-### I look really old no matter what I do.
-
-Change your character's complexion, or load a Preset from within RaceMenu.
-
 ### I tried to wear a piece of gear but my body disappeared!
 
-The _Devious_ equipment is invisible unless _BodySlide_ is fully run. Follow all the steps in the _BodySlide_ section.
+If you are male, there are no male models for _Devious_ equipment in this list. They will all be invisible. I encourage you to refer to [MCMS](https://github.com/cacophony/LeS/MCMs.MD) for tips on setting up a game for a male character.
 
-###  My skin pokes through my armor! or My bald head pokes through my hood!
-
-Particularly voluptuous (thicc) BodySlide presets will cause clipping (skin poking through clothing) on some outfit variants that are skintight. This may include randomized women from BodyGen. Nothing can be done about this so either ignore it or generate everyone with a more subdued BodySlide preset. 
-
-There are also issues with some hoods causing bald heads to poke through that I have yet to resolve. This mostly happens when the PC wears a hooded robe and crouches, so if it bothers you, don't do either of those things.
+If you are female, the _Devious_ equipment is invisible unless _BodySlide_ is fully run. Follow all the steps in the [Female Bodies and Outfits](https://github.com/cacophony/LeS/BODYSLIDE.md) section.
 
 ### Some of me is too _jiggly_! (Especially the belly.)
 
@@ -26,7 +18,7 @@ I tried to minimize it as much as possible, but the available CBPC presets are k
 
 ### I read a skill book but my skill didn't go up!
 
-This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. If you're not locked up with something, alleviate that need and then read the book. If you're locked into gear and can't _take care of business_, you're out of luck. Leave the book where it is and read the next one you come across, otherwise it will be wasted.
+This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. If you're not locked up with something, alleviate that need and then read the book. If you're locked into gear and can't take care of business, I have taken a cue from _Living Skyrim_ and made picking up a book the default instead of reading it. If you want to read a book (for example Inigo or LOTD notes) without stealing them, draw your weapon first.
 
 ### I'm running _Light But Kinky_ and I can't find my save!
 
@@ -45,6 +37,14 @@ As such, animations triggered from the SE versions of _Defeat_ and _Cursed Loot_
 ### My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.
 
 First, if you added something, remove it or rerun _Wabbajack._ If you didn't add anything, there's not much I can do. _Devious_ handling of these matters is extremely finicky in its original version on Oldrim and even more so for Special Edition. Facial Expressions in Special Edition have always been a problem and the NPC arm / invisible hands problem persists to this day no matter which version you use. If you want a more bug-free game, don't use _Devious Devices_ because this is **way** out of Skyrim's purview.
+
+### My body shows that I'm wearing a Devious Device, I suffer all the effects from it, but it's not in my inventory so I can't remove it!
+
+Your device bugged out. Reload from before you got equipped with it. If you don't want these kinds of problems, don't use _Devious Devices._
+
+### I'm just gonna use debug menus or console commands to remove stuff I don't want on me anymore.
+
+First, evaluate if _Devious Devices_ is really something you want to play _Skyrim_ with. If it is, don't use debug menus or console commands to avoid the purpose of the mod. It only makes things worse over time. If something is so horribly bugged that you can't do anything at all about it, load your game before the problem appeared. If you find yourself doing this a lot, you probably thought _Devious_ was a cool idea for you but it really isn't.
 
 ###  I'm locked into some gear and I can't move in third person.
 
