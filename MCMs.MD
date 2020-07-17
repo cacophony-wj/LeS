@@ -116,9 +116,9 @@ I have configured everything but the leaning for you. Changing from one-handed t
 
 _Leaning_
 
-I prefer the _procedural leaning_ and _camera movement_ (also known as **bobbing**) at X1.00, but it disagrees with many players' stomachs.
+I prefer the _procedural leaning_ and _camera movement_ (also known as **bobbing**) at X1.00, but it does cause rather severe motion sickness in some players.
 
-If you find uncomfortable nausea happening to you, I recommend the following values:
+**If you find uncomfortable nausea happening to you, I recommend the following values:**
 
 _Lean Multiplier (1st Person)_: _X0.00_
 
