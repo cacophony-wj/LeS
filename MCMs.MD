@@ -164,7 +164,7 @@ And click _Shut down all functions_, then wait until it is checked.
 
 **Repeat, if you do not want bondage you must disable Cursed Loot as per the above section!**
 
-**NO, I don't know why "Shut Down All Functions" doesn't shut down all functions**
+**You will still loot DARE packs and DAMN boxes. These cannot be disabled and will cause unintended effects if used while Cursed Loot is disabled!**
 
 #### Debug
 
@@ -233,6 +233,12 @@ Slide to zero, all the way left.
 _General_
 
 Check _Enable SOS_.
+
+There is also an option in here that affects NPCs attitudes toward you, If you go to
+
+#### Current Armor
+
+And place an _X_ in the mark next to what you are wearing, it will be considered the same as being nude. Somewhat appropriate for some of the outfits in this list.
 
 ### SexLab Confabulation
 
@@ -314,6 +320,8 @@ Click _Import Settings_
 
 **Last warning, if you do not disable the above you will get spanked and make female sex noises when having sex.**
 
+The "Butchered" option for _Player Dialogue_ can be quite amusing but also very silly. I recommend changing it to "Vanilla" unless you just want to see how the text-to-speech style mashup works.
+
 ###  Storm Lightning
 
 ####  Presets
@@ -390,7 +398,7 @@ Only surrender to things you want to take advantage of you.
 
 **Stealth defeats do not work with Nemesis.**
 
-I will not change to FNIS for this one function. I would rather dual wield greatswords than surprise sex people.
+I am considering a change to FNIS although this is not ideal to decrease the likelihood that Defeat will break.
 
 If you must assault someone, mark them with _G_ and hit them with an unarmed attack.
 
