@@ -20,15 +20,16 @@
 		- [Downloading and Installing](#downloading-and-installing)
 	- [Problems with Wabbajack](#problems-with-wabbajack)
 		- [Post-Installation](#post-installation)
+	- [To Launch the Game](#to-launch-the-game)
 	- [Updating](#updating)
 - [Number One Rule: This List Is Customizable](#number-one-rule-this-list-is-customizable)
 - [Misaligned Animations](#misaligned-animations)
 - [Admiring Yourself](#admiring-yourself)
+- [A Bit of a Note about "Combat Surrender"](#a-bit-of-a-note-about-combat-surrender)
+- [Arousal and CLockwork](#arousal-and-clockwork)
+- [A word about ENBs](#a-word-about-enbs)
 - [Crafting the Female Bodies](#crafting-the-female-bodies)
 - [Game Settings - System and MCM](#game-settings---system-and-mcm)
-- [Arousal and CLockwork](#arousal-and-clockwork)
-- [A Bit of a Note about "Combat Surrender"](#a-bit-of-a-note-about-combat-surrender)
-- [A word about ENBs](#a-word-about-enbs)
 - [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)
 - [Removing the Modlist](#removing-the-modlist)
 - [Contact](#contact)
@@ -178,6 +179,10 @@ Download the latest ENB Series from [here](http://enbdev.com/download_mod_tessky
 
 Copy all of the files from the _LeS Directory/game folder files_ directory to your game folder.
 
+## To Launch the Game
+
+Navigate to the directory where you installed the modlist _Licentia et Servitium_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it when instructed below to continue.
+
 ##  Updating
 
 **DO NOT UPDATE unless you have a CRITICAL BUG.**
@@ -216,22 +221,6 @@ To _disable IFPV_ once you have enabled it, ensure that you **can** see your bod
 
 You can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_. Use the mouse to look around and WASD to move your "camera".
 
-# Crafting the Female Bodies
-
-The women will look super weird if you don't provide them with customized bodies. Follow the steps in the below section.
-
-[Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
-
-# Game Settings - System and MCM
-
-The next step is to configure the game. Launch _Skyrim: Special Edition_ from the **RUN ME** command, create your character, and follow _all_ of the instructions in the below link:
-
-[Licentia et Servitium Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
-
-# Arousal and CLockwork
-
-Once you get the message about the collapsed passage north of Riften, it is recommended to disable _Cursed Loot_ if you are using that mod before exploring the introduction to _Clockwork_. Traveling to this area locks you into a zone with no way to return for about 5 - 10 playtime hours and no targets for SexLab interactions or vendor services. This will make it extremely difficult to relieve yourself or remove yourself from devices. A friendly tip from a helpful user.
-
 # A Bit of a Note about "Combat Surrender"
 
 All of the _SexLab_ death alternatives are a mess. I have wrestled with them for years. _Defeat_ is the worst of them all, but I included it so people can have their submission without their bondage. But it is incompatible with Cursed Loot's "Combat Surrender," and Combat Surrender, while still buggy, at least never renders it impossible to continue your game. So I have opted to leave Combat Surrender enabled. However, this comes with two side notes.
@@ -242,18 +231,34 @@ _If you are forced to surrender to a creature,_ this feature was initially disab
 
 You can also solve all of these problems by disabling "Combat Surrender" (or _Cursed Loot_ entirely) and dying like Skyrim intended you to.
 
+# Arousal and CLockwork
+
+Once you get the message about the collapsed passage north of Riften, it is recommended to disable _Cursed Loot_ if you are using that mod before exploring the introduction to _Clockwork_. Traveling to this area locks you into a zone with no way to return for about 5 - 10 playtime hours and no targets for SexLab interactions or vendor services. This will make it extremely difficult to relieve yourself or remove yourself from devices. A friendly tip from a helpful user.
+
 # A word about ENBs
 
-I have changed the ENB to _Re-Engaged_ because best I can tell _Silent Horizons_ needs an update. I don't understand it, to me it's black magic. If you don't like it I have tested these:
+I have chosen _Re-Engaged_ as the ENB because best I can tell _Silent Horizons_ needs an update. I don't understand it, to me it's black magic. If you don't like it I have tested these:
 
 _Silent Horizons_ was causing flicker for me. I think it needs an update, but you could always try it. I prefer it far more then _Re-Engaged._
 _Hardlandson's_ is a great third choice with fantastic interiors and atmospheric fogs. Personally I think the exteriors are a little too washed out.
-_PI-CHO_ looks great for character close-ups and resembles Silent Horizons for everything else, but glare and shine in wet or rainy areas almost looks like fireworks.
+_PI-CHO_ looks great for character close-ups and resembles Silent Horizons for everything else, but the specular map for wet effects is a bit too bright for me.
 _Rudy_ will technically work but is not recommended as it has no variant which supports Cathedral Weathers.
-_Serio_ is probably the best ENB for customizing with the MCM.
-_lJoss_ is Lexy's new standard but requires darker lod mods and custom DynDOLOD settings that I do not use. I do not recommend this option.
+_Serio's ENB_ is probably the best ENB for customizing with the _Cathedral Weathers MCM_.
+_lJoss_ is Lexy's new standard but requires darker lod mods and custom DynDOLOD settings that I do not use. This ENB is not compatible.
 
 The other ENB's seemed either so inferior or were completely incompatible that I didn't mention them. I also left out any ENB preset that hasn't updated in over six months, since SSS support and the wet shader effect was added to the binaries.
+
+# Crafting the Female Bodies
+
+The women will look super weird if you don't provide them with customized bodies. Follow the steps in the below section.
+
+[Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
+
+# Game Settings - System and MCM
+
+The next step is to configure the game. Launch the modlist from the command which reads **RUN ME TO START THE GAME**, create your character, and follow _all_ of the instructions in the below link:
+
+[Licentia et Servitium Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
 
 #  Adding Followers, Outfits, and Other Mods
 
