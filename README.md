@@ -21,17 +21,19 @@
 	- [Problems with Wabbajack](#problems-with-wabbajack)
 		- [Post-Installation](#post-installation)
 	- [Updating](#updating)
-	- [Number One Rule: This List Is Customizable](#number-one-rule-this-list-is-customizable)
-	- [Misaligned Animations](#misaligned-animations)
-	- [Admiring Yourself](#admiring-yourself)
-	- [Crafting the Female Bodies](#crafting-the-female-bodies)
-	- [Game Settings - System and MCM](#game-settings---system-and-mcm)
-	- [A word about ENBs](#a-word-about-enbs)
-	- [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)
-	- [Removing the Modlist](#removing-the-modlist)
-	- [Contact](#contact)
-	- [Contributing](#contributing)
-	- [Changelog](#changelog)
+- [Number One Rule: This List Is Customizable](#number-one-rule-this-list-is-customizable)
+- [Misaligned Animations](#misaligned-animations)
+- [Admiring Yourself](#admiring-yourself)
+- [Crafting the Female Bodies](#crafting-the-female-bodies)
+- [Game Settings - System and MCM](#game-settings---system-and-mcm)
+- [Arousal and CLockwork](#arousal-and-clockwork)
+- [A Bit of a Note about "Combat Surrender"](#a-bit-of-a-note-about-combat-surrender)
+- [A word about ENBs](#a-word-about-enbs)
+- [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)
+- [Removing the Modlist](#removing-the-modlist)
+- [Contact](#contact)
+- [Contributing](#contributing)
+- [Changelog](#changelog)
 
 # Licentia et Servitium: A Modest Sampling of Lover's Lab
 
@@ -196,15 +198,15 @@ Next **delete** the _profiles_ folder leftovers from your backup, as they only h
 
 You should be ready to continue as per the installation instructions.
 
-## Number One Rule: This List Is Customizable
+# Number One Rule: This List Is Customizable
 
 Your kinks are a very private thing. I have included many mods for many purposes. They are almost all geared toward female submissive characters with particular fetishes but with a little tweaking you can get it the way you want. Most of the mods can be easily disabled via the in-game MCM menu.
 
-## Misaligned Animations
+# Misaligned Animations
 
 I have included a ton of animations, almost the maximum, so people don't feel the need to pack in more. Many of them are less than perfect. If they are not aligned you will have to do it yourself. Here's how it works... the _L_ key on your keyboard moves you _forward,_ i.e. closer to your partner. _Shift-L_ moves you _backward,_ or the reverse. _;_ moves you _up_, or higher in elevation than your partner. _Shift-;_ does the reverse. Finally, _'_ moves you _Right_ compared to your partner, whereas _Shift-'_ moves you _Left_.
 
-##  Admiring Yourself
+#  Admiring Yourself
 
 For those who want to experience "POV" (point-of-view) scenes or to play primarily in first person, [Immersive First Person View](https://www.nexusmods.com/skyrimspecialedition/mods/22306) is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode (F key by default) and press _NUMPAD 0_ to enable it. Then press the F key again and look downward. Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. 
 
@@ -214,19 +216,33 @@ To _disable IFPV_ once you have enabled it, ensure that you **can** see your bod
 
 You can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_. Use the mouse to look around and WASD to move your "camera".
 
-## Crafting the Female Bodies
+# Crafting the Female Bodies
 
 The women will look super weird if you don't provide them with customized bodies. Follow the steps in the below section.
 
 [Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
 
-## Game Settings - System and MCM
+# Game Settings - System and MCM
 
 The next step is to configure the game. Launch _Skyrim: Special Edition_ from the **RUN ME** command, create your character, and follow _all_ of the instructions in the below link:
 
 [Licentia et Servitium Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
 
-## A word about ENBs
+# Arousal and CLockwork
+
+Once you get the message about the collapsed passage north of Riften, it is recommended to disable _Cursed Loot_ if you are using that mod before exploring the introduction to _Clockwork_. Traveling to this area locks you into a zone with no way to return for about 5 - 10 playtime hours and no targets for SexLab interactions or vendor services. This will make it extremely difficult to relieve yourself or remove yourself from devices. A friendly tip from a helpful user.
+
+# A Bit of a Note about "Combat Surrender"
+
+All of the _SexLab_ death alternatives are a mess. I have wrestled with them for years. _Defeat_ is the worst of them all, but I included it so people can have their submission without their bondage. But it is incompatible with Cursed Loot's "Combat Surrender," and Combat Surrender, while still buggy, at least never renders it impossible to continue your game. So I have opted to leave Combat Surrender enabled. However, this comes with two side notes.
+
+_If a person talks to you (defined by the game as friendly), then attacks you (defined by the game as hostile), then forces you to surrender, you will **always** be locked into a full set of extremely punishing bondage gear_. To fix this problem, await the next revision of _Cursed Loot_.
+
+_If you are forced to surrender to a creature,_ this feature was initially disabled and tacked on later. Weird things will probably happen. You may even be gagged and turned over to a prison cell. To fix this problem, await the next revision of _Cursed Loot_.
+
+You can also solve all of these problems by disabling "Combat Surrender" (or _Cursed Loot_ entirely) and dying like Skyrim intended you to.
+
+# A word about ENBs
 
 I have changed the ENB to _Re-Engaged_ because best I can tell _Silent Horizons_ needs an update. I don't understand it, to me it's black magic. If you don't like it I have tested these:
 
@@ -239,7 +255,7 @@ _lJoss_ is Lexy's new standard but requires darker lod mods and custom DynDOLOD 
 
 The other ENB's seemed either so inferior or were completely incompatible that I didn't mention them. I also left out any ENB preset that hasn't updated in over six months, since SSS support and the wet shader effect was added to the binaries.
 
-##  Adding Followers, Outfits, and Other Mods
+#  Adding Followers, Outfits, and Other Mods
 
 This is not "officially" supported as per _Wabbajack Rule 11_. That said, I know you want to do it anyway, so I will offer this instruction.
 
@@ -257,18 +273,18 @@ All that said, if you can't figure out a mod on your own that I did not mention 
 
 Finally _do not ask about non-Lover's lab mods_ except really simple things like makeup, hair, outfits, or voice tracks. I do not have the time to write custom patches for these. And just to make it clear, _DO NOT ASK ANYONE ELSE BUT ME **(cacophony#0001)** TO TROUBLESHOOT YOUR LOVER'S LAB MODS._ Rule 11 fully applies to everyone else but me.
 
-## Removing the Modlist
+# Removing the Modlist
 
 You can just remove the _LeS_ folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
-## Contact
+# Contact
 
 I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-et-servitium-support).
 
-## Contributing
+# Contributing
 
 See [Contributing](CONTRIBUTING.md).
 
-## Changelog
+# Changelog
 
 See [Changelog](CHANGELOG.md).

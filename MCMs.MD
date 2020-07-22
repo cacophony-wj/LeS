@@ -134,7 +134,7 @@ Either disable it and set it to _Hotkey_ (with _ESC_ as the value) or switch to 
 
 ### Cursed Loot
 
-**If you are a male character, or have no interest in BDSM and submissive roleplay do the following**
+**This mod includes extreme ERP (erotic roleplay) including BDSM and RAPE so if you do not wish to see such excessively offensive content you must DISABLE IT IMMEDIATELY as follows!**
 
 First, disable bondage-related loot drops by navigating to 
 
@@ -162,8 +162,6 @@ Finally, navigate to
 
 And click _Shut down all functions_, then wait until it is checked.
 
-**Repeat, if you do not want bondage you must disable Cursed Loot as per the above section!**
-
 **You will still loot DARE packs and DAMN boxes. These cannot be disabled and will cause unintended effects if used while Cursed Loot is disabled!**
 
 #### Debug
@@ -175,6 +173,8 @@ Click _Import Settings - USE_ and upon receiving the message **Are you sure?** c
 **Last warning, if you have not disabled Cursed Loot at this moment you will randomly be tied up.**
 
 **Last warning, if you are male and have not disabled Cursed Loot you will randomly go invisible.**
+
+**If you have not read the entire landing page (README.md) go back and examine the section about "Combat Surrender" before continuing.**
 
 ### Devious Devices Helpers
 
@@ -225,6 +225,8 @@ Uncheck _Enable to Long press activation key_
 _Sex Duration for full Reward_
 
 Slide to zero, all the way left.
+
+**NOTE** Do not enable _Cursed Loot_ solicitation with this mod. The two are incompatible. This comes straight from the mod author's readme and I do not support this if you experiment with it.
 
 ###  SexLab Aroused
 

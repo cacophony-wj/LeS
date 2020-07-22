@@ -20,7 +20,7 @@ I tried to minimize it as much as possible, but the available CBPC presets are k
 
 This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. If you're not locked up with something, alleviate that need and then read the book. If you're locked into gear and can't take care of business, I have taken a cue from _Living Skyrim_ and made picking up a book the default instead of reading it. If you want to read a book (for example Inigo or LOTD notes) without stealing them, draw your weapon first.
 
-### I'm running _Light But Kinky_ and I can't find my save!
+### I can't find my save!
 
 Try using _Show All Saves._ Devious or Cursed Loot (one of the two) sometimes puts them in a weird place, most likely because of legacy scripts.
 
@@ -36,7 +36,12 @@ As such, animations triggered from the SE versions of _Defeat_ and _Cursed Loot_
 
 ### My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.
 
-First, if you added something, remove it or rerun _Wabbajack._ If you didn't add anything, there's not much I can do. _Devious_ handling of these matters is extremely finicky in its original version on Oldrim and even more so for Special Edition. Facial Expressions in Special Edition have always been a problem and the NPC arm / invisible hands problem persists to this day no matter which version you use. If you want a more bug-free game, don't use _Devious Devices_ because this is **way** out of Skyrim's purview.
+First, if you added something, remove it or rerun _Wabbajack._ If you didn't add anything, there's not much I can do. _Devious_ handling of these matters is extremely finicky in its original version on Oldrim and even more so for Special Edition. Facial Expressions in Special Edition have always been a problem and the NPC arm / invisible hands problem persists to this day no matter which version you use. If you want a more bug-free game, don't use _Devious Devices_ because this is **way** out of Skyrim's purview. IF something really terrible happens and won't stop (animations always wrong, or being trapped in something you can't see in your inventory) you basically have two options.
+
+1. Load the game from before the bug happened.
+2. If that doesn't work, rerun Wabbajack and play SexLab without Devious Devices support.
+
+**NEVER** use the _"Safe Word" (FREE ME)_ in the _Cursed Loot_ debug menu. Find a way out of your restraints as intended instead. "FREE ME" basically forces all the scripts to terminate with console commands and will probably cause more problems than it solves. It is mainly intended for testing. If you find yourself wanting to do this very often, reconsider why you are playing this modlist.
 
 ### My body shows that I'm wearing a Devious Device, I suffer all the effects from it, but it's not in my inventory so I can't remove it!
 

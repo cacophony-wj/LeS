@@ -11,21 +11,19 @@ I'm guessing you came here to appreciate the female form. This Modlist offers th
 
 ### "BodyGen4"
 
-This is the standard option. It makes elves thin and orcs thick among other things. Every woman is a bit different. If you wish to use this option, download _BodyGen.Output.7z_ from [here](https://github.com/cacophony-wj/BS.for.LeS/releases/tag/0.1.G) and extract it to your _LeS Directory/mods/BodySlide Output/_ folder. When finished, it should contain a folder named _meshes_ with about a dozen other folders inside. These bodies and armors will look funky without BodyGen enabled. Your body will start plain and randomly change all the time unless you edit all your proportions by hand under _3BBB Morphs_. 
+This is the standard option. It makes elves thin and orcs thick among other things. Every woman is a bit different. If you wish to use this option, select -Zeroed CBBE- from the _Preset_ dropdown before following the instructions in [Running BodySlide](#running-bodyslide). Your body will spawn as a standard CBBE body until you edit your proportions by hand under _3BBB Morphs_ and save yourself as a preset. 
+
+
 
 ### "3BBB HangEmHigh"
 
-If you want to use a non-random body based on how thin or thick the game designers meant people to be, download _3BBB.Output.7z_ from [here](https://github.com/cacophony-wj/BS.for.LeS/releases/tag/0.1.B) and **disable _BodyGen4_ in the left pane of MO2**. Then extract it to your _LeS Directory/mods/BodySlide Output/_ folder.
+If you want to use a non-random body based on how thin or thick the game designers meant people to be, disable _BodyGen4_ in the left pane of _MO2_. If you do not, boobs may be planet sized, among other issues. Then select _3BBB HangEmHigh_ from the _Preset_ dropdown before following the instructions in [Running Bodyslide](#running-bodyslide). With this option, thinness or thickness will be a function entirely of "body size" in RaceMenu, instead of relying upon several dozen sliders.
 
-This process is much easier, just adjust "body size" in RaceMenu to change between thin and thick, instead of manually changing several dozen sliders.
+#### PLEASE NOTE
 
-#### Please note: Not all morphs are working at this time. Try CBBE morphs if the 3BBB ones don't work. Turns out some of my outfits may have issues.
+Body customization may not be working for some outfits that lack a conversion. This will be fixed when I find the time. Until then, customize your body while nude by removing your clothing, opening the console with the Tilde ` key, and typing 'showracemenu'. If this doesn't work, you did something wrong with BodySlide.
 
 ### Running BodySlide
-
-If you want to generate your own bodies, **first of all** you need to disable **_BodyGen4_** in the left pane. 
-
-**Please note, you MUST DISABLE BODYGEN4 for this, otherwise boobs will be the size of planets**
 
 I have included a couple of _3BBB_ bodies and _many_ _CBBE_ ones, but you can always install your own.
 
@@ -80,10 +78,10 @@ Rather than use _SexLab_'s rather boring and badly-fitted strapon for scenes wer
 17. Navigate over to _Genitals_.
 18. Adjust that bad boy as you see fit.
 19. Open your inventory and drop it on the ground.
-20. Open the console again and type tfc a final time.
+20. It should automatically appear when appropriate (Amorous Adventures scenes are the worst for this).
+21. If you want to be a futa that's cool, but this particular schlong never unequips after a sex scene and can't have armor equipped over it, so there's that. You might want to take a look at _Cupid_ (another Wabbajack list) instead!
+24. Open the console again and type tfc a final time.
 
-It should automatically appear when appropriate (Amorous Adventures scenes are the worst for this).
-
-If you are male, the above steps can also be used to customize your own schlong.
+If you are male, the _Genitals_ section of _RaceMenu_ can be used to customize your "real" schlong as well.
 
 Unfortunately I've not matched the equippable schlong to the Demoniac skin yet. It looks pretty off. But it's still better than Calyps.
