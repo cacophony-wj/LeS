@@ -25,9 +25,9 @@
 		- [Downloading and Installing](#downloading-and-installing)
 	- [Problems with Wabbajack](#problems-with-wabbajack)
 		- [Post-Installation](#post-installation)
-	- [Preparing the Game](#preparing-the-game)
+- [Preparing the Game](#preparing-the-game)
 - [Crafting the Female Bodies](#crafting-the-female-bodies)
-- [Launching and Preparing the Game](#launching-and-preparing-the-game)
+- [Launching the Game](#launching-the-game)
 - [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)
 - [Removing the Modlist](#removing-the-modlist)
 - [Contact](#contact)
@@ -82,13 +82,13 @@ You can always watch a scene from an external view with SexLab's default freecam
 
 # A Bit of a Note about "Combat Surrender"
 
-All of the _SexLab_ death alternatives are a mess. I have wrestled with them for years. _Defeat_ is the worst of them all, but I included it so people can have their submission without their bondage. But it is incompatible with Cursed Loot's "Combat Surrender," and Combat Surrender, while still buggy, at least never renders it impossible to continue your game. So I have opted to leave Combat Surrender enabled. However, this comes with two side notes.
+All of the _SexLab_ death alternatives are a mess. I have wrestled with them for years. _Defeat_ is the worst of them all, but I included it so people can have their submission without their bondage. And I'll be thrice damned but I've set it as the default option, even though the one from _Cursed Loot_ is less buggy. If you mess with _Defeat_ and get as disgusted with it as I did, you might try _Combat Surrender_ under the _Cursed Loot_ Rape options. Eugh. Keep in mind these tho things about _Combat Surrender_:
 
-_If a person talks to you (defined by the game as friendly), then attacks you (defined by the game as hostile), then forces you to surrender, you will **always** be locked into a full set of extremely punishing bondage gear_. To fix this problem, await the next revision of _Cursed Loot_.
+_If a person talks to you (defined by the game as friendly), then attacks you (defined by the game as hostile), then forces you to surrender, you will **always** be locked into a full set of extremely punishing bondage gear_. This appears to be a bug in the mod.
 
-_If you are forced to surrender to a creature,_ this feature was initially disabled and tacked on later. Weird things will probably happen. You may even be gagged and turned over to a prison cell. To fix this problem, await the next revision of _Cursed Loot_.
+_If you are forced to surrender to a creature,_ this feature was initially disabled and tacked on later. Weird things will probably happen. You may even be gagged and turned over to a prison cell. This appears to be a bug of the mod.
 
-You can also solve all of these problems by disabling "Combat Surrender" (or _Cursed Loot_ entirely) and dying like Skyrim intended you to.
+You can solve all of these problems by disabling all of _Cursed Loot_ as per the instructions and leaving only one option active with _Defeat_, the manual surrender. That works perfectly fine.
 
 # Arousal and Clockwork
 

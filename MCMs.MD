@@ -1,4 +1,5 @@
 - [Licentia et Servitium Configuration](#licentia-et-servitium-configuration)
+- [Click New Game](#click-new-game)
 - [Character Creation](#character-creation)
 - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
   - [Audio](#audio)
@@ -16,8 +17,6 @@
     - [SexLab](#sexlab-3)
   - [SL Anim Loader](#sl-anim-loader)
     - [General Options](#general-options)
-    - [More Nasty Critters](#more-nasty-critters)
-    - [General Options](#general-options-1)
   - [CGO](#cgo)
     - [Settings](#settings)
   - [Cursed Loot](#cursed-loot)
@@ -33,9 +32,12 @@
   - [LOTD Settings](#lotd-settings)
     - [General](#general)
   - [Quick Light](#quick-light)
+  - [Maids II: Deception](#maids-ii-deception)
+    - [Settings](#settings-1)
   - [Radiant Prostitution](#radiant-prostitution)
   - [SexLab Aroused](#sexlab-aroused)
-    - [Settings](#settings-1)
+    - [Settings](#settings-2)
+    - [Puppet Master](#puppet-master)
     - [Current Armor](#current-armor)
   - [SexLab Confabulation](#sexlab-confabulation)
     - [Troubleshoot (the menu)](#troubleshoot-the-menu)
@@ -44,7 +46,7 @@
   - [SexLab Solutions](#sexlab-solutions)
     - [follower](#follower)
   - [SexLab Tools](#sexlab-tools)
-    - [Settings](#settings-2)
+    - [Settings](#settings-3)
   - [Sky UI](#sky-ui)
     - [General](#general-2)
   - [Spank That Ass](#spank-that-ass)
@@ -66,9 +68,13 @@
 
 ## Licentia et Servitium Configuration
 
+## Click New Game
+
+You might wonder why I put something so obvious here but you'd be surprised at the questions I get. It takes longer to load Skyrim with all these textures, and if you're not on an SSD you're probably going to have a bad time.
+
 ## Character Creation
 
-Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard). There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name.
+Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard). There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _3BBB_ Morphs_ and _Genitals_ options, but I am not going to go into that. Don't ask me either. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished. 
 
 ## A bit of a note on System Settings
 
@@ -80,7 +86,7 @@ I have heard Jeremy Soule's default _Skyrim_ tracks so much that I am tired of t
 
 ### Controls
 
-These are all to your liking, except for _Quicksave_ which should be set to _F9_, and _Quickload_ which should be set to _F10_. Don't worry about using them becuase _Engine Fixes_ converts them to full saves.
+These are all to your liking, except for _Quicksave_ which should be set to _F9_, and _Quickload_ which should be set to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves.
 
 I'm oldschool so sometimes I play with an inverted controller. If your controls are inverted you might have to change it since I forgot to.
 
@@ -118,9 +124,11 @@ Another message will appear, "SexLab configuration successfully imported." Click
 
 Finally, under **Available Strap-ons** near the lower left you will see _Calyps Strapon REMOVE_. Click this option and wait for it to disappear from the list of strap-ons.
 
+Note that **ALL** of _SexLab's_ original old animations have been suppressed due to unpopularity. If you want to re-enable them for some reason, click _CLEAR SUPPRESSED LIST - CLICK HERE_.
+
 #### Animation Settings
 
-_**Creature animations are enabled by default**._ To prevent this, click _Allow creature animation_ in the upper right and make sure it's disabled. These are **not** limited to werewolves and vampires so be **sure** you want to get **freaky** before you allow it to remain enabled.
+_**Creature animations are disabled by default**._ To prevent this, click _Allow creature animation_ in the upper right and make sure it's disabled. These are **not** limited to werewolves and vampires so be **sure** you want to get **freaky** before you allow it to remain enabled.
 
 Finally, _SexLab_ is configured so that nude, opposite-sex characters cause you to become aroused by default. If you wish to change this, reopen the MCM and navigate to
 
@@ -144,7 +152,7 @@ Lover's Lab recommends saving and loading the game immediately after fully confi
 
 When first clicking this menu, it may appear to be stuck. It takes about a minute to show any visible change. Just wait. 
 
-**SexLab Animations**: Click the grayed out word _Register_ and wait 30 - 60 seconds until the greyed out word _Registered_ appears. 
+**SexLab Animations**: Click the _Register_ and wait 30 - 60 seconds until the greyed out word _Registered_ appears. 
 
 Under **Animation**, uncheck _Override_ as Devious already handles this function.
 
@@ -154,15 +162,9 @@ Under **Animation**, uncheck _Override_ as Devious already handles this function
 
 Click _Enable All: Click Here_
 
-#### More Nasty Critters
+Click _Enable All_.
 
-These animations don't suit me. I recommend clicking _Disable All_. But to each their own.
-
-#### General Options
-
-Click _Register Animations_.
-
-The process will take about five minutes, whereupon you will receive a message that over 500 animations have been registered.
+The process will take about five minutes, whereupon you will receive a message that around 580 animations have been registered. Just click _Accept_
 
 Confirm and continue.
 
@@ -284,6 +286,12 @@ _Light Key: NUMPAD 1_
 
 Uncheck _Enable to Long press activation key_
 
+### Maids II: Deception
+
+#### Settings
+
+Disable _Wild Encounters_ as I did not install this option.
+
 ### Radiant Prostitution
 
 **NOTE** All settings are already configured but **do not** enable _Cursed Loot_ solicitation with this mod. The two are incompatible. This comes straight from the mod author's readme and I do not support this if you experiment with it.
@@ -296,11 +304,13 @@ _General_
 
 Check _Enable SOS_.
 
-There is also an option in here that affects NPCs attitudes toward you, If you go to
+#### Puppet Master
+
+Here you will find an option (_Is Exhibitionist_) that will make your arousal rise dramatically the more people see you naked. With _Cursed Loot_, your life will quickly become a living hell.
 
 #### Current Armor
 
-And place an _X_ in the mark next to what you are wearing, it will be considered the same as being nude. Somewhat appropriate for some of the outfits in this list.
+The armor you wear will be listed here with a blank mark next to it. Click it to place an _X_ in the mark next and that outfit will be considered the same as being nude from that point on. Since _Spank That Ass_ only targets you for random ass slaps if you are nude or wearing clothing (as opposed to armor), you actually might want to do this if you are wearing something ridic that has cheeks hanging out.
 
 ### SexLab Confabulation
 
@@ -342,7 +352,17 @@ _Matchmaker queue_
 
 Ignore the message that the key is already mapped and answer "Yes."
 
-**Please Note**: You can hover your crosshair over any actor and press _NUMPAD 2_ to set up a sex scene. Please note that the _first_ slot is always the _receiver_ in a sex scene. Every other slot is an _actor._. To add yourself to a slot, hover your crosshair over a nonliving object and press _NUMPAD 2_. Then select a slot. To begin the scene instead, select _Begin scene_. While a scene is running, you can press the _Shift+H_ keys to select from a list of commands.
+**Please Note**: You can hover your crosshair over any person and press _NUMPAD 2_ to set up a sex scene at any time with any animation without any consequences. Please note that the person in the _receiver_ slot is always the "bottom" in a sex scene or the "victim" in an aggressive scene. Every other slot is an _actor_ and will primarily have sex with the receiver although sometimes it varies. 
+
+To add yourself to a slot, hover your crosshair over empty space and press _NUMPAD 2_. Then select the slot you want to participate in. Each time you place somebody in a slot, you will have to choose several options. _Set with animation_ obviously, then the type of animation you want. 
+
+A "default" set is consensual, an "aggressive set" is non-consensual (or looks very much like it). However, both of these are limited to the first 250 animations installed per set, as per the original restrictions of _SexLab._ 
+
+As for _Tag/Name_ if you know your animation's tag (for example, a common one like _MMF_ or _FFM_) then you can choose it and it will generally work. The name function is mostly useless unless you know the exact SLAL name of the animation you want to play. You could look it up I guess. 
+
+Finally you'll have to type in how many total people will be in the scene. And yes, you have to do this _every time you add somebody_. It's not the best. 
+
+Here's what makes up for it though, after you begin the scene by clicking on empty space and choosing _Begin scene_, you can press the _Shift+H_ keys to select from a list of commands, including changing positions, stages, and choosing animations from a list. Remember, it only draws from the first 250, or the first 250 of whatever tag you set. If your tag is too specific, nothing will be in the list.
 
 ###  Sky UI
 
