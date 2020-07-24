@@ -25,10 +25,10 @@
 - [Misaligned Animations](#misaligned-animations)
 - [Admiring Yourself](#admiring-yourself)
 - [A Bit of a Note about "Combat Surrender"](#a-bit-of-a-note-about-combat-surrender)
-- [Arousal and CLockwork](#arousal-and-clockwork)
+- [Arousal and Clockwork](#arousal-and-clockwork)
 - [A word about ENBs](#a-word-about-enbs)
 - [Crafting the Female Bodies](#crafting-the-female-bodies)
-- [Game Settings - System and MCM](#game-settings---system-and-mcm)
+- [Launching and Preparing the Game](#launching-and-preparing-the-game)
 - [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)
 - [Removing the Modlist](#removing-the-modlist)
 - [Contact](#contact)
@@ -253,9 +253,9 @@ The women will look super weird if you don't provide them with customized bodies
 
 [Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
 
-# Game Settings - System and MCM
+# Launching and Preparing the Game
 
-The next step is to configure the game. Launch the modlist from the command which reads **RUN ME TO START THE GAME**, create your character, and follow _all_ of the instructions in the below link:
+The next step is to prepare the game for play. Launch _ModOrganizer2.exe_ as instructed above [To Launch The Game](#to-launch-the-game) Launch the Gamethe modlist from the command which reads **RUN ME TO START THE GAME**, create your character, and follow _all_ of the instructions in the below link:
 
 [Licentia et Servitium Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
 

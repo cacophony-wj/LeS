@@ -1,11 +1,3 @@
-- [Female Faces](#female-faces)
-- [Female Bodies And Outfits](#female-bodies-and-outfits)
-  - [Running BodySlide](#running-bodyslide)
-
-## Female Faces
-
-Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard). There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name.
-
 ##  Female Bodies And Outfits
 
 I'm guessing you came here to appreciate the female form. Here in the Skyrim community we use an application called _BodySlide_ for that.
