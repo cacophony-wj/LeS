@@ -236,7 +236,7 @@ I have not included pre-generated BodySlide files due to distribution issues. I 
 
 # Launching and Preparing the Game
 
-The next step is to prepare the game for play. Launch _ModOrganizer2.exe_ as instructed above [To Launch The Game](#to-launch-the-game) Launch the Gamethe modlist from the command which reads **RUN ME TO START THE GAME**, create your character, and follow _all_ of the instructions in the below link:
+The rest must be completed after the game itself is launched. Oh yes, there's more. I recommend bringing up this readme on a portable device by navigating to [Wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **RUN ME TO START THE GAME**, create your character, and follow _all_ of the instructions in the below link:
 
 [Licentia et Servitium Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
 
