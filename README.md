@@ -58,12 +58,6 @@ That said, I have been putting _NSFW_ content into games since the first _Nude R
 
 While not as hard as Requiem, as packed as Living Skyrim, or as depraved as Lotus, if you want a basic Skyrim gameplay and sexual overhaul that offers many ways to have fun, you are welcome.
 
-### Wabbajack
-
-Somewhat important section for people that don't know what Wabbajack is and how it works.
-
-Let's start with some terminology: `Modpack` vs `Modlist`
-
 ## A STRONG WARNING
 
 ## SexLab SE is still **beta!** It is still buggy!
