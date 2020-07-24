@@ -235,7 +235,7 @@ I have chosen _Re-Engaged_ as the ENB because best I can tell _Silent Horizons_ 
 
 _Silent Horizons_ was causing flicker for me. I think it needs an update, but you could always try it. I prefer it far more then _Re-Engaged._
 
-_Hardlandson's_ is a great third choice with fantastic interiors and atmospheric fogs. Personally I think the exteriors are a little too washed out.
+_Hardlandson's_ is a great second choice with fantastic interiors and atmospheric fogs. Personally I think the exteriors are a little too washed out.
 
 _PI-CHO_ looks great for character close-ups and resembles Silent Horizons for everything else, but the specular map for wet effects is a bit too bright for me.
 
