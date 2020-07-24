@@ -23,7 +23,7 @@ You will also have to follow all of the steps below.
 7. Click _Select Folder_
 8. Click **OK**
 9. Click the _Group Filter_ magnifying glass (upper right). Then click _Choose Groups..._
-10. Place a checkbox in the _3BBB_ option. Ensure that none others are selected.
+10. Place a checkbox in the _3BBB_ option. Ensure that none others are selected. Click _OK_
 11. In the top left dropdown, select _SE 3BBB Body Amazing_
 12. Select your preset from the dropdown below that. Preview it with the appropriate button.
 13. (I recommend the one called _3BBB HangEmHigh_ for natural beauty enthusiasts, or _3BBB Cacophony_ for fans of the dummy thicc.)
