@@ -26,6 +26,7 @@
 	- [Problems with Wabbajack](#problems-with-wabbajack)
 		- [Post-Installation](#post-installation)
 - [Preparing the Game](#preparing-the-game)
+- [Cursed Loot: DECIDE NOW.](#cursed-loot-decide-now)
 - [Crafting the Female Bodies](#crafting-the-female-bodies)
 - [Launching the Game](#launching-the-game)
 - [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)

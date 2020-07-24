@@ -21,12 +21,6 @@
     - [Settings](#settings)
   - [Cursed Loot](#cursed-loot)
     - [Debug](#debug)
-    - [Miscellaneous Options](#miscellaneous-options)
-    - [Escape Options](#escape-options)
-    - [Debug](#debug-1)
-    - [Debug](#debug-2)
-  - [Devious Devices Helpers](#devious-devices-helpers)
-    - [Feature Enables](#feature-enables)
   - [Follower Framework](#follower-framework)
     - [System](#system)
   - [LOTD Settings](#lotd-settings)
@@ -34,7 +28,6 @@
   - [Quick Light](#quick-light)
   - [Maids II: Deception](#maids-ii-deception)
     - [Settings](#settings-1)
-  - [Radiant Prostitution](#radiant-prostitution)
   - [SexLab Aroused](#sexlab-aroused)
     - [Settings](#settings-2)
     - [Puppet Master](#puppet-master)
@@ -144,9 +137,7 @@ Lover's Lab recommends saving and loading the game immediately after fully confi
 
 ###  ZaZ Animation Pack
 
-**If you are a male character, or have no interest in _Devious Devices_ or BDSM content, ignore this menu.**
-
-**Last warning, taking the step below enables some bondage animations.**
+**If you disabled Cursed Loot, ignore this menu.**
 
 ####  SexLab
 
@@ -190,43 +181,7 @@ Either disable it and set it to _Hotkey_ (with _ESC_ as the value) or switch to 
 
 ### Cursed Loot
 
-**This mod includes extreme ERP (erotic roleplay) including BDSM and RAPE so if you do not wish to see such excessively offensive content you must DISABLE IT IMMEDIATELY as follows!**
-
-First, import the default profile by navigating to 
-
-#### Debug
-
-And clicking _Import Settings_
-
-This is necessary to disable some undesirable options I have off by default. They are left on even when the mod is shut down.
-
-Next, disable bondage-related loot drops by navigating to 
-
-#### Miscellaneous Options
-
-And in the top right, set the following sliders to _0.0%_
-
-_Restraints Drop Chance_
-
-_Lucky Charm drop chance_
-
-Still more loot to disable.
-
-#### Escape Options
-
-_Escape Options_
-
-Uncheck _Container key drops enabled_
-
-Uncheck _Dead body key drops enabled_
-
-Finally, navigate to
-
-#### Debug
-
-And click _Shut down all functions_, then wait until it is checked.
-
-**You will still loot DARE packs and DAMN boxes. These cannot be disabled and will cause unintended effects if used while Cursed Loot is disabled!**
+**If you disabled Cursed Loot this menu won't be here**
 
 #### Debug
 
@@ -234,23 +189,9 @@ And click _Shut down all functions_, then wait until it is checked.
 
 Click _Import Settings_ and upon receiving the message **Are you sure?** click _Accept_
 
-**Last warning, if you have not disabled Cursed Loot at this moment you will randomly be tied up.**
-
 **Last warning, if you are male and have not disabled Cursed Loot you will randomly go invisible.**
 
 **If you have not read the entire landing page (README.md) go back and examine the section about "Combat Surrender" before continuing.**
-
-### Devious Devices Helpers
-
-**If you are a male character, or have no interest in BDSM content do the following**
-
-#### Feature Enables
-
-Uncheck _Follower asks to tie player_
-
-You will still have bondage related dialogs in conversations with followers. Can't be helped, so don't select them.
-
-**Last warning, if you do not do the above your follower will ask to tie you up every three days**
 
 ###  Follower Framework
 
@@ -289,10 +230,6 @@ Uncheck _Enable to Long press activation key_
 #### Settings
 
 Disable _Wild Encounters_ as I did not install this option.
-
-### Radiant Prostitution
-
-**NOTE** All settings are already configured but **do not** enable _Cursed Loot_ solicitation with this mod. The two are incompatible. This comes straight from the mod author's readme and I do not support this if you experiment with it.
 
 ###  SexLab Aroused
 
@@ -399,8 +336,6 @@ Scroll down until you see
 Click _Import Settings_
 
 **Last warning, if you do not disable the above you will get spanked and make female sex noises when having sex.**
-
-The "Butchered" option for _Player Dialogue_ can be quite amusing but also very silly. I recommend changing it to "Vanilla" unless you just want to see how the text-to-speech style mashup works.
 
 ###  Storm Lightning
 
@@ -519,8 +454,6 @@ Unfortunately I've not matched the equippable schlong to the Demoniac skin yet. 
 
 There you go, fellow deviant. Be sure to press **F9** for a last second save in case spawning into Skyrim prompts a crash (which has been known to happen, it helps if you give it a minute before trying). Talk to the Mara statue to begin your journey. 
 
-Surprise! What's that you say? You don't want to be a bondage slut or any kind of slut, and want to start somewhere besides Helgen without being naked?
+What's that you say? You don't want to be a bondage slut or any kind of slut, and want to start somewhere besides Helgen without being naked?
 
-While I can't offer home-made cookies like _ForgottenGlory_ due to a crippling cookie batter phobia and various nut allergies, I _can_ offer this little prize for reading the readme. If you want a different start, double click on _Licentia et Servitium Patches_ in the left pane, click the _Optional ESPs_ tab, and on the left, click _Svirfneblin.esp_ and press the **PLUS** symbol. Click ok and ensure that _Svirfneblin_ is enabled at the bottom of your load order (in the right pane). 
-
-I've left everything enabled that isn't horribly broken by everything else. Please note: many of them are disabled for good reasons. Don't worry, as long as you have the save from before you talked to the statue, you will not have to do the MCMs over again.
+I suggest you reconsider why you are playing this modlist and disable Cursed Loot. You will find your answers there.

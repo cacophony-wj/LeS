@@ -19,6 +19,7 @@
   - [Where the hell do I go after Chloe tells me about the secret passage?](#where-the-hell-do-i-go-after-chloe-tells-me-about-the-secret-passage)
   - [OK so I was about to have sex and I teleported into the sky and dropped into a Giant Camp (or somewhere else wierd)](#ok-so-i-was-about-to-have-sex-and-i-teleported-into-the-sky-and-dropped-into-a-giant-camp-or-somewhere-else-wierd)
   - [I was bound and then defeated and then teleported somewhere and now I can't get up from the ground!](#i-was-bound-and-then-defeated-and-then-teleported-somewhere-and-now-i-cant-get-up-from-the-ground)
+  - [I tried to seduce somebody and they turned me down, dissed me, then attacked me and raped me!](#i-tried-to-seduce-somebody-and-they-turned-me-down-dissed-me-then-attacked-me-and-raped-me)
 
 ## Updates
 
@@ -54,7 +55,7 @@ _Mod Organizer 2_ does not put edits to existing files in the _overwrite_ folder
 
 ### I tried to wear a piece of gear but my body disappeared!
 
-If you are male, there are no male models for _Devious_ equipment in this list. They will all be invisible. I encourage you to refer to [MCMS](https://github.com/cacophony/LeS/blob/master/MCMs.MD) for tips on setting up a game for a male character.
+If you are male, there are no male models for _Devious_ equipment in this list. They will all be invisible. I encourage you to refer to the main README to disable Cursed Loot.
 
 If you are female, the _Devious_ equipment is invisible unless _BodySlide_ is fully run. Follow all the steps in the [Female Bodies and Outfits](https://github.com/cacophony/LeS/blob/master/BODYSLIDE.md) section.
 
@@ -93,11 +94,11 @@ IF something really terrible happens and won't stop (animations always wrong, or
 
 ### My body shows that I'm wearing a Devious Device, I suffer all the effects from it, but it's not in my inventory so I can't remove it!
 
-Your device bugged out. Reload from before you got equipped with it. If you don't want these kinds of problems, don't use _Devious Devices._ If it keeps happening with the _exact same device_ and you haven't added _anything_ to the modlist, post about it in [Issues](https://github.com/cacophony-wj/LeS/issues) 
+Your device bugged out. Reload from before you got equipped with it. If you don't want these kinds of problems, disable Cursed Loot. If it keeps happening with the _exact same device_ and you haven't added _anything_ to the modlist, post about it in [Issues](https://github.com/cacophony-wj/LeS/issues) 
 
 ### I'm just gonna use debug menus or console commands to remove stuff I don't want on me anymore.
 
-First, evaluate if _Devious Devices_ is really something you want to play _Skyrim_ with. If it is, don't use debug menus or console commands to avoid the purpose of the mod. It only makes things worse over time. If something is so horribly bugged that you can't do anything at all about it, load your game before the problem appeared. If you find yourself doing this a lot, you probably thought _Devious_ was a cool idea for you but it really isn't.
+First, evaluate if _Cursed Loot_ is really something you want to play _Skyrim_ with. If it is, don't use debug menus or console commands to avoid the purpose of the mod. It only makes things worse over time. If something is so horribly bugged that you can't do anything at all about it, load your game before the problem appeared. If you find yourself doing this a lot, you probably thought _Cursed Loot_ was a cool idea for you but it really isn't.
 
 ###  I'm locked into some gear and I can't move in third person.
 
@@ -105,7 +106,7 @@ _Devious Devices_ doesn't like the SE version of _Immersive First Persion View_ 
 
 ### I'm using Cursed Loot and I'm in such an incredible amount of bondage gear that I can't do anything at all!
 
-Time to reload a save before you got into that situation. Seriously, if there were an option to prevent nested equipping of Devious Devices I would enable it. But there isn't. Not without disabling most of the hilariously meme-worthy scenarios. If you get equipped in anything extremely punishing, I recommend reloading your game if anything else really punishing gets equipped on you. Unless you just want to see how ridiculous things can ge
+Time to reload a save before you got into that situation. Seriously, if there were an option to prevent nested equipping of Devious Devices I would enable it. But there isn't. Not without disabling most of the hilariously meme-worthy scenarios. If you get equipped in anything extremely punishing, I recommend reloading your game if anything else really punishing gets equipped on you. Unless you just want to see how ridiculous things can get.
 
 ## Gameplay
 
@@ -123,8 +124,14 @@ Go back out the way you came and to the cave where Ralof and Hadvar are. The mai
 
 ### OK so I was about to have sex and I teleported into the sky and dropped into a Giant Camp (or somewhere else wierd)
 
-Sex outside (in the overworld) is buggy with SexLab Privacy. You can disable it if you want.
+Sex outside (in the overworld) is buggy with SexLab Privacy. You can disable it if you want. It's at position 122 in the load order. Keep in mind if you disable it with _Cursed Loot_ you won't be prompted to hide from the guard before having sex and they may nab you.
 
 ### I was bound and then defeated and then teleported somewhere and now I can't get up from the ground!
 
 Wait 30 seconds, save, wait 30 more seconds, reload the save you just made. If this doesn't allow you to stand up, you'll have to load a game from before you were defeated.
+
+### I tried to seduce somebody and they turned me down, dissed me, then attacked me and raped me!
+
+¯\_(ツ)_/¯
+
+
