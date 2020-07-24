@@ -60,7 +60,7 @@ While not as customized as TSO, as feature-rich as Living Skyrim, or as depraved
 
 ## SexLab SE is still **beta!** It is still buggy!
 
-Before posting a question to Discord, look at [Troubleshooting](#troubleshooting). Many common questions are answered there.
+Before posting a question to Discord, look at [Troubleshooting](https://github.com/cacophony-wj/TROUBLESHOOTING.md). Many common questions are answered there.
 
 # Number One Rule: This List Is Customizable
 
