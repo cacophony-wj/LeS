@@ -225,7 +225,7 @@ _If you are forced to surrender to a creature,_ this feature was initially disab
 
 You can also solve all of these problems by disabling "Combat Surrender" (or _Cursed Loot_ entirely) and dying like Skyrim intended you to.
 
-# Arousal and CLockwork
+# Arousal and Clockwork
 
 Once you get the message about the collapsed passage north of Riften, it is recommended to disable _Cursed Loot_ if you are using that mod before exploring the introduction to _Clockwork_. Traveling to this area locks you into a zone with no way to return for about 5 - 10 playtime hours and no targets for SexLab interactions or vendor services. This will make it extremely difficult to relieve yourself or remove yourself from devices. A friendly tip from a helpful user.
 
