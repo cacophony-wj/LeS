@@ -9,6 +9,12 @@
 	- [Preamble](#preamble)
 	- [A STRONG WARNING](#a-strong-warning)
 	- [SexLab SE is still **beta!** It is still buggy!](#sexlab-se-is-still-beta-it-is-still-buggy)
+- [Number One Rule: This List Is Customizable](#number-one-rule-this-list-is-customizable)
+- [Misaligned Animations](#misaligned-animations)
+- [Admiring Yourself](#admiring-yourself)
+- [A Bit of a Note about "Combat Surrender"](#a-bit-of-a-note-about-combat-surrender)
+- [Arousal and Clockwork](#arousal-and-clockwork)
+- [A word about ENBs](#a-word-about-enbs)
 	- [Requirements](#requirements)
 		- [System Specs](#system-specs)
 - [Installation](#installation)
@@ -19,14 +25,7 @@
 		- [Downloading and Installing](#downloading-and-installing)
 	- [Problems with Wabbajack](#problems-with-wabbajack)
 		- [Post-Installation](#post-installation)
-	- [To Launch the Game](#to-launch-the-game)
-	- [Updating](#updating)
-- [Number One Rule: This List Is Customizable](#number-one-rule-this-list-is-customizable)
-- [Misaligned Animations](#misaligned-animations)
-- [Admiring Yourself](#admiring-yourself)
-- [A Bit of a Note about "Combat Surrender"](#a-bit-of-a-note-about-combat-surrender)
-- [Arousal and Clockwork](#arousal-and-clockwork)
-- [A word about ENBs](#a-word-about-enbs)
+	- [Preparing the Game](#preparing-the-game)
 - [Crafting the Female Bodies](#crafting-the-female-bodies)
 - [Launching and Preparing the Game](#launching-and-preparing-the-game)
 - [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)
@@ -62,6 +61,56 @@ While not as hard as Requiem, as packed as Living Skyrim, or as depraved as Lotu
 ## SexLab SE is still **beta!** It is still buggy!
 
 Before posting a question to Discord, look at [Troubleshooting](#troubleshooting). Many common questions are answered there.
+
+# Number One Rule: This List Is Customizable
+
+Your kinks are a very private thing. I have included many mods for many purposes. They are almost all geared toward female submissive characters with particular fetishes but with a little tweaking you can get it the way you want. Most of the mods can be easily disabled via the in-game MCM menu.
+
+# Misaligned Animations
+
+I have included a ton of animations, almost the maximum, so people don't feel the need to pack in more. Many of them are less than perfect. If they are not aligned you will have to do it yourself. Here's how it works... the _L_ key on your keyboard moves you _forward,_ i.e. closer to your partner. _Shift-L_ moves you _backward,_ or the reverse. _;_ moves you _up_, or higher in elevation than your partner. _Shift-;_ does the reverse. Finally, _'_ moves you _Right_ compared to your partner, whereas _Shift-'_ moves you _Left_.
+
+#  Admiring Yourself
+
+For those who want to experience "POV" (point-of-view) scenes or to play primarily in first person, [Immersive First Person View](https://www.nexusmods.com/skyrimspecialedition/mods/22306) is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode (F key by default) and press _NUMPAD 0_ to enable it. Then press the F key again and look downward. Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. 
+
+**You cannot switch to third person anymore without deactivating IFPV with _NUMPAD 0_!**
+
+To _disable IFPV_ once you have enabled it, ensure that you **can** see your body when you look downward, then press _NUMPAD 0_. You will automatically switch to a third person view. Once more the _F_ key will return to its default function, as will the scroll wheel.
+
+You can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_. Use the mouse to look around and WASD to move your "camera".
+
+# A Bit of a Note about "Combat Surrender"
+
+All of the _SexLab_ death alternatives are a mess. I have wrestled with them for years. _Defeat_ is the worst of them all, but I included it so people can have their submission without their bondage. But it is incompatible with Cursed Loot's "Combat Surrender," and Combat Surrender, while still buggy, at least never renders it impossible to continue your game. So I have opted to leave Combat Surrender enabled. However, this comes with two side notes.
+
+_If a person talks to you (defined by the game as friendly), then attacks you (defined by the game as hostile), then forces you to surrender, you will **always** be locked into a full set of extremely punishing bondage gear_. To fix this problem, await the next revision of _Cursed Loot_.
+
+_If you are forced to surrender to a creature,_ this feature was initially disabled and tacked on later. Weird things will probably happen. You may even be gagged and turned over to a prison cell. To fix this problem, await the next revision of _Cursed Loot_.
+
+You can also solve all of these problems by disabling "Combat Surrender" (or _Cursed Loot_ entirely) and dying like Skyrim intended you to.
+
+# Arousal and Clockwork
+
+Once you get the message about the collapsed passage north of Riften, it is recommended to disable _Cursed Loot_ if you are using that mod before exploring the introduction to _Clockwork_. Traveling to this area locks you into a zone with no way to return for about 5 - 10 playtime hours and no targets for SexLab interactions or vendor services. This will make it extremely difficult to relieve yourself or remove yourself from devices. A friendly tip from a helpful user.
+
+# A word about ENBs
+
+I have chosen _Re-Engaged_ as the ENB because best I can tell _Silent Horizons_ needs an update. I don't understand it, to me it's black magic. If you don't like it I have tested these:
+
+_Silent Horizons_ was causing flicker for me. I think it needs an update, but you could always try it. I prefer it far more then _Re-Engaged._
+
+_Hardlandson's_ is a great second choice with fantastic interiors and atmospheric fogs. Personally I think the exteriors are a little too washed out.
+
+_PI-CHO_ looks great for character close-ups and resembles Silent Horizons for everything else, but the specular map for wet effects is a bit too bright for me.
+
+_Rudy_ will technically work but is not recommended as it has no variant which supports Cathedral Weathers.
+
+_Serio's ENB_ is probably the best ENB for customizing with the _Cathedral Weathers MCM_.
+
+_lJoss_ is Lexy's new standard but requires darker lod mods and custom DynDOLOD settings that I do not use. This ENB is not compatible.
+
+The other ENB's seemed either so inferior or were completely incompatible that I didn't mention them. I also left out any ENB preset that hasn't updated in over six months, since SSS support and the wet shader effect was added to the binaries.
 
 ## Requirements
 
@@ -173,83 +222,15 @@ Download the latest ENB Series from [here](http://enbdev.com/download_mod_tessky
 
 Copy all of the files from the _LeS Directory/game folder files_ directory to your game folder.
 
-## To Launch the Game
+## Preparing the Game
 
-Navigate to the directory where you installed the modlist _Licentia et Servitium_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it when instructed below to continue.
-
-##  Updating
-
-**DO NOT UPDATE unless you have a CRITICAL BUG.**
-
-First, check CHANGELOG.md. If you are not interested in the changes, or they do not address a bug you are having, **do not update**.
-
-If you do update, copy out the entire _profiles_ folder within the _LeS_ directory to somewhere **you will remember.**
-
-**This is your final warning, Wabbajack will delete your saves when updating!**
-
-**To confirm: all saves, BodySlide customizations, and additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!**
-
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite_ button.
-
-When the update is complete, **move** the _profiles_ folder back into the _Licentia et Servitium_ folder and choose **not** to overwrite. (Your saves will be restored but any modlist changes will be kept.)
-
-Next **delete** the _profiles_ folder leftovers from your backup, as they only have old and useless files.
-
-You should be ready to continue as per the installation instructions.
-
-# Number One Rule: This List Is Customizable
-
-Your kinks are a very private thing. I have included many mods for many purposes. They are almost all geared toward female submissive characters with particular fetishes but with a little tweaking you can get it the way you want. Most of the mods can be easily disabled via the in-game MCM menu.
-
-# Misaligned Animations
-
-I have included a ton of animations, almost the maximum, so people don't feel the need to pack in more. Many of them are less than perfect. If they are not aligned you will have to do it yourself. Here's how it works... the _L_ key on your keyboard moves you _forward,_ i.e. closer to your partner. _Shift-L_ moves you _backward,_ or the reverse. _;_ moves you _up_, or higher in elevation than your partner. _Shift-;_ does the reverse. Finally, _'_ moves you _Right_ compared to your partner, whereas _Shift-'_ moves you _Left_.
-
-#  Admiring Yourself
-
-For those who want to experience "POV" (point-of-view) scenes or to play primarily in first person, [Immersive First Person View](https://www.nexusmods.com/skyrimspecialedition/mods/22306) is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode (F key by default) and press _NUMPAD 0_ to enable it. Then press the F key again and look downward. Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. 
-
-**You cannot switch to third person anymore without deactivating IFPV with _NUMPAD 0_!**
-
-To _disable IFPV_ once you have enabled it, ensure that you **can** see your body when you look downward, then press _NUMPAD 0_. You will automatically switch to a third person view. Once more the _F_ key will return to its default function, as will the scroll wheel.
-
-You can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_. Use the mouse to look around and WASD to move your "camera".
-
-# A Bit of a Note about "Combat Surrender"
-
-All of the _SexLab_ death alternatives are a mess. I have wrestled with them for years. _Defeat_ is the worst of them all, but I included it so people can have their submission without their bondage. But it is incompatible with Cursed Loot's "Combat Surrender," and Combat Surrender, while still buggy, at least never renders it impossible to continue your game. So I have opted to leave Combat Surrender enabled. However, this comes with two side notes.
-
-_If a person talks to you (defined by the game as friendly), then attacks you (defined by the game as hostile), then forces you to surrender, you will **always** be locked into a full set of extremely punishing bondage gear_. To fix this problem, await the next revision of _Cursed Loot_.
-
-_If you are forced to surrender to a creature,_ this feature was initially disabled and tacked on later. Weird things will probably happen. You may even be gagged and turned over to a prison cell. To fix this problem, await the next revision of _Cursed Loot_.
-
-You can also solve all of these problems by disabling "Combat Surrender" (or _Cursed Loot_ entirely) and dying like Skyrim intended you to.
-
-# Arousal and Clockwork
-
-Once you get the message about the collapsed passage north of Riften, it is recommended to disable _Cursed Loot_ if you are using that mod before exploring the introduction to _Clockwork_. Traveling to this area locks you into a zone with no way to return for about 5 - 10 playtime hours and no targets for SexLab interactions or vendor services. This will make it extremely difficult to relieve yourself or remove yourself from devices. A friendly tip from a helpful user.
-
-# A word about ENBs
-
-I have chosen _Re-Engaged_ as the ENB because best I can tell _Silent Horizons_ needs an update. I don't understand it, to me it's black magic. If you don't like it I have tested these:
-
-_Silent Horizons_ was causing flicker for me. I think it needs an update, but you could always try it. I prefer it far more then _Re-Engaged._
-
-_Hardlandson's_ is a great second choice with fantastic interiors and atmospheric fogs. Personally I think the exteriors are a little too washed out.
-
-_PI-CHO_ looks great for character close-ups and resembles Silent Horizons for everything else, but the specular map for wet effects is a bit too bright for me.
-
-_Rudy_ will technically work but is not recommended as it has no variant which supports Cathedral Weathers.
-
-_Serio's ENB_ is probably the best ENB for customizing with the _Cathedral Weathers MCM_.
-
-_lJoss_ is Lexy's new standard but requires darker lod mods and custom DynDOLOD settings that I do not use. This ENB is not compatible.
-
-The other ENB's seemed either so inferior or were completely incompatible that I didn't mention them. I also left out any ENB preset that hasn't updated in over six months, since SSS support and the wet shader effect was added to the binaries.
+The next step is to prepare the game for play. Navigate to the directory where you installed the modlist _Licentia et Servitium_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it to continue.
 
 # Crafting the Female Bodies
 
-The women will look super weird if you don't provide them with customized bodies. Follow the steps in the below section.
+I have not included pre-generated BodySlide files due to distribution issues. I have also not distributed custom patches as they would be huge. So, you will have to customize female bodies yourself.
+
+**Warning: If you skip all this and launch the game, your women will look be tiny then fat, change shape in different armor, and have flat chests with no physics. Please, follow the readme.**
 
 [Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
 

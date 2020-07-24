@@ -1,5 +1,27 @@
 ##  Troubleshooting
 
+## Updates
+
+### An update came out! It's new and shiny! What should I do?
+
+**DO NOT UPDATE if you wish to continue your game.**
+
+First, check CHANGELOG.md. If you are not interested in the changes, or they do not address a bug you are having, **do not update**.
+
+If you do update, copy out the entire _profiles_ folder within the _LeS_ directory to somewhere **you will remember.**
+
+**This is your final warning, Wabbajack will delete your saves when updating!**
+
+**To confirm: all saves, BodySlide customizations, and additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!**
+
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite_ button.
+
+When the update is complete, **move** the _profiles_ folder back into the _Licentia et Servitium_ folder and choose **not** to overwrite. (Your saves will be restored but any modlist changes will be kept.)
+
+Next **delete** the _profiles_ folder leftovers from your backup, as they only have old and useless files.
+
+You should be ready to continue as per the installation instructions in the README (back on your browser)
+
 ## Technical
 
 ### There's more than 255 ESPs! Will this thing even launch?
