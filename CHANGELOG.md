@@ -1,3 +1,18 @@
+## 3.0
+
+- Added _Maids_ with appropriate patches (including the CTD near Riften)
+- Removed _BodyGen_ due to persistent author and user confusion (author being me).
+- Added more _3BBB_ BodySlide presets (most of them are thicc)
+- Added Nechrion's _3BBB_ Conversion for the Minidresses.
+- Added _PaySexCrime_ for other ways of getting out of bounties.
+- Added _Andromeda - Unique Standing Stones of Skyrim_
+- Added _Landscape Fixes for Grass Mods_ to further improve FPS.
+- Added the _Guildmaster Start_ to _LOTD_ (if you can find it!)
+- Updated _Re-Engaged_ ENB to 8.9i
+- Updated my official link for _High Poly Head_
+- Updated _Engine Fixes_ to 5.3.5
+- Regenerated LODs for _Maids_
+
 ## 2.0.1.2
 
 - Some of my patches weren't merged properly.
