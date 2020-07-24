@@ -2,6 +2,10 @@
 
 ## Technical
 
+### There's more than 255 ESPs! Will this thing even launch?
+
+Yes. ESPs flagged as ESL don't count. Double click the little number to see how many real ESPs there are. Answer: a shockingly low amount!
+
 ### Why do I have to CTRL-CLICK to build _BodySlide_?
 
 _Mod Organizer 2_ does not put edits to existing files in the _overwrite_ folder, only newly created files. _CBBE_, _3BBB_ and _BD_ come with "default" meshes that will be changed by _BodySlide_ if you do not direct them to the proper directory yourself. Likewise, _Nemesis_ edits all the animation source files when it updates instead of putting the changes in the overwrite folder. If you don't believe me, I encourage you to check _MO2_'s documentation or the _Nemesis_ closed _Issues_ section on Github. If this doesn't convince you, I encourage you to test it yourself.
@@ -73,9 +77,9 @@ Thanks to a helpful user an easy way to accomplish this has been discovered. Ena
 
 ### I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!
 
-Life isn't fair and _Cursed Loot_ doubles down on that. Seriously, though, there are a couple of weird spawn areas that can be troublesome with _Animallica_ and _Immersive Patrols_. Be sure to save your game before exiting the hideout either time and hope you don't get a mob spawn nearby or at Sarethi farm.
+Life isn't fair and _Cursed Loot_ doubles down on that. Seriously, though, there are a couple of weird spawn areas that can be troublesome with _Immersive Patrols_. Be sure to save your game before exiting the hideout either time and hope you don't get a mob spawn nearby or at Sarethi farm.
 
-### I can't find those damn keys in the _Light But Kinky_ "princess" start!
+### I can't find those damn keys in the "slave princess" start!
 
 They are non-existent until triggered. The _hideout key_ spawns outside on a random slaver corpse after you are free from the cage. You must search every body until you find it. I will tell you that the bodies are all near the road and do not go beyond the man on the ledge on one extreme or the man in the weeds on the other, so keep checking. The _office key_ spawns when you search the body of the Slaver Boss and read the note pop-up. Search every corpse and chest in the room until you find it. If you can't find it at first, keep searching until you do. I have never had an instance where it didn't show (and I have tested it many, many, _many_ times)
 
@@ -83,6 +87,14 @@ They are non-existent until triggered. The _hideout key_ spawns outside on a ran
 
 Go back out the way you came and to the cave where Ralof and Hadvar are. The main quest may break if you go through _Cursed Loot's_ "narrow passage" shortcut and the _Unofficial Patch_ makes sure to warn you about it, so I have removed that option. Go all the way back in the cave until you get to the room with the spiders, kill them (or let Chloe do it, she's a beast) and search the Imperials in there for a _Torn Note_. Read the note.
 
+### OK so I was about to have sex and I teleported into the sky and dropped into a Giant Camp (or somewhere else wierd)
+
+Sex outside (in the overworld) is buggy with SexLab Privacy. You can disable it if you want.
+
 ### I was bound and then defeated and then teleported somewhere and now I can't get up from the ground!
 
 Wait 30 seconds, save, wait 30 more seconds, reload the save you just made. If this doesn't allow you to stand up, you'll have to load a game from before you were defeated.
+
+### Wots all this then? But I don't want to be a bondage slut or any kind of slut, and I want to start somewhere besides Helgen without being naked!
+
+While I can't offer home-made cookies like _ForgottenGlory_ due to a crippling cookie batter phobia and various nut allergies, I _can_ offer this little prize for reading the readme. If you want a different start, double click on _Licentia et Servitium Patches_ in the left pane, click the _Optional ESPs_ tab, and on the left, click _Svirfneblin.esp_ and press the **PLUS** symbol. Click ok and ensure that _Svirfneblin_ is enabled at the bottom of your load order (in the right pane). I've left everything enabled that isn't horribly broken by everything else.

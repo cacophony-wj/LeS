@@ -6,7 +6,7 @@ I turned the music off. See below. You will also need to set your QuickSave and 
 
 ### Audio
 
-I have heard Jeremy Soule's default _Skyrim_ tracks so much that I am tired of them. I listen to something else. The music is at zero. If you want it, turn it up.
+I have heard Jeremy Soule's default _Skyrim_ tracks so much that I am tired of them. I listen to something else. The music may be set to zero sometimes.
 
 ## Controls
 
@@ -90,29 +90,17 @@ These animations don't suit me. I recommend clicking _Disable All_. But to each 
 
 #### General Options
 
-Click _Rebuild SexLab Anim Registry_. (For those familiar with _SexLab_, this is necessary due to some of the non-_SLAL_ animations I included.)
+Click _Register Animations_.
 
-Open the console with the _Tilde_ key (~) and wait for all messages to stop. It can take a _very_ long time. 
+The process will take about five minutes, whereupon you will receive a message that over 500 animations have been registered.
 
-You will see a popup that reads "Animation registry has been successfully reset" but ignore it. You need to wait until all of the animations find their slots.
-
-You will know it is finished when you see an animation called "Proxy Spoils of War"
-
-### AGO
-
-#### Enable/Disable
-
-Uncheck _Persistent Arrows_
-
-### Cathedral Weathers
-
-Click _Load Settings_
+Confirm and continue.
 
 ###  CGO
 
 #### Settings
 
-I have configured everything but the leaning for you. Changing from one-handed to two-handed is done with the _Left Shift_ key. Dual-Wield Blocking is done with the _Scroll Wheel Button_ (or _MOUSE 3_). Dodge roll is set to _CTRL_ when moving. When standing still, you will crouch or uncrouch.
+I have configured everything but the leaning and first person camera bobbing for you. Changing from one-handed to two-handed is done with the _Left Shift_ key. Dual-Wield Blocking is done with the _Scroll Wheel Button_ (or _MOUSE 3_). Dodge roll is set to _CTRL_ when moving. When standing still, you will crouch or uncrouch.
 
 _Leaning_
 
@@ -136,7 +124,15 @@ Either disable it and set it to _Hotkey_ (with _ESC_ as the value) or switch to 
 
 **This mod includes extreme ERP (erotic roleplay) including BDSM and RAPE so if you do not wish to see such excessively offensive content you must DISABLE IT IMMEDIATELY as follows!**
 
-First, disable bondage-related loot drops by navigating to 
+First, import the default profile by navigating to 
+
+#### Debug
+
+And clicking _Import Settings_
+
+This is necessary to disable some undesirable options I have off by default. They are left on even when the mod is shut down.
+
+Next, disable bondage-related loot drops by navigating to 
 
 #### Miscellaneous Options
 
@@ -168,7 +164,7 @@ And click _Shut down all functions_, then wait until it is checked.
 
 **If you are a female character and wish to fight bondage gear almost as much as you do bandits do the following**
 
-Click _Import Settings - USE_ and upon receiving the message **Are you sure?** click _Accept_
+Click _Import Settings_ and upon receiving the message **Are you sure?** click _Accept_
 
 **Last warning, if you have not disabled Cursed Loot at this moment you will randomly be tied up.**
 
@@ -220,13 +216,7 @@ Uncheck _Enable to Long press activation key_
 
 ### Radiant Prostitution
 
-#### Reward Settings
-
-_Sex Duration for full Reward_
-
-Slide to zero, all the way left.
-
-**NOTE** Do not enable _Cursed Loot_ solicitation with this mod. The two are incompatible. This comes straight from the mod author's readme and I do not support this if you experiment with it.
+**NOTE** All settings are already configured but **do not** enable _Cursed Loot_ solicitation with this mod. The two are incompatible. This comes straight from the mod author's readme and I do not support this if you experiment with it.
 
 ###  SexLab Aroused
 
@@ -390,25 +380,29 @@ Re-open.
 
 Next, click _Import Settings_ on the right.
 
-**I have disabled all victim functions except for surrender.**
+**I have made all death into sexual assault with this mod. Sorry! If you don't like that, don't enable it. Better yet, read about the mod on Lover's Lab and customize it to your liking.**
 
-This is because an invalid assaulter will ruin your save.
+If you die and you have an invalid aggressor (say a vampire while you have disabled creatures) then your game will lock up and cannot be continued. Reload the game. 
 
-Surrender with the _K_ key and do it quick or you will die instead.
+The advantage of this is you never have to worry about post-death save corruption! The disadvantage is: accidental grizzly bear penis (if you forgot to disable creatures). 
+
+**Never use clean or reconfigure from Defeat's menu despite what other people tell you. I won't support game problems after these options are used. Reload the game instead.**
+
+**Surrender functions are also enabled.**
+
+To surrender to a hostile at any time, press the _K_ key. Do it fast because the script delay is excessive. Once they have their way with you they will leave you alone for about 20 seconds, giving you time to run, but you will be in a weakened state for about five minutes.
 
 Only surrender to things you want to take advantage of you.
 
-**Stealth defeats do not work with Nemesis.**
+**Stealth defeats (coming from behind with the _G_ key to instant knockdown) do not work with Nemesis.**
 
-I am considering a change to FNIS although this is not ideal to decrease the likelihood that Defeat will break.
+I experimented with an _FNIS_ build to allow for this but decided it was stupid to return to an unsupported animation engine and evict CGO just because of this one "feature".
 
 If you must assault someone, mark them with _G_ and hit them with an unarmed attack.
 
 Please note that anyone else who sees you may attack you when you do this.
 
-**NPC vs NPC is disabled for now.**
-
-If you want to enable or disable things such as men, women, flying purple people eaters, do so in the "player as victim" section.
+One they are incapacitated you can activate them with _E_ and roleplay your heart out.
 
 ## All done! I wash my hands of you now!
 

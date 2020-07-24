@@ -5,57 +5,59 @@ Creating a face is very time consuming so I have included many presets. Use your
 
 ##  Female Bodies And Outfits
 
-I'm guessing you came here to appreciate the female form. This Modlist offers three options for that. 
+I'm guessing you came here to appreciate the female form. Here in the Skyrim community we use an application called _BodySlide_ for that.
 
-**PLEASE NOTE: Only use _ONE_ of the following options. Things will look stupid if you try to mix them.**
-
-### "BodyGen4"
-
-This is the standard option. It makes elves thin and orcs thick among other things. Every woman is a bit different. If you wish to use this option, select -Zeroed CBBE- from the _Preset_ dropdown before following the instructions in [Running BodySlide](#running-bodyslide). Your body will spawn as a standard CBBE body until you edit your proportions by hand under _3BBB Morphs_ and save yourself as a preset. 
-
-
-
-### "3BBB HangEmHigh"
-
-If you want to use a non-random body based on how thin or thick the game designers meant people to be, disable _BodyGen4_ in the left pane of _MO2_. If you do not, boobs may be planet sized, among other issues. Then select _3BBB HangEmHigh_ from the _Preset_ dropdown before following the instructions in [Running Bodyslide](#running-bodyslide). With this option, thinness or thickness will be a function entirely of "body size" in RaceMenu, instead of relying upon several dozen sliders.
-
-#### PLEASE NOTE
-
-Body customization may not be working for some outfits that lack a conversion. This will be fixed when I find the time. Until then, customize your body while nude by removing your clothing, opening the console with the Tilde ` key, and typing 'showracemenu'. If this doesn't work, you did something wrong with BodySlide.
+**PLEASE NOTE: I have removed the option for BodyGen due to an abundance of confusion about how it works.**
 
 ### Running BodySlide
 
-I have included a couple of _3BBB_ bodies and _many_ _CBBE_ ones, but you can always install your own.
+I have included a handful of 3BBB bodies, but you can always install your own.
 
 You will also have to follow all of the steps below.
 
-2. Launch _BodySlide x64_ from the _Executables_ menu on the right, the one with the **Run** button. 
+1. Launch _BodySlide x64_ from the _Executables_ menu on the right, the one with the **Run** button. 
 3. You **may** receive a warning that you do not have "write access to the game data directory." This warning cannot be prevented as everyone uses different hard drives and different install directories. Follow the steps below and it will correct itself. **If you do not get this error** it means that there is a Skyrim data folder in the same directory as mine and you need to _make sure_ it is the correct one, so follow the directions below anyway.
 4. Click the _Settings_ button in the lower right corner of _BodySlide_.	
 5. Click _Browse_ next to _Game Data Path_.	
-6. Select your **Data** directory within your **Skyrim Special Edition** directory.
-7. Check the _Group Filter_ dropdown (the one with the tiny magnifying glass) to ensure that it is blank.
-8. If it is not, click the small _X_ to clear it.
-9.  In the top left dropdown, select one of the _CBBE_ options, such as _DCL - CBBE - Armbinder_
-10. Select your preset from the dropdown below that.
-11. Preview it with the appropriate button.
-12. Once you are satisfied, ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
-13. **Hold down the CTRL key** (very important) and click _Batch Build_. 
-14. You will see a huge list of bodies and outfits. Just click _Build_.
-15. A prompt will appear asking where to put your custom-fitted outfits. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
-16. **Do not put your outfits anywhere but _BodySlide Output_.**
-17. When finished, navigate to **_LeS Directory/mods/BodySlide Output/meshes_** and make sure about a dozen outfits folders are there.
-18. If there is only a _meshes_ folder there, move it to **_LeS Directory/mods/BodySlide Output_**
-19. **Confirm that all the outfits folders are in **_LeS Directory/mods/BodySlide Output/meshes. They should not be located _anywhere_ else.**
-20. For output set #1, choose _SE 3BBB Body Amazing_.
-21. For all other options, choose _3BA_ if it is listed.
-22. If it is not, choose _CBBE_.
-23. This includes the _KS Collision Morphs._ **Absolutely do not choose BHUNP or TBD for these.**
-24. Press **Build*.
-25. Wait for your armors to be built in the popup labeled **Processing Outfits**. There should be close to 900 of them.
+6. Navigate to your **Data** directory within your **Skyrim Special Edition** directory.
+7. Click _Select Folder_
+8. Click **OK**
+9. Click the _Group Filter_ magnifying glass (upper right).
+10. Place a checkbox in the _3BBB_ option. Ensure that none others are selected.
+11. In the top left dropdown, select _SE 3BBB Body Amazing_
+12. Select your preset from the dropdown below that. Preview it with the appropriate button.
+13. (I recommend the one called _3BBB HangEmHigh_ for natural beauty enthusiasts, or _3BBB Cacophony_ for fans of the dummy thicc.)
+14. Once you are satisfied, ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
+15. **Hold down the CTRL key** (very important) and click _Batch Build_. 
+16. You will see a huge list of bodies and outfits. Just click _Build_.
+17. A prompt will appear asking where to put your custom-fitted outfits. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
+18. **Do not put your outfits anywhere but _BodySlide Output_.**
+19. Scroll down to "Output Set #15"
+20. Choose "DDA - 3BA - RestrictiveCorsetBelt"
+21. Scroll _all_ the way down to "Output Set #81"
+22. Choose "DDX - 3BA - HarnessBoots01(HDT)"
+23. Use your mouse wheel or the scroll bar to slowly page through the remaining outfits, selecting the "3BA" options when they are not defaulted as such.
+24. Press **Build**.
+25. Wait for your armors to be built in the popup labeled **Processing Outfits**. There should be close to 800 of them.
 26. You should receive the message "All outfits processed successfully!"
-27. If you receive any error messages, repeat the process from step 13.
-28. When all outfits are successfully built, you may continue.
+27. If you receive any error messages, repeat the process from step 14 until you receive the above message.
+28. When finished, navigate to **_LeS Directory_/mods/BodySlide Output/meshes** and make sure about a dozen outfits folders are there.
+29. If there is only a _meshes_ folder there, move it to **_LeS Directory_/mods/BodySlide Output**
+30. **Confirm that all the outfits folders are in _LeS Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
+31. Next, Click the _Group Filter_ glass again.
+32. Uncheck _3BBB_ and check _Unassigned_.
+33. Ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.
+34. **Hold down the CTRL key** (very important) and click _Batch Build_. 	
+35. **Deselect all of the KS Hairs Options. These are incompatible with 3BBB and will cause your breasts to melt into the ground!**
+36. A prompt will appear asking where to put your custom-fitted outfits. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
+37. **Do not put your outfits anywhere but _BodySlide Output_.**
+38. Press **Build**.
+39. Wait for your armors to be built in the popup labeled **Processing Outfits**.
+40. You should receive the message "All outfits processed successfully!"
+41. If you receive any error messages, repeat the process from step 33 until you receive the above message.
+42. When finished, navigate to **_LeS Directory_/mods/BodySlide Output/meshes** and make sure there is **NOT** a _meshes_ folder within.
+43. If there is a _meshes_ folder there, move it to **_LeS Directory/mods/BodySlide Output_**
+44. You may continue.
 
 ## A bit of a note on schlongs and strap-ons
 
@@ -67,7 +69,7 @@ Rather than use _SexLab_'s rather boring and badly-fitted strapon for scenes wer
 6. Close and re-open the inventory.
 7. Click on _AddItemMenu - Search_.
 8. Type in _Schlong_ and click on _Equipable Schlong_ (yes it is misspelled).
-9. If you are running _Light But Kinky_ be sure to configure _Cursed Loot_ as per the instructions first or you will cover the schlong in shame when you go naked.
+9. Be sure to configure _Cursed Loot_ as per the instructions first or you will cover the schlong in shame when you go naked.
 10. Equip the schlong from your inventory.
 11. Open the console with the _tilde_ key (`).
 12. Type in _TFC_.
