@@ -6,7 +6,7 @@ labels: possible bug
 assignees: cacophony
 
 ---
-This template was stolen with minor adustments from erri120. Just type over the non-bolded sections with your own words.
+This template was stolen with minor adustments from erri120. Just type over the non-asterisked sections with your own words.
 
 **Describe the bug**
 Describe the bug as well as you can. Use precise language.
