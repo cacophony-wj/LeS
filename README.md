@@ -38,7 +38,7 @@
 
 ## BEFORE YOU CONTINUE: 
 
-The **Github** version is the most up to date. Get the **3.0 Pre-release** one from the **Releases Section ->**
+The **Github** version is the most up to date. Get the **3.0.0.1 Pre-release** one from the **Releases Section ->**
 
 Also, **minor fixes** have been posted in the support channel. Check the pins once you get in there (small thumbtack icon)
 
@@ -54,7 +54,7 @@ Finally I want a list for the casual gamer who maybe wants to indulge in a littl
 
 That said, I have been putting _NSFW_ content into games since the first _Nude Raider_ patch so I am familiar with it. 
 
-While not as hard as Requiem, as packed as Living Skyrim, or as depraved as Lotus, if you want a basic Skyrim gameplay and sexual overhaul that offers many ways to have fun, you are welcome.
+While not as customized as TSO, as feature-rich as Living Skyrim, or as depraved as Lotus, if you want a basic Skyrim gameplay and sexual overhaul that offers many ways to have fun, you are welcome. And of course, there's CGO, LOTD, and Maids.
 
 ## A STRONG WARNING
 
@@ -68,11 +68,11 @@ Your kinks are a very private thing. I have included many mods for many purposes
 
 # Misaligned Animations
 
-I have included a ton of animations, almost the maximum, so people don't feel the need to pack in more. Many of them are less than perfect. If they are not aligned you will have to do it yourself. Here's how it works... the _L_ key on your keyboard moves you _forward,_ i.e. closer to your partner. _Shift-L_ moves you _backward,_ or the reverse. _;_ moves you _up_, or higher in elevation than your partner. _Shift-;_ does the reverse. Finally, _'_ moves you _Right_ compared to your partner, whereas _Shift-'_ moves you _Left_.
+I have included a ton of animations, almost the maximum, so people don't feel the need to pack in more. Many of them are less than perfect. If they are not aligned you will have to do it yourself. Here's how it works... the _L_ key on your keyboard moves you _forward,_ i.e. closer to your partner. _Shift-L_ moves you _backward,_ or the reverse. _semicolon ;_ moves you _up_, or higher in elevation than your partner. _Shift-;_ does the reverse. Finally, _apostrophe '_ moves you _Right_ compared to your partner, whereas _Shift-'_ moves you _Left_.
 
 #  Admiring Yourself
 
-For those who want to experience "POV" (point-of-view) scenes or to play primarily in first person, [Immersive First Person View](https://www.nexusmods.com/skyrimspecialedition/mods/22306) is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode (F key by default) and press _NUMPAD 0_ to enable it. Then press the F key again and look downward. Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. 
+For those who want to experience "POV" (point-of-view) scenes or to play primarily in first person, Immersive First Person View is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode (F key by default) and press _NUMPAD 0_ to enable it. Then press the F key again and look downward. Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. 
 
 **You cannot switch to third person anymore without deactivating IFPV with _NUMPAD 0_!**
 
@@ -100,7 +100,7 @@ I have chosen _Re-Engaged_ as the ENB because best I can tell _Silent Horizons_ 
 
 _Silent Horizons_ was causing flicker for me. I think it needs an update, but you could always try it. I prefer it far more then _Re-Engaged._
 
-_Hardlandson's_ is a great second choice with fantastic interiors and atmospheric fogs. Personally I think the exteriors are a little too washed out.
+_Hardlandson's_ is a great third choice with fantastic interiors and atmospheric fogs. Personally I think the exteriors are a little too washed out.
 
 _PI-CHO_ looks great for character close-ups and resembles Silent Horizons for everything else, but the specular map for wet effects is a bit too bright for me.
 
@@ -111,6 +111,8 @@ _Serio's ENB_ is probably the best ENB for customizing with the _Cathedral Weath
 _lJoss_ is Lexy's new standard but requires darker lod mods and custom DynDOLOD settings that I do not use. This ENB is not compatible.
 
 The other ENB's seemed either so inferior or were completely incompatible that I didn't mention them. I also left out any ENB preset that hasn't updated in over six months, since SSS support and the wet shader effect was added to the binaries.
+
+If you don't want to install this list because you don't want to fiddle with multiple ENB's, consider _ENB and ReShade Manager_. It makes swapping a one- or two-click affair.
 
 ## Requirements
 
@@ -125,13 +127,13 @@ The other ENB's seemed either so inferior or were completely incompatible that I
 - GPU: >= 1060, you need at least 6GB of VRAM
 - RAM: >= DDR4 with at least 16GBs
 
-Everything should be installed on an SSD that has at least 256GB of space available. Also check [Tweaking Performance](#tweaking-performance) if you want more FPS. **You won't be able to play the modlist with 4GB of VRAM**.
+Everything should be installed on an SSD that has at least 256GB of space available. **You won't be able to play the modlist with 4GB of VRAM**.
 
 # Installation
 
 ##  Pre-Installation
 
-These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to **Updating.** (#updating)
+These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to **Updating**  in the **Troubleshooting** section.
 
 ####  Installing Microsoft Visual C++ Redistributable Package
 
@@ -264,7 +266,7 @@ You can just remove the _LeS_ folder and be done with it. SKSE and ENB files wil
 
 # Contact
 
-I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-et-servitium-support).
+I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-et-servitium-support). I will not respond to personal messages unless I know you. **DO NOT DM ME**
 
 # Contributing
 
