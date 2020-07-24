@@ -38,7 +38,7 @@
 
 ## BEFORE YOU CONTINUE: 
 
-The **Github** version is the most up to date. Get the **3.0.0.1 Pre-release** one from the **Releases Section ->**
+The **Github** version is the most up to date. Get the **3.0.0.2 Pre-release** one from the **Releases Section ->**
 
 Also, **minor fixes** have been posted in the support channel. Check the pins once you get in there (small thumbtack icon)
 
