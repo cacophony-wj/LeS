@@ -111,7 +111,7 @@ Open the Steam Properties window, navigate to the Language tab and select Englis
 
 **Clean Skyrim**
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the Skyrim Special Edition folder in Documents/My Games/. If you have download throttles or caps, or just don't want to wait, you can also use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) by trawz to clean your installation.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. **Do not install Skyrim anywhere inside any Program Files folder. Wabbajack will not work in a folder that is protected by Windows.** You should also clean up the Skyrim Special Edition folder in Documents/My Games/. If you have download throttles or caps, or just don't want to wait, you can also use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) by trawz to clean your installation.
 
 **Start Skyrim**
 
@@ -130,7 +130,8 @@ Start the game and exit once you're in the main menu.
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD. You will also need an additional 30 GB beyond the modlists' official size to store temporary working files. It is not recommended to allow your drive to get over 90% full (red bar in File Explorer) so be sure to leave yourself a little headroom on top of all that.
 
-    Adjust the Installation Location to the root directory (C:\, D:\, etc) of one of your drives
+    Adjust the Installation Location to a directory located on the root directory of one of your drives
+    For example, this might be _C:\LeS, D:\LeS, or E:\LeS_
     Ensure the Download Location is within that directory
     Click the Go/Begin button
     Wait for Wabbajack to finish
