@@ -162,11 +162,7 @@ Under **Animation**, uncheck _Override_ as Devious already handles this function
 
 Click _Enable All: Click Here_
 
-Click _Enable All_.
-
 The process will take about five minutes, whereupon you will receive a message that around 580 animations have been registered. Just click _Accept_
-
-Confirm and continue.
 
 ###  CGO
 
@@ -266,6 +262,8 @@ At the message **Settings Loaded. Please exist the MCM menu to apply all changes
 
 Exit the MCM and re-open it.
 
+A bit of a note here. I did not alter Skyrim's vanilla difficulty in any way, aside from ensuring that dragons have new abilities and dungeons match your level each time they respawn. CGO, LOTD, ZIM's, and the abundance of gear I put in here make you ridiculously powerful. What can I say, I need to be a hero in these troubling times. :sweatboy: Anyway, you will probably have to bump up the difficulty a lot (maybe even to Legendary) if you are at all good at Skyrim. (I'm not, and I made this list so I can test it by playing it.) The problem with this method is that followers are **buffed**, not nerfed, because they're considered _not-the-player_ and everything _not-the-player_ has its damaged multiplied. Combine this with player nerfs on Legendary and you'll find that with even one follower you never get a chance to hit anything before it's all dead. The only real answer for this is to use _Nether Follower Framework_ here and under _Follower Stats_ change their damage output to its lowest value: _0.10_. They'll be mostly harmless but at least you'll have your chance to shine.
+
 ### LOTD Settings
 
 #### General
@@ -310,7 +308,7 @@ Here you will find an option (_Is Exhibitionist_) that will make your arousal ri
 
 #### Current Armor
 
-The armor you wear will be listed here with a blank mark next to it. Click it to place an _X_ in the mark next and that outfit will be considered the same as being nude from that point on. Since _Spank That Ass_ only targets you for random ass slaps if you are nude or wearing clothing (as opposed to armor), you actually might want to do this if you are wearing something ridic that has cheeks hanging out.
+The armor you wear will be listed here with a blank mark next to it. Click it to place an _X_ in the mark next and that outfit will be considered the same as being nude from that point on. Since _Spank That Ass_ only targets you for random ass slaps if you are nude or wearing clothing (as opposed to armor), you actually might want to do this if you are wearing something ridiculous that has cheeks hanging out.
 
 ### SexLab Confabulation
 
@@ -448,7 +446,7 @@ Check _Disable Style Cloak Spell_
 
 ###  Defeat
 
-**Please note, you will enable sexual assault if you enable this. Do not do this if it offends you.**
+**Please note, you will enable rape if you enable this. Do not do this if it offends you.**
 
 **It is recommended to only enable this if you disabled _Cursed Loot_. If you insist on trying it, please return to the _Cursed Loot_ MCM and disable _Combat Surrender._**
 
@@ -484,15 +482,9 @@ To surrender to a hostile at any time, press the _K_ key. Do it fast because the
 
 Only surrender to things you want to take advantage of you.
 
-**Stealth defeats (coming from behind with the _G_ key to instant knockdown) do not work with Nemesis.**
+**I have disabled everything else. If you want to rape people or have everybody raping everybody else, please set it up yourself until your game breaks and you give up on it like everyone else.**
 
-I experimented with an _FNIS_ build to allow for this but decided it was stupid to return to an unsupported animation engine and evict CGO just because of this one "feature".
-
-If you must assault someone, mark them with _G_ and hit them with an unarmed attack.
-
-Please note that anyone else who sees you may attack you when you do this.
-
-One they are incapacitated you can activate them with _E_ and roleplay your heart out.
+Keep in mind the silent takedown (with G) doesn't work with Nemesis so you'll have to mark them (again with G) and hit them with your fist instead. I won't go back to FNIS for the silent takedown.
 
 ## A bit of a note on schlongs and strap-ons
 
