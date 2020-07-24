@@ -1,0 +1,11 @@
+# .github/workflows/issue-on-push.yml
+on: [push]
+name: Create an issue on push
+jobs:
+  stuff:
+    steps:
+      - uses: JasonEtco/create-an-issue@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+This reads from the .github/ISSUE_TEMPLATE.md file. This file should have front matter to help construct the new issue:
