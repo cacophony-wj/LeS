@@ -234,10 +234,15 @@ Once you get the message about the collapsed passage north of Riften, it is reco
 I have chosen _Re-Engaged_ as the ENB because best I can tell _Silent Horizons_ needs an update. I don't understand it, to me it's black magic. If you don't like it I have tested these:
 
 _Silent Horizons_ was causing flicker for me. I think it needs an update, but you could always try it. I prefer it far more then _Re-Engaged._
+
 _Hardlandson's_ is a great third choice with fantastic interiors and atmospheric fogs. Personally I think the exteriors are a little too washed out.
+
 _PI-CHO_ looks great for character close-ups and resembles Silent Horizons for everything else, but the specular map for wet effects is a bit too bright for me.
+
 _Rudy_ will technically work but is not recommended as it has no variant which supports Cathedral Weathers.
+
 _Serio's ENB_ is probably the best ENB for customizing with the _Cathedral Weathers MCM_.
+
 _lJoss_ is Lexy's new standard but requires darker lod mods and custom DynDOLOD settings that I do not use. This ENB is not compatible.
 
 The other ENB's seemed either so inferior or were completely incompatible that I didn't mention them. I also left out any ENB preset that hasn't updated in over six months, since SSS support and the wet shader effect was added to the binaries.
