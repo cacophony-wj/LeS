@@ -228,6 +228,22 @@ Copy all of the files from the _LeS Directory/game folder files_ directory to yo
 
 The next step is to prepare the game for play. Navigate to the directory where you installed the modlist _Licentia et Servitium_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it to continue.
 
+# Cursed Loot: DECIDE NOW.
+
+_Cursed Loot_, as the main implementation of _Devious Devices_, is perhaps the most popular mod on all of _Lover's Lab_. You likely downloaded this modlist because it was in here. It has a lot to recommend it, the device models are beautiful, the conversions fit 3BBB bodies for realistic bounce, and some of the quests are utterly meme-worthy. But perhaps you are interested in an NSFW Skyrim that does not feature erotic submissive roleplay (in the form of BDSM and rape fantasy). I attempted a method to disable the mod via menus but they are rather inconsistent, so instead I recommend disabling all of the below ESPs in the right pane of _Mod Organizer 2_. You can do so by clicking on the green checkbox next to each one, until it turns into a white circle. If you want to play a male character, you don't have an option, _Cursed Loot_ isn't compatible with you. Disable it.
+
+- ccas_starts.esp at Priority 52
+- Deviously Cursed Loot LAL AddOn at Priority 53
+- Deviously Cursed Loot.esp at Priority 189
+- Umgak_DCL-NavMeshFix.esp at Priority 190
+- DD_Helpers.esp at Priority 192
+- Chloe Tweaks.esp at Priority 282
+- ASLALSlavePrincess.esp at Priority 296
+- DCUR Ultimate Light Patch.esp at Priority 301
+- DCUR Safehouse Lighting.esp at Priority 302
+
+That's it. No more bondage. Keep in mind if you decide to experiment with it after all you'll have to re-enable all these and never use your old save with them enabled. Don't forget! (It's probably easier just to rerun Wabbajack.)
+
 # Crafting the Female Bodies
 
 I have not included pre-generated BodySlide files due to distribution issues. I have also not distributed custom patches as they would be huge. So, you will have to customize female bodies yourself.
