@@ -40,7 +40,7 @@
 
 ## BEFORE YOU CONTINUE: 
 
-The **Github** version is the most up to date. Get the **2.0.1.2** one from the **Releases Section ->**
+The **Github** version is the most up to date. Get the **3.0 Pre-release** one from the **Releases Section ->**
 
 Also, **minor fixes** have been posted in the support channel. Check the pins once you get in there (small thumbtack icon)
 
