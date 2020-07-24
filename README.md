@@ -222,7 +222,7 @@ Download the latest ENB Series from [here](http://enbdev.com/download_mod_tessky
 
 Copy all of the files from the _LeS Directory/game folder files_ directory to your game folder.
 
-## Preparing the Game
+# Preparing the Game
 
 The next step is to prepare the game for play. Navigate to the directory where you installed the modlist _Licentia et Servitium_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it to continue.
 
@@ -234,7 +234,7 @@ I have not included pre-generated BodySlide files due to distribution issues. I 
 
 [Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
 
-# Launching and Preparing the Game
+# Launching the Game
 
 The rest must be completed after the game itself is launched. Oh yes, there's more. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **RUN ME TO START THE GAME**, create your character, and follow _all_ of the instructions in the below link:
 
