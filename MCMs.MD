@@ -517,4 +517,10 @@ Unfortunately I've not matched the equippable schlong to the Demoniac skin yet. 
 
 ## All done! I wash my hands of you now!
 
-There you go, fellow deviant. Be sure to press **F9** for a last second save in case spawning into Skyrim prompts a crash (which has been known to happen, it helps if you give it a minute before trying). Talk to the Mara statue to begin your journey. If you don't like the lusty starting options I made for you, come to #licentia-et-servitium support on Wabbajack's Discord and say the safe word "Svirfneblin" and I will tell you how to get them all back. Please note: many of them are disabled for good reasons. Don't worry, as long as you have the save from before you talked to the statue, you will not have to do the MCMs over again.
+There you go, fellow deviant. Be sure to press **F9** for a last second save in case spawning into Skyrim prompts a crash (which has been known to happen, it helps if you give it a minute before trying). Talk to the Mara statue to begin your journey. 
+
+Surprise! What's that you say? You don't want to be a bondage slut or any kind of slut, and want to start somewhere besides Helgen without being naked?
+
+While I can't offer home-made cookies like _ForgottenGlory_ due to a crippling cookie batter phobia and various nut allergies, I _can_ offer this little prize for reading the readme. If you want a different start, double click on _Licentia et Servitium Patches_ in the left pane, click the _Optional ESPs_ tab, and on the left, click _Svirfneblin.esp_ and press the **PLUS** symbol. Click ok and ensure that _Svirfneblin_ is enabled at the bottom of your load order (in the right pane). 
+
+I've left everything enabled that isn't horribly broken by everything else. Please note: many of them are disabled for good reasons. Don't worry, as long as you have the save from before you talked to the statue, you will not have to do the MCMs over again.
