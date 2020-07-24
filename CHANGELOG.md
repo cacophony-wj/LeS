@@ -1,3 +1,8 @@
+## 3.0.0.1
+
+- Fixed morphs.
+- Made physics better.
+- 
 ## 3.0
 
 - Added _Maids_ with appropriate patches (including the CTD near Riften)
