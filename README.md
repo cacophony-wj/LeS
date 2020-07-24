@@ -7,7 +7,6 @@
 - [Licentia et Servitium: A Modest Sampling of Lover's Lab](#licentia-et-servitium-a-modest-sampling-of-lovers-lab)
 	- [BEFORE YOU CONTINUE:](#before-you-continue)
 	- [Preamble](#preamble)
-		- [Wabbajack](#wabbajack)
 	- [A STRONG WARNING](#a-strong-warning)
 	- [SexLab SE is still **beta!** It is still buggy!](#sexlab-se-is-still-beta-it-is-still-buggy)
 	- [Requirements](#requirements)
