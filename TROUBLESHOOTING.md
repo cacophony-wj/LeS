@@ -1,4 +1,24 @@
-##  Troubleshooting
+- [Updates](#updates)
+  - [An update came out! It's new and shiny! What should I do?](#an-update-came-out-its-new-and-shiny-what-should-i-do)
+- [Technical](#technical)
+  - [There's more than 255 ESPs! Will this thing even launch?](#theres-more-than-255-esps-will-this-thing-even-launch)
+  - [Why do I have to CTRL-CLICK to build _BodySlide_?](#why-do-i-have-to-ctrl-click-to-build-bodyslide)
+  - [I tried to wear a piece of gear but my body disappeared!](#i-tried-to-wear-a-piece-of-gear-but-my-body-disappeared)
+  - [My body looks boring and flat with no physics!](#my-body-looks-boring-and-flat-with-no-physics)
+  - [I read a skill book but my skill didn't go up!](#i-read-a-skill-book-but-my-skill-didnt-go-up)
+  - [I can't find my save!](#i-cant-find-my-save)
+  - [It seems like I'm about to have sex but nothing is happening. Everyone is just standing around making breathing or grunting noises.](#it-seems-like-im-about-to-have-sex-but-nothing-is-happening-everyone-is-just-standing-around-making-breathing-or-grunting-noises)
+  - [My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.](#my-arms-wont-go-into-a-binder-or-my-hands-are-floating-outside-of-my-bindings-or-my-gag-wont-go-in-my-mouth-or-one-of-these-is-true-for-an-npc)
+  - [My body shows that I'm wearing a Devious Device, I suffer all the effects from it, but it's not in my inventory so I can't remove it!](#my-body-shows-that-im-wearing-a-devious-device-i-suffer-all-the-effects-from-it-but-its-not-in-my-inventory-so-i-cant-remove-it)
+  - [I'm just gonna use debug menus or console commands to remove stuff I don't want on me anymore.](#im-just-gonna-use-debug-menus-or-console-commands-to-remove-stuff-i-dont-want-on-me-anymore)
+  - [I'm locked into some gear and I can't move in third person.](#im-locked-into-some-gear-and-i-cant-move-in-third-person)
+  - [I'm using Cursed Loot and I'm in such an incredible amount of bondage gear that I can't do anything at all!](#im-using-cursed-loot-and-im-in-such-an-incredible-amount-of-bondage-gear-that-i-cant-do-anything-at-all)
+- [Gameplay](#gameplay)
+  - [I was locked up in the "princess" start and something defeated me and I got teleported somewhere and the quest was completely broken! This isn't fair!](#i-was-locked-up-in-the-princess-start-and-something-defeated-me-and-i-got-teleported-somewhere-and-the-quest-was-completely-broken-this-isnt-fair)
+  - [I can't find those damn keys in the "slave princess" start!](#i-cant-find-those-damn-keys-in-the-slave-princess-start)
+  - [Where the hell do I go after Chloe tells me about the secret passage?](#where-the-hell-do-i-go-after-chloe-tells-me-about-the-secret-passage)
+  - [OK so I was about to have sex and I teleported into the sky and dropped into a Giant Camp (or somewhere else wierd)](#ok-so-i-was-about-to-have-sex-and-i-teleported-into-the-sky-and-dropped-into-a-giant-camp-or-somewhere-else-wierd)
+  - [I was bound and then defeated and then teleported somewhere and now I can't get up from the ground!](#i-was-bound-and-then-defeated-and-then-teleported-somewhere-and-now-i-cant-get-up-from-the-ground)
 
 ## Updates
 
