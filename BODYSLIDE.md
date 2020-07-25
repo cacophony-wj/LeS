@@ -33,7 +33,7 @@ You will also have to follow all of the steps below.
 22. Click _Select Folder_
 23. Options for 4 helmets will appear. These helmets have a bit of hair sticking out. Decide what color you want them.
 24. Click OK
-25. Wait for your outfits to be built in the popup labeled **Processing Outfits**. There should be 938 of them.
+25. Wait for your outfits to be built in the popup labeled **Processing Outfits**. There should be 939 of them.
 26. You should receive the message "All outfits processed successfully!"
 27. Click OK
 28. If you receive any error messages, repeat the process from step 16 until you receive the above message.
@@ -41,3 +41,7 @@ You will also have to follow all of the steps below.
 30. If there is only a _meshes_ folder there, move it to **_LeS Directory_/mods/BodySlide Output**
 31. **Confirm that all the outfits folders are in _LeS Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
 50. You may continue.
+
+### Changing It Up
+
+Sick of those dummy thicc boobs clapping against each other? Tired of being ridiculed as part of the itty-bitty-titty committee? If you get bored with the female body you have on everybody just come back to this portion of the readme and follow all the instructions with a different preset. Nothing will be harmed, your save won't be affected, it's just everybody will fit the new body. It's the 90's, a man's got to have a little variety.

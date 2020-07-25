@@ -1,3 +1,13 @@
+## 3.2
+
+- Added _Curator's Companion_ for LOTD notifications.
+- Added _SOS Futanari CBBE_ for a "with balls" option
+- Updated _MoreHUD SE_ to 3.8.0
+- Updated _MoreHUD Inventory Edition_ to 1.0.17
+- Changed _Wider MCM_ to "Option 1"
+- Made the CBBE Bodies show up with 3BBB.
+- Also added some more 3BBB presets. They're pretty ridiculous.
+
 ## 3.1
 
 - Updated to the proper Book of CBBE main file.

@@ -12,7 +12,7 @@
 - [Number One Rule: This List Is Customizable](#number-one-rule-this-list-is-customizable)
 - [Misaligned Animations](#misaligned-animations)
 - [Admiring Yourself](#admiring-yourself)
-- [A Bit of a Note about "Combat Surrender"](#a-bit-of-a-note-about-combat-surrender)
+- [A Bit of a Note about "Death Alternatives"](#a-bit-of-a-note-about-death-alternatives)
 - [Arousal and Clockwork](#arousal-and-clockwork)
 - [A word about ENBs](#a-word-about-enbs)
 	- [Requirements](#requirements)
@@ -39,7 +39,13 @@
 
 ## BEFORE YOU CONTINUE: 
 
-The **Github** version is the most up to date. Get the **3.0.0.2 Pre-release** one from the **Releases Section ->**
+**THE VERSION YOU ARE ABOUT TO DOWNLOAD OR JUST DOWNLOADED IS OUT OF DATE**
+
+The **Github** version is the most up to date, but it is still experimental. If you are interested, get the **3.2 Pre-release** one from the **Releases Section ->** (You have to click the small releases link)
+
+If you prefer not to deal with my update madness, the last relatively finalized version is **2.0.1.2** also from **Releases ->**
+
+My README from then is long gone, but you can view the _MCM_ section [here](https://github.com/cacophony-wj/LeS/blob/19a278c85872f68f3bd5375c347e8b7e63101924/MCMs.MD)
 
 Also, **minor fixes** have been posted in the support channel. Check the pins once you get in there (small thumbtack icon)
 
@@ -81,23 +87,29 @@ To _disable IFPV_ once you have enabled it, ensure that you **can** see your bod
 
 You can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_. Use the mouse to look around and WASD to move your "camera".
 
-# A Bit of a Note about "Combat Surrender"
+# A Bit of a Note about "Death Alternatives"
 
-All of the _SexLab_ death alternatives are a mess. I have wrestled with them for years. _Defeat_ is the worst of them all, but I included it so people can have their submission without their bondage. And I'll be thrice damned but I've set it as the default option, even though the one from _Cursed Loot_ is less buggy. If you mess with _Defeat_ and get as disgusted with it as I did, you might try _Combat Surrender_ under the _Cursed Loot_ Rape options. Eugh. Keep in mind these tho things about _Combat Surrender_:
+All of the _SexLab_ death alternatives are a mess. I have wrestled with them for years. They basically consist of dozens of conditionally called functions that consist of lengthy redundant nested Elseif loops. Translation: they're bloated, slow, and don't work.
 
-_If a person talks to you (defined by the game as friendly), then attacks you (defined by the game as hostile), then forces you to surrender, you will **always** be locked into a full set of extremely punishing bondage gear_. This appears to be a bug in the mod.
+But I know they're popular. Erotic roleplay is a thing. So there are two of them in this list: _Combat Surrender_ which is part of _Cursed Loot_ and seems to equip you in punishing bondage gear no matter what options are set, and _SexLab Defeat_ that randomly locks up your game because somebody died while in the middle of raping you. Have fun.
 
-_If you are forced to surrender to a creature,_ this feature was initially disabled and tacked on later. Weird things will probably happen. You may even be gagged and turned over to a prison cell. This appears to be a bug of the mod.
+I have left enabled the only option that works consistently: _Defeat's_ manual surrender. If you want to see yourself get raped, approach a hostile and surrender immediately to them with the _K_ key. If you try to surrender in a fight you will probably die before Defeat kicks in, again because of the bloat. If you want to roleplay a surrender do it early when you know you're outnumbered.
 
-You can solve all of these problems by disabling all of _Cursed Loot_ as per the instructions and leaving only one option active with _Defeat_, the manual surrender. That works perfectly fine.
+Nothing additional (theft, knockout, imprisonment) will happen to you except an exhaustion debuff for about five minutes. Your enemies will go passive for 20 seconds giving you time to get away if you want. Then they will attack you again. They won't rape you a second time, you will die.
+
+I can't make anything else work consistently and not suck. Raping people yourself is also disabled because that sometimes screws up too. If you must see these animations, set up an aggressive scene with SexLab Tools as per the description of that mod.
+
+You are free to change the death alternative options around as much as you like, but I will not answer questions or respond to recommendations about them anytime, anywhere.
 
 # Arousal and Clockwork
 
-Once you get the message about the collapsed passage north of Riften, it is recommended to disable _Cursed Loot_ if you are using that mod before exploring the introduction to _Clockwork_. Traveling to this area locks you into a zone with no way to return for about 5 - 10 playtime hours and no targets for SexLab interactions or vendor services. This will make it extremely difficult to relieve yourself or remove yourself from devices. A friendly tip from a helpful user.
+Once you get the message about the collapsed passage north of Riften, I recommend you ignore it if you are playing with Cursed Loot. Traveling to this area locks you into a zone with no way to return for about 5 - 10 playtime hours and no targets for SexLab interactions or vendor services. This will make it extremely difficult to relieve yourself or remove yourself from devices. You can try disabling it but as stated above it rarely works.
 
 # A word about ENBs
 
-I have chosen _Re-Engaged_ as the ENB because best I can tell _Silent Horizons_ needs an update. I don't understand it, to me it's black magic. If you don't like it I have tested these:
+I have chosen _Re-Engaged_ as the ENB because best I can tell _Silent Horizons_ needs an update. I have tweaked it a bit to make rain more apparent and to brighten interior lighting a touch.
+
+If you don't like it I have tested these:
 
 _Silent Horizons_ was causing flicker for me. I think it needs an update, but you could always try it. I prefer it far more then _Re-Engaged._
 
@@ -107,7 +119,7 @@ _PI-CHO_ looks great for character close-ups and resembles Silent Horizons for e
 
 _Rudy_ will technically work but is not recommended as it has no variant which supports Cathedral Weathers.
 
-_Serio's ENB_ is probably the best ENB for customizing with the _Cathedral Weathers MCM_.
+_Serio's ENB_ is probably the best ENB for customizing with the _Cathedral Weathers MCM_. It's also performance friendly for those without beast rigs. Be warned though, it's brighter than the rest.
 
 _lJoss_ is Lexy's new standard but requires darker lod mods and custom DynDOLOD settings that I do not use. This ENB is not compatible.
 
@@ -231,18 +243,18 @@ The next step is to prepare the game for play. Navigate to the directory where y
 
 # Cursed Loot: DECIDE NOW.
 
-_Cursed Loot_, as the main implementation of _Devious Devices_, is perhaps the most popular mod on all of _Lover's Lab_. You likely downloaded this modlist because it was in here. It has a lot to recommend it, the device models are beautiful, the conversions fit 3BBB bodies for realistic bounce, and some of the quests are utterly meme-worthy. But perhaps you are interested in an NSFW Skyrim that does not feature erotic submissive roleplay (in the form of BDSM and rape fantasy). I attempted a method to disable the mod via menus but they are rather inconsistent, so instead I recommend disabling all of the below ESPs in the right pane of _Mod Organizer 2_. You can do so by clicking on the green checkbox next to each one, until it turns into a white circle. If you want to play a male character, you don't have an option, _Cursed Loot_ isn't compatible with you. Disable it.
+_Cursed Loot_, as the main implementation of _Devious Devices_, is perhaps the most popular mod on all of _Lover's Lab_. You likely downloaded this modlist because it was in here. It has a lot to recommend it, the device models are beautiful, the conversions fit 3BBB bodies for realistic bounce, and some of the quests are utterly meme-worthy. But perhaps you are interested in an NSFW Skyrim that does not feature erotic submissive roleplay (in the form of BDSM and rape fantasy). I attempted a method to disable the mod via menus but they are rather inconsistent, so instead I recommend finding and disabling all of the below ESPs in the right pane of _Mod Organizer 2_. You can do so by typing in their filenames in the box just below the pane, clicking on the green checkbox next to each one, until it turns into a white circle. If you want to play a male character, you don't have an option, _Cursed Loot_ isn't compatible with you. Disable it.
 
-- ccas_starts.esp at Priority 52
-- Deviously Cursed Loot LAL AddOn at Priority 53
-- Deviously Cursed Loot.esp at Priority 189
-- Umgak_DCL-NavMeshFix.esp at Priority 190
-- DD_Helpers.esp at Priority 192
-- Chloe Tweaks.esp at Priority 282
-- ASLALSlavePrincess.esp at Priority 296
-- I am naked! at Priority 297
-- DCUR Ultimate Light Patch.esp at Priority 301
-- DCUR Safehouse Lighting.esp at Priority 302
+- ASLALSlavePrincess.esp
+- ccas_starts.esp
+- Chloe Tweaks.esp
+- DCUR Ultimate Light Patch.esp
+- DCUR Safehouse Lighting.esp
+- DD_Helpers.esp
+- Deviously Cursed Loot.esp
+- Deviously Cursed Loot LAL AddOn.esp
+- I am naked!
+- Umgak_DCL-NavMeshFix.esp
 
 That's it. No more bondage. Keep in mind if you decide to experiment with it after all you'll have to re-enable all these and never use your old save with them enabled. Don't forget! (It's probably easier just to rerun Wabbajack.)
 

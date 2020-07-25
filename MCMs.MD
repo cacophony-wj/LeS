@@ -115,9 +115,29 @@ A message will appear which concludes with "Do you want to continue?" Click _Acc
 
 Another message will appear, "SexLab configuration successfully imported." Click _Accept_
 
-Finally, under **Available Strap-ons** near the lower left you will see _Calyps Strapon REMOVE_. Click this option and wait for it to disappear from the list of strap-ons.
+Finally, you will notice three options under **Available Strap-ons**. A word here, if you don't mind.
 
-Note that **ALL** of _SexLab's_ original old animations have been suppressed due to unpopularity. If you want to re-enable them for some reason, click _CLEAR SUPPRESSED LIST - CLICK HERE_.
+Women get put into a male role sometimes with SexLab. I don't know how to fix it. 
+
+A method was recommended to me but it didn't work. So sometimes they will strap it on. You basically have three options.
+
+_Calyps Strapon_ - A strapon. This is ugly and won't fit the female body.
+
+_CBBE Futanari_ - Works just like a penis. Texture looks okay with a bit of a seam. Has balls.
+
+_Equipable Schlong_ - Works just like a penis. Texture doesn't match the body at all. Doesn't have balls.
+
+Whichever of these you leave active will be used randomly when a woman takes a male role. To disable one, just click _REMOVE_ until it disappears. To restore them, click _REBUILD_.
+
+Choose wisely.
+
+Technically there is a fourth option:
+
+_Invisidick_ - The animation plays but with nothing attached to the woman. You can switch positions for her with _Shift+H_.
+
+To get this, uncheck _Women Wear Strapons_ in **Animation Settings**.
+
+Note that **ALL** of _SexLab's_ original old animations have been suppressed due to unpopularity. If you want to re-enable them for some reason, click _CLEAR SUPPRESSED LIST - CLICK HERE_
 
 #### Animation Settings
 
