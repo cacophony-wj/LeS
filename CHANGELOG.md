@@ -1,3 +1,10 @@
+## 3.1
+
+- Updated to the proper Book of CBBE main file.
+- Changed the default armors back to BD. (A huge bug was fixed with them).
+- Greatly simplified the BodySlide process. Tell me if anything is missing! (Hint: Issues on Github)
+- Tweaked the bounce down a bit because that guy doesn't mess around.
+
 ## 3.0.0.1
 
 - Fixed morphs.

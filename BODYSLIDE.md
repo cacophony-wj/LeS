@@ -31,36 +31,13 @@ You will also have to follow all of the steps below.
 20. A prompt will appear asking where to put your custom-fitted outfits. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
 21. **Do not put your outfits anywhere but _BodySlide Output_.**
 22. Click _Select Folder_
-23. Scroll down to "Output Set #15"
-24. Choose "DDA - 3BA - RestrictiveCorsetBelt"
-25. Scroll _all_ the way down to "Output Set #81"
-26. Choose "DDX - 3BA - HarnessBoots01(HDT)"
-27. Use your mouse wheel or the scroll bar to slowly page through the remaining outfits, selecting the "3BA" options when they are not defaulted as such.
-28. If there is no 3BA option, just leave it as is.
-29. Press **OK**.
-30. Wait for your outfits to be built in the popup labeled **Processing Outfits**. There should be close to 882 of them.
-31. You should receive the message "All outfits processed successfully!"
-32. Click OK
-33. If you receive any error messages, repeat the process from step 16 until you receive the above message.
-34. When finished, navigate to **_LeS Directory_/mods/BodySlide Output/meshes** and make sure about a dozen outfits folders are there.
-35. If there is only a _meshes_ folder there, move it to **_LeS Directory_/mods/BodySlide Output**
-36. **Confirm that all the outfits folders are in _LeS Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
-37. Next, Click the _Group Filter_ glass again.
-38. Click _Choose Groups..._
-39. Uncheck _3BBB_ and check _Unassigned_.
-40. Click _OK_
-41. Ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.
-42. **Hold down the CTRL key** (very important) and click _Batch Build_. 
-43. **Deselect all of the CBBE options. These will replace the CBBE 3BBB Bodies with the uncool CBBE Normie ones!**	
-44. **Deselect all of the KS Hairs Options. These are incompatible with 3BBB and will cause your breasts to melt into the ground!**
-45. Click _Build_
-46. A prompt will appear asking where to put your custom-fitted outfits. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
-47. **Do not put your outfits anywhere but _BodySlide Output_.**
-48. Press **Build**.
-49. Wait for your armors to be built in the popup labeled **Processing Outfits**. There should be 15 of them.
-50. You should receive the message "All outfits processed successfully!"
-51. Click _OK_
-52. If you receive any error messages, repeat the process from step 40 until you receive the above message.
-53. When finished, navigate to **_LeS Directory_/mods/BodySlide Output/meshes** and make sure there is **NOT** a _meshes_ folder within.
-54. If there is a _meshes_ folder there, move it to **_LeS Directory/mods/BodySlide Output_**
-55. You may continue.
+23. Options for 4 helmets will appear. These helmets have a bit of hair sticking out. Decide what color you want them.
+24. Click OK
+25. Wait for your outfits to be built in the popup labeled **Processing Outfits**. There should be 938 of them.
+26. You should receive the message "All outfits processed successfully!"
+27. Click OK
+28. If you receive any error messages, repeat the process from step 16 until you receive the above message.
+29. When finished, navigate to **_LeS Directory_/mods/BodySlide Output/meshes** and make sure about a dozen outfits folders are there.
+30. If there is only a _meshes_ folder there, move it to **_LeS Directory_/mods/BodySlide Output**
+31. **Confirm that all the outfits folders are in _LeS Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
+50. You may continue.

@@ -1,6 +1,7 @@
 - [Updates](#updates)
   - [An update came out! It's new and shiny! What should I do?](#an-update-came-out-its-new-and-shiny-what-should-i-do)
 - [Technical](#technical)
+  - [I have a bug that's not in this list.](#i-have-a-bug-thats-not-in-this-list)
   - [There's more than 255 ESPs! Will this thing even launch?](#theres-more-than-255-esps-will-this-thing-even-launch)
   - [Why do I have to CTRL-CLICK to build _BodySlide_?](#why-do-i-have-to-ctrl-click-to-build-bodyslide)
   - [I tried to wear a piece of gear but my body disappeared!](#i-tried-to-wear-a-piece-of-gear-but-my-body-disappeared)
@@ -44,6 +45,10 @@ Next **delete** the _profiles_ folder leftovers from your backup, as they only h
 You should be ready to continue as per the installation instructions in the README (back on your browser)
 
 ## Technical
+
+### I have a bug that's not in this list.
+
+Submit it to [Issues](https://github.com/cacophony-wj/LeS/issues). You might not know about the issues tab until just now. You might not want to create an account. You will probably want to talk about it on Discord. I might respond to you, I might not. I might tell you to submit it, I might just ignore you. If you're serious about me looking at a bug submit it. I'll at least give you a response.
 
 ### There's more than 255 ESPs! Will this thing even launch?
 
