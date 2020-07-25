@@ -240,6 +240,7 @@ _Cursed Loot_, as the main implementation of _Devious Devices_, is perhaps the m
 - DD_Helpers.esp at Priority 192
 - Chloe Tweaks.esp at Priority 282
 - ASLALSlavePrincess.esp at Priority 296
+- I am naked! at Priority 297
 - DCUR Ultimate Light Patch.esp at Priority 301
 - DCUR Safehouse Lighting.esp at Priority 302
 
