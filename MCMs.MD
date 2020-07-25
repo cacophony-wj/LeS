@@ -1,6 +1,7 @@
 - [Licentia et Servitium Configuration](#licentia-et-servitium-configuration)
 - [Click New Game](#click-new-game)
 - [Character Creation](#character-creation)
+- [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
 - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
   - [Audio](#audio)
   - [Controls](#controls)
@@ -67,15 +68,19 @@ You might wonder why I put something so obvious here but you'd be surprised at t
 
 ## Character Creation
 
-Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard). There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _3BBB_ Morphs_ and _Genitals_ options, but I am not going to go into that. Don't ask me either. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished. 
+Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard). There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _3BBB_ Morphs_ and _Genitals_ options, but I am not going to go into that. Don't ask me either. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished.
+
+## AS SOON AS CHARACTER CREATION IS COMPLETE
+
+You will get a **POPUP** about "Relic Notifications". Answer ok and **DO NOTHING** until the second popup appears. When it does, tell it that you **DO NOT** wish to scan the museum. After a third popup, you should be ready to continue.
 
 ## A bit of a note on System Settings
 
-I turned the music off. See below. You will also need to set your QuickSave and QuickLoad hotkeys, as Wabbajack does not change them.
+Sometimes I forget to turn the music up. See below. You will also need to set your QuickSave and QuickLoad hotkeys, as Wabbajack does not change them.
 
 ### Audio
 
-I have heard Jeremy Soule's default _Skyrim_ tracks so much that I am tired of them. I listen to something else. The music may be set to zero sometimes.
+I have heard Jeremy Soule's default _Skyrim_ tracks so much that I am tired of them. I listen to something else a lot of the time. The music may be set to zero.
 
 ### Controls
 
