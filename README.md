@@ -41,7 +41,7 @@
 
 **THE VERSION YOU ARE ABOUT TO DOWNLOAD OR JUST DOWNLOADED IS OUT OF DATE**
 
-The **Github** version is the most up to date, but it is still experimental. If you are interested, get the **3.2.1 Pre-release** one from the **Releases Section ->** (You have to click the small releases link)
+The **Github** version is the most up to date, but it is still experimental. If you are interested, get the **3.3.0.1 Pre-release** one from the **Releases Section ->** (You have to click the small releases link)
 
 If you prefer not to deal with my update madness, the last relatively finalized version is **2.0.1.2** also from **Releases ->**
 
