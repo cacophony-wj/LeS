@@ -22,6 +22,11 @@
     - [Settings](#settings)
   - [Cursed Loot](#cursed-loot)
     - [Debug](#debug)
+    - [Miscellaneous Options](#miscellaneous-options)
+    - [Escape Options](#escape-options)
+    - [Debug](#debug-1)
+  - [Devious Devices Helpers](#devious-devices-helpers)
+    - [Feature Enables](#feature-enables)
   - [Follower Framework](#follower-framework)
     - [System](#system)
   - [LOTD Settings](#lotd-settings)
@@ -32,7 +37,7 @@
   - [SexLab Aroused](#sexlab-aroused)
     - [Settings](#settings-2)
     - [Puppet Master](#puppet-master)
-    - [Current Armor](#current-armor)
+    - [A Note About Spankable Armor](#a-note-about-spankable-armor)
   - [SexLab Confabulation](#sexlab-confabulation)
     - [Troubleshoot (the menu)](#troubleshoot-the-menu)
   - [SexLab Eager NPCs](#sexlab-eager-npcs)
@@ -69,6 +74,8 @@ You might wonder why I put something so obvious here but you'd be surprised at t
 ## Character Creation
 
 Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard). There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _3BBB_ Morphs_ and _Genitals_ options, but I am not going to go into that. Don't ask me either. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished.
+
+**IF YOUR BODY TURNS PURPLE**, scroll Racemenu over to _Body Paint_ and make sure all Textures are set to _Default_ (press the "T" key)
 
 ## AS SOON AS CHARACTER CREATION IS COMPLETE
 
@@ -120,23 +127,23 @@ A message will appear which concludes with "Do you want to continue?" Click _Acc
 
 Another message will appear, "SexLab configuration successfully imported." Click _Accept_
 
-Finally, you will notice three options under **Available Strap-ons**. A word here, if you don't mind.
+Finally, you will notice a bajillion options under **Available Strap-ons**. A word here, if you don't mind. Women get put into a male role sometimes with SexLab. I don't know how to fix it. A method was recommended to me but it fixed some mods and broke others. So sometimes they will strap it on. It's a divisive issue. Strapons. Futas. Balls. No balls. So I have upgraded this list with a bajillion options for that.
 
-Women get put into a male role sometimes with SexLab. I don't know how to fix it. 
+_Calyps Strapon_ - The SexLab strapon. Looks like black rubber, very unimmersive. I fixed the clipping with a mod. No way to test this without sex, so get ta bonin'.
 
-A method was recommended to me but it didn't work. So sometimes they will strap it on. You basically have three options.
+_A bunch of weirdass lore-friendly but immersive strapons like dwemer prostheses and giant's toes_ - You'll just have to look at these, Bring them in with AddItemMenu. Search for "strapon".
 
-_Calyps Strapon_ - A strapon. This is ugly and won't fit the female body.
+_SOS CBBE Futanari_ - Works just like a penis. Texture looks good, fixed by a #nsfw regular. Has balls. Search for "Futa" with AddItemMenu to preview it.
 
-_CBBE Futanari_ - Works just like a penis. Texture looks okay with a bit of a seam. Has balls.
+_A Side Note_ You can use the _Schlongs of Skyrim_ MCM menu to assign all women a chance to always be a futa. Sadly the RNG seems off and has drastically increased percentages.
 
-_Equipable Schlong_ - Works just like a penis. Texture doesn't match the body at all. Doesn't have balls.
+_Equipable Schlong_ - Works just like a penis. Texture doesn't match the body at all. Doesn't have balls. Search for "Equip" to preview it. **DO NOT WEAR THIS NORMALLY. LET IT EQUIP FOR SCENES.** It will get locked on your body with **NO WAY** to remove it.
 
 Whichever of these you leave active will be used randomly when a woman takes a male role. To disable one, just click _REMOVE_ until it disappears. To restore them, click _REBUILD_.
 
-Choose wisely.
+Choose wisely. Or leave them all active for a wonderful world of random strapons.
 
-Technically there is a fourth option:
+Technically there is a "shadow" option:
 
 _Invisidick_ - The animation plays but with nothing attached to the woman. You can switch positions for her with _Shift+H_.
 
@@ -146,9 +153,9 @@ Note that **ALL** of _SexLab's_ original old animations have been suppressed due
 
 #### Animation Settings
 
-_**Creature animations are disabled by default**._ To prevent this, click _Allow creature animation_ in the upper right and make sure it's disabled. These are **not** limited to werewolves and vampires so be **sure** you want to get **freaky** before you allow it to remain enabled.
+_**Creature animations are disabled by default**._ To enable them, click _Allow creature animation_ in the upper right and make sure it's disabled. These are **not** limited to werewolves and vampires so be **sure** you want to get **freaky** before you allow it to remain enabled.
 
-Finally, _SexLab_ is configured so that nude, opposite-sex characters cause you to become aroused by default. If you wish to change this, reopen the MCM and navigate to
+Finally, _SexLab_ is configured so that you are straight. Men want women and women want men. If you wish to change this, reopen the MCM and navigate to
 
 ### SexLab
 
@@ -162,7 +169,7 @@ Lover's Lab recommends saving and loading the game immediately after fully confi
 
 ###  ZaZ Animation Pack
 
-**If you disabled Cursed Loot, ignore this menu.**
+**If you are a male character, or have no interest in Devious Devices or BDSM content, ignore this menu.**
 
 ####  SexLab
 
@@ -177,6 +184,8 @@ Under **Animation**, uncheck _Override_ as Devious already handles this function
 #### General Options
 
 Click _Enable All: Click Here_
+
+Click _Register Animations_
 
 The process will take about five minutes, whereupon you will receive a message that around 580 animations have been registered. Just click _Accept_
 
@@ -206,17 +215,53 @@ Either disable it and set it to _Hotkey_ (with _ESC_ as the value) or switch to 
 
 ### Cursed Loot
 
-**If you disabled Cursed Loot this menu won't be here**
+**This mod includes extreme ERP (erotic roleplay) including BDSM and RAPE so if you do not wish to see such excessively offensive content you must DISABLE IT IMMEDIATELY as follows!**
+
+First, import the default profile by navigating to
 
 #### Debug
 
-**If you are a female character and wish to fight bondage gear almost as much as you do bandits do the following**
+And clicking _Import Settings_
 
-Click _Import Settings_ and upon receiving the message **Are you sure?** click _Accept_
+This is necessary to disable some undesirable options I have off by default. They are left on even when the mod is shut down.
 
-**Last warning, if you are male and have not disabled Cursed Loot you will randomly go invisible.**
+Next, disable bondage-related loot drops by navigating to
 
-**If you have not read the entire landing page (README.md) go back and examine the section about "Combat Surrender" before continuing.**
+#### Miscellaneous Options
+
+And in the top right, set the following sliders to _0.0%_
+
+_Restraints Drop Chance_
+
+_Lucky Charm drop chance_
+
+Still more loot to disable.
+
+#### Escape Options
+
+Uncheck _Container key drops enabled_
+
+Uncheck _Dead body key drops enabled_
+
+Finally, navigate to
+
+#### Debug
+
+And click Shut down all functions, then wait until it is checked.
+
+You will still loot DARE packs and DAMN boxes. These cannot be disabled and will cause unintended effects if used while Cursed Loot is disabled!
+
+The _Chloe Quest_ will **NOT** be shut down with this option, so _do not_ go inside the actual Helgen Keep! After reading the "Adventurer's Journal" indicated by the map marker, go straight to the cave where Ralof and Hadvar are. Otherwise you will be forced into a quest you cannot abandon that will be riddled with bugs.
+
+### Devious Devices Helpers
+
+**If you are a male character, or have no interest in BDSM content do the following**
+
+#### Feature Enables
+
+Uncheck _Follower asks to tie player_
+
+You will still have bondage related dialogs in conversations with followers. Can't be helped, so don't select them.
 
 ###  Follower Framework
 
@@ -268,9 +313,9 @@ Check _Enable SOS_.
 
 Here you will find an option (_Is Exhibitionist_) that will make your arousal rise dramatically the more people see you naked. With _Cursed Loot_, your life will quickly become a living hell.
 
-#### Current Armor
+#### A Note About Spankable Armor
 
-The armor you wear will be listed here with a blank mark next to it. Click it to place an _X_ in the mark next and that outfit will be considered the same as being nude from that point on. Since _Spank That Ass_ only targets you for random ass slaps if you are nude or wearing clothing (as opposed to armor), you actually might want to do this if you are wearing something ridiculous that has cheeks hanging out.
+Almost all armor is spankable in my list. I think it's funny. If you don't like that and would prefer to only get spanked when unarmored (clothes or naked), find "Slappable.esp" in the right pane and uncheck it.
 
 ### SexLab Confabulation
 
@@ -338,7 +383,7 @@ _Active Effects HUD_
 
 ### Spank That Ass
 
-**Very important: This mod was made by a unique person who likes female spanking.**
+**Very important: This mod makes people slap your ass and tits a lot.**
 
 **If you are a male character or don't like a healthy spanking now and again, you will want to uncheck the following**
 
@@ -360,7 +405,7 @@ Scroll down until you see
 
 Click _Import Settings_
 
-**Last warning, if you do not disable the above you will get spanked and make female sex noises when having sex.**
+**Even if you do disable it you still have the spank power! Slap that ass when somebody gets in your way and they'll move _real_ quick.**
 
 ###  Storm Lightning
 
@@ -408,8 +453,6 @@ Check _Disable Style Cloak Spell_
 
 **Please note, you will enable rape if you enable this. Do not do this if it offends you.**
 
-**It is recommended to only enable this if you disabled _Cursed Loot_. If you insist on trying it, please return to the _Cursed Loot_ MCM and disable _Combat Surrender._**
-
 Please ensure that you have configured every other MCM before this one.
 
 Then save and load your game.
@@ -428,27 +471,15 @@ Re-open.
 
 Next, click _Import Settings_ on the right.
 
-**I have made all death into sexual assault with this mod. Sorry! If you don't like that, don't enable it. Better yet, read about the mod on Lover's Lab and customize it to your liking.**
-
-If you die and you have an invalid aggressor (say a vampire while you have disabled creatures) then your game will lock up and cannot be continued. Reload the game. 
-
-The advantage of this is you never have to worry about post-death save corruption! The disadvantage is: accidental grizzly bear penis (if you forgot to disable creatures). 
-
-**Never use clean or reconfigure from Defeat's menu despite what other people tell you. I won't support game problems after these options are used. Reload the game instead.**
-
-**Surrender functions are also enabled.**
-
-To surrender to a hostile at any time, press the _K_ key. Do it fast because the script delay is excessive. Once they have their way with you they will leave you alone for about 20 seconds, giving you time to run, but you will be in a weakened state for about five minutes.
+To surrender to a hostile at any time, press the _K_ key. Do it fast because the script delay is excessive. Once they have their way with you immediately run away because the brief calming effect is bugged out. They will immediately try to kill you after raping you!
 
 Only surrender to things you want to take advantage of you.
 
 **I have disabled everything else. If you want to rape people or have everybody raping everybody else, please set it up yourself until your game breaks and you give up on it like everyone else.**
 
-Keep in mind the silent takedown (with G) doesn't work with Nemesis so you'll have to mark them (again with G) and hit them with your fist instead. I won't go back to FNIS for the silent takedown.
-
 ## A bit of a note on schlongs and strap-ons
 
-Rather than use _SexLab_'s rather boring and badly-fitted strapon for scenes were a female is mistakenly placed in male role, an Oldrim mod called _Equippable Schlong_ has been included. To configure its appearance, follow these steps:
+To configure its appearance, follow these steps:
 
 1. Open the inventory.
 4. Click on the item _AddItemMenu_.
@@ -456,24 +487,24 @@ Rather than use _SexLab_'s rather boring and badly-fitted strapon for scenes wer
 6. Close and re-open the inventory.
 7. Click on _AddItemMenu - Search_.
 8. Type in _Schlong_ and click on _Equipable Schlong_ (yes it is misspelled).
-9. Be sure to configure _Cursed Loot_ as per the instructions first or you will cover the schlong in shame when you go naked.
+9. Be sure to disable or configure _Cursed Loot_ as per the instructions first or you will cover the schlong in shame when you go naked.
 10. Equip the schlong from your inventory.
 11. Open the console with the _tilde_ key (`).
 12. Type in _TFC_.
 13. Close the console with the same key.
-14. Adjust the camera with WASD + mouse to get a good view of the pelvic region, preferably from the side.
+14. Adjust the camera with WASD + mouse to get a good view of the schlong region, preferably from the side.
 15. Open the console again.
 16. Type in _showracemenu_.
 17. Navigate over to _Genitals_.
 18. Adjust that bad boy as you see fit.
 19. Open your inventory and drop it on the ground.
 20. It should automatically appear when appropriate (Amorous Adventures scenes are the worst for this).
-21. If you want to be a futa that's cool, but this particular schlong never unequips after a sex scene and can't have armor equipped over it, so there's that. You might want to take a look at _Cupid_ (another Wabbajack list) instead!
+21. If you want to be a futa that's cool, but this particular schlong never unequips after a sex scene and can't have armor equipped over it, so there's that.
 24. Open the console again and type tfc a final time.
 
 If you are male, the _Genitals_ section of _RaceMenu_ can be used to customize your "real" schlong as well.
 
-Unfortunately I've not matched the equippable schlong to the Demoniac skin yet. It looks pretty off. But it's still better than Calyps.
+Unfortunately I've not matched the equippable schlong to the Demoniac skin yet. It looks pretty off.
 
 ## All done! I wash my hands of you now!
 
@@ -481,4 +512,4 @@ There you go, fellow deviant. Be sure to press **F9** for a last second save in 
 
 What's that you say? You don't want to be a bondage slut or any kind of slut, and want to start somewhere besides Helgen without being naked?
 
-I suggest you reconsider why you are playing this modlist and disable Cursed Loot. You will find your answers there.
+I suggest you reconsider why you are playing this modlist and disable bondage. You will find your answers there.

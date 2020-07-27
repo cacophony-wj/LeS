@@ -1,3 +1,11 @@
+## 3.3
+
+- Changed _SexLab Aroused_ to BakaFactory's version for the keywords.
+- Made almost all armor spankable by default.
+- Added ten thousand new BodySlided strapon options.
+- (OK OK it's more like 8).
+- Balls and no balls!
+  
 ## 3.2
 
 - Added _Curator's Companion_ for LOTD notifications.

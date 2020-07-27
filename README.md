@@ -26,9 +26,9 @@
 	- [Problems with Wabbajack](#problems-with-wabbajack)
 		- [Post-Installation](#post-installation)
 - [Preparing the Game](#preparing-the-game)
-- [Cursed Loot: DECIDE NOW.](#cursed-loot-decide-now)
 - [Crafting the Female Bodies](#crafting-the-female-bodies)
 - [Launching the Game](#launching-the-game)
+- [Hey, what happened to the two profiles? And why can't I disable stuff anymore?](#hey-what-happened-to-the-two-profiles-and-why-cant-i-disable-stuff-anymore)
 - [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)
 - [Removing the Modlist](#removing-the-modlist)
 - [Contact](#contact)
@@ -41,7 +41,7 @@
 
 **THE VERSION YOU ARE ABOUT TO DOWNLOAD OR JUST DOWNLOADED IS OUT OF DATE**
 
-The **Github** version is the most up to date, but it is still experimental. If you are interested, get the **3.2 Pre-release** one from the **Releases Section ->** (You have to click the small releases link)
+The **Github** version is the most up to date, but it is still experimental. If you are interested, get the **3.2.1 Pre-release** one from the **Releases Section ->** (You have to click the small releases link)
 
 If you prefer not to deal with my update madness, the last relatively finalized version is **2.0.1.2** also from **Releases ->**
 
@@ -71,7 +71,7 @@ Before posting a question to Discord, look at [Troubleshooting](https://github.c
 
 # Number One Rule: This List Is Customizable
 
-Your kinks are a very private thing. I have included many mods for many purposes. They are almost all geared toward female submissive characters with particular fetishes but with a little tweaking you can get it the way you want. Most of the mods can be easily disabled via the in-game MCM menu.
+Your kinks are a very private thing. I have included a modest sampling of the most popular _Lover's Lab_ mods. They are almost all geared toward female submissive characters with particular fetishes. There really is no way to disable most of them in-game, so below you will find options for completely disabling the mods that offend you. Don't worry! You won't hurt anything. There are no merges and every patch is geared to one purpose. The advantage is that stuff can be easily removed, the disadvantage is there's less room for 12 huge DLC sized mods and fifteen weapons compilations.
 
 # Misaligned Animations
 
@@ -95,7 +95,7 @@ But I know they're popular. Erotic roleplay is a thing. So there are two of them
 
 I have left enabled the only option that works consistently: _Defeat's_ manual surrender. If you want to see yourself get raped, approach a hostile and surrender immediately to them with the _K_ key. If you try to surrender in a fight you will probably die before Defeat kicks in, again because of the bloat. If you want to roleplay a surrender do it early when you know you're outnumbered.
 
-Nothing additional (theft, knockout, imprisonment) will happen to you except an exhaustion debuff for about five minutes. Your enemies will go passive for 20 seconds giving you time to get away if you want. Then they will attack you again. They won't rape you a second time, you will die.
+Nothing additional (theft, knockout, imprisonment) will happen to you except an exhaustion debuff for about five minutes. My latest testing shows the Trauma animation is screwed with Nemesis so you better run fas' and slam back some Power Ale.
 
 I can't make anything else work consistently and not suck. Raping people yourself is also disabled because that sometimes screws up too. If you must see these animations, set up an aggressive scene with SexLab Tools as per the description of that mod.
 
@@ -241,23 +241,6 @@ Copy all of the files from the _LeS Directory/game folder files_ directory to yo
 
 The next step is to prepare the game for play. Navigate to the directory where you installed the modlist _Licentia et Servitium_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it to continue.
 
-# Cursed Loot: DECIDE NOW.
-
-_Cursed Loot_, as the main implementation of _Devious Devices_, is perhaps the most popular mod on all of _Lover's Lab_. You likely downloaded this modlist because it was in here. It has a lot to recommend it, the device models are beautiful, the conversions fit 3BBB bodies for realistic bounce, and some of the quests are utterly meme-worthy. But perhaps you are interested in an NSFW Skyrim that does not feature erotic submissive roleplay (in the form of BDSM and rape fantasy). I attempted a method to disable the mod via menus but they are rather inconsistent, so instead I recommend finding and disabling all of the below ESPs in the right pane of _Mod Organizer 2_. You can do so by typing in their filenames in the box just below the pane, clicking on the green checkbox next to each one, until it turns into a white circle. If you want to play a male character, you don't have an option, _Cursed Loot_ isn't compatible with you. Disable it.
-
-- ASLALSlavePrincess.esp
-- ccas_starts.esp
-- Chloe Tweaks.esp
-- DCUR Ultimate Light Patch.esp
-- DCUR Safehouse Lighting.esp
-- DD_Helpers.esp
-- Deviously Cursed Loot.esp
-- Deviously Cursed Loot LAL AddOn.esp
-- I am naked!
-- Umgak_DCL-NavMeshFix.esp
-
-That's it. No more bondage. Keep in mind if you decide to experiment with it after all you'll have to re-enable all these and never use your old save with them enabled. Don't forget! (It's probably easier just to rerun Wabbajack.)
-
 # Crafting the Female Bodies
 
 I have not included pre-generated BodySlide files due to distribution issues. I have also not distributed custom patches as they would be huge. So, you will have to customize female bodies yourself.
@@ -266,11 +249,17 @@ I have not included pre-generated BodySlide files due to distribution issues. I 
 
 [Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
 
+**Sun Jul 26 05:46:08 2020**
+
 # Launching the Game
 
 The rest must be completed after the game itself is launched. Oh yes, there's more. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **RUN ME TO START THE GAME**, create your character, and follow _all_ of the instructions in the below link:
 
 [Licentia et Servitium Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
+
+# Hey, what happened to the two profiles? And why can't I disable stuff anymore?
+
+Two profiles means I have to double animation folders or you get T-Pose when you switch. Disabling stuff gives nonfunctional animations because every mod you would want to disable has animations with it. So d'oh. If you want less kink, you're going to have to disable what you can from the _MCM_ and deal with it until _Dungeons & Deviousness_ comes out of Alpha.
 
 #  Adding Followers, Outfits, and Other Mods
 
@@ -278,17 +267,17 @@ This is not "officially" supported as per _Wabbajack Rule 11_. That said, I know
 
 **Screen Archery** by adding _Poser Mods_ is not supported. Download the _Cupid_ modlist for this purpose.
 
-For _Gear_ it's as simple as adding it under _Added Mods_ and above _LEAVE HERE AT THE END_ in the left pane and the very bottom in the right pane. If your mod comes with _BodySlides_ (it should say so in the description) you will have to select them from the _Groups..._ menu and run them as per the instructions in the _Bodies_ section. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenu_ (in your inventory by default) to search for the item by name and put it in your inventory. _AddItem_ is the ultimate cheat so don't use it if you want to play the "game" part of the game. I leave it in because this list is mostly sexy people and I want players to look good exactly the way they want.
+For _Gear_ it's as simple as adding it under _Added Mods_ and above _LEAVE HERE AT THE END_ in the left pane and the very bottom in the right pane. If your mod comes with _BodySlides_ (it should say so in the description) you will have to select them from the _Groups..._ menu and run them as per the instructions in the _Bodies_ section. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenu_ (in your inventory by default) to search for the item by name and put it in your inventory. _AddItem_ is the ultimate cheat so don't use it if you want to play the "game" part of the game. I leave it in because this list is mostly sexy people and I want players to look good exactly the way they want. If the temptation is too great just drop it before you talk to the Mara Statue.
 
 For _Follower Mods_ add them and enable them under _Added Mods_ and above _LEAVE HERE AT THE END_ in the left pane and just above _DynDOLOD_ in the right pane. If they have a lot of custom actions you will have to craft an _NFF Ignore Token_ and equip it on them after you recruit them. Be sure _not_ to "Import" *any* followers into the _Framework_ or everything will break. Also, do not recruit *any* followers that do not have a default "Follow me" option (or something similar). If you are unsure about your follower, read its description page and all compatibility notes for any problems with "Nether Follower Framework." If any are mentioned, you will probably need an Ignore Token. If your follower mod contains any quests to go along with them they may conflict with stuff or even cause buggy dark faces on main characters. No way to know for sure without being a modder.
 
-Finally, I **_MIGHT_** support the addition of a handful of _Lover's Lab_ mods depending on what they are and how much time I have to troubleshoot. _DO NOT ASK ANYONE ELSE BUT ME **(cacophony#0001)** TO TROUBLESHOOT YOUR LOVER'S LAB MODS._ I will say from the beginning that many of them, such as mods that constantly scan for stuff like periods, pregnancies, breast milk, etc. always cause tons of problems in the end. I do not and can not support the addition of these mods. If you want them, play with them until they break and start the game over from a pre-configured save in the cell. I can almost guarantee that they will break unless you are extremely conservative. To solve all these issues would require knowledge that I don't have. 
+Finally, I **_MIGHT_** support the addition of a handful of _Lover's Lab_ mods depending on what they are and how much time I have to troubleshoot. _DO NOT ASK ANYONE ELSE BUT ME **(cacophony#0001)** TO TROUBLESHOOT LOVER'S LAB MODS THAT YOU ADD TO MY LIST._ 
 
-It might be possible to squeeze in that kind of stuff on a more barebones version of Skyrim. If so, I invite you to download a simple "base" list from **#unofficial-modlist-submissions** to ensure you have critical fixes and then build your list up from scratch. You can always drop by **#NSFW-mod-discussion** to compare experiences.
+I will say from the beginning that many of the more popular ones, such as mods that constantly scan for stuff like periods, pregnancies, breast milk, etc. often cause problems in the end if not configured extremely carefully and run on a minimal build. I lack the capacity and the patience, but I refer you to our Discord's [#nsfw-mod-discussion] channel to request a link to _ForgottenGlory's_ modlist _"Dungeons & Deviousness"_. It has all kinds of nifty stuff that is the hallmark of _Lover's Lab,_ like _SexLab Survival_, _Sanguine's Debauchery_, _Estrus Chaurus_, and much more. _ForgottenGlory_ has been around the block himself, he created _"Living Skyrim"_, by far _Wabbajack_'s largest and most popular list. By all means, please play that list if you want such mods.
 
-All that said, if you can't figure out a mod on your own that I did not mention above, I may help you work it in on a case-by-case basis depending on how busy I am. It is expected that you have familiarity with Mod Organizer 2, xEdit, FNIS, Nemesis, and basic knowledge of what an override patch is before you try to do anything beyond basic outfit or follower additions.
+All that said, if you can't figure out a mod on your own that I did not mention above, I may help you work it in on a case-by-case basis depending on how busy I am. It is expected that you have familiarity with Mod Organizer 2, xEdit, FNIS, Nemesis, and basic knowledge of what an override patch is before you try to do anything beyond basic outfit or follower additions. If you don't know this stuff don't ask or come prepared for some homework.
 
-Finally _do not ask about non-Lover's lab mods_ except really simple things like makeup, hair, outfits, or voice tracks. I do not have the time to write custom patches for these. And just to make it clear, _DO NOT ASK ANYONE ELSE BUT ME **(cacophony#0001)** TO TROUBLESHOOT YOUR LOVER'S LAB MODS._ Rule 11 fully applies to everyone else but me.
+Finally _do not ask about non-Lover's lab mods_ except really simple things like makeup, hair, outfits, or voice tracks. I do not have the time to write custom patches for these. And just to make it clear, _DO NOT ASK ANYONE ELSE BUT ME **(cacophony#0001)** TO TROUBLESHOOT YOUR ADDITIONS._ Rule 11 fully applies to everyone else but me. If you don't remember it, go to [#welcome] and read all the rules again for real this time.
 
 # Removing the Modlist
 
@@ -296,7 +285,7 @@ You can just remove the _LeS_ folder and be done with it. SKSE and ENB files wil
 
 # Contact
 
-I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-et-servitium-support). I will not respond to personal messages unless I know you. **DO NOT DM ME**
+I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-et-servitium-support). I will not respond to personal messages unless I know you. **DO NOT MESSAGE ME**
 
 # Contributing
 

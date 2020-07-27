@@ -2,6 +2,8 @@
   - [An update came out! It's new and shiny! What should I do?](#an-update-came-out-its-new-and-shiny-what-should-i-do)
 - [Technical](#technical)
   - [I have a bug that's not in this list.](#i-have-a-bug-thats-not-in-this-list)
+  - [I enabled a feature and it's not working.](#i-enabled-a-feature-and-its-not-working)
+  - [I added a mod and something weird happened.](#i-added-a-mod-and-something-weird-happened)
   - [There's more than 255 ESPs! Will this thing even launch?](#theres-more-than-255-esps-will-this-thing-even-launch)
   - [Why do I have to CTRL-CLICK to build _BodySlide_?](#why-do-i-have-to-ctrl-click-to-build-bodyslide)
   - [I tried to wear a piece of gear but my body disappeared!](#i-tried-to-wear-a-piece-of-gear-but-my-body-disappeared)
@@ -50,6 +52,14 @@ You should be ready to continue as per the installation instructions in the READ
 
 Submit it to [Issues](https://github.com/cacophony-wj/LeS/issues). You might not know about the issues tab until just now. You might not want to create an account. You will probably want to talk about it on Discord. I might respond to you, I might not. I might tell you to submit it, I might just ignore you. If you're serious about me looking at a bug submit it. I'll at least give you a response.
 
+### I enabled a feature and it's not working.
+
+I won't answer questions about features I disabled. I disabled them because I couldn't get them to work. If you did, that's great, explain how and I'll pin it with a note to ping you so you can support people who ask questions about it.
+
+### I added a mod and something weird happened.
+
+See the main README. Long and the short of it is, you're on your own unless I'm in a good mood.
+
 ### There's more than 255 ESPs! Will this thing even launch?
 
 Yes. ESPs flagged as ESL don't count. Double click the little number to see how many real ESPs there are. Answer: a shockingly low amount!
@@ -60,7 +70,7 @@ _Mod Organizer 2_ does not put edits to existing files in the _overwrite_ folder
 
 ### I tried to wear a piece of gear but my body disappeared!
 
-If you are male, there are no male models for _Devious_ equipment in this list. They will all be invisible. I encourage you to refer to the main README to disable Cursed Loot.
+If you are male, there are no male models for _Devious_ equipment in this list. They will all be invisible. I encourage you to refer to the MCM section to disable Cursed Loot.
 
 If you are female, the _Devious_ equipment is invisible unless _BodySlide_ is fully run. Follow all the steps in the [Female Bodies and Outfits](https://github.com/cacophony/LeS/blob/master/BODYSLIDE.md) section.
 
@@ -80,7 +90,7 @@ Try using _Show All Saves._ Devious or Cursed Loot (one of the two) sometimes pu
 
 _Skyrim Special Edition_ is not well supported yet by the _Lover's Lab_ community, or at least not as robustly. Most players seeking to use such content do so on _Oldrim_ or _Legendary Edition,_ which unfortunately suffers from an inferior engine as far as stability and memory management goes. _Legendary Edition_ is also not "officially" available on _Steam_ any longer, which discourages mainstream mod (and modlist) authors from supporting it. 
 
-As such, animations triggered from the SE versions of _Defeat_ and _Cursed Loot_ seem to be called in a slightly different fashion than those from _SL Tools_, _SL Solutions_, or _SLEN_. They suffer from intolerable script lag at times, regardless of how many mods or animations are installed. I understand it's a known issue that is being worked on, but until it is resolved, you'll have to break your immersion a bit. If an animation seems stuck, open the console with the tilde key (`), wait for all messages to cycle, then close the console again. You may have to repeat this process at least once. If nothing you do gets an animation to start, post about in [Issues](https://github.com/cacophony-wj/LeS/issues).
+As such, animations triggered from the SE versions of _Defeat_ and _Cursed Loot_ seem to be called in a slightly different fashion than those from _SL Tools_, _SL Solutions_, or _SLEN_. They suffer from intolerable script lag at times, regardless of how many mods or animations are installed. I understand it's a known issue that is being worked on, but until it is resolved, you'll have to break your immersion a bit. If an animation seems stuck, open the console with the tilde key (`), wait for all messages to cycle, then close the console again. You may have to repeat this process a couple of times. If nothing you do gets an animation to start, post about in [Issues](https://github.com/cacophony-wj/LeS/issues).
 
 ### My arms won't go into a binder _or_ my hands are floating outside of my bindings _or_ my gag won't go in my mouth _or_ one of these is true for an NPC.
 
@@ -121,7 +131,7 @@ Life isn't fair and _Cursed Loot_ doubles down on that. Seriously, though, there
 
 ### I can't find those damn keys in the "slave princess" start!
 
-They are non-existent until triggered. The _hideout key_ spawns outside on a random slaver corpse after you are free from the cage. You must search every body until you find it. I will tell you that the bodies are all near the road and do not go beyond the man on the ledge on one extreme or the man in the weeds on the other, so keep checking. The _office key_ spawns when you search the body of the Slaver Boss and read the note pop-up. Search every corpse and chest in the room until you find it. If you can't find it at first, keep searching until you do. I have never had an instance where it didn't show (and I have tested it many, many, _many_ times)
+They are non-existent until triggered. The _hideout key_ spawns outside on a random slaver corpse after you are free from the cage. You must search every body until you find it. I will tell you that the bodies are all near the road and do not go beyond the man on the ledge on one extreme or the man in the weeds (near the ridgeline, he's kinda hard to see) on the other, so keep checking. The _office key_ spawns when you search the body of the Slaver Boss and read the note pop-up. Search every corpse and chest in the room until you find it. If you can't find it at first, keep searching until you do. I have never had an instance where it didn't show (and I have tested it many, many, _many_ times)
 
 ### Where the hell do I go after Chloe tells me about the secret passage?
 
