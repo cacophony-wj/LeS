@@ -3,7 +3,6 @@
 - [Character Creation](#character-creation)
 - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
 - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
-  - [Audio](#audio)
   - [Controls](#controls)
 - [Game MCM Options](#game-mcm-options)
   - [SexLab](#sexlab)
@@ -22,41 +21,33 @@
     - [Settings](#settings)
   - [Cursed Loot](#cursed-loot)
     - [Debug](#debug)
-    - [Miscellaneous Options](#miscellaneous-options)
-    - [Escape Options](#escape-options)
-    - [Debug](#debug-1)
-  - [Devious Devices Helpers](#devious-devices-helpers)
-    - [Feature Enables](#feature-enables)
   - [Follower Framework](#follower-framework)
     - [System](#system)
-  - [LOTD Settings](#lotd-settings)
-    - [General](#general)
   - [Quick Light](#quick-light)
   - [Maids II: Deception](#maids-ii-deception)
     - [Settings](#settings-1)
+  - [Serio's Hotkeys](#serios-hotkeys)
   - [SexLab Aroused](#sexlab-aroused)
     - [Settings](#settings-2)
     - [Puppet Master](#puppet-master)
     - [A Note About Spankable Armor](#a-note-about-spankable-armor)
-  - [SexLab Confabulation](#sexlab-confabulation)
-    - [Troubleshoot (the menu)](#troubleshoot-the-menu)
   - [SexLab Eager NPCs](#sexlab-eager-npcs)
-    - [General](#general-1)
+    - [General](#general)
   - [SexLab Solutions](#sexlab-solutions)
     - [follower](#follower)
   - [SexLab Tools](#sexlab-tools)
     - [Settings](#settings-3)
   - [Sky UI](#sky-ui)
-    - [General](#general-2)
+    - [General](#general-1)
   - [Spank That Ass](#spank-that-ass)
-    - [Spanking](#spanking)
-    - [Player Dialogue](#player-dialogue)
     - [Import/Export Settings](#importexport-settings)
   - [Storm Lightning](#storm-lightning)
     - [Presets](#presets)
     - [Advanced](#advanced)
   - [Trade & Barter](#trade--barter)
     - [Barter Rates](#barter-rates)
+  - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
+  - [TK Dodge](#tk-dodge)
   - [VioLens](#violens)
     - [Profile System](#profile-system)
   - [XPMSE](#xpmse)
@@ -79,19 +70,15 @@ Creating a face is very time consuming so I have included many presets. Use your
 
 ## AS SOON AS CHARACTER CREATION IS COMPLETE
 
-You will get a **POPUP** about "Relic Notifications". Answer ok and **DO NOTHING** until the second popup appears. When it does, tell it that you **DO NOT** wish to scan the museum. After a third popup, you should be ready to continue.
+You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHING** until you get another popup. Click _Scan Later_. After a third popup, you should be ready to continue.
 
 ## A bit of a note on System Settings
 
-Sometimes I forget to turn the music up. See below. You will also need to set your QuickSave and QuickLoad hotkeys, as Wabbajack does not change them.
-
-### Audio
-
-I have heard Jeremy Soule's default _Skyrim_ tracks so much that I am tired of them. I listen to something else a lot of the time. The music may be set to zero.
-
 ### Controls
 
-These are all to your liking, except for _Quicksave_ which should be set to _F9_, and _Quickload_ which should be set to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves.
+The controls for "Licentia" are specialized. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the roll and a step dodge with the B key. Lock on is set to "LB." Look up _The Ultimate Control Scheme" on the Nexus or just experiment.
+
+Set _Quicksave_ which should be set to _F9_, and _Quickload_ which should be set to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves.
 
 I'm oldschool so sometimes I play with an inverted controller. If your controls are inverted you might have to change it since I forgot to.
 
@@ -169,7 +156,7 @@ Lover's Lab recommends saving and loading the game immediately after fully confi
 
 ###  ZaZ Animation Pack
 
-**If you are a male character, or have no interest in Devious Devices or BDSM content, ignore this menu.**
+**Only for Servitium**
 
 ####  SexLab
 
@@ -187,13 +174,17 @@ Click _Enable All: Click Here_
 
 Click _Register Animations_
 
-The process will take about five minutes, whereupon you will receive a message that around 580 animations have been registered. Just click _Accept_
+The process will take about two minutes, whereupon you will receive a message that animations have been registered. Just click _Accept_
 
 ###  CGO
 
 #### Settings
 
-I have configured everything but the leaning and first person camera bobbing for you. Changing from one-handed to two-handed is done with the _Left Shift_ key. Dual-Wield Blocking is done with the _Scroll Wheel Button_ (or _MOUSE 3_). Dodge roll is set to _CTRL_ when moving. When standing still, you will crouch or uncrouch.
+I have yet to configure this for a controller. Rewriting Papyrus scripts is annoying but I _Will_ do it at a future date. If you are using a mouse and keyboard you shouldn't have to do anything but reset the Dodge Type to _Hotkey_ (even if it says that already). If you are on a controller... 
+
+Set _Grip Shift_ to _D-Pad Right_
+
+Set _Dual Wield Blocking_ to _D-Pad Up_
 
 _Leaning_
 
@@ -209,59 +200,15 @@ _Camera Noise_
 
 _Camera Noise Mult (1st Person)_: _X0.00_
 
-**You may also find that the first-person roll animation causes you to feel motion sick.**
-
-Either disable it and set it to _Hotkey_ (with _ESC_ as the value) or switch to third person if you want to roll.
-
 ### Cursed Loot
 
-**This mod includes extreme ERP (erotic roleplay) including BDSM and RAPE so if you do not wish to see such excessively offensive content you must DISABLE IT IMMEDIATELY as follows!**
+**Only for Servitium**
 
-First, import the default profile by navigating to
+Import the default profile by navigating to
 
 #### Debug
 
 And clicking _Import Settings_
-
-This is necessary to disable some undesirable options I have off by default. They are left on even when the mod is shut down.
-
-Next, disable bondage-related loot drops by navigating to
-
-#### Miscellaneous Options
-
-And in the top right, set the following sliders to _0.0%_
-
-_Restraints Drop Chance_
-
-_Lucky Charm drop chance_
-
-Still more loot to disable.
-
-#### Escape Options
-
-Uncheck _Container key drops enabled_
-
-Uncheck _Dead body key drops enabled_
-
-Finally, navigate to
-
-#### Debug
-
-And click Shut down all functions, then wait until it is checked.
-
-You will still loot DARE packs and DAMN boxes. These cannot be disabled and will cause unintended effects if used while Cursed Loot is disabled!
-
-The _Chloe Quest_ will **NOT** be shut down with this option, so _do not_ go inside the actual Helgen Keep! After reading the "Adventurer's Journal" indicated by the map marker, go straight to the cave where Ralof and Hadvar are. Otherwise you will be forced into a quest you cannot abandon that will be riddled with bugs.
-
-### Devious Devices Helpers
-
-**If you are a male character, or have no interest in BDSM content do the following**
-
-#### Feature Enables
-
-Uncheck _Follower asks to tie player_
-
-You will still have bondage related dialogs in conversations with followers. Can't be helped, so don't select them.
 
 ###  Follower Framework
 
@@ -274,18 +221,6 @@ At the message **Settings Loaded. Please exist the MCM menu to apply all changes
 Exit the MCM and re-open it.
 
 A bit of a note here. I did not alter Skyrim's vanilla difficulty in any way, aside from ensuring that dragons have new abilities and dungeons match your level each time they respawn. CGO, LOTD, ZIM's, and the abundance of gear I put in here make you ridiculously powerful. What can I say, I need to be a hero in these troubling times. :sweatboy: Anyway, you will probably have to bump up the difficulty a lot (maybe even to Legendary) if you are at all good at Skyrim. (I'm not, and I made this list so I can test it by playing it.) The problem with this method is that followers are **buffed**, not nerfed, because they're considered _not-the-player_ and everything _not-the-player_ has its damaged multiplied. Combine this with player nerfs on Legendary and you'll find that with even one follower you never get a chance to hit anything before it's all dead. The only real answer for this is to use _Nether Follower Framework_ here and under _Follower Stats_ change their damage output to its lowest value: _0.10_. They'll be mostly harmless but at least you'll have your chance to shine.
-
-### LOTD Settings
-
-#### General
-
-_Shipment Crate Locations_
-
-Enable _Carriages_
-
-Enable _Inns_
-
-Enable _Player Homes_
 
 ###  Quick Light
 
@@ -300,6 +235,12 @@ Uncheck _Enable to Long press activation key_
 #### Settings
 
 Disable _Wild Encounters_ as I did not install this option.
+
+### Serio's Hotkeys
+
+Recommend _Use Vanilla Hotkeys_ if you're on controller.
+
+You'll have to read about the mod if you wanna use it, I'm still experimenting. Basically you can set it so your hotkeys are a function of shoulder button + face button for a total of 8 hotkeys on the controller (kinda like FF14 if you've ever played that on console)
 
 ###  SexLab Aroused
 
@@ -316,16 +257,6 @@ Here you will find an option (_Is Exhibitionist_) that will make your arousal ri
 #### A Note About Spankable Armor
 
 Almost all armor is spankable in my list. I think it's funny. If you don't like that and would prefer to only get spanked when unarmored (clothes or naked), find "Slappable.esp" in the right pane and uncheck it.
-
-### SexLab Confabulation
-
-Not thoroughly tested but you might want to check out
-
-#### Troubleshoot (the menu)
-
-And disable things that aren't your thing.
-
-**Please do this. Horses may be involved if you don't.**
 
 ###  SexLab Eager NPCs
 
@@ -383,23 +314,9 @@ _Active Effects HUD_
 
 ### Spank That Ass
 
-**Very important: This mod makes people slap your ass and tits a lot.**
+**Only for Servitium**
 
-**If you are a male character or don't like a healthy spanking now and again, you will want to uncheck the following**
-
-#### Spanking
-
-_Allow Sex Spanks_
-
-_Allow Bump Spanks_
-
-#### Player Dialogue
-
-Set _Player Dialogue Level_ to _OFF_
-
-**If you are female and want to get spanked**
-
-Scroll down until you see
+**Very important: This mod makes people slap your ass and tits a lot. If you don't like that disable everything.**
 
 #### Import/Export Settings
 
@@ -429,6 +346,44 @@ _Presets_
 
 Select _Barter Presets: Medium_
 
+### The Ultimate Dodge Mod
+
+**Only for Licentia**
+
+Still need to auto-configure this one, too.
+
+Set _Combat Dodging Style_ to "Roll" or "Step Dodge" your preference.
+
+Pressing _B_ ingame will switch between them. (The key, not the controller button, you can set it to one of the D-Pad keys if you like)
+
+**If you use a controller** 
+
+Enable _Gamepad Compatibility_
+
+Set _Style_ to "Sneak Style 2"
+
+This will make you couch when still and dodge when moving.
+
+**NONE OF THIS WILL WORK UNTIL YOU LEAVE THE STARTING CELL BY SLEEPING ON THE BED**
+
+**IF YOU GET STUCK IN MID AIR PRESS THE "B" KEY or DODGE MODE COMMAND TWICE**
+
+### TK Dodge
+
+This can be pretty laggy with the _Devious_ set up so you might just disable it. If not, configure it how you like, but remember that leaving double-tap enabled is probably a bad move.
+
+Here are my settings:
+
+_Dodge Key_: Shift
+
+_Forward Roll_: Forward Direction + Dodge Key
+
+_Double Tap Input_: Unchecked
+
+_Forward Double Tap Action_: Dodge Roll
+
+Switch it to step dodge if you're super good at what you do.
+
 ### VioLens
 
 #### Profile System
@@ -453,6 +408,8 @@ Check _Disable Style Cloak Spell_
 
 **Please note, you will enable rape if you enable this. Do not do this if it offends you.**
 
+**If you are damn fool enough to try this disable Combat Surrender as per the main readme.**
+
 Please ensure that you have configured every other MCM before this one.
 
 Then save and load your game.
@@ -474,8 +431,6 @@ Next, click _Import Settings_ on the right.
 To surrender to a hostile at any time, press the _K_ key. Do it fast because the script delay is excessive. Once they have their way with you immediately run away because the brief calming effect is bugged out. They will immediately try to kill you after raping you!
 
 Only surrender to things you want to take advantage of you.
-
-**I have disabled everything else. If you want to rape people or have everybody raping everybody else, please set it up yourself until your game breaks and you give up on it like everyone else.**
 
 ## A bit of a note on schlongs and strap-ons
 

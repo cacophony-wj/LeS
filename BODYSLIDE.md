@@ -32,15 +32,16 @@ You will also have to follow all of the steps below.
 21. **Do not put your outfits anywhere but _BodySlide Output_.**
 22. Click _Select Folder_
 23. Options for 4 helmets will appear. These helmets have a bit of hair sticking out. Decide what color you want them.
-24. Click OK
-25. Wait for your outfits to be built in the popup labeled **Processing Outfits**. There should be 948 of them.
+24. **If you have chosen the _Servitium_ profile, there will be other options which you can ignore.**
+25. Click OK
+1.  Wait for your outfits to be built in the popup labeled **Processing Outfits**.
 26. You should receive the message "All outfits processed successfully!"
 27. Click OK
 28. If you receive any error messages, repeat the process from step 16 until you receive the above message.
 29. When finished, navigate to **_LeS Directory_/mods/BodySlide Output/meshes** and make sure about a dozen outfits folders are there.
 30. If there is only a _meshes_ folder there, move it to **_LeS Directory_/mods/BodySlide Output**
 31. **Confirm that all the outfits folders are in _LeS Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
-50. You may continue.
+32. You may continue.
 
 ### Changing It Up
 

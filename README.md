@@ -26,10 +26,11 @@
 	- [Problems with Wabbajack](#problems-with-wabbajack)
 		- [Post-Installation](#post-installation)
 - [Preparing the Game](#preparing-the-game)
+- [Choosing your Profile](#choosing-your-profile)
 - [Crafting the Female Bodies](#crafting-the-female-bodies)
 - [Launching the Game](#launching-the-game)
-- [Hey, what happened to the two profiles? And why can't I disable stuff anymore?](#hey-what-happened-to-the-two-profiles-and-why-cant-i-disable-stuff-anymore)
 - [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)
+- [Specific Mod Details](#specific-mod-details)
 - [Removing the Modlist](#removing-the-modlist)
 - [Contact](#contact)
 - [Contributing](#contributing)
@@ -39,11 +40,9 @@
 
 ## BEFORE YOU CONTINUE: 
 
-**THE VERSION YOU ARE ABOUT TO DOWNLOAD OR JUST DOWNLOADED IS OUT OF DATE**
+The version from the _Wabbajack_ app is up to date. Hopefully it will remain unchanged for awhile. The version is **4.0.0.1**
 
-The **Github** version is the most up to date, but it is still experimental. If you are interested, get the **3.2.1 Pre-release** one from the **Releases Section ->** (You have to click the small releases link)
-
-If you prefer not to deal with my update madness, the last relatively finalized version is **2.0.1.2** also from **Releases ->**
+If you prefer not to deal with my update madness, the previous finalized version is **2.0.1.2** also from **Releases ->**
 
 My README from then is long gone, but you can view the _MCM_ section [here](https://github.com/cacophony-wj/LeS/blob/19a278c85872f68f3bd5375c347e8b7e63101924/MCMs.MD)
 
@@ -71,11 +70,11 @@ Before posting a question to Discord, look at [Troubleshooting](https://github.c
 
 # Number One Rule: This List Is Customizable
 
-Your kinks are a very private thing. I have included a modest sampling of the most popular _Lover's Lab_ mods. They are almost all geared toward female submissive characters with particular fetishes. There really is no way to disable most of them in-game, so below you will find options for completely disabling the mods that offend you. Don't worry! You won't hurt anything. There are no merges and every patch is geared to one purpose. The advantage is that stuff can be easily removed, the disadvantage is there's less room for 12 huge DLC sized mods and fifteen weapons compilations.
+Your kinks are a very private thing. I have included two profiles for different types of play. "Licentia et Servitium" (despite the name) includes only free-love options -- no fetish content (assuming you disable the strapons). "Servitium" has all the fetish content, including non-consensual, bondage and creatures. These two setups represent the most popular options for _Lover's Lab._ A brief warning, though, _Servitium_ will only work for a female character. That's just the way the cookie crumbles.
 
 # Misaligned Animations
 
-I have included a ton of animations, almost the maximum, so people don't feel the need to pack in more. Many of them are less than perfect. If they are not aligned you will have to do it yourself. Here's how it works... the _L_ key on your keyboard moves you _forward,_ i.e. closer to your partner. _Shift-L_ moves you _backward,_ or the reverse. _semicolon ;_ moves you _up_, or higher in elevation than your partner. _Shift-;_ does the reverse. Finally, _apostrophe '_ moves you _Right_ compared to your partner, whereas _Shift-'_ moves you _Left_.
+I have pared back the animations drastically on advice from others. It only introduces lag into SexLab, most of the animations are low quality, few of them are regularly updated, and after testing them extensively it seems only a limited selection of them ever see play. If you want more you will have to disover how to run _FNIS_ or _Nemesis_ for yourself because I will not support it. I will say that it's a lot easier using only one of them rather than both.
 
 #  Admiring Yourself
 
@@ -93,11 +92,9 @@ All of the _SexLab_ death alternatives are a mess. I have wrestled with them for
 
 But I know they're popular. Erotic roleplay is a thing. So there are two of them in this list: _Combat Surrender_ which is part of _Cursed Loot_ and seems to equip you in punishing bondage gear no matter what options are set, and _SexLab Defeat_ that randomly locks up your game because somebody died while in the middle of raping you. Have fun.
 
-I have left enabled the only option that works consistently: _Defeat's_ manual surrender. If you want to see yourself get raped, approach a hostile and surrender immediately to them with the _K_ key. If you try to surrender in a fight you will probably die before Defeat kicks in, again because of the bloat. If you want to roleplay a surrender do it early when you know you're outnumbered.
+I have left enabled the only option that hasn't pissed me off recently, _Cursed Loot's_ "Combat Surrender." You will surrender instead of dying and depending on who got the better of you different things will happen. It's buggy and this is Cursed Loot so expect surprise bondage.
 
-Nothing additional (theft, knockout, imprisonment) will happen to you except an exhaustion debuff for about five minutes. My latest testing shows the Trauma animation is screwed with Nemesis so you better run fas' and slam back some Power Ale.
-
-I can't make anything else work consistently and not suck. Raping people yourself is also disabled because that sometimes screws up too. If you must see these animations, set up an aggressive scene with SexLab Tools as per the description of that mod.
+Disable this under the "rape" menu (ugh) in _Cursed Loot_ and enable _Defeat_ if you prefer. It's set to allow surrenders and assaults only. 
 
 You are free to change the death alternative options around as much as you like, but I will not answer questions or respond to recommendations about them anytime, anywhere.
 
@@ -107,15 +104,13 @@ Once you get the message about the collapsed passage north of Riften, I recommen
 
 # A word about ENBs
 
-I have chosen _Re-Engaged_ as the ENB because best I can tell _Silent Horizons_ needs an update. I have tweaked it a bit to make rain more apparent and to brighten interior lighting a touch.
+The whole style of this modlist has been overhauled. As such I chose _PI CHO_ as the ENB because it has better subsurface and more customizable LUTs (color schemes). If you don't like my gritty, vaguely bloody look hit _SHIFT-ENTER_ and look to the right under _POSTPROCESS_. There you will find options for _LUT_. Disable _Desert Strike_ and enable _Kitsune Cut_. That's the best one.
 
-If you don't like it I have tested these:
+If you don't like _PI CHO_ I have tested these:
 
-_Silent Horizons_ was causing flicker for me. I think it needs an update, but you could always try it. I prefer it far more then _Re-Engaged._
+_Silent Horizons_ is probably the best one I've ever seen.
 
-_Hardlandson's_ is a great third choice with fantastic interiors and atmospheric fogs. Personally I think the exteriors are a little too washed out.
-
-_PI-CHO_ looks great for character close-ups and resembles Silent Horizons for everything else, but the specular map for wet effects is a bit too bright for me.
+_Amon's ENB_ comes highly recommended from _Living Skyrim_ and other users. It's supposed to be pretty light so this should be your first choice if stuff gets stuttery.
 
 _Rudy_ will technically work but is not recommended as it has no variant which supports Cathedral Weathers.
 
@@ -241,6 +236,12 @@ Copy all of the files from the _LeS Directory/game folder files_ directory to yo
 
 The next step is to prepare the game for play. Navigate to the directory where you installed the modlist _Licentia et Servitium_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it to continue.
 
+# Choosing your Profile
+
+The profile is set to "Licentia et Servitium" by default. This is intended mostly for plain vanilla dialog sex. It is also intended to be played in third person with a controller. If you wish to do this you will have to delete "ControlMap_custom.txt" from your _Skyrim_ directory and download [Antimicro](https://github.com/AntiMicro/antimicro/releases/download/2.23/antimicro-2.23-win32.msi). Set your left stick to _WASD._ Otherwise you can't move. If you don't like this disable my controller options. You can do this by unchecking everything under _Controllers_ in the left pane. This profile is the one I hope to make a playthrough on so it's set the way I like it.
+
+"Servitium" is the alternative. This is intended for submissive females who are into bondage, vampires, werewolves, and incomplete buggy mods. The camera and controls are plain Skyrim and there's no _CGO_ because it fucks with shit. You can still use _TK Dodge_ which is a poor choice. I don't plan on troubleshooting this profile very much because it's obviously not ready for primetime. Feel free to submit an issue to Github and I'll try to look at it if I think there's a chance of fixing it (there probably isn't)
+
 # Crafting the Female Bodies
 
 I have not included pre-generated BodySlide files due to distribution issues. I have also not distributed custom patches as they would be huge. So, you will have to customize female bodies yourself.
@@ -256,10 +257,6 @@ I have not included pre-generated BodySlide files due to distribution issues. I 
 The rest must be completed after the game itself is launched. Oh yes, there's more. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **RUN ME TO START THE GAME**, create your character, and follow _all_ of the instructions in the below link:
 
 [Licentia et Servitium Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
-
-# Hey, what happened to the two profiles? And why can't I disable stuff anymore?
-
-Two profiles means I have to double animation folders or you get T-Pose when you switch. Disabling stuff gives nonfunctional animations because every mod you would want to disable has animations with it. So d'oh. If you want less kink, you're going to have to disable what you can from the _MCM_ and deal with it until _Dungeons & Deviousness_ comes out of Alpha.
 
 #  Adding Followers, Outfits, and Other Mods
 
@@ -279,13 +276,17 @@ All that said, if you can't figure out a mod on your own that I did not mention 
 
 Finally _do not ask about non-Lover's lab mods_ except really simple things like makeup, hair, outfits, or voice tracks. I do not have the time to write custom patches for these. And just to make it clear, _DO NOT ASK ANYONE ELSE BUT ME **(cacophony#0001)** TO TROUBLESHOOT YOUR ADDITIONS._ Rule 11 fully applies to everyone else but me. If you don't remember it, go to [#welcome] and read all the rules again for real this time.
 
+# Specific Mod Details
+
+To be added. For now look them up on the Nexus or Lover's Lab. Should be able to right click on them and select "Visit Nexus" or "Visit Lover's Lab"
+
 # Removing the Modlist
 
 You can just remove the _LeS_ folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
 # Contact
 
-I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-et-servitium-support). I will not respond to personal messages unless I know you. **DO NOT MESSAGE ME**
+I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-et-servitium-support`). I will not respond to personal messages unless I know you. **DO NOT MESSAGE ME**
 
 # Contributing
 
