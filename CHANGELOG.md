@@ -1,3 +1,20 @@
+## 4.0.0.1
+
+- The most significant change is the two profiles.
+- "Licentia et Servitium" has no fetish content and uses Nemesis for CGO and TUDM, mainly with a controller.
+- "Servitium" includes all the fetish content and uses FNIS to make the best use of it.
+- I solved my music problem. I also discovered my mental age is 14.
+- Switched the ENB to PI-CHO with a special LUT. Add the Subsurface fix for better-looking skin. Copy over game folder files if you want it.
+- Drastic increase in difficulty with True Unleveled Skyrim and Know Your Enemy (set to 0.5)
+- Added Equipment Durability System without armor breaking (just for the widget)
+- Added significant controller options to "Light" to mimic FROM's stuff:
+- Added _Simple Lock-On" to "Licentia" for the same reason. It's mapped to the left shoulder (LB on Xbox, L1 on PS4)
+- Added Smooth Cam to "Licentia"
+- Added Serio's Hotkeys to "Licentia"
+- Added Ashes to "Licentia"
+- Added Ultimate Dodge to "Light" so people can roll in first person without immediately spewing.
+- Reinstalled BD base meshes to solve the baldy guards.
+
 ## 3.3
 
 - Changed _SexLab Aroused_ to BakaFactory's version for the keywords.
