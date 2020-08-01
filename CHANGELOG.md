@@ -1,7 +1,7 @@
 ## 4.0.2
 
 - Updated _SexLab Confabulation_
-- Fixeed the damn freecam hotkey.
+- Fixed the damn freecam hotkey.
 
 How the hell did I get here?
 
