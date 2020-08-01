@@ -188,7 +188,7 @@ Set _Dual Wield Blocking_ to _D-Pad Up_
 
 _Leaning_
 
-I prefer the _procedural leaning_ and _camera movement_ (also known as **bobbing**) at X1.00, but it does cause rather severe motion sickness in some players.
+I prefer the _procedural leaning_ and _camera movement_ (also known as **head bobbing**) at X1.00, but it does cause rather severe motion sickness in some players.
 
 **If you find uncomfortable nausea happening to you, I recommend the following values:**
 
@@ -270,7 +270,7 @@ You'll be having a _lot_ of sex on the installed profile. If that bothers you, c
 
 This mod takes a bit to activate. 
 
-Wait for two messages to appear in the upper left: **Mounted Exposure (SLEN) added** and **Masturbate (SLEN) added**.
+Wait for this message to appear in the upper left: **Masturbate (SLEN) added**.
 
 ###  SexLab Solutions
 

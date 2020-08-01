@@ -6,7 +6,7 @@ I'm guessing you came here to appreciate the female form. Here in the Skyrim com
 
 ### Running BodySlide
 
-I have included a handful of 3BBB bodies, but you can always install your own.
+I have included a several 3BBB bodies, but you can always install your own.
 
 You will also have to follow all of the steps below.
 
@@ -32,7 +32,6 @@ You will also have to follow all of the steps below.
 21. **Do not put your outfits anywhere but _BodySlide Output_.**
 22. Click _Select Folder_
 23. Options for 4 helmets will appear. These helmets have a bit of hair sticking out. Decide what color you want them.
-24. **If you have chosen the _Servitium_ profile, there will be other options which you can ignore.**
 25. Click OK
 1.  Wait for your outfits to be built in the popup labeled **Processing Outfits**.
 26. You should receive the message "All outfits processed successfully!"
@@ -45,11 +44,11 @@ You will also have to follow all of the steps below.
 
 ### Changing It Up
 
-Sick of those dummy thicc boobs clapping with everything? Tired of being ridiculed as the chairman of the itty-bitty-titty committee? If you get bored with the female body you have in your game just come back to this portion of the readme and follow all the instructions with a different preset. Nothing will be harmed, your save won't be affected, it's just everybody will fit the new body. It's the 90's, a man's got to have a little variety.
+Sick of those dummy thicc boobs clapping against everything? Tired of being ridiculed as the chairman of the itty-bitty-titty committee? If you get bored with the female body you have in your game just come back to this portion of the readme and follow all the instructions with a different preset. Nothing will be harmed, your save won't be affected, it's just everybody will fit the new body. It's the 90's, a man's got to have a little variety.
 
 ### Adjusting Physics
 
-A key part of fun with boobs is adjusting how they bounce. The modlist ships with a preset for medium boobs as per _3BBB HangEmHigh_. If you make a dramatic change in boob size (say by using _Cals Sticky Thicy Caco Edit)_ you want to change the physics to match. Don't worry, nothing will break your game or your save unless you change something I explicitly tell you not to.
+A key part of fun with boobs is adjusting how they bounce. The modlist ships with an extremely bouncy preset for massive ones (such as _Cals Sticky Thicy_) which might look wrong if you choose something smaller. If you make a dramatic change in boob size you want to change the physics to match. Don't worry, nothing will break your game or your save unless you change something I explicitly tell you not to.
 
 1. Right click on _CBBE 3BBB_ and choose _Reinstall_
 2. Uncheck _Pre-built Body mesh_ and **DO NOT** choose any other options. They will break this list. Just click _Next_

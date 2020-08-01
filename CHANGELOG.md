@@ -1,3 +1,10 @@
+## 4.0.2
+
+- Updated _SexLab Confabulation_
+- Fixeed the damn freecam hotkey.
+
+How the hell did I get here?
+
 ## 4.0.0.1
 
 - The most significant change is the two profiles.

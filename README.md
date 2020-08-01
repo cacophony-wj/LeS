@@ -40,13 +40,9 @@
 
 ## BEFORE YOU CONTINUE: 
 
-The version from the _Wabbajack_ app is up to date. Hopefully it will remain unchanged for awhile. The version is **4.0.0.1**
+The one on the Wabbajack menu is the latest version, so you are good to go.
 
-If you prefer not to deal with my update madness, the previous finalized version is **2.0.1.2** also from **Releases ->**
-
-My README from then is long gone, but you can view the _MCM_ section [here](https://github.com/cacophony-wj/LeS/blob/19a278c85872f68f3bd5375c347e8b7e63101924/MCMs.MD)
-
-Also, **minor fixes** have been posted in the support channel. Check the pins once you get in there (small thumbtack icon)
+**Minor fixes** have been posted in the support channel. Check the pins once you get in there (small thumbtack icon)
 
 ## Preamble
 
@@ -127,7 +123,6 @@ If you don't want to install this list because you don't want to fiddle with mul
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
 - [MEGA Account](https://mega.nz/aff=a94uEwwXPLU) (OPTIONAL BUT HIGHLY RECOMMENDED)
-- A brain, eyes and time to read through this README
 
 ### System Specs
 
@@ -135,7 +130,7 @@ If you don't want to install this list because you don't want to fiddle with mul
 - GPU: >= 1060, you need at least 6GB of VRAM
 - RAM: >= DDR4 with at least 16GBs
 
-Everything should be installed on an SSD that has at least 256GB of space available. **You won't be able to play the modlist with 4GB of VRAM**.
+Everything should be installed on an SSD that has at least 150GB of space available. **You won't be able to play the modlist with 4GB of VRAM**.
 
 # Installation
 
@@ -238,7 +233,9 @@ The next step is to prepare the game for play. Navigate to the directory where y
 
 # Choosing your Profile
 
-The profile is set to "Licentia et Servitium" by default. This is intended mostly for plain vanilla dialog sex. It is also intended to be played in third person with a controller. If you wish to do this you will have to delete "ControlMap_custom.txt" from your _Skyrim_ directory and download [Antimicro](https://github.com/AntiMicro/antimicro/releases/download/2.23/antimicro-2.23-win32.msi). Set your left stick to _WASD._ Otherwise you can't move. If you don't like this disable my controller options. You can do this by unchecking everything under _Controllers_ in the left pane. This profile is the one I hope to make a playthrough on so it's set the way I like it.
+The profile is set to "Servitium" by default. This is the extremely kinky build but is selected by default as a way to build all outfits available. If you wish to play with bondage and creature support, leave this dropdown alona and follow the steps at [Crafting the Female Bodies] below. 
+
+The main profile is "Licentia et Servitium" and it is mainly based around consensual dialog sex. It is also intended to be played in third person with a controller. If you wish to use the controller as intended you will have to delete "ControlMap_custom.txt" from your _Skyrim_ directory and download [Antimicro](https://github.com/AntiMicro/antimicro/releases/download/2.23/antimicro-2.23-win32.msi). Set your left stick to _WASD._ Otherwise you can't move. If you don't like this disable my controller options. You can do this by unchecking everything under _Controllers_ in the left pane. This profile is the one I hope to make a playthrough on so it's set the way I like it.
 
 "Servitium" is the alternative. This is intended for submissive females who are into bondage, vampires, werewolves, and incomplete buggy mods. The camera and controls are plain Skyrim and there's no _CGO_ because it fucks with shit. You can still use _TK Dodge_ which is a poor choice. I don't plan on troubleshooting this profile very much because it's obviously not ready for primetime. Feel free to submit an issue to Github and I'll try to look at it if I think there's a chance of fixing it (there probably isn't)
 
@@ -246,11 +243,9 @@ The profile is set to "Licentia et Servitium" by default. This is intended mostl
 
 I have not included pre-generated BodySlide files due to distribution issues. I have also not distributed custom patches as they would be huge. So, you will have to customize female bodies yourself.
 
-**Warning: If you skip all this and launch the game, your women will look be tiny then fat, change shape in different armor, and have flat chests with no physics. Please, follow the readme.**
+**Warning: If you skip all this and launch the game, your women will look be tiny then fat, change shape in different armor, and have flat chests with melting physics. Please, follow the readme.**
 
 [Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
-
-**Sun Jul 26 05:46:08 2020**
 
 # Launching the Game
 
