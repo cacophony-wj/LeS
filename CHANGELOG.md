@@ -1,3 +1,20 @@
+## 4.0.3.1
+
+- Added _No Finale for Combat Music_. My silly metal didn't come with finales which prevented it from ever ending. :sweatboy:
+- Fordwarded _Vampire Head Fix_ properly.
+- Updated _High Poly Head_ to 1.3. _Expressive Face Morphs_ are NOT in yet until I research the interaction with EEO.
+- Updated _Billyy's Animations_ to 3.51
+- Disabled Ranged Killcams to prevent wild shots.
+
+## 4.0.3
+
+- Added _SexLabUtil_ tweaked by OsmelMC to try to prohibit incorrect animations
+- (Hopefully no more male lesbians or females with strapons)
+- Updated _Nether Follower Framework_ to 2.6.8
+- Updated _Billyy's Animations_ to 3.5
+- Updated _Spank That Ass_ to 4.0
+- Updated _SexLab Confabulation_ again to 1.7.3
+
 ## 4.0.2
 
 - Updated _SexLab Confabulation_

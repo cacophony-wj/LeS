@@ -7,7 +7,7 @@
   - [There's more than 255 ESPs! Will this thing even launch?](#theres-more-than-255-esps-will-this-thing-even-launch)
   - [Why do I have to CTRL-CLICK to build _BodySlide_?](#why-do-i-have-to-ctrl-click-to-build-bodyslide)
   - [I tried to wear a piece of gear but my body disappeared!](#i-tried-to-wear-a-piece-of-gear-but-my-body-disappeared)
-  - [My body looks boring and flat with no physics!](#my-body-looks-boring-and-flat-with-no-physics)
+  - [My body looks boring and flat! or My boobs are melting into the ground!](#my-body-looks-boring-and-flat-or-my-boobs-are-melting-into-the-ground)
   - [I read a skill book but my skill didn't go up!](#i-read-a-skill-book-but-my-skill-didnt-go-up)
   - [I can't find my save!](#i-cant-find-my-save)
   - [It seems like I'm about to have sex but nothing is happening. Everyone is just standing around making breathing or grunting noises.](#it-seems-like-im-about-to-have-sex-but-nothing-is-happening-everyone-is-just-standing-around-making-breathing-or-grunting-noises)
@@ -74,7 +74,7 @@ If you are male, there are no male models for _Devious_ equipment in this list. 
 
 If you are female, the _Devious_ equipment is invisible unless _BodySlide_ is fully run. Follow all the steps in the [Female Bodies and Outfits](https://github.com/cacophony/LeS/blob/master/BODYSLIDE.md) section.
 
-### My body looks boring and flat with no physics!
+### My body looks boring and flat! or My boobs are melting into the ground!
 
 You either didn't run _BodySlide_ or ran it wrong. Follow all the steps in the [Female Bodies and Outfits](https://github.com/cacophony/LeS/blob/master/BODYSLIDE.md) section again, especially the bits about making sure everything went to the correct directory.
 

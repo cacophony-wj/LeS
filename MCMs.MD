@@ -10,6 +10,7 @@
   - [SexLab](#sexlab-1)
     - [Rebuild & Clean](#rebuild--clean)
     - [Animation Settings](#animation-settings)
+    - [Animation Settings](#animation-settings-1)
   - [SexLab](#sexlab-2)
     - [Sex Diary / Journal](#sex-diary--journal)
   - [SAVE AND LOAD!](#save-and-load)
@@ -34,6 +35,7 @@
   - [SexLab Eager NPCs](#sexlab-eager-npcs)
     - [General](#general)
   - [SexLab Solutions](#sexlab-solutions)
+  - [Please note, this mod tends to put actors in the wrong place sometimes, meaning male lesbians and females with penises.](#please-note-this-mod-tends-to-put-actors-in-the-wrong-place-sometimes-meaning-male-lesbians-and-females-with-penises)
     - [follower](#follower)
   - [SexLab Tools](#sexlab-tools)
     - [Settings](#settings-3)
@@ -41,9 +43,6 @@
     - [General](#general-1)
   - [Spank That Ass](#spank-that-ass)
     - [Import/Export Settings](#importexport-settings)
-  - [Storm Lightning](#storm-lightning)
-    - [Presets](#presets)
-    - [Advanced](#advanced)
   - [Trade & Barter](#trade--barter)
     - [Barter Rates](#barter-rates)
   - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
@@ -114,7 +113,7 @@ A message will appear which concludes with "Do you want to continue?" Click _Acc
 
 Another message will appear, "SexLab configuration successfully imported." Click _Accept_
 
-Finally, you will notice a bajillion options under **Available Strap-ons**. A word here, if you don't mind. Women get put into a male role sometimes with SexLab. I don't know how to fix it. A method was recommended to me but it fixed some mods and broke others. So sometimes they will strap it on. It's a divisive issue. Strapons. Futas. Balls. No balls. So I have upgraded this list with a bajillion options for that.
+Finally, you will notice a bajillion options under **Available Strap-ons**. Sometimes they appear whether you want them to or not. Here is a brief description.
 
 _Calyps Strapon_ - The SexLab strapon. Looks like black rubber, very unimmersive. I fixed the clipping with a mod. No way to test this without sex, so get ta bonin'.
 
@@ -126,15 +125,11 @@ _A Side Note_ You can use the _Schlongs of Skyrim_ MCM menu to assign all women 
 
 _Equipable Schlong_ - Works just like a penis. Texture doesn't match the body at all. Doesn't have balls. Search for "Equip" to preview it. **DO NOT WEAR THIS NORMALLY. LET IT EQUIP FOR SCENES.** It will get locked on your body with **NO WAY** to remove it.
 
-Whichever of these you leave active will be used randomly when a woman takes a male role. To disable one, just click _REMOVE_ until it disappears. To restore them, click _REBUILD_.
+All strap-on and futa content is off by default. If your woman tries to strap one on outside your control it will be invisible. If you wish to enable them, first disable any options you aren't interested in above, and return to 
 
-Choose wisely. Or leave them all active for a wonderful world of random strapons.
+#### Animation Settings
 
-Technically there is a "shadow" option:
-
-_Invisidick_ - The animation plays but with nothing attached to the woman. You can switch positions for her with _Shift+H_.
-
-To get this, uncheck _Women Wear Strapons_ in **Animation Settings**.
+and click the mark on the right that reads _Females Use Strap-ons._
 
 Note that **ALL** of _SexLab's_ original old animations have been suppressed due to unpopularity. If you want to re-enable them for some reason, click _CLEAR SUPPRESSED LIST - CLICK HERE_
 
@@ -161,8 +156,6 @@ Lover's Lab recommends saving and loading the game immediately after fully confi
 ####  SexLab
 
 When first clicking this menu, it may appear to be stuck. It takes about a minute to show any visible change. Just wait. 
-
-**SexLab Animations**: Click the _Register_ and wait 30 - 60 seconds until the greyed out word _Registered_ appears. 
 
 Under **Animation**, uncheck _Override_ as Devious already handles this function.
 
@@ -274,6 +267,10 @@ Wait for this message to appear in the upper left: **Masturbate (SLEN) added**.
 
 ###  SexLab Solutions
 
+### Please note, this mod tends to put actors in the wrong place sometimes, meaning male lesbians and females with penises. 
+
+I think it chooses animations randomly instead of selecting them by tag. Tweak the settings as best you can, use the Shift+H key to change the animation as it plays, and disable / enable strapons in the relevant section above.
+
 ####  follower
 
 Choose the appropriate options here to offer a follower instead of yourself for sexual favors. This is mainly useful if you aren't attracted to a particular sex.
@@ -323,16 +320,6 @@ _Active Effects HUD_
 Click _Import Settings_
 
 **Even if you do disable it you still have the spank power! Slap that ass when somebody gets in your way and they'll move _real_ quick.**
-
-###  Storm Lightning
-
-####  Presets
-
-Choose _Ultra Realistic_ and wait for it to say **DONE**
-
-#### Advanced
-
-Check Compatibility Mode
 
 ###  Trade & Barter
 
