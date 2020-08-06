@@ -74,11 +74,11 @@ I have pared back the animations drastically on advice from others. It only intr
 
 #  Admiring Yourself
 
-For those who want to experience "POV" (point-of-view) scenes or to play primarily in first person, Immersive First Person View is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode (F key by default) and press _NUMPAD 0_ to enable it. Then press the F key again and look downward. Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. 
+For those who want to experience "POV" (point-of-view) scenes or to play primarily in first person, Immersive First Person View is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode (F key by default, click the right stick for the controller) and press _NUMPAD 0_ to enable it. Then press F / R3 again and look downward. Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. 
 
 **You cannot switch to third person anymore without deactivating IFPV with _NUMPAD 0_!**
 
-To _disable IFPV_ once you have enabled it, ensure that you **can** see your body when you look downward, then press _NUMPAD 0_. You will automatically switch to a third person view. Once more the _F_ key will return to its default function, as will the scroll wheel.
+To _disable IFPV_ once you have enabled it, ensure that you **can** see your body when you look downward, then press _NUMPAD 0_. You will automatically switch to a third person view. Once more the _F_ or _R3_ buttons will return to its default function, as will the scroll wheel.
 
 You can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_. Use the mouse to look around and WASD to move your "camera".
 

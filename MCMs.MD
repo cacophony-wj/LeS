@@ -335,27 +335,25 @@ Select _Barter Presets: Medium_
 
 ### The Ultimate Dodge Mod
 
-**Only for Licentia**
-
-Still need to auto-configure this one, too.
-
-Set _Combat Dodging Style_ to "Roll" or "Step Dodge" your preference.
-
-Pressing _B_ ingame will switch between them. (The key, not the controller button, you can set it to one of the D-Pad keys if you like)
-
-**If you use a controller** 
-
-Enable _Gamepad Compatibility_
-
-Set _Style_ to "Sneak Style 2"
-
-This will make you couch when still and dodge when moving.
+**Only for Licentia et Servitium**
 
 **NONE OF THIS WILL WORK UNTIL YOU LEAVE THE STARTING CELL BY SLEEPING ON THE BED**
 
-**IF YOU GET STUCK IN MID AIR PRESS THE "B" KEY or DODGE MODE COMMAND TWICE**
+The key thing to remember is that the sneak key (or button) now has two functions.
+
+When you're moving it dodges.
+
+When you're not it sneaks.
+
+you can dodgeroll or step dodge. Switch between them with the _G_ key.
+
+See the section in the top-level readme for more information.
+
+**IF YOU GET STUCK IN MID AIR PRESS THE "G" KEY or DODGE MODE COMMAND TWICE**
 
 ### TK Dodge
+
+**Only for Servitium**
 
 This can be pretty laggy with the _Devious_ set up so you might just disable it. If not, configure it how you like, but remember that leaving double-tap enabled is probably a bad move.
 

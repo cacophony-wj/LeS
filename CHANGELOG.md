@@ -1,3 +1,9 @@
+## 4.0.3.2
+
+- Corrected a bug where bullet time perks were added to imperials. Not a good idea.
+- Reduced the likelihood of acquiring elven and above equipment from a level 1 bandit.
+- Automated the CGO, TUDM and Ashes MCMs
+
 ## 4.0.3.1
 
 - Added _No Finale for Combat Music_. My silly metal didn't come with finales which prevented it from ever ending. :sweatboy:

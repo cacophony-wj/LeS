@@ -135,7 +135,7 @@ They are non-existent until triggered. The _hideout key_ spawns outside on a ran
 
 ### Where the hell do I go after Chloe tells me about the secret passage?
 
-Go back out the way you came and to the cave where Ralof and Hadvar are. The main quest may break if you go through _Cursed Loot's_ "narrow passage" shortcut and the _Unofficial Patch_ makes sure to warn you about it, so I have removed that option. Go all the way back in the cave until you get to the room with the spiders, kill them (or let Chloe do it, she's a beast) and search the Imperials in there for a _Torn Note_. Read the note. _Don't worry about the quest pointer for this, it's useless. Go find the Imperial corpse with the _Torn Note_.
+Go back out the way you came and to the cave where Ralof and Hadvar are. Follow the quest marker for "Live Another Life." The main quest may break if you go through _Cursed Loot's_ "narrow passage" shortcut and the _Unofficial Patch_ makes sure to warn you about it, so I have removed that option. Go all the way back in the cave until you get to the room with the spiders, kill them (or let Chloe do it, she's a beast) and search the Imperials in there for a _Torn Note_. Read the note. _Don't worry about the quest pointer for this, it's useless. Go find the Imperial corpse with the _Torn Note_.
 
 ### OK so I was about to have sex and I teleported into the sky and dropped into a Giant Camp (or somewhere else wierd)
 
