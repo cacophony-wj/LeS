@@ -40,7 +40,7 @@
 
 ## BEFORE YOU CONTINUE: 
 
-The one on the Wabbajack menu is the latest version, so you are good to go.
+The current list on _Wabbajack_ is out of date. Grab the latest **4.0.3** from _"Releases"_ **->**
 
 **Minor fixes** have been posted in the support channel. Check the pins once you get in there (small thumbtack icon)
 
