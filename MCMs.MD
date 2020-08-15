@@ -365,7 +365,7 @@ See the section in the top-level readme for more information.
 
 **Only for Servitium et Licentia**
 
-This can be pretty laggy with the _Devious_ set up so you might just disable it. The only thing you really need to make sure of is that you've got a dodge key you like. I configured everything else.
+This can be pretty laggy with the _Devious_ set up so you might just disable it. The only thing you really need to do is select a dodge key. I configured everything else. It says "SHIFT" at the moment but since the choice I made didn't "take," it's actually meaningless. Click on it and hit "SHIFT" again if you want.
 
 ### VioLens
 
