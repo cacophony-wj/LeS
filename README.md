@@ -84,13 +84,11 @@ You can always watch a scene from an external view with SexLab's default freecam
 
 # A Bit of a Note about "Death Alternatives"
 
-All of the _SexLab_ death alternatives are a mess. I have wrestled with them for years. They basically consist of dozens of conditionally called functions that consist of lengthy redundant nested Elseif loops. Translation: they're bloated, slow, and don't work.
+All of the _SexLab_ death alternatives are a mess. I have wrestled with them for years. They basically consist of dozens of conditionally called functions that consist of lengthy redundant nested Elseif loops. Translation: they're bloated, slow, and don't work. I am angry with them. I don't want to provide support for them. And I definitely don't want to get sidetracked into trying to fix them in the middle of a playthrough. So I disabled all of them for _Licentia_ and used the sane, SFW alternative _Ashes_ instead.
 
-But I know they're popular. Erotic roleplay is a thing. So there are two of them in this list: _Combat Surrender_ which is part of _Cursed Loot_ and seems to equip you in punishing bondage gear no matter what options are set, and _SexLab Defeat_ that randomly locks up your game because somebody died while in the middle of raping you. Have fun.
+But I know they're popular. Erotic roleplay is a thing. So there are two of them in the _Servitium_ profile: _Combat Surrender_ which is part of _Cursed Loot_ and seems to equip you in punishing bondage gear no matter what options are set, and a combination of the relatively SFW _Death Alternative: Your Money or Your Life_ and the decidedly NSFW _SexLab Defeat_ which will hopefully work about 50% of the time.
 
-I have left enabled the only option that hasn't pissed me off recently, _Cursed Loot's_ "Combat Surrender." You will surrender instead of dying and depending on who got the better of you different things will happen. It's buggy and this is Cursed Loot so expect surprise bondage.
-
-Disable this under the "rape" menu (ugh) in _Cursed Loot_ and enable _Defeat_ if you prefer. It's set to allow surrenders and assaults only. 
+Assuming you follow the MCMs as directed, you will fall to your knees upon death to be taken advantage of sexually. This will be very slow to start until Papyrus untangles all the spaghetti code. (You can smack it to hurry up by pausing or opening the console.) After your attackers are finished, the screen will fade to black and someone will either rescue you or rob you. C'est la vie. If you don't like what just happened reload, if you didn't have these crappy mods you would have died anyway.
 
 You are free to change the death alternative options around as much as you like, but I will not answer questions or respond to recommendations about them anytime, anywhere.
 
@@ -100,11 +98,13 @@ Once you get the message about the collapsed passage north of Riften, I recommen
 
 # A word about ENBs
 
-The whole style of this modlist has been overhauled. As such I chose _PI CHO_ as the ENB because it has better subsurface and more customizable LUTs (color schemes). If you don't like my gritty, vaguely bloody look hit _SHIFT-ENTER_ and look to the right under _POSTPROCESS_. There you will find options for _LUT_. Disable _Desert Strike_ and enable _Kitsune Cut_. That's the best one.
+_Rudy_ finally did a _Cathedral Weathers_ preset so I have dropped everything to add it. 
 
-If you don't like _PI CHO_ I have tested these:
+If you don't like it for some weird reason I have tested these.
 
-_Silent Horizons_ is probably the best one I've ever seen.
+_Silent Horizons_ is probably the best one I've ever seen... before _Rudy_ that is.
+
+_PI CHO_ is based off of SH but has more customization options that I've seen anywhere. Good luck preventing stonework from shining like headlights.
 
 _Amon's ENB_ comes highly recommended from _Living Skyrim_ and other users. It's supposed to be pretty light so this should be your first choice if stuff gets stuttery.
 

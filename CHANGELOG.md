@@ -1,4 +1,46 @@
-## 4.0.3.2
+## 4.1
+
+- Took a page from **Dungeons & Deviousness** and added _Death Alternative_ to make _Defeat_ slightly less buggy.
+- Added _Experience_ with a custom patcher for mobs and NPCs.
+- Added _Missives_ 2.03 along with the _Solstheim_ and _Wyrmstooth_ patches
+- Added _Arena - An Encounter Zone Overhaul_ 1.0.2
+- Added _Encounter Zones Unlocked SE_ 1.4
+- Added _ELE - ELFX Consistency Patch & Tweaks_ (more carefully this time)
+- Added _Relighting Skyrim - Tailored for ELFX_ 1.02
+- Added _ENB Light_ 0.98 Alpha 2
+- Added _Smoking Torches & Candles_ 1.75
+- Added _Skyrim SE Shader Bundle_ to hopefully make SSS a little better
+- Switched from _Re-Engaged_ ENB to _Rudy for Cathedral Weathers_
+- Switched from _MFGCommand_ to _MFG Fix_ to resolve a Devious Devices issue
+- Switched from _Immersive Patrols Full_ to _Immersive Patrols Lite_
+- Updated _RaceMenu Special Edition_ to 0.4.14
+- Updated _CBBE_ to 1.60
+- Updated _CBBE 3BBB_ to 1.50
+- Updated _BodySlide & Outfit Studio_ to 5.1.0
+- Updated _Better Khajiit CBBE_ to 4.0
+- Updated _Rustic Clothing_ to 3.0
+- Updated _Legacy of the Dragonborn_ to 5.3.2
+- Updated _Legacy of Dragonborn Patches_ to 2.1
+- Updated _The Curator's Companion_ to 1.1.0
+- Updated _VIGILANT_ to 1.5.2
+- Updated _VIGILANT Voiced - English Addon SE_ to 2.5
+- Updated _Deadly Dragons SE_ to 6.5.4
+- Updated _Nether's Follower Framework_ to 2.6.9
+- Updated _Majestic Mountains Northside_ to 2.0
+- Updated _Realistic Water Two SE_ to 3.0.4 and added the _ENB Texture Update_
+- Updated _CC's Enhanced Ore Veins_ to 8.0.1
+- Updated _Audio Overhaul Skyrim_ to 3.3.2
+- Updated _Audio Overhaul Skyrim - Weather Patch for Cathedral Weathers_ to RELZ (?)
+- Updated _Frozen Electrocuted Combustion_ to 3.6
+- Updated _Papyrus Extender_ to 3.1.1
+- Updated _I'm Walkin' Here_ to 1.5.0
+- Updated _SSE Display Tweaks_ to 0.4.4
+- Updated _SSE Engine Fixes_ to 5.4.0
+- Updated _Mod Organizer 2_ to 2.3.1
+- Updated _SKSE_ to 2.00.19
+- Regenerated LODs to reflect new lighting and worldspace changes.
+  
+- ## 4.0.3.2
 
 - Corrected a bug where bullet time perks were added to imperials. Not a good idea.
 - Reduced the likelihood of acquiring elven and above equipment from a level 1 bandit.

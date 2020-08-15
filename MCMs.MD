@@ -50,8 +50,16 @@
   - [VioLens](#violens)
     - [Profile System](#profile-system)
   - [XPMSE](#xpmse)
-  - [Defeat](#defeat)
+  - [Ashes](#ashes)
+  - [Death Alternative / Defeat](#death-alternative--defeat)
+    - [Player Settings](#player-settings)
     - [General Settings](#general-settings)
+    - [Player Settings](#player-settings-1)
+    - [Follower Settings](#follower-settings)
+    - [OnBleedout Event Settings](#onbleedout-event-settings)
+    - [OnBlackout Event Settings](#onblackout-event-settings)
+  - [Defeat](#defeat)
+    - [General Settings](#general-settings-1)
 - [A bit of a note on schlongs and strap-ons](#a-bit-of-a-note-on-schlongs-and-strap-ons)
 - [All done! I wash my hands of you now!](#all-done-i-wash-my-hands-of-you-now)
 
@@ -151,7 +159,7 @@ Lover's Lab recommends saving and loading the game immediately after fully confi
 
 ###  ZaZ Animation Pack
 
-**Only for Servitium**
+**Only for Servitium et Licentia**
 
 ####  SexLab
 
@@ -195,7 +203,7 @@ _Camera Noise Mult (1st Person)_: _X0.00_
 
 ### Cursed Loot
 
-**Only for Servitium**
+**Only for Servitium et Licentia**
 
 Import the default profile by navigating to
 
@@ -311,7 +319,7 @@ _Active Effects HUD_
 
 ### Spank That Ass
 
-**Only for Servitium**
+**Only for Servitium et Licentia**
 
 **Very important: This mod makes people slap your ass and tits a lot. If you don't like that disable everything.**
 
@@ -337,6 +345,8 @@ Select _Barter Presets: Medium_
 
 **Only for Licentia et Servitium**
 
+The only thing you need to do is enable gamepad if you want it.
+
 **NONE OF THIS WILL WORK UNTIL YOU LEAVE THE STARTING CELL BY SLEEPING ON THE BED**
 
 The key thing to remember is that the sneak key (or button) now has two functions.
@@ -353,21 +363,9 @@ See the section in the top-level readme for more information.
 
 ### TK Dodge
 
-**Only for Servitium**
+**Only for Servitium et Licentia**
 
-This can be pretty laggy with the _Devious_ set up so you might just disable it. If not, configure it how you like, but remember that leaving double-tap enabled is probably a bad move.
-
-Here are my settings:
-
-_Dodge Key_: Shift
-
-_Forward Roll_: Forward Direction + Dodge Key
-
-_Double Tap Input_: Unchecked
-
-_Forward Double Tap Action_: Dodge Roll
-
-Switch it to step dodge if you're super good at what you do.
+This can be pretty laggy with the _Devious_ set up so you might just disable it. The only thing you really need to make sure of is that you've got a dodge key you like. I configured everything else.
 
 ### VioLens
 
@@ -389,33 +387,97 @@ Press _OK_
 
 Check _Disable Style Cloak Spell_
 
-###  Defeat
+### Ashes
 
-**Please note, you will enable rape if you enable this. Do not do this if it offends you.**
+**Only for Licentia et Servitium**
 
-**If you are damn fool enough to try this disable Combat Surrender as per the main readme.**
+I don't want to touch Defeat with a mile-long pole in my playthrough, so it's disabled for Licentia. Ashes is here instead so I don't have to exit Skyrim when I die. 
 
-Please ensure that you have configured every other MCM before this one.
+Configure it how you wish but the defaults are pretty balanced.
+
+###  Death Alternative / Defeat
+
+Please ensure that you have configured **every other MCM before these two.**
 
 Then save and load your game.
 
 This is in case you need to change settings upon a restart, because Defeat must always be configured _last_.
 
+**Please note, you will enable rape if you enable these. Do not do this if it offends you.**
+
+First, under the _Death Alternative_ menu, navigate to
+
+#### Player Settings
+
+And activate the mod, then exit the MCM.
+
+Wait for the message "DA Active" to appear and disappear in the upper left, then open the _Defeat_ menu and go to
+
+#### General Settings
+
+And click "Mod Status - Disabled" and close the MCM.
+
+Wait for the message "Defeat Installed" to appear and disappear, then reopen the MCM.
+
+Configure _Death Alternative_ EXACTLY as follows or you will cry.
+
+#### Player Settings
+
+**General**
+
+_Manual Registration_ click.
+
+Click _ENTER: Accept_
+
+Uncheck _Display Status Messages_ and _Display First Time Tutorials_. Or don't.
+
+Set _Animations_ to "Bleedout"
+
+**Trigger**
+
+Set _Perc. Health Threshold_ to "15%"
+
+Now on the right, set _Perc. Health Large Hit_ to "800%"
+
+#### Follower Settings
+
+Change _Behavior_ to "Dismiss Follower"
+
+#### OnBleedout Event Settings
+
+Toggle off _Necromantic Absorption_
+
+Toggle on _Defeat_ and set the _Priority_ to "99"
+
+#### OnBlackout Event Settings
+
+**DISABLE EVERYTHING BUT DEFAULT QUEST**
+
+I know you don't want to. I know you want to have defeat rob your stuff and leave you to die.
+
+I know you want to be captured by bandits or wind up as a slave to Falmer.
+
+If you enabled these you will probably just freeze in place until you reload.
+
+Or fall through an infinite void until you reload.
+
+Likely as not.
+
+Only leave the default quest enabled, please.
+
+You may still get stuck in place after you warp to some temple or another.
+
+If that happens, save and reload, and hope for the best.
+
+Now, return to 
+
+### Defeat
+
 ####  General Settings
 
-Click _Mod Status - DISABLED_
+And click "Import Settings" on the right.
 
-Upon receiving the message **Installing... you must close the menu and wait until you see the notification.** click _Accept_
-
-Close the MCM and wait for the message **Defeat: Installed**. 
-
-Re-open.
-
-Next, click _Import Settings_ on the right.
-
-To surrender to a hostile at any time, press the _K_ key. Do it fast because the script delay is excessive. Once they have their way with you immediately run away because the brief calming effect is bugged out. They will immediately try to kill you after raping you!
-
-Only surrender to things you want to take advantage of you.
+Phew. That's all for the MCMs.
 
 ## A bit of a note on schlongs and strap-ons
 
