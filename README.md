@@ -15,8 +15,8 @@
 - [A Bit of a Note about "Death Alternatives"](#a-bit-of-a-note-about-death-alternatives)
 - [Arousal and Clockwork](#arousal-and-clockwork)
 - [A word about ENBs](#a-word-about-enbs)
-	- [Requirements](#requirements)
-		- [System Specs](#system-specs)
+- [Requirements](#requirements)
+	- [System Specs](#system-specs)
 - [Installation](#installation)
 	- [Pre-Installation](#pre-installation)
 			- [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -107,8 +107,6 @@ _Silent Horizons_ is probably the best one I've ever seen... before _Rudy_ that 
 _PI CHO_ is based off of SH but has more customization options that I've seen anywhere. Good luck preventing stonework from shining like headlights.
 
 _Amon's ENB_ comes highly recommended from _Living Skyrim_ and other users. It's supposed to be pretty light so this should be your first choice if stuff gets stuttery.
-
-_Rudy_ will technically work but is not recommended as it has no variant which supports Cathedral Weathers.
 
 _Serio's ENB_ is probably the best ENB for customizing with the _Cathedral Weathers MCM_. It's also performance friendly for those without beast rigs. Be warned though, it's brighter than the rest.
 
