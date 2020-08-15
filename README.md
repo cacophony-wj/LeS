@@ -40,7 +40,7 @@
 
 ## BEFORE YOU CONTINUE: 
 
-The current list on _Wabbajack_ is out of date. Grab the latest **4.0.4** from _"Releases"_ **->**
+The current list on _Wabbajack_ is up to date. It is duplicated as **4.1** here in _releases_ **->**
 
 **Minor fixes** have been posted in the support channel. Check the pins once you get in there (small thumbtack icon)
 
