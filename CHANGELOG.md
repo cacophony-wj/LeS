@@ -1,3 +1,9 @@
+## 4.2
+
+- Updated _Mod Organizer 2_ to 2.3.2
+- Re-ran my zPatches to correct inconsistencies.
+- Some people don't like bleeding ears for some weird reason. If you get tired of my metal combat music just disable it. It won't hurt anything.
+
 ## 4.1
 
 - Took a page from **Dungeons & Deviousness** and added _Death Alternative_ to make _Defeat_ slightly less buggy.

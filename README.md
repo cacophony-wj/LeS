@@ -15,8 +15,8 @@
 - [A Bit of a Note about "Death Alternatives"](#a-bit-of-a-note-about-death-alternatives)
 - [Arousal and Clockwork](#arousal-and-clockwork)
 - [A word about ENBs](#a-word-about-enbs)
-- [Requirements](#requirements)
-	- [System Specs](#system-specs)
+	- [Requirements](#requirements)
+		- [System Specs](#system-specs)
 - [Installation](#installation)
 	- [Pre-Installation](#pre-installation)
 			- [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -40,9 +40,7 @@
 
 ## BEFORE YOU CONTINUE: 
 
-The current list on _Wabbajack_ is up to date. It is duplicated as **4.1** here in _releases_ **->**
-
-**Minor fixes** have been posted in the support channel. Check the pins once you get in there (small thumbtack icon)
+The current list on _Wabbajack_ is up to date. I have yet to update it to Github.
 
 ## Preamble
 
