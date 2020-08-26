@@ -83,7 +83,7 @@ You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHI
 
 ### Controls
 
-The controls for "Licentia" are specialized. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the roll and a step dodge with the B key. Lock on is set to "LB." Look up _The Ultimate Control Scheme" on the Nexus or just experiment.
+The controls for "Licentia" are specialized. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the roll and a step dodge with the G key. The menu is weird, "Start" opens the system and quest menu "RB + Start" opens the "TweeN" menu (skills / magic / items / map). Lock on is set to "LB." Look up _The Ultimate Control Scheme_ on the Nexus or just experiment.
 
 Set _Quicksave_ which should be set to _F9_, and _Quickload_ which should be set to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves.
 
