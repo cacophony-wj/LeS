@@ -1,4 +1,4 @@
-- [Licentia et Servitium Configuration](#licentia-et-servitium-configuration)
+- [Licentia Configuration](#licentia-configuration)
 - [Click New Game](#click-new-game)
 - [Character Creation](#character-creation)
 - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
@@ -14,56 +14,32 @@
   - [SexLab](#sexlab-2)
     - [Sex Diary / Journal](#sex-diary--journal)
   - [SAVE AND LOAD!](#save-and-load)
-  - [ZaZ Animation Pack](#zaz-animation-pack)
-    - [SexLab](#sexlab-3)
   - [SL Anim Loader](#sl-anim-loader)
     - [General Options](#general-options)
   - [CGO](#cgo)
     - [Settings](#settings)
-  - [Cursed Loot](#cursed-loot)
-    - [Debug](#debug)
   - [Follower Framework](#follower-framework)
     - [System](#system)
-  - [Quick Light](#quick-light)
-  - [Maids II: Deception](#maids-ii-deception)
-    - [Settings](#settings-1)
   - [Serio's Hotkeys](#serios-hotkeys)
   - [SexLab Aroused](#sexlab-aroused)
-    - [Settings](#settings-2)
-    - [Puppet Master](#puppet-master)
-    - [A Note About Spankable Armor](#a-note-about-spankable-armor)
+    - [Settings](#settings-1)
   - [SexLab Eager NPCs](#sexlab-eager-npcs)
     - [General](#general)
   - [SexLab Solutions](#sexlab-solutions)
-  - [Please note, this mod tends to put actors in the wrong place sometimes, meaning male lesbians and females with penises.](#please-note-this-mod-tends-to-put-actors-in-the-wrong-place-sometimes-meaning-male-lesbians-and-females-with-penises)
     - [follower](#follower)
   - [SexLab Tools](#sexlab-tools)
-    - [Settings](#settings-3)
-  - [Sky UI](#sky-ui)
-    - [General](#general-1)
-  - [Spank That Ass](#spank-that-ass)
-    - [Import/Export Settings](#importexport-settings)
+    - [Settings](#settings-2)
+  - [Storm Lightning](#storm-lightning)
+    - [Presets](#presets)
+    - [Advanced](#advanced)
   - [Trade & Barter](#trade--barter)
     - [Barter Rates](#barter-rates)
   - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
-  - [TK Dodge](#tk-dodge)
   - [VioLens](#violens)
     - [Profile System](#profile-system)
-  - [XPMSE](#xpmse)
-  - [Ashes](#ashes)
-  - [Death Alternative / Defeat](#death-alternative--defeat)
-    - [Player Settings](#player-settings)
-    - [General Settings](#general-settings)
-    - [Player Settings](#player-settings-1)
-    - [Follower Settings](#follower-settings)
-    - [OnBleedout Event Settings](#onbleedout-event-settings)
-    - [OnBlackout Event Settings](#onblackout-event-settings)
-  - [Defeat](#defeat)
-    - [General Settings](#general-settings-1)
-- [A bit of a note on schlongs and strap-ons](#a-bit-of-a-note-on-schlongs-and-strap-ons)
-- [All done! I wash my hands of you now!](#all-done-i-wash-my-hands-of-you-now)
+- [All done!](#all-done)
 
-## Licentia et Servitium Configuration
+## Licentia Configuration
 
 ## Click New Game
 
@@ -71,7 +47,7 @@ You might wonder why I put something so obvious here but you'd be surprised at t
 
 ## Character Creation
 
-Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard). There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _3BBB_ Morphs_ and _Genitals_ options, but I am not going to go into that. Don't ask me either. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished.
+Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard).  There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. Keep in mind that if you choose a _male elf_ character, the facial hair will look weird unless you switch the _Face Part_ to **3.** You'll know you have the right one when it says "high poly" in the bottom right and the face suddenly looks 10,000 times more detailed. Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _CBBE Morphs_ and _Genitals_ options, but I am not going to go into that. Don't ask me either. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished.
 
 **IF YOUR BODY TURNS PURPLE**, scroll Racemenu over to _Body Paint_ and make sure all Textures are set to _Default_ (press the "T" key)
 
@@ -83,7 +59,7 @@ You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHI
 
 ### Controls
 
-The controls for "Licentia" are specialized. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the roll and a step dodge with the G key. The menu is weird, "Start" opens the system and quest menu "RB + Start" opens the "TweeN" menu (skills / magic / items / map). Lock on is set to "LB." Look up _The Ultimate Control Scheme_ on the Nexus or just experiment.
+The controls for "Licentia" are specifically designed for use with a controller. If you want to use a mouse and keyboard, disable everything under the _Controller_ section in the left pane. _The left stick does nothing unless you configure Antimicro for WASD._ This is so you can get 8-way dodges. If you don't like this disable the controller section of the modlist. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the roll and a step dodge with the G key. The menu is weird, "Start" opens the system and quest menu "RB + Start" opens the "TweeN" menu (skills / magic / items / map). Lock on is set to "LB." Look up _The Ultimate Control Scheme_ on the Nexus or just experiment.
 
 Set _Quicksave_ which should be set to _F9_, and _Quickload_ which should be set to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves.
 
@@ -121,19 +97,9 @@ A message will appear which concludes with "Do you want to continue?" Click _Acc
 
 Another message will appear, "SexLab configuration successfully imported." Click _Accept_
 
-Finally, you will notice a bajillion options under **Available Strap-ons**. Sometimes they appear whether you want them to or not. Here is a brief description.
+I have removed all Futa options because I am not into them. Remaining are seven strapons of varying ridiculousness. If you don't want them click on each one until none are left.
 
-_Calyps Strapon_ - The SexLab strapon. Looks like black rubber, very unimmersive. I fixed the clipping with a mod. No way to test this without sex, so get ta bonin'.
-
-_A bunch of weirdass lore-friendly but immersive strapons like dwemer prostheses and giant's toes_ - You'll just have to look at these, Bring them in with AddItemMenu. Search for "strapon".
-
-_SOS CBBE Futanari_ - Works just like a penis. Texture looks good, fixed by a #nsfw regular. Has balls. Search for "Futa" with AddItemMenu to preview it.
-
-_A Side Note_ You can use the _Schlongs of Skyrim_ MCM menu to assign all women a chance to always be a futa. Sadly the RNG seems off and has drastically increased percentages.
-
-_Equipable Schlong_ - Works just like a penis. Texture doesn't match the body at all. Doesn't have balls. Search for "Equip" to preview it. **DO NOT WEAR THIS NORMALLY. LET IT EQUIP FOR SCENES.** It will get locked on your body with **NO WAY** to remove it.
-
-All strap-on and futa content is off by default. If your woman tries to strap one on outside your control it will be invisible. If you wish to enable them, first disable any options you aren't interested in above, and return to 
+If you do want your females to sometimes use strapons, navigate to
 
 #### Animation Settings
 
@@ -143,9 +109,7 @@ Note that **ALL** of _SexLab's_ original old animations have been suppressed due
 
 #### Animation Settings
 
-_**Creature animations are disabled by default**._ To enable them, click _Allow creature animation_ in the upper right and make sure it's disabled. These are **not** limited to werewolves and vampires so be **sure** you want to get **freaky** before you allow it to remain enabled.
-
-Finally, _SexLab_ is configured so that you are straight. Men want women and women want men. If you wish to change this, reopen the MCM and navigate to
+_**Creature animations are completely unsupported.** If you want them download the _Dungeons & Deviousness_ modlist.
 
 ### SexLab
 
@@ -156,16 +120,6 @@ Under **Sexual stats** on the right, click _Sexuality_ until your preference (Bi
 ### SAVE AND LOAD!
 
 Lover's Lab recommends saving and loading the game immediately after fully configuring SexLab. Please do so now. If the QuickSave and QuickLoad buttons have changed, recall that they are now _F9_ and _F10_.
-
-###  ZaZ Animation Pack
-
-**Only for Servitium et Licentia**
-
-####  SexLab
-
-When first clicking this menu, it may appear to be stuck. It takes about a minute to show any visible change. Just wait. 
-
-Under **Animation**, uncheck _Override_ as Devious already handles this function.
 
 ###  SL Anim Loader
 
@@ -201,16 +155,6 @@ _Camera Noise_
 
 _Camera Noise Mult (1st Person)_: _X0.00_
 
-### Cursed Loot
-
-**Only for Servitium et Licentia**
-
-Import the default profile by navigating to
-
-#### Debug
-
-And clicking _Import Settings_
-
 ###  Follower Framework
 
 ####  System
@@ -222,20 +166,6 @@ At the message **Settings Loaded. Please exist the MCM menu to apply all changes
 Exit the MCM and re-open it.
 
 A bit of a note here. I did not alter Skyrim's vanilla difficulty in any way, aside from ensuring that dragons have new abilities and dungeons match your level each time they respawn. CGO, LOTD, ZIM's, and the abundance of gear I put in here make you ridiculously powerful. What can I say, I need to be a hero in these troubling times. :sweatboy: Anyway, you will probably have to bump up the difficulty a lot (maybe even to Legendary) if you are at all good at Skyrim. (I'm not, and I made this list so I can test it by playing it.) The problem with this method is that followers are **buffed**, not nerfed, because they're considered _not-the-player_ and everything _not-the-player_ has its damaged multiplied. Combine this with player nerfs on Legendary and you'll find that with even one follower you never get a chance to hit anything before it's all dead. The only real answer for this is to use _Nether Follower Framework_ here and under _Follower Stats_ change their damage output to its lowest value: _0.10_. They'll be mostly harmless but at least you'll have your chance to shine.
-
-###  Quick Light
-
-_Brightness: Wide_
-
-_Light Key: NUMPAD 1_
-
-Uncheck _Enable to Long press activation key_
-
-### Maids II: Deception
-
-#### Settings
-
-Disable _Wild Encounters_ as I did not install this option.
 
 ### Serio's Hotkeys
 
@@ -251,33 +181,23 @@ _General_
 
 Check _Enable SOS_.
 
-#### Puppet Master
-
-Here you will find an option (_Is Exhibitionist_) that will make your arousal rise dramatically the more people see you naked. With _Cursed Loot_, your life will quickly become a living hell.
-
-#### A Note About Spankable Armor
-
-Almost all armor is spankable in my list. I think it's funny. If you don't like that and would prefer to only get spanked when unarmored (clothes or naked), find "Slappable.esp" in the right pane and uncheck it.
-
 ###  SexLab Eager NPCs
 
 ####  General
 
-Click _Enable and load profile - (CLICK)_. 
+Decide if you want a lot of automatic prompts for sex or a few.
+
+If you want a few, click _Enable and Load Defaults - (CLICK)_.
+
+If you want a lot, click _Enable and load profile - (CLICK)_. 
 
 Upon receiving the message **Profile loaded successfully!** click _OK_ and close the MCM.
-
-You'll be having a _lot_ of sex on the installed profile. If that bothers you, come back to this menu and tinker with the options until you get something you like.
 
 This mod takes a bit to activate. 
 
 Wait for this message to appear in the upper left: **Masturbate (SLEN) added**.
 
 ###  SexLab Solutions
-
-### Please note, this mod tends to put actors in the wrong place sometimes, meaning male lesbians and females with penises. 
-
-I think it chooses animations randomly instead of selecting them by tag. Tweak the settings as best you can, use the Shift+H key to change the animation as it plays, and disable / enable strapons in the relevant section above.
 
 ####  follower
 
@@ -293,41 +213,23 @@ _Matchmaker queue_
 
 Ignore the message that the key is already mapped and answer "Yes."
 
-**Please Note**: You can hover your crosshair over any person and press _NUMPAD 2_ to set up a sex scene at any time with any animation without any consequences. Please note that the person in the _receiver_ slot is always the "bottom" in a sex scene or the "victim" in an aggressive scene. Every other slot is an _actor_ and will primarily have sex with the receiver although sometimes it varies. 
+**Please Note**: You can hover your crosshair over any person and press _NUMPAD 2_ to set up a sex scene at any time with any animation without any consequences. Please note that the person in the _receiver_ slot is always the "bottom" in a sex scene. Every other slot is an _actor_ and will primarily have sex with the receiver although sometimes it varies. 
 
 To add yourself to a slot, hover your crosshair over empty space and press _NUMPAD 2_. Then select the slot you want to participate in. Each time you place somebody in a slot, you will have to choose several options. _Set with animation_ obviously, then the type of animation you want. 
-
-A "default" set is consensual, an "aggressive set" is non-consensual (or looks very much like it). However, both of these are limited to the first 250 animations installed per set, as per the original restrictions of _SexLab._ 
-
-As for _Tag/Name_ if you know your animation's tag (for example, a common one like _MMF_ or _FFM_) then you can choose it and it will generally work. The name function is mostly useless unless you know the exact SLAL name of the animation you want to play. You could look it up I guess. 
 
 Finally you'll have to type in how many total people will be in the scene. And yes, you have to do this _every time you add somebody_. It's not the best. 
 
 Here's what makes up for it though, after you begin the scene by clicking on empty space and choosing _Begin scene_, you can press the _Shift+H_ keys to select from a list of commands, including changing positions, stages, and choosing animations from a list. Remember, it only draws from the first 250, or the first 250 of whatever tag you set. If your tag is too specific, nothing will be in the list.
 
-###  Sky UI
+### Storm Lightning
 
-####  General
+#### Presets
 
-_Item List_
+Choose _Ultra Realistic_ and wait for it to read _DONE_
 
-**Font Size**: _Small_
+#### Advanced
 
-_Active Effects HUD_
-
-**Icon Size**: _Small_
-
-### Spank That Ass
-
-**Only for Servitium et Licentia**
-
-**Very important: This mod makes people slap your ass and tits a lot. If you don't like that disable everything.**
-
-#### Import/Export Settings
-
-Click _Import Settings_
-
-**Even if you do disable it you still have the spank power! Slap that ass when somebody gets in your way and they'll move _real_ quick.**
+Ensure that there is a checkmark next to _Compatibility Mode_
 
 ###  Trade & Barter
 
@@ -343,9 +245,7 @@ Select _Barter Presets: Medium_
 
 ### The Ultimate Dodge Mod
 
-**Only for Licentia et Servitium**
-
-The only thing you need to do is enable gamepad if you want it.
+You will need to enable gamepad, choose _Sneak Style 1_ and then _Sneak Style 2_ again. I know, I'm working on it.
 
 **NONE OF THIS WILL WORK UNTIL YOU LEAVE THE STARTING CELL BY SLEEPING ON THE BED**
 
@@ -360,12 +260,6 @@ you can dodgeroll or step dodge. Switch between them with the _G_ key.
 See the section in the top-level readme for more information.
 
 **IF YOU GET STUCK IN MID AIR PRESS THE "G" KEY or DODGE MODE COMMAND TWICE**
-
-### TK Dodge
-
-**Only for Servitium et Licentia**
-
-This can be pretty laggy with the _Devious_ set up so you might just disable it. The only thing you really need to do is select a dodge key. I configured everything else. It says "SHIFT" at the moment but since the choice I made didn't "take," it's actually meaningless. Click on it and hit "SHIFT" again if you want.
 
 ### VioLens
 
@@ -383,135 +277,6 @@ _"VioLens.VLMS" Loaded_
 
 Press _OK_
 
-### XPMSE
+## All done!
 
-Check _Disable Style Cloak Spell_
-
-### Ashes
-
-**Only for Licentia et Servitium**
-
-I don't want to touch Defeat with a mile-long pole in my playthrough, so it's disabled for Licentia. Ashes is here instead so I don't have to exit Skyrim when I die. 
-
-Configure it how you wish but the defaults are pretty balanced.
-
-###  Death Alternative / Defeat
-
-Please ensure that you have configured **every other MCM before these two.**
-
-Then save and load your game.
-
-This is in case you need to change settings upon a restart, because Defeat must always be configured _last_.
-
-**Please note, you will enable rape if you enable these. Do not do this if it offends you.**
-
-First, under the _Death Alternative_ menu, navigate to
-
-#### Player Settings
-
-And activate the mod, then exit the MCM.
-
-Wait for the message "DA Active" to appear and disappear in the upper left, then open the _Defeat_ menu and go to
-
-#### General Settings
-
-And click "Mod Status - Disabled" and close the MCM.
-
-Wait for the message "Defeat Installed" to appear and disappear, then reopen the MCM.
-
-Configure _Death Alternative_ EXACTLY as follows or you will cry.
-
-#### Player Settings
-
-**General**
-
-_Manual Registration_ click.
-
-Click _ENTER: Accept_
-
-Uncheck _Display Status Messages_ and _Display First Time Tutorials_. Or don't.
-
-Set _Animations_ to "Bleedout"
-
-**Trigger**
-
-Set _Perc. Health Threshold_ to "15%"
-
-Now on the right, set _Perc. Health Large Hit_ to "800%"
-
-#### Follower Settings
-
-Change _Behavior_ to "Dismiss Follower"
-
-#### OnBleedout Event Settings
-
-Toggle off _Necromantic Absorption_
-
-Toggle on _Defeat_ and set the _Priority_ to "99"
-
-#### OnBlackout Event Settings
-
-**DISABLE EVERYTHING BUT DEFAULT QUEST**
-
-I know you don't want to. I know you want to have defeat rob your stuff and leave you to die.
-
-I know you want to be captured by bandits or wind up as a slave to Falmer.
-
-If you enabled these you will probably just freeze in place until you reload.
-
-Or fall through an infinite void until you reload.
-
-Likely as not.
-
-Only leave the default quest enabled, please.
-
-You may still get stuck in place after you warp to some temple or another.
-
-If that happens, save and reload, and hope for the best.
-
-Now, return to 
-
-### Defeat
-
-####  General Settings
-
-And click "Import Settings" on the right.
-
-Phew. That's all for the MCMs.
-
-## A bit of a note on schlongs and strap-ons
-
-To configure its appearance, follow these steps:
-
-1. Open the inventory.
-4. Click on the item _AddItemMenu_.
-5. Pull out the item _AddItemMenu - Search_ (the one with the box icon, not the book icon).
-6. Close and re-open the inventory.
-7. Click on _AddItemMenu - Search_.
-8. Type in _Schlong_ and click on _Equipable Schlong_ (yes it is misspelled).
-9. Be sure to disable or configure _Cursed Loot_ as per the instructions first or you will cover the schlong in shame when you go naked.
-10. Equip the schlong from your inventory.
-11. Open the console with the _tilde_ key (`).
-12. Type in _TFC_.
-13. Close the console with the same key.
-14. Adjust the camera with WASD + mouse to get a good view of the schlong region, preferably from the side.
-15. Open the console again.
-16. Type in _showracemenu_.
-17. Navigate over to _Genitals_.
-18. Adjust that bad boy as you see fit.
-19. Open your inventory and drop it on the ground.
-20. It should automatically appear when appropriate (Amorous Adventures scenes are the worst for this).
-21. If you want to be a futa that's cool, but this particular schlong never unequips after a sex scene and can't have armor equipped over it, so there's that.
-24. Open the console again and type tfc a final time.
-
-If you are male, the _Genitals_ section of _RaceMenu_ can be used to customize your "real" schlong as well.
-
-Unfortunately I've not matched the equippable schlong to the Demoniac skin yet. It looks pretty off.
-
-## All done! I wash my hands of you now!
-
-There you go, fellow deviant. Be sure to press **F9** for a last second save in case spawning into Skyrim prompts a crash (which has been known to happen, it helps if you give it a minute before trying). Talk to the Mara statue to begin your journey. 
-
-What's that you say? You don't want to be a bondage slut or any kind of slut, and want to start somewhere besides Helgen without being naked?
-
-I suggest you reconsider why you are playing this modlist and disable bondage. You will find your answers there.
+Be sure to press **F9** for a last second save in case something bad happens. You _do not_ want to do these MCMs again. Talk to the Mara statue to begin your journey. 

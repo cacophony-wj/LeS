@@ -1,4 +1,21 @@
-## 4.2
+## 5.0
+
+- Added _Expressive Facegen Morphs_
+- Added _Window Shadows by HHalley_
+- Added _Tamriel Master Lights_
+- Added _Luminosity Lighting Overhaul_
+- Added _ENB Light_
+- Added _Embers XD_
+- Replaced _Ashes_ with _Ye Olde Respawn_
+- Replaced _Realistic Water Two_ with _ENB Water_
+- Removed the _Servitium_ profile and all mods distinguishing it.
+- Removed all _SexLab_ animations except for _Billyy_ and _Babo Human_
+- Removed all futa options
+- Removed _Enchaned Lights and Effects_
+- Removed _Enhanced Lighting for ENB_
+- Removed _Faster Mining SE_
+  
+# 4.2
 
 - Updated _Mod Organizer 2_ to 2.3.2
 - Re-ran my zPatches to correct inconsistencies.

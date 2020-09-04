@@ -2,8 +2,6 @@
 
 I'm guessing you came here to appreciate the female form. Here in the Skyrim community we use an application called _BodySlide_ for that.
 
-**PLEASE NOTE: I have removed the option for BodyGen due to an abundance of confusion about how it works.**
-
 ### Running BodySlide
 
 I have included a several 3BBB bodies, but you can always install your own.
@@ -24,7 +22,7 @@ You will also have to follow all of the steps below.
 13. In the top left dropdown, select _SE 3BBB Body Amazing_
 14. Select your preset from the dropdown below that. 
 15. Preview it with the appropriate button.
-16. (I recommend _3BBB HangEmHigh_. My friend _Arrow_ spent a lot of time on it, I had it in mind when I configured the physics, and you can use _Body Size_ at character creation to change what you look like by quite a bit, without messing around with dozens of _3BBB Morphs_.)
+16. (I recommend _3BBB HangEmHigh_. My friend _Arrow_ spent a lot of time on it, I had it in mind when I configured the physics, and you can use _Body Size_ at character creation to change what you look like by quite a bit, without messing around with dozens of _CBBE Morphs_.)
 17. Once you are satisfied, ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
 18. **Hold down the CTRL key** (very important) and click _Batch Build_. 
 19. You will see a huge list of bodies and outfits. Just click _Build_.
@@ -37,7 +35,7 @@ You will also have to follow all of the steps below.
 26. You should receive the message "All outfits processed successfully!"
 27. Click OK
 28. If you receive any error messages, repeat the process from step 16 until you receive the above message.
-29. When finished, navigate to **_LeS Directory_/mods/BodySlide Output/meshes** and make sure about a dozen outfits folders are there.
+29. When finished, navigate to **_Licentia Directory_/mods/BodySlide Output/meshes** and make sure about a dozen outfits folders are there.
 30. If there is only a _meshes_ folder there, move it to **_LeS Directory_/mods/BodySlide Output**
 31. **Confirm that all the outfits folders are in _LeS Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
 32. You may continue.
@@ -48,21 +46,21 @@ Sick of those dummy thicc boobs clapping against everything? Tired of being ridi
 
 ### Adjusting Physics
 
-A key part of fun with boobs is adjusting how they bounce. The modlist ships with an extremely bouncy preset for massive ones (such as _Cals Sticky Thicy_) which might look wrong if you choose something smaller. If you make a dramatic change in boob size you want to change the physics to match. Don't worry, nothing will break your game or your save unless you change something I explicitly tell you not to.
+A key part of fun with boobs is adjusting how they bounce. This modlist ships with a conservative physics preset which might not be "energetic" enough if you prefer massive mound-like mammaries. If you make a dramatic change in boob size you want to change the physics to match. Don't worry, nothing will break your game or your save unless you change something I explicitly tell you not to.
 
 1. Right click on _CBBE 3BBB_ and choose _Reinstall_
 2. Uncheck _Pre-built Body mesh_ and **DO NOT** choose any other options. They will break this list. Just click _Next_
 3. It's impossible to change _Base CBPC._ Leave _Performance (Improved)_ selected and click _Next_
-4. Choose _SMP and CBPC (full) and click _Next_
+4. Choose _SMP and CBPC (light) and click _Next_
 5. Now for the "fallback" _CBPC_ options. These apply with no input from you.
 6. Choose _New Type_ and click _Next_
 7. If your body has small boobs when thin and big boobs when heavy (you can check this with the slider in the preview window of _BodySlide_), it's best to choose _Real Bounce_ and _Small~Big Boobs_. Otherwise, choose the options that best match _your_ boobs.
 8. Belly and legs are like Zoidberg on higher than _Muscular_. But it might turn you on to be a walking bowl of JELL-O so I leave it to you.
-9. Butt looks fantastic at _Very Soft._
+9. Butt looks fantastic at _Medium Soft._
 10. Next is _SMP_ that you manually turn on with _NUMPAD +_ for yourself and _NUMPAD 6 - 9_ (in order low to high of boob size) for someone you've got your crosshair on. These physics look extremely sexy but will cripple your PC if you put them on too many people.
 11. _Boobs Physics Preset_ you're just gonna have to take a stab at.
 12. You **MUST** choose _CBPC - RegularSOS_. The other two options are incompatible.
-13. Hoo boy. _Vagina Textures_. Personally I think anything but "Red" seems to be so bright it glows. But you can try it. Also choose "SSS Black"
-14. Leave the next two options on _Sexlab_ and _New Adding 3BBB Morph_. If you don't the list will break.
+13. Hoo boy. _Vagina Textures_. Personally I think anything but "Red" seems to be so bright it glows. But you can try it.
+14. Leave the next option on _Sexlab_. If you don't the list will break.
 15. Click _Install_, followed by _Replace_, and wait for the mod's progress bar to go away.
 16. That's it. Hop in game and try out your new funbags.

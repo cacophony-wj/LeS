@@ -1,19 +1,17 @@
-# Licentia et Servitium
+# Licentia
 
 ![Status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/LeS/badge.json)
 ![Installs](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/LeS/total_installs_badge.json)
 
-- [Licentia et Servitium](#licentia-et-servitium)
-- [Licentia et Servitium: A Modest Sampling of Lover's Lab](#licentia-et-servitium-a-modest-sampling-of-lovers-lab)
+- [Licentia](#licentia)
+- [Licentia: A Light Touch of Lover's Lab](#licentia-a-light-touch-of-lovers-lab)
 	- [BEFORE YOU CONTINUE:](#before-you-continue)
 	- [Preamble](#preamble)
 	- [A STRONG WARNING](#a-strong-warning)
 	- [SexLab SE is still **beta!** It is still buggy!](#sexlab-se-is-still-beta-it-is-still-buggy)
 - [Number One Rule: This List Is Customizable](#number-one-rule-this-list-is-customizable)
-- [Misaligned Animations](#misaligned-animations)
 - [Admiring Yourself](#admiring-yourself)
 - [A Bit of a Note about "Death Alternatives"](#a-bit-of-a-note-about-death-alternatives)
-- [Arousal and Clockwork](#arousal-and-clockwork)
 - [A word about ENBs](#a-word-about-enbs)
 	- [Requirements](#requirements)
 		- [System Specs](#system-specs)
@@ -26,7 +24,6 @@
 	- [Problems with Wabbajack](#problems-with-wabbajack)
 		- [Post-Installation](#post-installation)
 - [Preparing the Game](#preparing-the-game)
-- [Choosing your Profile](#choosing-your-profile)
 - [Crafting the Female Bodies](#crafting-the-female-bodies)
 - [Launching the Game](#launching-the-game)
 - [Adding Followers, Outfits, and Other Mods](#adding-followers-outfits-and-other-mods)
@@ -36,25 +33,19 @@
 - [Contributing](#contributing)
 - [Changelog](#changelog)
 
-# Licentia et Servitium: A Modest Sampling of Lover's Lab
+# Licentia: A Light Touch of Lover's Lab
 
 ## BEFORE YOU CONTINUE: 
 
-The current list on _Wabbajack_ is up to date. I have yet to update it to Github.
+The current list on the _Wabbajack_ UI is up to date.
 
 ## Preamble
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-I'm [cacophony](https://github.com/cacophony-wj), a humble person. I haven't been modding long, but I want to provide a modlist until a bigger NSFW one is made.
+I'm [cacophony](https://github.com/cacophony-wj), a humble person. I haven't been modding long, but I want to provide a slightly lewd modlist friendly to male or female characters.
 
-I also want to make a list with a lot of options.
-
-Finally I want a list for the casual gamer who maybe wants to indulge in a little heroic fantasy.
-
-That said, I have been putting _NSFW_ content into games since the first _Nude Raider_ patch so I am familiar with it. 
-
-While not as customized as TSO, as feature-rich as Living Skyrim, or as depraved as Lotus, if you want a basic Skyrim gameplay and sexual overhaul that offers many ways to have fun, you are welcome. And of course, there's CGO, LOTD, and Maids.
+While not as developed for character customization as _Cupid_, as heavy with features as _Dungeons & Deviousness_, or as depraved as _Lotus_, if you want a basic Skyrim gameplay list without the emphasis on female characters, non-consensual roleplay, creatures, or bondage, you are welcome. And of course, there's CGO, LOTD, and Maids.
 
 ## A STRONG WARNING
 
@@ -64,11 +55,7 @@ Before posting a question to Discord, look at [Troubleshooting](https://github.c
 
 # Number One Rule: This List Is Customizable
 
-Your kinks are a very private thing. I have included two profiles for different types of play. "Licentia et Servitium" (despite the name) includes only free-love options -- no fetish content (assuming you disable the strapons). "Servitium" has all the fetish content, including non-consensual, bondage and creatures. These two setups represent the most popular options for _Lover's Lab._ A brief warning, though, _Servitium_ will only work for a female character. That's just the way the cookie crumbles.
-
-# Misaligned Animations
-
-I have pared back the animations drastically on advice from others. It only introduces lag into SexLab, most of the animations are low quality, few of them are regularly updated, and after testing them extensively it seems only a limited selection of them ever see play. If you want more you will have to disover how to run _FNIS_ or _Nemesis_ for yourself because I will not support it. I will say that it's a lot easier using only one of them rather than both.
+Your kinks are a very private thing. I have given up trying to yield to all comers and simply provided several ways to initiate dialog sex with the highest quality and most frequently updated animations: _Billyy's_ and _Babo's_. The systems are kept intentionally light to ensure SexLab is as stable as it can be (which means less troubleshooting for yours truly) and to allow for greater compatibility with user additions. The patches are individual to each mod, there are no merges and the zPatchers can be easily disabled, allowing for almost anything to be added or removed.
 
 #  Admiring Yourself
 
@@ -82,43 +69,16 @@ You can always watch a scene from an external view with SexLab's default freecam
 
 # A Bit of a Note about "Death Alternatives"
 
-All of the _SexLab_ death alternatives are a mess. I have wrestled with them for years. They basically consist of dozens of conditionally called functions that consist of lengthy redundant nested Elseif loops. Translation: they're bloated, slow, and don't work. I am angry with them. I don't want to provide support for them. And I definitely don't want to get sidetracked into trying to fix them in the middle of a playthrough. So I disabled all of them for _Licentia_ and used the sane, SFW alternative _Ashes_ instead.
-
-But I know they're popular. Erotic roleplay is a thing. So there are two of them in the _Servitium_ profile: _Combat Surrender_ which is part of _Cursed Loot_ and seems to equip you in punishing bondage gear no matter what options are set, and a combination of the relatively SFW _Death Alternative: Your Money or Your Life_ and the decidedly NSFW _SexLab Defeat_ which will hopefully work about 50% of the time.
-
-Assuming you follow the MCMs as directed, you will fall to your knees upon death to be taken advantage of sexually. This will be very slow to start until Papyrus untangles all the spaghetti code. (You can smack it to hurry up by pausing or opening the console.) After your attackers are finished, the screen will fade to black and someone will either rescue you or rob you. C'est la vie. If you don't like what just happened reload, if you didn't have these crappy mods you would have died anyway.
-
-You are free to change the death alternative options around as much as you like, but I will not answer questions or respond to recommendations about them anytime, anywhere.
-
-# Arousal and Clockwork
-
-Once you get the message about the collapsed passage north of Riften, I recommend you ignore it if you are playing with Cursed Loot. Traveling to this area locks you into a zone with no way to return for about 5 - 10 playtime hours and no targets for SexLab interactions or vendor services. This will make it extremely difficult to relieve yourself or remove yourself from devices. You can try disabling it but as stated above it rarely works.
+_Death Alternatives_ don't work reliably. I can't stand it when they fail and I can't stand trying to improve their success rate. I have included _Ye Olde Respawn_ so you can avoid the recommended closure of _Skyrim_ upon each death. I don't recommend you continue after you are sent to Bleedout. Load the game instead.
 
 # A word about ENBs
 
-_Rudy_ finally did a _Cathedral Weathers_ preset so I have dropped everything to add it. 
-
-If you don't like it for some weird reason I have tested these.
-
-_Silent Horizons_ is probably the best one I've ever seen... before _Rudy_ that is.
-
-_PI CHO_ is based off of SH but has more customization options that I've seen anywhere. Good luck preventing stonework from shining like headlights.
-
-_Amon's ENB_ comes highly recommended from _Living Skyrim_ and other users. It's supposed to be pretty light so this should be your first choice if stuff gets stuttery.
-
-_Serio's ENB_ is probably the best ENB for customizing with the _Cathedral Weathers MCM_. It's also performance friendly for those without beast rigs. Be warned though, it's brighter than the rest.
-
-_lJoss_ is Lexy's new standard but requires darker lod mods and custom DynDOLOD settings that I do not use. This ENB is not compatible.
-
-The other ENB's seemed either so inferior or were completely incompatible that I didn't mention them. I also left out any ENB preset that hasn't updated in over six months, since SSS support and the wet shader effect was added to the binaries.
-
-If you don't want to install this list because you don't want to fiddle with multiple ENB's, consider _ENB and ReShade Manager_. It makes swapping a one- or two-click affair.
+This list is so heavily customized for Rudy's _Cathedral Weathers ENB_ that it is almost a requirement. All of his recommendations on the modpage have been followed. This ENB is included by default, but if you wish to change it, the visuals may not look as intended. Anything that works with _Cathedral Weathers_ will probably work with _Licentia._
 
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
-- [MEGA Account](https://mega.nz/aff=a94uEwwXPLU) (OPTIONAL BUT HIGHLY RECOMMENDED)
 
 ### System Specs
 
@@ -213,27 +173,19 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 **Wabbajack cannot continue because of unknown files.**
 
-Move your downloads folder outside of your _LeS Directory_, ensure the _LeS Directory_ is clear of all files, then close and restart Wabbajack. Be sure to point the downloads box to your relocated downloads folder.
+Move your downloads folder outside of your _Licentia Directory_, ensure the _Licentia Directory_ is clear of all files, then close and restart Wabbajack. Be sure to point the downloads box to your relocated downloads folder.
 
 ###  Post-Installation
 
 **Copy Game Folder Files**
 
-Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy d3d11.dll and d3dcompiler_46e.dll to your game folder.
+Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy d3d11.dll and d3dcompiler_46e.dll to your game folder. This is the directory in which _SkyrimSE.exe_ is located.
 
-Copy all of the files from the _LeS Directory/game folder files_ directory to your game folder.
+Copy all of the files from the _Licentia Directory/game folder files_ directory to your game folder.
 
 # Preparing the Game
 
-The next step is to prepare the game for play. Navigate to the directory where you installed the modlist _Licentia et Servitium_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it to continue.
-
-# Choosing your Profile
-
-The profile is set to "Servitium" by default. This is the extremely kinky build but is selected by default as a way to build all outfits available. If you wish to play with bondage and creature support, leave this dropdown alona and follow the steps at [Crafting the Female Bodies] below. 
-
-The main profile is "Licentia et Servitium" and it is mainly based around consensual dialog sex. It is also intended, but not required, to be played in third person with a controller. If you wish to use the controller, you will have to delete "ControlMap_custom.txt" from your _Skyrim_ directory and download [Antimicro](https://github.com/AntiMicro/antimicro/releases/download/2.23/antimicro-2.23-win32.msi). Set your left stick to _WASD._ Otherwise you can't move. If you don't like this disable my controller options. You can do this by unchecking everything under _Controllers_ in the left pane. This profile is the one I hope to make a playthrough on so it's set the way I like it.
-
-"Servitium" is the alternative. This is intended for submissive females who are into bondage, vampires, werewolves, and incomplete buggy mods. The camera and controls are plain Skyrim and there's no _CGO_ because it fucks with shit. You can still use _TK Dodge_ which is a poor choice. I don't plan on troubleshooting this profile very much because it's obviously not ready for primetime. Feel free to submit an issue to Github and I'll try to look at it if I think there's a chance of fixing it (there probably isn't)
+The next step is to prepare the game for play. Navigate to the directory where you installed the modlist _Licentia_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it to continue.
 
 # Crafting the Female Bodies
 
@@ -247,7 +199,7 @@ I have not included pre-generated BodySlide files due to distribution issues. I 
 
 The rest must be completed after the game itself is launched. Oh yes, there's more. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **RUN ME TO START THE GAME**, create your character, and follow _all_ of the instructions in the below link:
 
-[Licentia et Servitium Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
+[Licentia Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
 
 #  Adding Followers, Outfits, and Other Mods
 
@@ -261,23 +213,23 @@ For _Follower Mods_ add them and enable them under _Added Mods_ and above _LEAVE
 
 Finally, I **_MIGHT_** support the addition of a handful of _Lover's Lab_ mods depending on what they are and how much time I have to troubleshoot. _DO NOT ASK ANYONE ELSE BUT ME **(cacophony#0001)** TO TROUBLESHOOT LOVER'S LAB MODS THAT YOU ADD TO MY LIST._ 
 
-I will say from the beginning that many of the more popular ones, such as mods that constantly scan for stuff like periods, pregnancies, breast milk, etc. often cause problems in the end if not configured extremely carefully and run on a minimal build. I lack the capacity and the patience, but I refer you to our Discord's [#nsfw-mod-discussion] channel to request a link to _ForgottenGlory's_ modlist _"Dungeons & Deviousness"_. It has all kinds of nifty stuff that is the hallmark of _Lover's Lab,_ like _SexLab Survival_, _Sanguine's Debauchery_, _Estrus Chaurus_, and much more. _ForgottenGlory_ has been around the block himself, he created _"Living Skyrim"_, by far _Wabbajack_'s largest and most popular list. By all means, please play that list if you want such mods.
+I will say from the beginning that many of the more popular ones, such as mods that constantly scan for stuff like periods, pregnancies, breast milk, etc. often cause problems in the end if not configured extremely carefully and run on a minimal build. I lack the capacity and the patience, but I recommend you download the newly-released _Dungeons & Deviousness_ from the UI. It has all kinds of nifty stuff that is the hallmark of _Lover's Lab,_ like _SexLab Survival_, _Sanguine's Debauchery_, _Estrus Chaurus_, and much more. _ForgottenGlory_ has been around the block himself, he created _"Living Skyrim"_. By all means, please play that list if you want such mods.
 
-All that said, if you can't figure out a mod on your own that I did not mention above, I may help you work it in on a case-by-case basis depending on how busy I am. It is expected that you have familiarity with Mod Organizer 2, xEdit, FNIS, Nemesis, and basic knowledge of what an override patch is before you try to do anything beyond basic outfit or follower additions. If you don't know this stuff don't ask or come prepared for some homework.
+All that said, if you can't figure out a mod on your own that I did not mention above, I may help you work it in on a case-by-case basis depending on how busy I am. It is expected that you have familiarity with Mod Organizer 2, xEdit, Nemesis, and basic knowledge of what an override patch is before you try to do anything beyond basic outfit or follower additions. If you don't know this stuff don't ask or come prepared for some homework.
 
 Finally _do not ask about non-Lover's lab mods_ except really simple things like makeup, hair, outfits, or voice tracks. I do not have the time to write custom patches for these. And just to make it clear, _DO NOT ASK ANYONE ELSE BUT ME **(cacophony#0001)** TO TROUBLESHOOT YOUR ADDITIONS._ Rule 11 fully applies to everyone else but me. If you don't remember it, go to [#welcome] and read all the rules again for real this time.
 
 # Specific Mod Details
 
-To be added. For now look them up on the Nexus or Lover's Lab. Should be able to right click on them and select "Visit Nexus" or "Visit Lover's Lab"
+This modlist uses many mods cribbed from elsewhere. If you need details, right click on one and select "Visit Nexus" or "Visit Lover's Lab". If you really like a mod in my list, why don't you select "Endorse" from the right-click menu while you're at it? It will really help the mod author, as well as all of us here at _Wabbajack._
 
 # Removing the Modlist
 
-You can just remove the _LeS_ folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
+You can just remove the _Licentia_ folder and be done with it. SKSE and ENB files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ENB.
 
 # Contact
 
-I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-et-servitium-support`). I will not respond to personal messages unless I know you. **DO NOT MESSAGE ME**
+I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia--support`). I will not respond to personal messages unless I know you. **DO NOT MESSAGE ME**
 
 # Contributing
 
