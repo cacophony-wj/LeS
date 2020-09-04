@@ -6,10 +6,11 @@
 - [Licentia](#licentia)
 - [Licentia: A Light Touch of Lover's Lab](#licentia-a-light-touch-of-lovers-lab)
 	- [BEFORE YOU CONTINUE:](#before-you-continue)
-	- [Preamble](#preamble)
-	- [A STRONG WARNING](#a-strong-warning)
+- [Preamble](#preamble)
+- [A STRONG WARNING](#a-strong-warning)
 	- [SexLab SE is still **beta!** It is still buggy!](#sexlab-se-is-still-beta-it-is-still-buggy)
 - [Number One Rule: This List Is Customizable](#number-one-rule-this-list-is-customizable)
+- [Designed for a controller](#designed-for-a-controller)
 - [Admiring Yourself](#admiring-yourself)
 - [A Bit of a Note about "Death Alternatives"](#a-bit-of-a-note-about-death-alternatives)
 - [A word about ENBs](#a-word-about-enbs)
@@ -39,7 +40,7 @@
 
 The current list on the _Wabbajack_ UI is up to date.
 
-## Preamble
+# Preamble
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
@@ -47,7 +48,7 @@ I'm [cacophony](https://github.com/cacophony-wj), a humble person. I haven't bee
 
 While not as developed for character customization as _Cupid_, as heavy with features as _Dungeons & Deviousness_, or as depraved as _Lotus_, if you want a basic Skyrim gameplay list without the emphasis on female characters, non-consensual roleplay, creatures, or bondage, you are welcome. And of course, there's CGO, LOTD, and Maids.
 
-## A STRONG WARNING
+# A STRONG WARNING
 
 ## SexLab SE is still **beta!** It is still buggy!
 
@@ -56,6 +57,10 @@ Before posting a question to Discord, look at [Troubleshooting](https://github.c
 # Number One Rule: This List Is Customizable
 
 Your kinks are a very private thing. I have given up trying to yield to all comers and simply provided several ways to initiate dialog sex with the highest quality and most frequently updated animations: _Billyy's_ and _Babo's_. The systems are kept intentionally light to ensure SexLab is as stable as it can be (which means less troubleshooting for yours truly) and to allow for greater compatibility with user additions. The patches are individual to each mod, there are no merges and the zPatchers can be easily disabled, allowing for almost anything to be added or removed.
+
+# Designed for a controller
+
+I like dodging. I like dual-wielding. I like inverted controls. I like these things best with a controller. So _Licentia_ is intended to be used with a controller first and foremost. If you don't like that, disable everything under the _Controller_ section of the modlist's left pane -- it won't hurt anything. Keep in mind, if you delete the ControlMap file as the MCM section suggests -- your left stick _will not work_ until you install _AntiMicro_ and set it to _WASD_. Refer to the AntiMicro documentation for more information.
 
 #  Admiring Yourself
 
