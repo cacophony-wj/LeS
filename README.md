@@ -1,8 +1,5 @@
 # Licentia
 
-![Status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/LeS/badge.json)
-![Installs](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/LeS/total_installs_badge.json)
-
 - [Licentia](#licentia)
 - [Licentia: A Light Touch of Lover's Lab](#licentia-a-light-touch-of-lovers-lab)
 	- [BEFORE YOU CONTINUE:](#before-you-continue)
