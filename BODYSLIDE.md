@@ -4,7 +4,7 @@ I'm guessing you came here to appreciate the female form. Here in the Skyrim com
 
 ### Running BodySlide
 
-I have included a several 3BBB bodies, but you can always install your own.
+I have included several 3BBB presets, but you can always install your own.
 
 You will also have to follow all of the steps below.
 

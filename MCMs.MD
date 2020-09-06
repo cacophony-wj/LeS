@@ -29,12 +29,6 @@
     - [follower](#follower)
   - [SexLab Tools](#sexlab-tools)
     - [Settings](#settings-2)
-  - [Storm Lightning](#storm-lightning)
-    - [Presets](#presets)
-    - [Advanced](#advanced)
-  - [Trade & Barter](#trade--barter)
-    - [Barter Rates](#barter-rates)
-  - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
   - [VioLens](#violens)
     - [Profile System](#profile-system)
 - [All done!](#all-done)
@@ -59,9 +53,9 @@ You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHI
 
 ### Controls
 
-The controls for "Licentia" are specifically designed for use with a controller. If you want to use a mouse and keyboard, disable everything under the _Controller_ section in the left pane. _The left stick does nothing unless you configure Antimicro for WASD._ This is so you can get 8-way dodges. If you don't like this disable the controller section of the modlist. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the roll and a step dodge with the G key. The menu is weird, "Start" opens the system and quest menu "RB + Start" opens the "TweeN" menu (skills / magic / items / map). Lock on is set to "LB." Look up _The Ultimate Control Scheme_ on the Nexus or just experiment.
+The controls for "Licentia" are specifically designed for use with a controller. If you want to use a mouse and keyboard, disable everything under the _Controller_ section in the left pane. Unfortunately 8-way dodges are not possible with a controller without an external problem and the removal of walk movement which is esssential to any type of Sneak. As you play, keep in mind that you can roll or step dodge in only the four cardinal directions. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the step dodge and a roll with the G key. The menu is weird, "Start" opens the system and quest menu "RB + Start" opens the "TweeN" menu (skills / magic / items / map). Lock on is set to "LB." _CGO_ is also preconfigured, _D-PAD RIGHT_ will shift your grip from one handed to two no matter which weapon you wield (hello dual warhammers) and _D-PAD DOWN_ will let you block while dual wielding. Where _CGO_ really shines, though, is with a two-hander in one hand and a spell in the other, so fire up those spellsword builds! Don't forget you can also _attack while jumping_ for "death from above" or fancy archery tricks. All melee attacks are "unlocked" which means you can move freely while executing them to land the perfect mace to the dome no matter how squirrelly your opponent.
 
-Set _Quicksave_ which should be set to _F9_, and _Quickload_ which should be set to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves.
+Set _Quicksave_ which should be set to _F9_, and _Quickload_ which should be set to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. However, and I realize this is a pain, _do not_ use the "QuickSave" option from the System menu! Bad things can (and probably will) happen to your long-term save.
 
 I'm oldschool so sometimes I play with an inverted controller. If your controls are inverted you might have to change it since I forgot to.
 
@@ -127,6 +121,8 @@ Lover's Lab recommends saving and loading the game immediately after fully confi
 
 Click _Enable All: Click Here_
 
+Click _Devious Device_ on the left. _None of these animations are installed,_ so click _Disable All_ in the upper right. _If you do not disable these your characters will stand in place rather than have a scene._ If you want serious fetish content go elsewhere, this isn't the modlist for you.
+
 Click _Register Animations_
 
 The process will take about two minutes, whereupon you will receive a message that animations have been registered. Just click _Accept_
@@ -134,12 +130,6 @@ The process will take about two minutes, whereupon you will receive a message th
 ###  CGO
 
 #### Settings
-
-I have yet to configure this for a controller. Rewriting Papyrus scripts is annoying but I _Will_ do it at a future date. If you are using a mouse and keyboard you shouldn't have to do anything but reset the Dodge Type to _Hotkey_ (even if it says that already). If you are on a controller... 
-
-Set _Grip Shift_ to _D-Pad Right_
-
-Set _Dual Wield Blocking_ to _D-Pad Up_
 
 _Leaning_
 
@@ -220,46 +210,6 @@ To add yourself to a slot, hover your crosshair over empty space and press _NUMP
 Finally you'll have to type in how many total people will be in the scene. And yes, you have to do this _every time you add somebody_. It's not the best. 
 
 Here's what makes up for it though, after you begin the scene by clicking on empty space and choosing _Begin scene_, you can press the _Shift+H_ keys to select from a list of commands, including changing positions, stages, and choosing animations from a list. Remember, it only draws from the first 250, or the first 250 of whatever tag you set. If your tag is too specific, nothing will be in the list.
-
-### Storm Lightning
-
-#### Presets
-
-Choose _Ultra Realistic_ and wait for it to read _DONE_
-
-#### Advanced
-
-Ensure that there is a checkmark next to _Compatibility Mode_
-
-###  Trade & Barter
-
-####  Barter Rates
-
-_Settings_
-
-Enable _Modify Barter Settings_
-
-_Presets_
-
-Select _Barter Presets: Medium_
-
-### The Ultimate Dodge Mod
-
-You will need to enable gamepad, choose _Sneak Style 1_ and then _Sneak Style 2_ again. I know, I'm working on it.
-
-**NONE OF THIS WILL WORK UNTIL YOU LEAVE THE STARTING CELL BY SLEEPING ON THE BED**
-
-The key thing to remember is that the sneak key (or button) now has two functions.
-
-When you're moving it dodges.
-
-When you're not it sneaks.
-
-you can dodgeroll or step dodge. Switch between them with the _G_ key.
-
-See the section in the top-level readme for more information.
-
-**IF YOU GET STUCK IN MID AIR PRESS THE "G" KEY or DODGE MODE COMMAND TWICE**
 
 ### VioLens
 

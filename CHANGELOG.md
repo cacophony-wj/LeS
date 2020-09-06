@@ -1,3 +1,13 @@
+## 5.1
+
+- Switched back to the _Embers HD_ and _Inferno_ combo because that _XD_ dude updates too much.
+- Reworked all textures except mobs to 2k or less (mostly 1k) to improve FPS on either low specs or ultra resolutions.
+- Archived every mod comprised of files larger than 100MB to improve load times.
+- Added the USLEP Unpatch for the heck of it.
+- Checked _Window Shadows by HHaleyy_ for deleted references. They've been corrected.
+- Added HHaleyy's _Dust Effects_ for Window Shadows.
+- That's it.
+
 ## 5.0
 
 - Added _Expressive Facegen Morphs_

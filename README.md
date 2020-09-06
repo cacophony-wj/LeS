@@ -1,15 +1,10 @@
-# Licentia
-
-![Status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/LeS/badge.json)
-![Installs](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/LeS/total_installs_badge.json)
-
-- [Licentia](#licentia)
 - [Licentia: A Light Touch of Lover's Lab](#licentia-a-light-touch-of-lovers-lab)
 	- [BEFORE YOU CONTINUE:](#before-you-continue)
 - [Preamble](#preamble)
 - [A STRONG WARNING](#a-strong-warning)
 	- [SexLab SE is still **beta!** It is still buggy!](#sexlab-se-is-still-beta-it-is-still-buggy)
 - [Number One Rule: This List Is Customizable](#number-one-rule-this-list-is-customizable)
+- [Light But Sexy](#light-but-sexy)
 - [Designed for a controller](#designed-for-a-controller)
 - [Admiring Yourself](#admiring-yourself)
 - [A Bit of a Note about "Death Alternatives"](#a-bit-of-a-note-about-death-alternatives)
@@ -44,7 +39,7 @@ The current list on the _Wabbajack_ UI is up to date.
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-I'm [cacophony](https://github.com/cacophony-wj), a humble person. I haven't been modding long, but I want to provide a slightly lewd modlist friendly to male or female characters.
+I'm [cacophony](https://github.com/cacophony-wj), a humble person. I haven't been modding long, but I want to provide a slightly lewd modlist friendly to male or female characters that will run well at ultra HD resolutions or on underpowered PCs.
 
 While not as developed for character customization as _Cupid_, as heavy with features as _Dungeons & Deviousness_, or as depraved as _Lotus_, if you want a basic Skyrim gameplay list without the emphasis on female characters, non-consensual roleplay, creatures, or bondage, you are welcome. And of course, there's CGO, LOTD, and Maids.
 
@@ -56,11 +51,15 @@ Before posting a question to Discord, look at [Troubleshooting](https://github.c
 
 # Number One Rule: This List Is Customizable
 
-Your kinks are a very private thing. I have given up trying to yield to all comers and simply provided several ways to initiate dialog sex with the highest quality and most frequently updated animations: _Billyy's_ and _Babo's_. The systems are kept intentionally light to ensure SexLab is as stable as it can be (which means less troubleshooting for yours truly) and to allow for greater compatibility with user additions. The patches are individual to each mod, there are no merges and the zPatchers can be easily disabled, allowing for almost anything to be added or removed.
+Your kinks are a very private thing. I have given up trying to yield to all comers and simply provided several ways to initiate dialog sex with the highest quality and most frequently updated animations: _Billyy's_ and _Babo's_. The systems are kept intentionally light to ensure SexLab is as stable as it can be  and to allow for greater compatibility with user additions. The patches are individual to each mod, there are no merges and the zPatchers can be easily disabled, allowing for almost anything to be added or removed.
+
+# Light But Sexy
+
+All of the base textures in this list are at either 512 or 1K. The detailed textures only focus on things you will be looking at up close: the PC, his or her partners, other NPCs, monsters, and gear. Even then, they top out at 2K, with the exception of human skin textures and a couple of _very_ large creature types that only show in small numbers. What this means for you is that this list, inspired by _Serenity_ and _Equanimity_, will probably suit you very well if your PC is a bit behind the times. On the other hand, if you want to crank out a Skyrim SE list at ridiculous resolutions such as 1440p or 2160p (true 4K), you will be able to do that and still average 20fps at worst and 40fps most of the time. If you come from the console world, you will be right at home, especially due to the steps I have taken in the next section.
 
 # Designed for a controller
 
-I like dodging. I like dual-wielding. I like inverted controls. I like these things best with a controller. So _Licentia_ is intended to be used with a controller first and foremost. If you don't like that, disable everything under the _Controller_ section of the modlist's left pane -- it won't hurt anything. Keep in mind, if you delete the ControlMap file as the MCM section suggests -- your left stick _will not work_ until you install _AntiMicro_ and set it to _WASD_. Refer to the AntiMicro documentation for more information.
+I like dodging. I like dual-wielding. I like inverted controls. I like these things best with a controller. So _Licentia_ is intended to be used with a controller first and foremost. If you come from the console world this list will suit you well. If you are of the hive and insist that all games be played with the superior M+KB, simply disable everything under the _Controller_ section of the modlist's left pane -- it won't hurt anything. 
 
 #  Admiring Yourself
 
@@ -74,11 +73,11 @@ You can always watch a scene from an external view with SexLab's default freecam
 
 # A Bit of a Note about "Death Alternatives"
 
-_Death Alternatives_ don't work reliably. I can't stand it when they fail and I can't stand trying to improve their success rate. I have included _Ye Olde Respawn_ so you can avoid the recommended closure of _Skyrim_ upon each death. I don't recommend you continue after you are sent to Bleedout. Load the game instead.
+_Death Alternatives_ don't work reliably. I can't stand it when they fail and I can't stand trying to improve their success rate. I have included _Ye Olde Respawn_ so you can spawn in a separate cell before reloading, as Wabbajack recommends. If you want to take this respawn mod as an opportunity for a "hardcore" playthrough, feel free to do so, but that is not its intention. Just wait until the screen fades in from black and reload.
 
 # A word about ENBs
 
-This list is so heavily customized for Rudy's _Cathedral Weathers ENB_ that it is almost a requirement. All of his recommendations on the modpage have been followed. This ENB is included by default, but if you wish to change it, the visuals may not look as intended. Anything that works with _Cathedral Weathers_ will probably work with _Licentia._
+This list began with the intention of exploiting Rudy's _Cathedral Weathers ENB_ to the hilt, but then I began to tinker with the 4K idea and Rudy's preset disappeared for a lengthy update process. Testing revealed that Rudy made this modlist a slideshow at 4K, so I switched to _Serio's ENB_ instead. It is very bright and somewhat desaturated. If you don't like it, I have also included _LJoss_ in the downloads directory which you can install as an alternate. Once Rudy's mod gets unhidden I will include that as an option as well. In theory, though, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_ or the screen archer's favorite _PI-CHO_. Be warned, the latter two ENBs are among the most demanding available. 
 
 ## Requirements
 
@@ -87,11 +86,13 @@ This list is so heavily customized for Rudy's _Cathedral Weathers ENB_ that it i
 
 ### System Specs
 
-- CPU: >= 7th gen Intel processor OR >= AMD Ryzen 3000 series processor
-- GPU: >= 1060, you need at least 6GB of VRAM
-- RAM: >= DDR4 with at least 16GBs
+This portion is under review, but my best estimate as to what you need is as follows:
 
-Everything should be installed on an SSD that has at least 150GB of space available. **You won't be able to play the modlist with 4GB of VRAM**.
+- CPU: >= 7th gen Intel processor OR >= AMD Ryzen 3000 series processor
+- GPU: >= 1060, you need at least 4GB of VRAM
+- RAM: >= DDR4 with at least 12GBs
+
+Everything should be installed on an SSD that has at least 150GB of space available.
 
 # Installation
 
@@ -194,15 +195,13 @@ The next step is to prepare the game for play. Navigate to the directory where y
 
 # Crafting the Female Bodies
 
-I have not included pre-generated BodySlide files due to distribution issues. I have also not distributed custom patches as they would be huge. So, you will have to customize female bodies yourself.
-
-**Warning: If you skip all this and launch the game, your women will look be tiny then fat, change shape in different armor, and have flat chests with melting physics. Please, follow the readme.**
+Unfortunately I don't feel comfortable offering precompiled BodySlide outputs because this essentially rehosts all of a 3D modelers' work in another location. So you will have to build them yourself. Please don't abandon me here, I've minimized the steps as much as possible. There are only four options you really have to choose from and they're all hair colors, it's pretty much an autopilot procedure. Check out the document below.
 
 [Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
 
 # Launching the Game
 
-The rest must be completed after the game itself is launched. Oh yes, there's more. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **RUN ME TO START THE GAME**, create your character, and follow _all_ of the instructions in the below link:
+The rest must be completed after the game itself is launched. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **RUN ME TO START THE GAME**, create your character, and follow _all_ of the instructions in the below link:
 
 [Licentia Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
 
@@ -226,7 +225,9 @@ Finally _do not ask about non-Lover's lab mods_ except really simple things like
 
 # Specific Mod Details
 
-This modlist uses many mods cribbed from elsewhere. If you need details, right click on one and select "Visit Nexus" or "Visit Lover's Lab". If you really like a mod in my list, why don't you select "Endorse" from the right-click menu while you're at it? It will really help the mod author, as well as all of us here at _Wabbajack._
+This modlist uses many mods cribbed from other lists. I owe huge debts of gratitude to [erri120] for his _Lotus_ modlist, [jdsmith] for his melee recommendations (all of which are available in _Elder Souls_, a much more professional list than this one, and [Xanza] for the methodology behind the "potato Skyrim modlist." In addition, [EggyPapa], [Xanza] and [jdsmith] helped me with Papyrus scripting, perhaps the most fragile and maddening part of any Skyrim list. Finally, [Tsukino] provided a complete conversion of _The Book of UUNP_ for CBBE 3BBB as well as all of the custom outfits in _Maids II: Deception_. 
+
+If you need details on how a particular mod in this list works, right click on one and select "Visit Nexus" or "Visit Lover's Lab". If you really like a mod in my list, why don't you select "Endorse" from the right-click menu while you're at it? It will really help the mod author, as well as all of us here at _Wabbajack._
 
 # Removing the Modlist
 
