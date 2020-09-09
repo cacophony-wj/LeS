@@ -77,7 +77,7 @@ _Death Alternatives_ don't work reliably. I can't stand it when they fail and I 
 
 # A word about ENBs
 
-This list began with the intention of exploiting Rudy's _Cathedral Weathers ENB_ to the hilt, but then I began to tinker with the 4K idea and Rudy's preset disappeared for a lengthy update process. Testing revealed that Rudy made this modlist a slideshow at 4K, so I switched to _Serio's ENB_ instead. It is very bright and somewhat desaturated. If you don't like it, I have also included _LJoss_ in the downloads directory which you can install as an alternate. Once Rudy's mod gets unhidden I will include that as an option as well. In theory, though, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_ or the screen archer's favorite _PI-CHO_. Be warned, the latter two ENBs are among the most demanding available. 
+This list began with the intention of exploiting Rudy's _Cathedral Weathers ENB_ to the hilt, but then I began to tinker with the 4K idea and Rudy's preset disappeared for a lengthy update process. Testing revealed that Rudy made this modlist a slideshow at 4K, so I switched to _Serio's ENB_ instead. It is very bright and somewhat desaturated. If you don't like it, I have also included _LJoss_, _PI-CHO_, the aforementioned _Rudy for Cathedral_ in the downloads directory which you can install if you wish to try them. Just find them on the Nexus and follow the instructions. In theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Be warned, the latter is among the most demanding available. 
 
 ## Requirements
 
