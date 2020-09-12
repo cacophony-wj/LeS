@@ -1,3 +1,12 @@
+## 5.4
+
+- Updated High Poly Head to 1.4
+- Updated Windows Shadows to 4.6
+- Updated Water for ENB to 1.34
+- Updated Embers HD to 1.41
+- Updated DynDOLOD and resources to 2.85
+- Regenerated all LODs
+
 ## 5.1
 
 - Switched back to the _Embers HD_ and _Inferno_ combo because that _XD_ dude updates too much.
