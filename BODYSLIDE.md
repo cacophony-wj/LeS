@@ -19,7 +19,7 @@ You will also have to follow all of the steps below.
 10. Click _Choose Groups..._
 11. Place a checkbox in the _3BBB_ option. Ensure that none others are selected. 
 12. Click _OK_
-13. In the top left dropdown, select _SE 3BBB Body Amazing_
+13. In the top left dropdown, select _CBBE 3BBB Body Amazing_
 14. Select your preset from the dropdown below that. 
 15. Preview it with the appropriate button.
 16. (I recommend _3BBB HangEmHigh_. My friend _Arrow_ spent a lot of time on it, I had it in mind when I configured the physics, and you can use _Body Size_ at character creation to change what you look like by quite a bit, without messing around with dozens of _CBBE Morphs_.)
