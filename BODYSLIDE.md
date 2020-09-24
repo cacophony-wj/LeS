@@ -42,7 +42,7 @@ You will also have to follow all of the steps below.
 
 ### Changing It Up
 
-Sick of those dummy thicc boobs clapping against everything? Tired of being ridiculed as the chairman of the itty-bitty-titty committee? If you get bored with the female body you have in your game just come back to this portion of the readme and follow all the instructions with a different preset. Nothing will be harmed, your save won't be affected, it's just everybody will fit the new body. It's the 90's, a man's got to have a little variety.
+If you get bored with the female body you have in your game just come back to this portion of the readme and follow all the instructions with a different preset. Nothing will be harmed, your save won't be affected, it's just everybody will fit the new body.
 
 ### Adjusting Physics
 

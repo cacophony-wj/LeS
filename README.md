@@ -47,29 +47,37 @@ While not as developed for character customization as _Cupid_, as heavy with fea
 
 ## SexLab SE is still **beta!** It is still buggy!
 
-Before posting a question to Discord, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
+Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
 
 # Number One Rule: This List Is Customizable
 
-Your kinks are a very private thing. I have given up trying to yield to all comers and simply provided several ways to initiate dialog sex with the highest quality and most frequently updated animations: _Billyy's_ and _Babo's_. The systems are kept intentionally light to ensure SexLab is as stable as it can be  and to allow for greater compatibility with user additions. The patches are individual to each mod, there are no merges and the zPatchers can be easily disabled, allowing for almost anything to be added or removed.
+Your kinks are a very private thing. As opposed to piling together a modlist for every possible fetish, I have created a fun list for myself with beautiful characters and easy ways to initiate dialog sex with the highest quality and most frequently updated animations. The systems are kept intentionally light to ensure SexLab is as stable as it can be and to allow for greater compatibility with user additions. The patches are individual to each mod, there are no merges and the zPatchers can be easily disabled, allowing for almost anything to be added or removed.
 
-# Light But Sexy
+# Light in All
 
 All of the base textures in this list are at either 512 or 1K. The detailed textures only focus on things you will be looking at up close: the PC, his or her partners, other NPCs, monsters, and gear. Even then, they top out at 2K, with the exception of human skin textures and a couple of _very_ large creature types that only show in small numbers. What this means for you is that this list, inspired by _Serenity_ and _Equanimity_, will probably suit you very well if your PC is a bit behind the times. On the other hand, if you want to crank out a Skyrim SE list at ridiculous resolutions such as 1440p or 2160p (true 4K), you will be able to do that and still average 20fps at worst and 40fps most of the time. If you come from the console world, you will be right at home, especially due to the steps I have taken in the next section.
 
+# Light But Sexy
+
+I'm boring. While fiddling around with wild and wacky fetishes can be fun, it's more an academic exercise with me, as in, how far can I push this until everything breaks? (I think every LL modder goes through this.) Eventually I got tired of it and made a sexy list you can actually play Skyrim with. So this modlist doesn't have any crazy stuff. No trolls or werewolves. No bondage gear. No sex slaves or boob milk. No ladies sprouting man parts to peg a fella. I also don't think these fetishes are worth the performance loss, instability, and save corruption that often follows. You know what I do like? Hot dudes and babes dual wielding greatswords and wiping out bandit camps to metal music and then making passionate love in the grass. Think _Heavy Metal_ without the sci-fi bits and also totally uncensored.
+
 # Designed for a controller
 
-I like dodging. I like dual-wielding. I like inverted controls. I like these things best with a controller. So _Licentia_ is intended to be used with a controller first and foremost. If you come from the console world this list will suit you well. If you are of the hive and insist that all games be played with the superior M+KB, simply disable everything under the _Controller_ section of the modlist's left pane -- it won't hurt anything. 
+I like dodging. I like dual-wielding. I like inverted controls. I like these things best with a controller. So _Licentia_ is intended to be used with a controller first and foremost. If you come from the console world this list will suit you well. If you prefer to play with mouse and keyboard, simply disable everything under the _Controller_ section of the modlist's left pane -- it won't hurt anything. 
 
 #  Admiring Yourself
 
-For those who want to experience "POV" (point-of-view) scenes or to play primarily in first person, Immersive First Person View is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode (F key by default, click the right stick for the controller) and press _NUMPAD 0_ to enable it. Then press F / R3 again and look downward. Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. 
+For those who want to experience "POV" (point-of-view) scenes, _Immersive First Person View_ is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode (F key by default, click the right stick for the controller) and press _NUMPAD 0_ to enable it. Then press F / R3 again and look downward. Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. 
 
 **You cannot switch to third person anymore without deactivating IFPV with _NUMPAD 0_!**
 
 To _disable IFPV_ once you have enabled it, ensure that you **can** see your body when you look downward, then press _NUMPAD 0_. You will automatically switch to a third person view. Once more the _F_ or _R3_ buttons will return to its default function, as will the scroll wheel.
 
-You can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_. Use the mouse to look around and WASD to move your "camera".
+Note that _IFPV_ is _not_ recommended for general gameplay due to incompatible animations I have installed. If you leave it on all the time, you will see your shoulders rotating when you run. It is recommendeed to only switch to the _IFPV_ camera for a "POV" scene.
+
+If you wish to use the _IFPV_ camera as a replacement for Skyrim's vanilla camera (for example, so you can see your own body in an immersive fashion), I recommend you _uncheck_ the mod _Realistic Animations Project - Movement_ in Mod Organizer's left pane. This will _disable_ the "360 animations" which allow you to face the camera... you will always walk backward if you pull the left stick toward yourself.
+
+You can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_. This works _incredibly well_ with a controller as opposed to a mouse, one of the reasons I prefer one for a _SexLab_ list.
 
 # A Bit of a Note about "Death Alternatives"
 
@@ -77,7 +85,7 @@ _Death Alternatives_ don't work reliably. I can't stand it when they fail and I 
 
 # A word about ENBs
 
-This list began with the intention of exploiting Rudy's _Cathedral Weathers ENB_ to the hilt, but then I began to tinker with the 4K idea and Rudy's preset disappeared for a lengthy update process. Testing revealed that Rudy made this modlist a slideshow at 4K, so I switched to _Serio's ENB_ instead. It is very bright and somewhat desaturated. If you don't like it, I have also included _LJoss_, _PI-CHO_, the aforementioned _Rudy for Cathedral_ in the downloads directory which you can install if you wish to try them. Just find them on the Nexus and follow the instructions. In theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Be warned, the latter is among the most demanding available. 
+This list was reborn with the intention of following Rudy's _Cathedral Weathers ENB_ weather and lighting recommendations to a tee, but then I began to tinker with the 4K idea and Rudy's preset disappeared for a lengthy update process. Testing revealed that Rudy made this modlist a slideshow at 4K, so I switched to _Serio's ENB_ instead. It is very bright and somewhat desaturated. If you don't like it, I have also included _LJoss_, _PI-CHO_, the aforementioned _Rudy for Cathedral_ in the downloads directory which you can install if you wish to try them. Just find them on the Nexus and follow the instructions. In theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Be warned, the latter is among the most demanding available. 
 
 ## Requirements
 
@@ -92,7 +100,9 @@ This portion is under review, but my best estimate as to what you need is as fol
 - GPU: >= 1060, you need at least 4GB of VRAM
 - RAM: >= DDR4 with at least 12GBs
 
-Everything should be installed on an SSD that has at least 150GB of space available.
+Everything should be installed on an SSD that has at least 150GB of space available. 
+
+Please note that you will also require _at least_ an additional 30GB on the drive you installed Wabbajack.exe to for extraction and recompression of files.
 
 # Installation
 
@@ -124,6 +134,14 @@ Wabbajack will check your game files and make sure that we have the same version
 
 Open the Steam Properties window, navigate to the Language tab and select English from the dropdown menu.
 
+**Install Skyrim** (OPTIONAL)
+
+If Skyrim is not installed, do so. _DO NOT_ install it _ANYWHERE_ inside a _Program Files_ folder. This will only wreak havoc in the end. 
+
+If you must, create a Steam library elsewhere on your computer (for example, _D:\Steam_) and install Skyrim there. (Options for such are given within Steam.)
+
+If you only have one hard drive and Steam is installed to _C:\Program Files_, you will have to relocate it to _C:\_. I'm sorry.
+
 **Clean Skyrim**
 
 I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. **Do not install Skyrim anywhere inside any Program Files folder. Wabbajack will not work in a folder that is protected by Windows.** You should also clean up the Skyrim Special Edition folder in Documents/My Games/. If you have download throttles or caps, or just don't want to wait, you can also use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) by trawz to clean your installation.
@@ -146,7 +164,7 @@ Start the game and exit once you're in the main menu.
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD. You will also need an additional 30 GB beyond the modlists' official size to store temporary working files. It is not recommended to allow your drive to get over 90% full (red bar in File Explorer) so be sure to leave yourself a little headroom on top of all that.
 
     Adjust the Installation Location to a directory located on the root directory of one of your drives
-    For example, this might be "C:\LeS", "D:\LeS", or "E:\LeS"
+    For example, this might be "C:\Licentia", "D:\Licentia", or "E:\Licentia"
     Ensure the Download Location is within that directory
     Click the Go/Begin button
     Wait for Wabbajack to finish
@@ -156,6 +174,8 @@ The download and installation process can take a very long time depending on you
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
 **DO NOT CONTACT MOD AUTHORS DIRECTLY.**
+
+I, cacophony, fully accept any responsibility for difficulties with this list and any conflicts I introduce, so please do not question mod authors on the _Nexus_, _Lover's Lab_, _Vector Plexus_ or any other site about bugs that may result from this lists' use. Direct your questions to me, not the innocent mod authors who should never be expected to support a modlist setup.
 
 **Could not download x:**
 
@@ -169,13 +189,17 @@ This can happen when update the modlist receives an update. Check if a new updat
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the Pre-Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator.
 
-**MEGA files stuck at _100%_**
+**All downloads from Lover's Lab are failing.**
 
-The files from MEGA are very large and must be verified. Please be extremely patient and allow each file to hash for at least 30 minutes, up to two hours if you are not using a solid-state drive. If you are certain you can't download the files any other way, try manual download from the Manifest in Wabbajack's lower-left corner.
+Lover's Lab is much more restrictive about automated downloads to users outside of the United States. Attempt to use a free- or budget- VPN with a terminus in the United States to automate your downloads. If you do not have such an option, you will need to download the LL mods manually, as per the manifest section below.
 
 **MEGA download cap exceeded.**
 
-This shouldn't happen unless you download the list multiple times or download multiple Wabbajack lists. Sometimes it does anyway. Try signing up for a MEGA account, or if you have already done so, try logging out of it and downloading anonymously (although much more slowly).
+This shouldn't happen unless you download the list multiple times or download multiple Wabbajack lists. Sometimes it does anyway. Try signing up for a MEGA account, or if you have already done so, try logging out of it and downloading anonymously (although much more slowly). I can't tell you to do it, but a VPN _has been known_ to circumvent some of **MEGA**'s restrictions.
+
+**Downloading from the Manifest**
+
+Sometimes no matter what anyone tries, a file will not download from Wabbajack for some reason. If that happens to you, go to the _www.wabbajack.org_ website, find the gallery entry for _Licentia_, click _Archive Search_ and type _the filename_ of each mod you cannot download automatically. They can be downloaded from the _link_ icon (looks like a chain link). Ensure that any files you download go to your _Licentia_ downloads directory. Just save them there, do _not_ open them and definitely do _not_ extract them. Close Wabbajack, reopen it, and click the **PLAY** button again.
 
 **Wabbajack cannot continue because of unknown files.**
 
@@ -185,9 +209,11 @@ Move your downloads folder outside of your _Licentia Directory_, ensure the _Lic
 
 **Copy Game Folder Files**
 
-Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and copy d3d11.dll and d3dcompiler_46e.dll to your game folder. This is the directory in which _SkyrimSE.exe_ is located.
+Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and extract _only_ d3d11.dll and d3dcompiler_46e.dll from the _WrapperVersion_ folder to your game folder. This is the directory in which _SkyrimSE.exe_ is located.
 
-Copy all of the files from the _Licentia Directory/game folder files_ directory to your game folder.
+Copy all of the files located inside the _Licentia Directory/game folder files_ directory to your game folder.
+
+Please note, **do not copy the entire game folder files folder.** Only copy the files _inside_ that folder to _Steam/steamapps/common/Skyrim Special Edition_. There should be around 10 of them, as well as a folder entitled "enbseries".
 
 # Preparing the Game
 
@@ -211,17 +237,17 @@ This is not "officially" supported as per _Wabbajack Rule 11_. That said, I know
 
 **Screen Archery** by adding _Poser Mods_ is not supported. Download the _Cupid_ modlist for this purpose.
 
-For _Gear_ it's as simple as adding it under _Added Mods_ and above _LEAVE HERE AT THE END_ in the left pane and the very bottom in the right pane. If your mod comes with _BodySlides_ (it should say so in the description) you will have to select them from the _Groups..._ menu and run them as per the instructions in the _Bodies_ section. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenu_ (in your inventory by default) to search for the item by name and put it in your inventory. _AddItem_ is the ultimate cheat so don't use it if you want to play the "game" part of the game. I leave it in because this list is mostly sexy people and I want players to look good exactly the way they want. If the temptation is too great just drop it before you talk to the Mara Statue.
+For _Gear_ it's as simple as adding it under _Added Mods_ and above _LEAVE HERE AT THE END_ in the left pane and the very bottom in the right pane. If your mod comes with _BodySlides_ (it should say so in the description) you will have to select them from the _Groups..._ menu and run them as per the instructions in the _Bodies_ section. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenu_ (in your inventory by default) to search for the item by name and put it in your inventory. _AddItemMenu_ is the ultimate cheat so don't use it if you want to play the "game" part of the game.
 
-For _Follower Mods_ add them and enable them under _Added Mods_ and above _LEAVE HERE AT THE END_ in the left pane and just above _DynDOLOD_ in the right pane. If they have a lot of custom actions you will have to craft an _NFF Ignore Token_ and equip it on them after you recruit them. Be sure _not_ to "Import" *any* followers into the _Framework_ or everything will break. Also, do not recruit *any* followers that do not have a default "Follow me" option (or something similar). If you are unsure about your follower, read its description page and all compatibility notes for any problems with "Nether Follower Framework." If any are mentioned, you will probably need an Ignore Token. If your follower mod contains any quests to go along with them they may conflict with stuff or even cause buggy dark faces on main characters. No way to know for sure without being a modder.
+For _Follower Mods_ add them and enable them under _Added Mods_ and above _LEAVE HERE AT THE END_ in the left pane and just above _DynDOLOD_ in the right pane. If they have a lot of custom actions you will have to craft an _NFF Ignore Token_ and equip it on them after you recruit them. Be sure _not_ to "Import" *any* followers into the _Framework_ or everything will break. Also, do not recruit *any* followers that do not have a default "Follow me" option (or something similar). If you are unsure about your follower, read its description page and all compatibility notes for any problems with "Nether Follower Framework." If any are mentioned, you will probably need an Ignore Token. If your follower mod contains any quests to go along with them they may conflict with stuff or even cause buggy dark faces on main characters. No way to know for sure without familiarity with Skyrim's modding tools.
 
-Finally, I **_MIGHT_** support the addition of a handful of _Lover's Lab_ mods depending on what they are and how much time I have to troubleshoot. _DO NOT ASK ANYONE ELSE BUT ME **(cacophony#0001)** TO TROUBLESHOOT LOVER'S LAB MODS THAT YOU ADD TO MY LIST._ 
+Finally, I **_MIGHT_** support the addition of a handful of additional mods depending on what they are and how much time I have to troubleshoot. _DO NOT ASK ANYONE ELSE BUT ME **(cacophony#0001)** TO TROUBLESHOOT MODS THAT YOU ADD TO THIS LIST._ 
 
-I will say from the beginning that many of the more popular ones, such as mods that constantly scan for stuff like periods, pregnancies, breast milk, etc. often cause problems in the end if not configured extremely carefully and run on a minimal build. I lack the capacity and the patience, but I recommend you download the newly-released _Dungeons & Deviousness_ from the UI. It has all kinds of nifty stuff that is the hallmark of _Lover's Lab,_ like _SexLab Survival_, _Sanguine's Debauchery_, _Estrus Chaurus_, and much more. _ForgottenGlory_ has been around the block himself, he created _"Living Skyrim"_. By all means, please play that list if you want such mods.
+I will say from the beginning that many of the more popular ones, such as mods that constantly scan for stuff like periods, pregnancies, breast milk, etc. often cause problems in the end if not configured extremely carefully and run on a minimal build. I lack the capacity and the patience to do so because I become so personally invested in it. If you desire such mods, I recommend you download _Dungeons & Deviousness_ from the UI. It has all kinds of nifty stuff that is the hallmark of _Lover's Lab,_ like _SexLab Survival_, _Sanguine's Debauchery_, _Estrus Chaurus_, and much more. _ForgottenGlory_ has been around the block himself, he created _"Living Skyrim"_. By all means, please give that list a shot!
 
 All that said, if you can't figure out a mod on your own that I did not mention above, I may help you work it in on a case-by-case basis depending on how busy I am. It is expected that you have familiarity with Mod Organizer 2, xEdit, Nemesis, and basic knowledge of what an override patch is before you try to do anything beyond basic outfit or follower additions. If you don't know this stuff don't ask or come prepared for some homework.
 
-Finally _do not ask about non-Lover's lab mods_ except really simple things like makeup, hair, outfits, or voice tracks. I do not have the time to write custom patches for these. And just to make it clear, _DO NOT ASK ANYONE ELSE BUT ME **(cacophony#0001)** TO TROUBLESHOOT YOUR ADDITIONS._ Rule 11 fully applies to everyone else but me. If you don't remember it, go to [#welcome] and read all the rules again for real this time.
+Just to make it absolutely clear, _DO NOT ASK ANYONE ELSE BUT ME **(cacophony#0001)** TO TROUBLESHOOT YOUR ADDITIONS._ Rule 11 fully applies to everyone else but me. If you don't remember it, go to [#welcome] on Wabbajack's Discord server.
 
 # Specific Mod Details
 
@@ -235,7 +261,7 @@ You can just remove the _Licentia_ folder and be done with it. SKSE and ENB file
 
 # Contact
 
-I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia--support`). I will not respond to personal messages unless I know you. **DO NOT MESSAGE ME**
+I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-support`). I will not respond to direct messages unless I know you. **DO NOT DIRECT MESSAGE ME**
 
 # Contributing
 

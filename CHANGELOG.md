@@ -1,3 +1,15 @@
+## 5.4.1
+
+- Added Serana Dialogue add-on, with the SexLab patch and the Amorous Adventures disabler.
+- Added Bijin Skin for Bijin Family in an attempt to reduce Bijin seams.
+- Added Eye Normal Map Fix and Eyes AO Clipping Fix.
+- Updated Growl to 2.0.0
+- Updated Archery Tweaks to 3.2
+- Updated The Curator's Companion to 2.1.2
+- Updated Windows Shadows to 5.2
+- Updated Papyrus Extender to 3.3.5
+- Adjusted the installation of various character textures in an attempt to reduce seams.
+
 ## 5.4
 
 - Updated High Poly Head to 1.4

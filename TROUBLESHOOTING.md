@@ -36,7 +36,9 @@ You should be ready to continue as per the installation instructions in the READ
 
 ### I have a bug that's not in this list.
 
-Submit it to [Issues](https://github.com/cacophony-wj/LeS/issues). You might not know about the issues tab until just now. You might not want to create an account. You will probably want to talk about it on Discord. I might respond to you, I might not. I might tell you to submit it, I might just ignore you. If you're serious about me looking at a bug submit it. I'll at least give you a response.
+The best way to get it looked at is to submit it to [Issues](https://github.com/cacophony-wj/LeS/issues). It's a list, I remember lists, I don't remember or sometimes even notice other things.
+
+If you don't want to do that, I'm not going to be particularly strict about this since people have many reasons to avoid creating yet another account somewhere. So just drop by Discord. If I see it and it's not a known issue I'll try to help.
 
 ### I enabled a feature and it's not working.
 
@@ -58,12 +60,14 @@ _Mod Organizer 2_ does not put edits to existing files in the _overwrite_ folder
 
 You either didn't run _BodySlide_ or ran it wrong. Follow all the steps in the [Female Bodies and Outfits](https://github.com/cacophony/LeS/blob/master/BODYSLIDE.md) section again, especially the bits about making sure everything went to the correct directory.
 
+### Everything is so damn _bright_!
+
+I warned you Serio was a bright ENB! Find Rudy in your downloads folder and install it as per instructions on the Nexus. If you're running at UHD you'll probably have to dip down to 1920x1080 to handle it.
+
 ### I read a skill book but my skill didn't go up!
 
-This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. If you're not locked up with something, alleviate that need and then read the book. If you're locked into gear and can't take care of business, you'll have to weigh the benefit of reduced experience or leaving the book behind until you find another copy of it.
+This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. Take care of business and _then_ read the book.
 
-###  It seems like I'm about to have sex but nothing is happening. Everyone is just standing around making breathing or grunting noises.
+## When I sprint jump there's all kinds of weird phantom footstep sounds.
 
-_Skyrim Special Edition_ is not well supported yet by the _Lover's Lab_ community, or at least not as robustly. Most players seeking to use such content do so on _Oldrim_ or _Legendary Edition,_ which unfortunately suffers from an inferior engine as far as stability and memory management goes. _Legendary Edition_ is also not "officially" available on _Steam_ any longer, which discourages mainstream mod (and modlist) authors from supporting it. 
-
-As such, animations triggered from the SE versions of _Defeat_ and _Cursed Loot_ seem to be called in a slightly different fashion than those from _SL Tools_, _SL Solutions_, or _SLEN_. They suffer from intolerable script lag at times, regardless of how many mods or animations are installed. I understand it's a known issue that is being worked on, but until it is resolved, you'll have to break your immersion a bit. If an animation seems stuck, open the console with the tilde key (`), wait for all messages to cycle, then close the console again. You may have to repeat this process a couple of times. If nothing you do gets an animation to start, post about in [Issues](https://github.com/cacophony-wj/LeS/issues).
+This is a known conflict with CGO and Better Jumping. I decided I wanted the ability to sprint jump more than worrying about phantom footsteps. If this really bothers you uncheck Better Jumping in Mod Organizer's left pane. No more sprintt jump.

@@ -35,6 +35,18 @@
 
 ## Licentia Configuration
 
+## Setting your resolution
+
+_Licentia_ should default to your monitor's native resolution on installation. This _will not_ be 60FPS at 4k and most likely not at 1440p. If you care more about FPS than resolution, or wish to use your own ENB, you may wish to dial the resolution back a bit. To do so, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimCustom.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
+
+"1080p" is _iSize H = 1080_ & _iSize W = 1920_
+"1440p" is _iSize H = 1440_ & _iSize W = 2560_
+"2160p" or "True 4K" is _iSize H = 2160_ & _iSize W = 3840_
+
+If you have an Ultrawide monitor, you will need [this mod](https://www.nexusmods.com/skyrimspecialedition/mods/1778). Install it as you would any other Mod Organizer mod. Just put it under _Added Mods._
+
+I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack readmes or drop by Discord and type _!usesearch_ to hunt for other users' experiences.
+
 ## Click New Game
 
 You might wonder why I put something so obvious here but you'd be surprised at the questions I get. It takes longer to load Skyrim with all these textures, and if you're not on an SSD you're probably going to have a bad time.
@@ -53,11 +65,33 @@ You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHI
 
 ### Controls
 
-The controls for "Licentia" are specifically designed for use with a controller. If you want to use a mouse and keyboard, disable everything under the _Controller_ section in the left pane. Unfortunately 8-way dodges are not possible with a controller without an external problem and the removal of walk movement which is esssential to any type of Sneak. As you play, keep in mind that you can roll or step dodge in only the four cardinal directions. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the step dodge and a roll with the G key. The menu is weird, "Start" opens the system and quest menu "RB + Start" opens the "TweeN" menu (skills / magic / items / map). Lock on is set to "LB." _CGO_ is also preconfigured, _D-PAD RIGHT_ will shift your grip from one handed to two no matter which weapon you wield (hello dual warhammers) and _D-PAD DOWN_ will let you block while dual wielding. Where _CGO_ really shines, though, is with a two-hander in one hand and a spell in the other, so fire up those spellsword builds! Don't forget you can also _attack while jumping_ for "death from above" or fancy archery tricks. All melee attacks are "unlocked" which means you can move freely while executing them to land the perfect mace to the dome no matter how squirrelly your opponent.
+The controls for "Licentia" are specifically designed for use with a controller. Please be certain to **delete** any _ControlMap_Custom_ files in your Skryim **game* directory if you plan to do so. Note that you will have to bind any keyboard controls again (such as QuickSave / QuickLoad)
+
+If you want to use a mouse and keyboard, close Skryim and disable everything under the _Controller_ section in the left pane. 
+
+Unfortunately 8-way dodges are not possible with a controller without an external program and forcing "always run" which is esssential to any type of Sneak. As you play, keep in mind that you can roll or step dodge in only the four cardinal directions. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the step dodge and a roll with the G key. The menu is weird, "Start" opens the system and quest menu "RB + Start" opens the "TweeN" menu (skills / magic / items / map). Lock on is set to "LB." _CGO_ is also preconfigured, _D-PAD RIGHT_ will shift your grip from one handed to two no matter which weapon you wield (hello dual warhammers) and _D-PAD DOWN_ will let you block while dual wielding. Where _CGO_ really shines, though, is with a two-hander in one hand and a spell in the other, so fire up those spellsword builds! Don't forget you can also _attack while jumping_ for "death from above" or fancy archery tricks. All melee attacks are "unlocked" which means you can move freely while executing them to land the perfect mace to the dome no matter how squirrelly your opponent.
 
 **Under the System > Settings Menu** change Quicksave_ to _F9_, and _Quickload_ to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. However, and I realize this is a pain, _do not_ use the "QuickSave" option from the System menu! Bad things can (and probably will) happen to your long-term save. In addition _do not_ turn on any "Autosave" options. They can and will corrupt with time. Get used to saving a lot!
 
 I'm oldschool so sometimes I play with an inverted controller. If your controls are inverted you might have to change it since I forgot to.
+
+## CONTROLLER MAPPING
+
+Start: Journal
+Back: Wait
+LT: Left Attack
+RT: Right attack
+LB+Back: Quicksave
+RB+Start: Tween menu (character menu)
+LB+RB: Shout (in that order)
+LB: Lock-on (activate / deactivate)
+RB: Sprint
+LS: Favorites
+RS: Switch POV
+A: Activate
+B: Sneak (when still) / Roll (when moving)
+X: Ready weapon
+Y: Jump
 
 ## Game MCM Options
 
@@ -83,6 +117,10 @@ Then open the MCM and continue.
 
 ### SexLab
 
+#### Sex Diary / Journal
+
+Your character is considered heterosexual by default. If you wish to change this, under **Sexual stats** on the right, click _Sexuality_ until your preference (Bisexual, Gay, or Lesbian) appears.
+
 ####  Rebuild & Clean
 
 Just below **Debug / Development Mode** in the upper right corner, click _Import Settings: Click Here_
@@ -103,13 +141,9 @@ Note that **ALL** of _SexLab's_ original old animations have been suppressed due
 
 #### Animation Settings
 
-_**Creature animations are completely unsupported.** If you want them download the _Dungeons & Deviousness_ modlist.
+**Creature animations are completely unsupported.** If you want them download the _Dungeons & Deviousness_ modlist.
 
 ### SexLab
-
-#### Sex Diary / Journal
-
-Under **Sexual stats** on the right, click _Sexuality_ until your preference (Bisexual, Gay, or Lesbian) appears.
 
 ### SAVE AND LOAD!
 
@@ -226,6 +260,10 @@ Wait a moment. You will see some stuff cycling. Then the message
 _"VioLens.VLMS" Loaded_
 
 Press _OK_
+
+**Ye Olde - Respawn**
+
+Activating this mod is optional but recommended. It prevents save corruption upon death. Most of the time it will return you to the nearest city, once this is done, feel free to load your game from where you died -- all risk of save contamination will be prevented. Otherwise, make your way as you see fit. Bear in mind that sometimes the mod respawns you in place -- particularly if you spawned in a dungeon and haven't discovered any other locations.
 
 ## All done!
 
