@@ -1,3 +1,10 @@
+## 5.4.2
+
+- Updated Windows Shadows to 5.2.
+- That wasn't good enough apparently, so I also updated it to 5.3.
+- Returned Serio to default so hopefully it won't be so bright.
+- Remember to use Rudy if your PC / resolution can handle it!
+
 ## 5.4.1
 
 - Added Serana Dialogue add-on, with the SexLab patch and the Amorous Adventures disabler.
