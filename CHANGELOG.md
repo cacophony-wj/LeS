@@ -1,3 +1,22 @@
+## 5.4.4
+
+- Finally got Serio configured to not be so bright.
+- Added Noble Skyrim 1K because Geez is right, it makes a huge difference.
+- Updated Billyy's SLAL Animations to 3.7.2
+- Updated BodySlide & Outfit Studio to 5.2.0
+- Updated The Sensual Lady 3BBB preset to 1.5
+- Updated Serenaholic's Valerica to 1.8.3. Overwrote Bijin AIO with its values.
+- Updated Windows Shadows to 6.0a. This fixes some flicker in 5.x.
+- Updated Ethereal Clouds to 2.0
+- Updated the Curator's Companion to 2.3.0
+- Regenerated LODs.
+
+## 5.4.3
+
+- Added Vibrant Weapons for dynamic elemental effects
+- Added the LOTD Inigo patch for a custom Museum room for Inigo :3
+- Updated SSE Display Tweaks to 0.4.7
+
 ## 5.4.2
 
 - Updated Windows Shadows to 5.2.

@@ -161,6 +161,10 @@ Click _Register Animations_
 
 The process will take about two minutes, whereupon you will receive a message that animations have been registered. Just click _Accept_
 
+###  Cathedral Weathers
+
+Just hit _Load Settings_. The confirmation message will look a little weird, but its not a big deal.
+
 ###  CGO
 
 #### Settings
