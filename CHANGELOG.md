@@ -1,5 +1,6 @@
 ## 5.5
 
+- **VERY IMPORTANT**, a kind user notified me that I had forgotten to enable proper memory management. If you are having any stability issues, you need this update. Or, if you are in the middle of a save, don't, because this update will break it. Instead check the pins in Discord for a small setting that needs to be changed.
 - Replaced Sexy Starts SE with Books of Dibella SE. Check the books nearby in the cell for new alternate start options!
 - Updated Serana Dialog Add-On to 1.9.1
 - Updated the SexLab plugin for the previous    
