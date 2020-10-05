@@ -1,3 +1,13 @@
+## 5.5
+
+- Replaced Sexy Starts SE with Books of Dibella SE. Check the books nearby in the cell for new alternate start options!
+- Updated Serana Dialog Add-On to 1.9.1
+- Updated the SexLab plugin for the previous    
+- Updated Ordinator: Perks of Skyrim to 9.30.0  
+- Updated Growl: Werebeasts of Skyrim to 2.0.2
+- Updated Nether Follower Framework to 2.7.1. Followers should now be immune to AOE (in most cases)
+- Corrected an issue with the resolution of Believable Weapons.
+
 ## 5.4.4
 
 - Finally got Serio configured to not be so bright.

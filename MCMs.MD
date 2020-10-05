@@ -271,4 +271,4 @@ Activating this mod is optional but recommended. It prevents save corruption upo
 
 ## All done!
 
-Be sure to press **F9** for a last second save in case something bad happens. You _do not_ want to do these MCMs again. Talk to the Mara statue to begin your journey. 
+Be sure to press **F9** for a last second save in case something bad happens. You _do not_ want to do these MCMs again. There are two options to start your game. The first is to talk to the Mara statue for a more traditional method. Sexy starts (most of the time involving you being naked) are available from the bookshelf nearby.
