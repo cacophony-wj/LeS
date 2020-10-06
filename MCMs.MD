@@ -157,7 +157,7 @@ Click _Enable All: Click Here_
 
 Click _Devious Device_ on the left. _None of these animations are installed,_ so click _Disable All_ in the upper right. _If you do not disable these your characters will stand in place rather than have a scene._ If you want serious fetish content go elsewhere, this isn't the modlist for you.
 
-Click _Register Animations_
+Click _General_, again on the left. Click _Register Animations_
 
 The process will take about two minutes, whereupon you will receive a message that animations have been registered. Just click _Accept_
 
