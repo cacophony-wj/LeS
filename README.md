@@ -63,7 +63,7 @@ I'm boring. While fiddling around with wild and wacky fetishes can be fun, it's 
 
 # Designed for a controller
 
-I like dodging. I like dual-wielding. I like inverted controls. I like these things best with a controller. So _Licentia_ is intended to be used with a controller first and foremost. If you come from the console world this list will suit you well. If you prefer to play with mouse and keyboard, simply disable everything under the _Controller_ section of the modlist's left pane -- it won't hurt anything. 
+I like dodging. I like dual-wielding. I like inverted controls. I like these things best with a controller. So _Licentia_ is intended to be used with a controller first and foremost. If you come from the console world this list will suit you well. If you prefer to play with mouse and keyboard, simply disable everything under the _Controller_ section of the modlist's left pane -- it won't hurt anything. You might also consider disabling _SmoothCam_ under the _Camera_ section, just above. This camera mode is less than ideal for an M+KB setup.
 
 #  Admiring Yourself
 
@@ -227,7 +227,7 @@ Unfortunately I don't feel comfortable offering precompiled BodySlide outputs be
 
 # Launching the Game
 
-The rest must be completed after the game itself is launched. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **RUN ME TO START THE GAME**, create your character, and follow _all_ of the instructions in the below link:
+The rest must be completed after the game itself is launched. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **SKSE (RUN ME TO START THE GAME)**. If you receive a message that files are missing, do not exist, or a warning about an incorrect path, you _may_ have to edit the link to "skse_loader" in the drop down and point it to your Skyrim directory. Once you are in-game, create your character and follow _all_ of the instructions in the below link:
 
 [Licentia Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
 
