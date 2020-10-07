@@ -1,3 +1,13 @@
+## 5.6
+
+Dammit, I started out as a simple update to fix some blockiness on the map but oh well. Some stuff updated. Needs new save.
+
+- Updated RaceMenu to 0.4.16
+- Updated Serana Dialogue Add-On to 1.9.2
+- Updated Tempered Skins for Males to 2.06
+- Updated Legacy of the Dragonborn to 5.4.1
+- Fixed some ugly blockiness with water on the map. Still not perfect...
+
 ## 5.5
 
 - **VERY IMPORTANT**, a kind user notified me that I had forgotten to enable proper memory management. If you are having any stability issues, you need this update. Or, if you are in the middle of a save, don't, because this update will break it. Instead check the pins in Discord for a small setting that needs to be changed.

@@ -18,7 +18,7 @@
 
 First, check CHANGELOG.md. If you are not interested in the changes, or they do not address a bug you are having, **do not update**.
 
-If you do update, copy out the entire _profiles_ folder within the _LeS_ directory to somewhere **you will remember.**
+If you do update, copy out the entire _profiles_ folder within the _Licentia_ directory to somewhere **you will remember.**
 
 **This is your final warning, Wabbajack will delete your saves when updating!**
 
@@ -52,6 +52,10 @@ See the main README. Long and the short of it is, you're on your own unless I'm 
 
 Yes. ESPs flagged as ESL don't count. Double click the little number to see how many real ESPs there are. Answer: a shockingly low amount!
 
+### My load order got fucked up!
+
+I have included backups. Click the swirly arrows. There's one for the load order (right pane) and one for the install order (left pane). Be sure to get the most recent one!
+
 ### Why do I have to CTRL-CLICK to build _BodySlide_?
 
 _Mod Organizer 2_ does not put edits to existing files in the _overwrite_ folder, only newly created files. _CBBE_, _3BBB_ and _BD_ come with "default" meshes that will be changed by _BodySlide_ if you do not direct them to the proper directory yourself. Likewise, _Nemesis_ edits all the animation source files when it updates instead of putting the changes in the overwrite folder. If you don't believe me, I encourage you to check _MO2_'s documentation or the _Nemesis_ closed _Issues_ section on Github. If this doesn't convince you, I encourage you to test it yourself.
@@ -67,7 +71,3 @@ I warned you Serio was a bright ENB! Find Rudy in your downloads folder and inst
 ### I read a skill book but my skill didn't go up!
 
 This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. Take care of business and _then_ read the book.
-
-## When I sprint jump there's all kinds of weird phantom footstep sounds.
-
-This is a known conflict with CGO and Better Jumping. I decided I wanted the ability to sprint jump more than worrying about phantom footsteps. If this really bothers you uncheck Better Jumping in Mod Organizer's left pane. No more sprintt jump.
