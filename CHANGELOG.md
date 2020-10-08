@@ -1,3 +1,10 @@
+## 5.6.1
+
+- Fixed a BFB on Luaffyn, bard in Winterhold, who only had the BFB because I seem to have specifically created a patch to give her one. So LOL to that I guess.
+- Updated Serana Dialogue Add-on to 1.9.3
+- Updated Vibrant Weapons to 1.0
+- Should be save friendly for the BFB-averse.
+
 ## 5.6
 
 Dammit, I started out as a simple update to fix some blockiness on the map but oh well. Some stuff updated. Needs new save.
