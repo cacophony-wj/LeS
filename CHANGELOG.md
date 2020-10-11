@@ -1,3 +1,7 @@
+## 5.6.1.1
+
+- Just a quick fix for a BFB that only appears for a brief time during an AA quest. Completely save friendly.
+
 ## 5.6.1
 
 - Fixed a BFB on Luaffyn, bard in Winterhold, who only had the BFB because I seem to have specifically created a patch to give her one. So LOL to that I guess.
