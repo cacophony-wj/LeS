@@ -1,3 +1,42 @@
+## 5.8
+
+I'm tired of waiting on Bijin. Maybe you are too. So I yeeted the merged version and patched the standalones. This is a stopgap update for the impatient. 
+
+Also a tribute to Titan, because I stole some ideas from him.
+
+- Added Crouch Sliding! This should be fun.
+- Added Men of Winter. Gave them the SOS body.
+- Added Interesting NPCs Overhaul 1.0
+- Added the fix Dawnguard Don't Hunt Cured Vampires.
+- Added the fix Quests Are In Skyrim.
+- Added the QoL mod Stackable Stones of Berenziah.
+- Updated Radiant Prostitution to 4.1.1.7
+- Updated Seranaholic to 1.8.3
+- Updated Valerica to 1.8.3
+- Updated Deadly Dragons SE to 6.5.5
+- Updated Cathedral Weathers to 2.23b
+- Updated Relighting Skyrim to 1.2.0
+- Updated LOTD Patches to 2.4
+- Updated the Curator's Companion to 3.0.2
+- Redid the zPatchers with UPF Loader.
+
+## 5.7
+
+This update is not save safe.
+
+- Fixed melty nipples on Serana. If you want this without updating, check !pins in [#licentia-support]
+- Added The Legendary Booty series of 50 (!) CBBE presets. Some of them are extremely lore-friendly.
+- Updated Imperious to 7.27.0
+- Updated Growl to 2.3.0
+- Updated Legacy of the Dragonborn to 5.4.2
+- Updated Legacy of the Dragonborn Official Patches to 2.3
+- Updated Legacy of the Dragonborn Interesting NPCs Patch to 1.2.1
+- Updated Nether's Follower Framework to 2.7.2
+- Updated JContainers to 4.1.13
+- Updated Serana Dialogue Add-on to 1.9.4
+- Updated Windows Shadows to 6.0b
+- Updated the Greek Goddess RaceMenu and BodySlide preset to 4.0
+
 ## 5.6.1.1
 
 - Just a quick fix for a BFB that only appears for a brief time during an AA quest. Completely save friendly.
