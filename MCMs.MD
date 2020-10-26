@@ -183,6 +183,16 @@ _Camera Noise_
 
 _Camera Noise Mult (1st Person)_: _X0.00_
 
+### Diverse Dragons Col. 3
+
+#### Dragons
+
+Disable _Nether Dragon_, _Sanguine Dragon_, and _Vile Dragon._ These are so difficult they are almost invincible, and decidedly un-fun.
+
+### FEC
+
+Personally I also find _Fire Damage_ and _Shock Damage_, under the relevant sections, to be extremely annoying. Basically, bodies can't be touched after they've been burned or electrocuted to death or you will take damage. Turn that shit off.
+
 ###  Follower Framework
 
 ####  System
@@ -194,6 +204,12 @@ At the message **Settings Loaded. Please exist the MCM menu to apply all changes
 Exit the MCM and re-open it.
 
 A bit of a note here. I did not alter Skyrim's vanilla difficulty in any way, aside from ensuring that dragons have new abilities and dungeons match your level each time they respawn. CGO, LOTD, ZIM's, and the abundance of gear I put in here make you ridiculously powerful. What can I say, I need to be a hero in these troubling times. :sweatboy: Anyway, you will probably have to bump up the difficulty a lot (maybe even to Legendary) if you are at all good at Skyrim. (I'm not, and I made this list so I can test it by playing it.) The problem with this method is that followers are **buffed**, not nerfed, because they're considered _not-the-player_ and everything _not-the-player_ has its damaged multiplied. Combine this with player nerfs on Legendary and you'll find that with even one follower you never get a chance to hit anything before it's all dead. The only real answer for this is to use _Nether Follower Framework_ here and under _Follower Stats_ change their damage output to its lowest value: _0.10_. They'll be mostly harmless but at least you'll have your chance to shine.
+
+### LOTD Settings
+
+#### General
+
+Under _Shipment Crate Locations_, select all three options. Really only necessary if you have Survival Mode on, but this feature has been known to bug out and ruin the Museum if you ship like over 100 displays without checking on them for a long time.
 
 ### Serio's Hotkeys
 
@@ -248,6 +264,18 @@ To add yourself to a slot, hover your crosshair over empty space and press _NUMP
 Finally you'll have to type in how many total people will be in the scene. And yes, you have to do this _every time you add somebody_. It's not the best. 
 
 Here's what makes up for it though, after you begin the scene by clicking on empty space and choosing _Begin scene_, you can press the _Shift+H_ keys to select from a list of commands, including changing positions, stages, and choosing animations from a list. Remember, it only draws from the first 250, or the first 250 of whatever tag you set. If your tag is too specific, nothing will be in the list.
+
+### SmoothCam
+
+#### Presets
+
+Click on _Slot 1: Perfect_ under _Load Preset_ and wait for the message.
+
+### The Ultimate Dodge Mod
+
+#### NPC Settings
+
+Uncheck _NPC Dodge AI_. My followers have been known to get stuck in midair with this option enabled.
 
 ### VioLens
 
