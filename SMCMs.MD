@@ -1,4 +1,7 @@
 - [Servitium Configuration](#servitium-configuration)
+- [A Note About Creation Club Survival](#a-note-about-creation-club-survival)
+- [A note about SexLab Separate Orgasms](#a-note-about-sexlab-separate-orgasms)
+- [Buying Skyrim Survival](#buying-skyrim-survival)
 - [Setting your resolution](#setting-your-resolution)
 - [Click New Game](#click-new-game)
 - [Character Creation](#character-creation)
@@ -64,6 +67,22 @@
 - [All done!](#all-done)
 
 ## Servitium Configuration
+
+## A Note About Creation Club Survival
+
+I have intentionally left disabled most of the "Needs" functions of _SexLab Survival_ which, admittedly, is one of the primary goals of the mod, because I find hypothermia, camping, campfires, food, drink, sleep, and bathing too tedious to manage and still play the game. This is still supposed to be mostly Skyrim... just a Skyrim from a porn movie. Instead, I have found myself struck with the simplicity of _Skyrim Survival_ as it is available on the _Creation Club._ I think it covers the "gist" of keeping your body alive in the frozen wastes without burying you in micromanagement.
+
+The way it works is by a system of debuffs to your health, stamina, and magicka based on how cold, hungry or tired you are. Small black portions appear on the bars to tell you how much you are affected, similar to the red "rads" portion of the _Fallout 4_ health bar. In addition, the more you are affected, the more magicka, stamina, health regeneration are affected, as well as the effectiveness of certain skills like potions and weapon speed. It provides an intuitive, at-a-glance way to manage needs and works well to offset the OP nature of CGO and EnaiRim, as well as interacting with the next major new system, _SexLab Separate Orgasms._
+
+## A note about SexLab Separate Orgasms
+
+The way this mod works by turning sex into a little "minigame." By default, you press the "X" key on your controller to increase your partner's enjoyment (and your own), however, this drains a little stamina. When it goes all the way down, the scene advances. If you go too long without pressing "X", your partner's enjoyment will go down a little. Your goal is to max out their enjoyment before the scene ends, which you can take any number of potions, alcoholic drinks, or other buffs to help along. Don't worry, it's set to very forgiving by default and you should only have trouble if you are suffering severe debuffs from the Survival mod mentioned above. In addition, sometimes your partner will try to "spank" you, where you have to please him (or her) or talk dirty (by pressing "Y") to keep him from spanking you and penalizing your stamina further. Basically it makes every SexLab scene into a little porn movie. Kinda sick, I guess, but I didn't decide how the world makes its porn. I just installed mods around it. If you want to use a Mouse and Keyboard you WILL need to change these keys yourself, the relevant options are in the "SL Separate Orgasms" menu for the enjoyment key and the "Spank That Ass" menu for the "Talk Dirty" key. I recommend M1 for Enjoyment and M2 for talk dirty.
+
+## Buying Skyrim Survival
+
+So you've decided to take the plunge and try this. I fully admit that its overpriced and the method buying it is extremely dumb. You have to sign in to vanilla, unmodded Skyrim (launch from Steam) and click the "Creation Club" link. It should automatically detect and use your Steam payment information, and you will have to buy 249 credits more than the 500 you need for Survival Mode. If you choose to do this, and spend those 249 credits on something else, I will ensure it is compatible. 
+
+Trust me, if there were a simpler option than Frostfall available that worked basically the same way for no cost I would include it. You can always play this modlist without Survival Mode. And if you know of an alternative, please hit me up on my server and tell me about it.
 
 ## Setting your resolution
 
