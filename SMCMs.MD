@@ -57,6 +57,7 @@
     - [Advanced](#advanced)
   - [SmoothCam](#smoothcam)
     - [Presets](#presets)
+  - [SL Survival](#sl-survival)
   - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
     - [General Settings](#general-settings)
     - [Player Settings](#player-settings)
@@ -86,7 +87,7 @@ Trust me, if there were a simpler option than Frostfall available that worked ba
 
 ## Setting your resolution
 
-_Licentia_ should default to your monitor's native resolution on installation. This _will not_ be 60FPS at 4k and most likely not at 1440p. If you care more about FPS than resolution, or wish to use your own ENB, you may wish to dial the resolution back a bit. To do so, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimCustom.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
+_Servitium_ should default to your monitor's native resolution on installation. This _will not_ be 60FPS at 4k and most likely not at 1440p. If you care more about FPS than resolution, or wish to use your own ENB, you may wish to dial the resolution back a bit. To do so, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimCustom.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
 
 "1080p" is _iSize H = 1080_ & _iSize W = 1920_
 "1440p" is _iSize H = 1440_ & _iSize W = 2560_
@@ -114,7 +115,7 @@ You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHI
 
 ### Controls
 
-The controls for "Licentia" are specifically designed for use with a controller. Please be certain to **delete** any _ControlMap_Custom_ files in your Skryim **game* directory if you plan to do so. Note that you will have to bind any keyboard controls again (such as QuickSave / QuickLoad)
+The controls for "Servitium" are specifically designed for use with a controller. Please be certain to **delete** any _ControlMap_Custom_ files in your Skryim **game* directory if you plan to do so. Note that you will have to bind any keyboard controls again (such as QuickSave / QuickLoad)
 
 If you want to use a mouse and keyboard, close Skryim and disable everything under the _Controller_ section in the left pane. 
 
@@ -398,6 +399,24 @@ Disable _Map Menu checking_
 #### Presets
 
 Click on _Slot 1: Perfect_ under _Load Preset_ and wait for the message.
+
+### SL Survival
+
+I forgot to add the hugest section!
+
+This mod is extremely bloated. In setting it up, I got frustrated so many times I almost considered removing it despite all the crazy features it adds. It shares this in common with _Cursed Loot_, another mod that's too bloated in my opinion. Unlike Cursed Loot, however, it seems this mod (aside from the _MCM_) works properly once you understand how you're supposed to use it.
+
+I'll save the gameplay talk for the channel. For now, you are going to have to _Import Profile_ on the main page. _Wait until all the messages cycle_ and hang up at "Actioning Settings." It's not supposed to hang here but it does. Exit all menus.
+
+Now this part is very picky. Sit and **do nothing** in the starting cell until you receive two messages: "Building Bikini List", and a minute or two later "Building Bikini List Complete." 
+
+Now you're going to have to give it a little kick for it to finish. Open the _MCM_ again and return to the _SL Survival Menu_. Once you see the main page of settings, exit the MCM again, and wait for two messages: "Building Pickpocket List" and a few minutes later "Pickpocket List Complete."
+
+There. _SL Survival_ is now configured and all executing scripts are complete.
+
+This will also help you on your _Dungeons & Deviousness_ installation if you still have one.
+
+Now,
 
 ### The Ultimate Dodge Mod
 
