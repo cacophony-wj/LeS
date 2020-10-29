@@ -414,6 +414,8 @@ Now you're going to have to give it a little kick for it to finish. Open the _MC
 
 There. _SL Survival_ is now configured and all executing scripts are complete.
 
+There is one caveat. Licenses are on by default, which means you cannot carry or sell weapons or armor without buying one. They are available usually from a given keep's dungeon, but in Whiterun it is a small building behind the alchemist. If you want to disable this, go to _Licenses 1_ in the MCM and turn it off. The only reason it is this way is because it must be enabled to import a setting that allows bikini experience to work. One made, this change remains even if licenses are disabled. I strongly recommend you disable it because it is highly annoying.
+
 This will also help you on your _Dungeons & Deviousness_ installation if you still have one.
 
 Now,
