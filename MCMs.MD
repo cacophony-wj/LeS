@@ -137,6 +137,8 @@ If you do want your females to sometimes use strapons, navigate to
 
 and click the mark on the right that reads _Females Use Strap-ons._
 
+There is an option here that significantly affects many of the _Amorous Adventures_ scenes. Sometimes, the quests want a particular foreplay animation to play, but I have disabled _Foreplay_ to minimize the time spent watching a scene. If you want the AA animations to make more sense at the cost of an additional scene at the beginning of every adult interaction, go ahead and enable this option.
+
 Note that **ALL** of _SexLab's_ original old animations have been suppressed due to unpopularity. If you want to re-enable them for some reason, click _CLEAR SUPPRESSED LIST - CLICK HERE_
 
 #### Animation Settings

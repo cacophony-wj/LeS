@@ -1,3 +1,30 @@
+## 6.0
+
+This update is _yuge._
+
+- Added a host of DeserterX Gear that I happened to like. Not on leveled lists for now, check the manifest for specifics.
+- Added 4K Raven Rock
+- Added 4K Windhelm
+- Added Illustrious Whiterun
+- Added Nordic Dungeons
+- Added Septentrional Landscapes
+- Added Skyland Texture Overhaul AIO
+- Added Skyrim 2018 Texture Overhaul AIO
+- Added Skyrim 2019 Texture Overhaul AIO
+- Added Skyrim 2020 Texture Overhaul AIO
+- Added Serana Dialog Add-On Nether Follower Framework Patch
+- Added SkyHUD Lite
+- Updated Billyy's SLAL Animations to 3.81
+- Updated Serana Dialog Add-on to 2.0
+- Added a quest for Serana to get the Crimson Blood armor!
+- Updated eeekie's Enhanced NPCs to 2.0.1
+- Updated Immersive First Person View to 10.0
+- Reverted Windows Shadows to 6.3
+- Removed Skyrim Realistic Overhaul
+- Regenerated LODs at extremely high definition.
+
+I'm sure there's more but honestly I was insomniac and partially mad during the update. :sweatboy~1:
+
 ## 5.8
 
 I'm tired of waiting on Bijin. Maybe you are too. So I yeeted the merged version and patched the standalones. This is a stopgap update for the impatient. 
