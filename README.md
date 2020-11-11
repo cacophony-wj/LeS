@@ -5,7 +5,6 @@
 	- [SexLab SE is still **beta!** It is still buggy!](#sexlab-se-is-still-beta-it-is-still-buggy)
 - [Number One Rule: This List Is Customizable](#number-one-rule-this-list-is-customizable)
 - [Light But Sexy](#light-but-sexy)
-- [Designed for a controller](#designed-for-a-controller)
 - [Admiring Yourself](#admiring-yourself)
 - [A Bit of a Note about "Death Alternatives"](#a-bit-of-a-note-about-death-alternatives)
 - [A word about ENBs](#a-word-about-enbs)
@@ -53,17 +52,9 @@ Before asking a question, look at [Troubleshooting](https://github.com/cacophony
 
 Your kinks are a very private thing. As opposed to piling together a modlist for every possible fetish, I have created a fun list for myself with beautiful characters and easy ways to initiate dialog sex with the highest quality and most frequently updated animations. The systems are kept intentionally light to ensure SexLab is as stable as it can be and to allow for greater compatibility with user additions. The patches are individual to each mod, there are no merges and the zPatchers can be easily disabled, allowing for almost anything to be added or removed.
 
-# Light in All
-
-All of the base textures in this list are at either 512 or 1K. The detailed textures only focus on things you will be looking at up close: the PC, his or her partners, other NPCs, monsters, and gear. Even then, they top out at 2K, with the exception of human skin textures and a couple of _very_ large creature types that only show in small numbers. What this means for you is that this list, inspired by _Serenity_ and _Equanimity_, will probably suit you very well if your PC is a bit behind the times. On the other hand, if you want to crank out a Skyrim SE list at ridiculous resolutions such as 1440p or 2160p (true 4K), you will be able to do that and still average 20fps at worst and 40fps most of the time. If you come from the console world, you will be right at home, especially due to the steps I have taken in the next section.
-
 # Light But Sexy
 
 I'm boring. While fiddling around with wild and wacky fetishes can be fun, it's more an academic exercise with me, as in, how far can I push this until everything breaks? (I think every LL modder goes through this.) Eventually I got tired of it and made a sexy list you can actually play Skyrim with. So this modlist doesn't have any crazy stuff. No trolls or werewolves. No bondage gear. No sex slaves or boob milk. No ladies sprouting man parts to peg a fella. I also don't think these fetishes are worth the performance loss, instability, and save corruption that often follows. You know what I do like? Hot dudes and babes dual wielding greatswords and wiping out bandit camps to metal music and then making passionate love in the grass. Think _Heavy Metal_ without the sci-fi bits and also totally uncensored.
-
-# Designed for a controller
-
-I like dodging. I like dual-wielding. I like inverted controls. I like these things best with a controller. So _Licentia_ is intended to be used with a controller first and foremost. If you come from the console world this list will suit you well. If you prefer to play with mouse and keyboard, simply disable everything under the _Controller_ section of the modlist's left pane -- it won't hurt anything. You might also consider disabling _SmoothCam_ under the _Camera_ section, just above. This camera mode is less than ideal for an M+KB setup.
 
 #  Admiring Yourself
 
@@ -81,11 +72,11 @@ You can always watch a scene from an external view with SexLab's default freecam
 
 # A Bit of a Note about "Death Alternatives"
 
-_Death Alternatives_ don't work reliably. I can't stand it when they fail and I can't stand trying to improve their success rate. I have included _Ye Olde Respawn_ so you can spawn in a separate cell before reloading, as Wabbajack recommends. If you want to take this respawn mod as an opportunity for a "hardcore" playthrough, feel free to do so, but that is not its intention. Just wait until the screen fades in from black and reload.
+_Death Alternatives_ don't work reliably. I can't stand it when they fail and I can't stand trying to improve their success rate. I have included _Ashes_ so you can spawn in a separate cell before reloading, as Wabbajack recommends. If you want to take this respawn mod as an opportunity for a "hardcore" playthrough, feel free to do so, but that is not its intention. Just wait until the screen fades in from black and reload.
 
 # A word about ENBs
 
-This list was reborn with the intention of following Rudy's _Cathedral Weathers ENB_ weather and lighting recommendations, but then I began to tinker with the 4K idea and Rudy's preset disappeared for a lengthy update process. Testing revealed that Rudy made this modlist a slideshow at 4K, so I switched to _Serio's ENB_ instead. It is pretty bright and somewhat desaturated. If you don't like it, I have also included _LJoss_, _PI-CHO_, the aforementioned _Rudy for Cathedral_ in the downloads directory which you can install if you wish to try them. If you are running this odlist at 1080p, I _strongly_ recommend switching the ENB to _Rudy for Cathedral_. Do be sure to install any optional files in the archive, especially the Night Eye Fix. Just find instructions on the Nexus and follow them. Don't limit yourself to my choices, though, in theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Be warned, the latter is among the most demanding available. 
+This list was reborn with the intention of following Rudy's _Cathedral Weathers ENB_ weather and lighting recommendations. If you don't like it, I have also included _Serio's ENB_, _LJoss_, and _PI-CHO_ in the downloads directory which you can install if you wish to try them. If you are running this odlist at 4k, I _strongly_ recommend switching the ENB to _Serio's_. Don't limit yourself to my choices, though, in theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Be warned, the latter is among the most demanding available. 
 
 ## Requirements
 

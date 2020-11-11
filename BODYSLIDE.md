@@ -4,7 +4,9 @@ I'm guessing you came here to appreciate the female form. Here in the Skyrim com
 
 ### Running BodySlide
 
-I have included several 3BBB presets, but you can always install your own.
+I have included _many_ 3BBB presets. Some of them, especially the "Legendary" series, are extremely lore friendly.
+
+But you can always install your own.
 
 You will also have to follow all of the steps below.
 
@@ -60,7 +62,7 @@ A key part of fun with boobs is adjusting how they bounce. This modlist ships wi
 10. Next is _SMP_ that you manually turn on with _NUMPAD +_ for yourself and _NUMPAD 6 - 9_ (in order low to high of boob size) for someone you've got your crosshair on. These physics look extremely sexy but will cripple your PC if you put them on too many people.
 11. _Boobs Physics Preset_ you're just gonna have to take a stab at.
 12. You **MUST** choose _CBPC - RegularSOS_. The other two options are incompatible.
-13. Hoo boy. _Vagina Textures_. Personally I think anything but "Red" seems to be so bright it glows. But you can try it.
+13. Hoo boy. _Vagina Textures_. Personally I think anything but "Dark Red" seems to be so bright it glows. But you can try it.
 14. Leave the next option on _Sexlab_. If you don't the list will break.
 15. Click _Install_, followed by _Replace_, and wait for the mod's progress bar to go away.
 16. That's it. Hop in game and try out your new funbags.

@@ -46,7 +46,7 @@
 
 ## Setting your resolution
 
-_Licentia_ should default to your monitor's native resolution on installation. This _will not_ be 60FPS at 4k and most likely not at 1440p. If you care more about FPS than resolution, or wish to use your own ENB, you may wish to dial the resolution back a bit. To do so, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimCustom.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
+_Licentia_ has been configured to run at _1920x1080_ by default. This not only ensures higher FPS, but also quick turnaround for the various "animations" which are laggy in the best of situations. If you wish to change this to a higher resolution, bear in mind that you _will not_ get 60FPS at 4k and most likely not at 1440p. In any case, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
 
 "1080p" is _iSize H = 1080_ & _iSize W = 1920_
 "1440p" is _iSize H = 1440_ & _iSize W = 2560_
@@ -56,13 +56,9 @@ If you have an Ultrawide monitor, you will need [this mod](https://www.nexusmods
 
 I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack readmes or drop by Discord and type _!usesearch_ to hunt for other users' experiences.
 
-## Click New Game
-
-You might wonder why I put something so obvious here but you'd be surprised at the questions I get. It takes longer to load Skyrim with all these textures, and if you're not on an SSD you're probably going to have a bad time.
-
 ## Character Creation
 
-Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard).  There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. Keep in mind that if you choose a _male elf_ character, the facial hair will look weird unless you switch the _Face Part_ to **3.** You'll know you have the right one when it says "high poly" in the bottom right and the face suddenly looks 10,000 times more detailed. Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _CBBE Morphs_ and _Genitals_ options, but I am not going to go into that. Don't ask me either. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished.
+Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard).  There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. Keep in mind that if you choose a _male elf_ character, the facial hair will look weird unless you switch the _Face Part_ to **3.** You'll know you have the right one when it says "high poly" in the bottom right and the face suddenly looks 10,000 times more detailed. Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _CBBE Morphs_ and _Genitals_ options, but I am not going to go into that. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished.
 
 **IF YOUR BODY TURNS PURPLE**, scroll Racemenu over to _Body Paint_ and make sure all Textures are set to _Default_ (press the "T" key)
 
@@ -74,11 +70,9 @@ You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHI
 
 ### Controls
 
-The controls for "Licentia" are specifically designed for use with a controller. Please be certain to **delete** any _ControlMap_Custom_ files in your Skryim **game* directory if you plan to do so. Note that you will have to bind any keyboard controls again (such as QuickSave / QuickLoad)
+The controls for "Licentia" have been set to mouse and keyboard by default, due to the addition of a sprint-slide mod that I love. If you wish to use a controller, please be certain to **delete** any _ControlMap_Custom_ files in your Skryim **game* directory if you plan to do so. Note that you will have to bind any keyboard controls again (such as QuickSave / QuickLoad)
 
-If you want to use a mouse and keyboard, close Skryim and disable everything under the _Controller_ section in the left pane. 
-
-Unfortunately 8-way dodges are not possible with a controller without an external program and forcing "always run" which is esssential to any type of Sneak. As you play, keep in mind that you can roll or step dodge in only the four cardinal directions. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the step dodge and a roll with the G key. The menu is weird, "Start" opens the system and quest menu "RB + Start" opens the "TweeN" menu (skills / magic / items / map). Lock on is set to "LB." _CGO_ is also preconfigured, _D-PAD RIGHT_ will shift your grip from one handed to two no matter which weapon you wield (hello dual warhammers) and _D-PAD DOWN_ will let you block while dual wielding. Where _CGO_ really shines, though, is with a two-hander in one hand and a spell in the other, so fire up those spellsword builds! Don't forget you can also _attack while jumping_ for "death from above" or fancy archery tricks. All melee attacks are "unlocked" which means you can move freely while executing them to land the perfect mace to the dome no matter how squirrelly your opponent.
+Unfortunately 8-way dodges are not possible with a controller without an external program and forcing "always run" which is esssential to any type of Sneak. As you play, keep in mind that you can roll or step dodge in only the four cardinal directions. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the step dodge and a roll with the G key. The menu is weird, "Start" opens the system and quest menu "RB + Start" opens the "TweeN" menu (skills / magic / items / map). Lock on is set to "LB." Where _CGO_ really shines is with a two-hander in one hand and a spell in the other, so fire up those spellsword builds! Don't forget you can also _attack while jumping_ for "death from above" or fancy archery tricks. All melee attacks are "unlocked" which means you can move freely while executing them to land the perfect mace to the dome no matter how squirrelly your opponent.
 
 **Under the System > Settings Menu** change Quicksave_ to _F9_, and _Quickload_ to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. However, and I realize this is a pain, _do not_ use the "QuickSave" option from the System menu! Bad things can (and probably will) happen to your long-term save. In addition _do not_ turn on any "Autosave" options. They can and will corrupt with time. Get used to saving a lot!
 
@@ -174,10 +168,6 @@ The process will take about two minutes, whereupon you will receive a message th
 
 Load the User Preset.
 
-###  Cathedral Weathers
-
-Just hit _Load Settings_. The confirmation message will look a little weird, but its not a big deal.
-
 ###  CGO
 
 #### Settings
@@ -264,7 +254,7 @@ Here's what makes up for it though, after you begin the scene by clicking on emp
 
 #### Presets
 
-Click on _Slot 1: Perfect_ under _Load Preset_ and wait for the message.
+Click on _Slot 2: Perfect 1.2_ under _Load Preset_ and wait for the message.
 
 ### The Ultimate Dodge Mod
 
