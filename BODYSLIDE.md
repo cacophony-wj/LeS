@@ -28,7 +28,7 @@ You will also have to follow all of the steps below.
 17. Once you are satisfied, ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
 18. **Hold down the CTRL key** (very important) and click _Batch Build_. 
 19. You will see a huge list of bodies and outfits. Just click _Build_.
-20. A prompt will appear asking where to put your custom-fitted outfits. Make sure they go to **_LeS Directory_/mods/BodySlide Output**.
+20. A prompt will appear asking where to put your custom-fitted outfits. Make sure they go to **_Licentia Directory_/mods/BodySlide Output**.
 21. **Do not put your outfits anywhere but _BodySlide Output_.**
 22. Click _Select Folder_
 23. Options for 4 helmets will appear. These helmets have a bit of hair sticking out. Decide what color you want them.
@@ -38,8 +38,8 @@ You will also have to follow all of the steps below.
 27. Click OK
 28. If you receive any error messages, repeat the process from step 16 until you receive the above message.
 29. When finished, navigate to **_Licentia Directory_/mods/BodySlide Output/meshes** and make sure about a dozen outfits folders are there.
-30. If there is only a _meshes_ folder there, move it to **_LeS Directory_/mods/BodySlide Output**
-31. **Confirm that all the outfits folders are in _LeS Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
+30. If there is only a _meshes_ folder there, move it to **_Licentia Directory_/mods/BodySlide Output**
+31. **Confirm that all the outfits folders are in _Licentia Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
 32. You may continue.
 
 ### Changing It Up
