@@ -1,6 +1,5 @@
 - [Licentia Configuration](#licentia-configuration)
 - [Setting your resolution](#setting-your-resolution)
-- [Click New Game](#click-new-game)
 - [Character Creation](#character-creation)
 - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
 - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
@@ -19,7 +18,6 @@
   - [SL Anim Loader](#sl-anim-loader)
     - [General Options](#general-options)
   - [A Matter of Time](#a-matter-of-time)
-  - [Cathedral Weathers](#cathedral-weathers)
   - [CGO](#cgo)
     - [Settings](#settings)
   - [Follower Framework](#follower-framework)
@@ -31,6 +29,7 @@
     - [General](#general)
   - [SexLab Solutions](#sexlab-solutions)
     - [follower](#follower)
+    - [Mischellaneous](#mischellaneous)
   - [SexLab Tools](#sexlab-tools)
     - [Settings](#settings-2)
   - [SmoothCam](#smoothcam)
@@ -231,6 +230,10 @@ Wait for this message to appear in the upper left: **Masturbate (SLEN) added**.
 ####  follower
 
 Choose the appropriate options here to offer a follower instead of yourself for sexual favors. This is mainly useful if you aren't attracted to a particular sex.
+
+#### Mischellaneous
+
+There appears to be a bug with the SE version of _SLEN_ which sometimes puts male NPCs into a female role. While this is under investigation, uncheck _SLEN Integration_ here.
 
 ### SexLab Tools
 
