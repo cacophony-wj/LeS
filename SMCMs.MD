@@ -3,7 +3,6 @@
 - [A note about SexLab Separate Orgasms](#a-note-about-sexlab-separate-orgasms)
 - [Buying Skyrim Survival](#buying-skyrim-survival)
 - [Setting your resolution](#setting-your-resolution)
-- [Click New Game](#click-new-game)
 - [Character Creation](#character-creation)
 - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
 - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
@@ -15,52 +14,43 @@
   - [SexLab](#sexlab-1)
     - [Sex Diary / Journal](#sex-diary--journal)
     - [Rebuild & Clean](#rebuild--clean)
+    - [Animation Settings](#animation-settings)
   - [SexLab](#sexlab-2)
   - [SAVE AND LOAD!](#save-and-load)
   - [SL Anim Loader](#sl-anim-loader)
     - [General Options](#general-options)
   - [A Matter of Time](#a-matter-of-time)
-  - [Cathedral Weathers](#cathedral-weathers)
+  - [Ashes](#ashes)
   - [CGO](#cgo)
     - [Settings](#settings)
-  - [Clockwork](#clockwork)
   - [Diverse Dragons Col. 3](#diverse-dragons-col-3)
   - [Creature Framework](#creature-framework)
-    - [Performance](#performance)
-  - [Deadly Dragons](#deadly-dragons)
-    - [Special](#special)
-  - [Diverse Dragons Col. 3](#diverse-dragons-col-3-1)
-    - [Dragons](#dragons)
-  - [Extended UI](#extended-ui)
-  - [FEC](#fec)
+    - [General](#general)
   - [Follower Framework](#follower-framework)
     - [System](#system)
-  - [GIST Soul Trap](#gist-soul-trap)
-  - [Growl Werebeasts](#growl-werebeasts)
+  - [Immersive Creatures](#immersive-creatures)
+    - [Creature Toggles](#creature-toggles)
+    - [Additional Spawns](#additional-spawns)
+    - [Night Spawns](#night-spawns)
   - [Quick Light](#quick-light)
-  - [Sacrosanct Vampires](#sacrosanct-vampires)
-  - [Schlongs of Skyrim](#schlongs-of-skyrim)
   - [Serio's Hotkeys](#serios-hotkeys)
   - [SexLab Adventures](#sexlab-adventures)
   - [SexLab Aroused](#sexlab-aroused)
     - [Settings](#settings-1)
   - [SexLab Eager NPCs](#sexlab-eager-npcs)
-    - [General](#general)
+    - [General](#general-1)
   - [SexLab Solutions](#sexlab-solutions)
     - [Animations](#animations)
     - [follower](#follower)
   - [Miscellaneous](#miscellaneous)
   - [SexLab Tools](#sexlab-tools)
     - [Settings](#settings-2)
-  - [Sky UI](#sky-ui)
-    - [General](#general-1)
-    - [Advanced](#advanced)
+  - [Simply Rest Anywhere](#simply-rest-anywhere)
+    - [Main](#main)
   - [SmoothCam](#smoothcam)
     - [Presets](#presets)
   - [SL Survival](#sl-survival)
   - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
-    - [General Settings](#general-settings)
-    - [Player Settings](#player-settings)
     - [NPC Settings](#npc-settings)
   - [VioLens](#violens)
     - [Profile System](#profile-system)
@@ -96,10 +86,6 @@ _Servitium_ should default to your monitor's native resolution on installation. 
 If you have an Ultrawide monitor, you will need [this mod](https://www.nexusmods.com/skyrimspecialedition/mods/1778). Install it as you would any other Mod Organizer mod. Just put it under _Added Mods._
 
 I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack readmes or drop by Discord and type _!usesearch_ to hunt for other users' experiences.
-
-## Click New Game
-
-You might wonder why I put something so obvious here but you'd be surprised at the questions I get. It takes longer to load Skyrim with all these textures, and if you're not on an SSD you're probably going to have a bad time.
 
 ## Character Creation
 
@@ -179,6 +165,12 @@ A message will appear which concludes with "Do you want to continue?" Click _Acc
 
 Another message will appear, "SexLab configuration successfully imported." Click _Accept_
 
+#### Animation Settings
+
+Be _sure_ to check "Use Separate Orgasms" under **Extra Effects**! Otherwise SLSO will do nothing! This is left disabled because none of the other three profiles make use of it.
+
+Enable "Creature Animation" in the top right, close the menu, and wait for all messages to stop.
+
 I have removed all Futa options because I am not into them. _Strap-ons are enabled_ however, because the mods in _Servitium_ sometimes put females in a male role for group animations. You can disable them if you want, but you'll mostly likely get dickless humping animations anyway. _Too bad!_
 
 Note that **ALL** of _SexLab's_ original old animations have been suppressed due to unpopularity. If you want to re-enable them for some reason, click _CLEAR SUPPRESSED LIST - CLICK HERE_
@@ -203,9 +195,9 @@ The process will take about five minutes, whereupon you will receive a message t
 
 Load the User Preset.
 
-###  Cathedral Weathers
+### Ashes
 
-Click _Seasonal Perspective_
+Just enable the mod. I don't use its features myself, I just wait until it spawns me in Riverwood and reload my game. This prevents save corruption, but if you want to fiddle with the settings, you can have it rob you or strip you and turn on permadeath or other means of making death and recovery a major _PITA_.
 
 ###  CGO
 
@@ -243,38 +235,13 @@ Set to _0.00_ to prevent motion sickness.
 
 _Not supported._ Do _NOT_ enable this option.
 
-
-### Clockwork
-
-3 hours is bullshit. You'll never stop fighting those fuckers. Set it to 6.
-
 ### Diverse Dragons Col. 3
 
 ### Creature Framework
 
-#### Performance
+#### General
 
-Minimize it all. Set _Cloak range_ to _1000_, _max creatures_ to _4_ and _cooldown_ to _120 seconds_.
-
-### Deadly Dragons
-
-#### Special
-
-Uncheck _Knockdown_ unless you like to ragequit.
-
-### Diverse Dragons Col. 3
-
-#### Dragons
-
-Disable _Nether Dragon_, _Sanguine Dragon_, and _Vile Dragon._ These are so difficult they are almost invincible, and decidedly un-fun.
-
-### Extended UI
-
-Check _Hide Legendary UI Elements_, _Show Attribute Modifiers_ and _Show Skill Modifiers._ Legendary skills are kinda pointless because True Dragonborn makes the skill cap like 667 or some shit.
-
-### FEC
-
-All this is kinda how flashy you want people to die. AT the bare minimum, I find _Fire Damage_ and _Shock Damage_, under the relevant sections, to be extremely annoying. Basically, bodies can't be touched after they've been burned or electrocuted to death or you will take damage. Turn that shit off.
+Disable "Sexlab Aroused Integration." This modlist already scans all humans for how horny they are. We don't need to do the same for everything thats alive.
 
 ###  Follower Framework
 
@@ -286,13 +253,21 @@ At the message **Settings Loaded. Please exist the MCM menu to apply all changes
 
 Exit the MCM and re-open it.
 
-### GIST Soul Trap
+### Immersive Creatures
 
-Check _Show messages on soul trapped_
+_These settings will greatly increase crashes if not followed **TO THE LETTER**._
 
-### Growl Werebeasts
+#### Creature Toggles
 
-Check _Invulnerable During Transformation_
+Disable "Goblin" on the right.
+
+#### Additional Spawns
+
+Disable "Animal" and "Ore Guardian" under _Spawn Types_.
+
+#### Night Spawns
+
+Set _Night Spawns_ to "Deactivated"
 
 ### Quick Light
 
@@ -300,15 +275,7 @@ Set _Type of Light Source_ to _No Special Effect._
 
 Set _Brightness_ to _Wide_
 
-Set the light key to your preference, but I recommend _NUMPAD 1_ because it doesn't conflict with anything imporant.
-
-### Sacrosanct Vampires
-
-Check _Fortitude: Disable_
-
-### Schlongs of Skyrim
-
-If you kinda hate seeing tiny wangs, set the _Min schlong size_ to 7. If you kinda love tiny wangs, leave it alone.
+Set the light key to your preference, but I recommend _NUMPAD 1_ because it doesn't conflict with anything important.
 
 ### Serio's Hotkeys
 
@@ -318,7 +285,7 @@ You'll have to read about the mod if you wanna use it, I don't mess with it real
 
 ### SexLab Adventures
 
-Choose _Load from file_, pick the one labeled _Adventures_, and hit _Exit._ 
+Choose _Load from file_, pick the one labeled "NoPovertyOrCrime.json", and hit _Exit._ 
 
 You'll need to go to _Proximity_ and turn off _Attempt when Undressing_ because this option refuses to export for some reason. 
 
@@ -329,8 +296,6 @@ You'll need to go to _Proximity_ and turn off _Attempt when Undressing_ because 
 #### Settings
 
 _General_
-
-Check _Purge Dead Actors Every 10 Game Days_
 
 Check _Enable SOS_.
 
@@ -362,7 +327,7 @@ Choose the appropriate options here to offer a follower instead of yourself for 
 
 ### Miscellaneous
 
-Enable _SLEN Integration_
+Disable _SLEN Integration_
 
 ### SexLab Tools
 
@@ -382,17 +347,11 @@ Finally you'll have to type in how many total people will be in the scene. And y
 
 Here's what makes up for it though, after you begin the scene by clicking on empty space and choosing _Begin scene_, you can press the _Shift+H_ keys to select from a list of commands, including changing positions, stages, and choosing animations from a list. Remember, it only draws from the first 250, or the first 250 of whatever tag you set. If your tag is too specific, nothing will be in the list.
 
-### Sky UI
+### Simply Rest Anywhere
 
-#### General
+#### Main
 
-**Active Effects HUD**
-
-Disable it
-
-#### Advanced
-
-Disable _Map Menu checking_
+Set the _Rest hotkey_ to "H".
 
 ### SmoothCam
 
@@ -422,18 +381,6 @@ Now,
 
 ### The Ultimate Dodge Mod
 
-#### General Settings
-
-_Combat Dodging Style_ recommend _Roll Only_
-
-Enable _Lock Default Dodging Style_
-
-#### Player Settings
-
-Enable _Gamepad Compatibility_
-
-Set to _Sneak Style 2_
-
 #### NPC Settings
 
 Uncheck _NPC Dodge AI_. My followers have been known to get stuck in midair with this option enabled.
@@ -442,21 +389,27 @@ Uncheck _NPC Dodge AI_. My followers have been known to get stuck in midair with
 
 #### Profile System
 
-Just check _Killmove Invulnerability_ to prevent crashes.
-
-Disable _Ranged Killmoves_ so you can hit things.
+Load the profile "VioLens"
 
 ### Defeat
 
 Aww shit. Here we go again. Save before you do this in case something goes wrong.
 
+Firstly, this WILL NOT WORK unless you enable "ZaZ 7.0SE-Rev1" in the modlist.
+
+Make sure that if the mod has something called "ZaZAnimationPack.esm" in it that this is either disabled, hidden, or deleted.
+
+Finally go back into Skyrim to the "Defeat" menu.
+
 Enable it.
 
 Close the menu.
 
-Wait for the message.
+Wait for the message. (It can take up to five minutes. If it takes longer than this, you probably won't be able to get it to work. Defeat is a bad mod.)
 
 Import the profile.
+
+Almost everything is off except surrender, which you do with "K". Do it fast or you'll be dead.
 
 Pray to mighty Cthulhu that it works.
 
