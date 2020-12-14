@@ -6,6 +6,12 @@
   - [Controls](#controls)
 - [CONTROLLER MAPPING](#controller-mapping)
 - [Game MCM Options](#game-mcm-options)
+  - [SexLab](#sexlab)
+    - [Install](#install)
+  - [SexLab](#sexlab-1)
+    - [Rebuild & Clean](#rebuild--clean)
+  - [SexLab](#sexlab-2)
+  - [SAVE AND LOAD!](#save-and-load)
   - [A Matter of Time](#a-matter-of-time)
     - [Presets](#presets)
   - [Ashes](#ashes)
@@ -96,7 +102,41 @@ Y: Jump
 
 It is _very important_ to **wait** until _all_ messages have both ceased appearing and disappearing in the upper left corner of the screen before continuing. 
 
-Configuring _Evanescentium_ is a lot less picky than configuring a SexLab profile because the mods aren't as shitty. :D
+### SexLab
+
+SexLab is present, yes, but _only as a framework for orgasms that OSEX can use._ OSEX's orgasms are terrible... actually, they're non-existent. The bar fills. It empties. It starts filling again. Nothing about the scene changes.
+
+With OSTIM and at least the SexLab framework (properly configured) you will at least get a decent orgasm.
+
+#### Install
+
+Under **SexLab 1.63 SE dev beta 8 by Ashal@LoversLab.com**
+
+Click _INSTALL/UPDATE SEXLAB 163 SE DEV BETA 8_
+
+Close the menu and wait. Once again, a series of messages will appear in the upper left corner. 
+
+Do not touch the mouse or keyboard until the following message appears:
+
+**SexLab - SexLab v1.63 SE dev beta 8 - Ready!**
+
+Then open the MCM and continue.
+
+### SexLab
+
+####  Rebuild & Clean
+
+Just below **Debug / Development Mode** in the upper right corner, click _Import Settings: Click Here_
+
+A message will appear which concludes with "Do you want to continue?" Click _Accept_
+
+Another message will appear, "SexLab configuration successfully imported." Click _Accept_
+
+### SexLab
+
+### SAVE AND LOAD!
+
+Lover's Lab recommends saving and loading the game immediately after fully configuring SexLab. Please do so now. If the QuickSave and QuickLoad buttons have changed, recall that they are now _F9_ and _F10_.
 
 ### A Matter of Time
 
@@ -182,7 +222,7 @@ You'll have to read about the mod if you wanna use it, I don't mess with it real
 
 #### Presets
 
-Click on _Slot 2: Perfect v1.3_ under _Load Preset_ and wait for the message.
+Click on _Slot 1: Souls-Like_ under _Load Preset_ and wait for the message.
 
 ### Storm Lightning
 
