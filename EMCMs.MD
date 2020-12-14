@@ -25,6 +25,10 @@
   - [FlowerGirls SE](#flowergirls-se)
   - [Follower Framework](#follower-framework)
     - [System](#system)
+  - [Immersive Creatures](#immersive-creatures)
+    - [Creature Toggles](#creature-toggles)
+    - [Additional Spawns](#additional-spawns)
+    - [Night Spawns](#night-spawns)
   - [OStim](#ostim)
     - [Sex scenes](#sex-scenes)
   - [Serio's Hotkeys](#serios-hotkeys)
@@ -199,6 +203,20 @@ In the upper right, click _Load From File - CLICK HERE_
 At the message **Settings Loaded. Please exist the MCM menu to apply all changes.** click _Ok_
 
 Exit the MCM and re-open it.
+
+### Immersive Creatures
+
+#### Creature Toggles
+
+Disable _Goblin_
+
+#### Additional Spawns
+
+Disable _Animal Spawns_ and _Ore Guardian Spawns_
+
+#### Night Spawns
+
+Disable all these.
 
 ### OStim
 
