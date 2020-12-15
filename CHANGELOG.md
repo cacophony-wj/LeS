@@ -1,3 +1,40 @@
+## 0.1E
+
+This changelog is only for the _alpha_ Evanescentium profile I posted recently. It _only_ reflects the differences as contrasted with _Licentia_.
+
+- Removed all SexLab mods but the framework itself (used for orgasms in OStim scenes)
+- Added OSex with all the optional animation add-ons
+- Added OStim
+- Added Flower Girls
+- Added Animation Selector for Flower Girls
+- Added Flower Girls Wintersun Patch
+- Changed Amorous Adventures to Amorous Adventures PLUS
+- Added Flower Girls More Adventures
+- Added Sex Scene Framework
+- Added Secret Lives of Skyrim NPCs
+- Added Auri
+- Added Auri/Inigo Banter Patch
+- Added Sandwich's Auri Beautifier
+- Added Inigo Marriage Patch for Kaidan 2
+- Added High Poly Inigo Replacer
+- Added M'rissi
+- Added Kaidan 2
+- Added eeekie's Kaidan Replacer
+- Added the LOTD patches for Auri, M'rissi, and Kaidan
+- Added the Fixed version of Wonders of Weather (no CTDs)
+- Added No Grass in Objects
+- Added No Silly Physics Damage
+- Added Face Discoloration Fix
+- Updated Souls-Like SmoothCam Preset to v2
+- Regenerated LODs specifically for this profile
+- Disabled and REMOVED IFPV
+- Added and Enabled Improved Camera Beta 4
+
+** COMING SOON! **
+
+Wine and chocolate to go with all the cheese!!
+BABO AND BILLYY IMPORTED INTO OSEX??
+
 ## 6.0
 
 This update is _yuge._
