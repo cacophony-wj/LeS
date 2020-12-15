@@ -16,6 +16,7 @@ This changelog is only for the _alpha_ Evanescentium profile I posted recently. 
 - Added Auri/Inigo Banter Patch
 - Added Sandwich's Auri Beautifier
 - Added Inigo Marriage Patch for Kaidan 2
+- Added Inigo Marriage Patch for M'rissi
 - Added High Poly Inigo Replacer
 - Added M'rissi
 - Added Kaidan 2
