@@ -1,3 +1,14 @@
+## 0.1.1E
+
+- Added DUMMY THICC - Flame Atronach HYPER version
+- Added Alternate Conversation Camera Plus
+- Added CHOCOLATE
+- Added Spirits of Skyrim
+- Swapped out Battle Maidens Load Screens for Lore-Based Loading Screens
+- Updated Window Shadows to 6.8
+- Updated Unofficial Skyrim Special Edition Patch to 4.24a
+- Added Dark Face Issue Reporter
+
 ## 0.1E
 
 This changelog is only for the _alpha_ Evanescentium profile I posted recently. It _only_ reflects the differences as contrasted with _Licentia_.
