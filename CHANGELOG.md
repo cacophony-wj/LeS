@@ -1,3 +1,41 @@
+## 6.7L
+
+This update is for the primary Licentia profile. It is _not_ save compatible.
+
+- Swapped SexLab Aroused SSE for SexLab Aroused Modular Edition SE
+- Added back SexLab Utility Plus
+- Added DUMMY THICC - Flame Atronach HYPER version
+- Added Alternate Conversation Camera Plus
+- Added Improved Camera Beta 4 but did NOT enable it, use this or ACC, not both
+- Added Auri
+- Added Auri/Inigo Banter Patch
+- Added Sandwich's Auri Beautifier
+- Added Inigo Marriage Patch for Kaidan 2
+- Added Inigo Marriage Patch for M'rissi
+- Added High Poly Inigo Replacer
+- Added M'rissi
+- Added Kaidan 2
+- Added eeekie's Kaidan Replacer
+- Added the LOTD patches for Auri, M'rissi, and Kaidan
+- Added the Fixed version of Wonders of Weather (no CTDs)
+- Added Triple Triad in Skyrim
+- Added The Paarthurnax Dilemma
+- Added CHOCOLATE
+- Added Spirits of Skyrim
+- Added Unofficial High Definition Audio Project
+- Added Dark Face Issue Reporter
+- Added No Silly Physics Damage
+- Added Face Discoloration Fix
+- Updated Billyy's SLAL Animations to 3.9
+- Updated Wyrmstooth to 1.19 BETA
+- Updated Window Shadows to 6.8.1
+- Updated Unofficial Skyrim Special Edition Patch to 4.24b
+- Updated Alternate Start - Live Another Life to 4.1.4
+- Updated Spell Perk Item Distributor to 4.1
+- Updated Souls-Like SmoothCam Preset to v2
+- Updated Legendary Booty Body presets to 4.0
+- Disabled and REMOVED IFPV
+
 ## 0.1.1E
 
 - Added DUMMY THICC - Flame Atronach HYPER version
