@@ -3,10 +3,13 @@
 This update is for the primary Licentia profile. It is _not_ save compatible.
 
 - Swapped SexLab Aroused SSE for SexLab Aroused Modular Edition SE
+- Swapped Rudy Cathedral ENB for PI-CHO KONAN ENB
 - Added back SexLab Utility Plus
 - Added DUMMY THICC - Flame Atronach HYPER version
 - Added Alternate Conversation Camera Plus
 - Added Improved Camera Beta 4 but did NOT enable it, use this or ACC, not both
+- Added Project AHO and assorted fixes (including a voluntary start)
+- Added Darkend
 - Added Auri
 - Added Auri/Inigo Banter Patch
 - Added Sandwich's Auri Beautifier
@@ -22,10 +25,23 @@ This update is for the primary Licentia profile. It is _not_ save compatible.
 - Added The Paarthurnax Dilemma
 - Added CHOCOLATE
 - Added Spirits of Skyrim
+- Added Sweet Roll Boiled Creme Treat and Pie
+- Added JS Dragon Claws and assorted patches
+- Added JS Berenziah
+- Added JS Armored Circlets
+- Added JS Purses and Septims
+- Added Final Fantasy VII Remake Buster Sword SE
+- Added Auriel's Bow Retexture
+- Added LOTD Clean Textures
 - Added Unofficial High Definition Audio Project
 - Added Dark Face Issue Reporter
 - Added No Silly Physics Damage
 - Added Face Discoloration Fix
+- Added Run and Walk at Your Pace
+- Added No More Standing Too Close
+- Added Clockwork Plantable Addon
+- Added SSoB USSEP incorporation
+- Added Bug Fixes SSE
 - Updated Billyy's SLAL Animations to 3.9
 - Updated Wyrmstooth to 1.19 BETA
 - Updated Window Shadows to 6.8.1
@@ -35,6 +51,7 @@ This update is for the primary Licentia profile. It is _not_ save compatible.
 - Updated Souls-Like SmoothCam Preset to v2
 - Updated Legendary Booty Body presets to 4.0
 - Disabled and REMOVED IFPV
+- Removed the Quicksave menu option
 
 ## 0.1.1E
 
