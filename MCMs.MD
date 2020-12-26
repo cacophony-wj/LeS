@@ -22,6 +22,9 @@
     - [Settings](#settings)
   - [Follower Framework](#follower-framework)
     - [System](#system)
+  - [Immersive Creatures](#immersive-creatures)
+    - [Creature Toggles](#creature-toggles)
+    - [Additional Spawns](#additional-spawns)
   - [Serio's Hotkeys](#serios-hotkeys)
   - [SexLab Aroused](#sexlab-aroused)
     - [Settings](#settings-1)
@@ -29,11 +32,14 @@
     - [General](#general)
   - [SexLab Solutions](#sexlab-solutions)
     - [follower](#follower)
-    - [Mischellaneous](#mischellaneous)
   - [SexLab Tools](#sexlab-tools)
     - [Settings](#settings-2)
+  - [SKY UI](#sky-ui)
+    - [General](#general-1)
   - [SmoothCam](#smoothcam)
     - [Presets](#presets)
+  - [Storm Lightning](#storm-lightning)
+    - [presets](#presets-1)
   - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
     - [NPC Settings](#npc-settings)
   - [VioLens](#violens)
@@ -195,6 +201,18 @@ At the message **Settings Loaded. Please exist the MCM menu to apply all changes
 
 Exit the MCM and re-open it.
 
+### Immersive Creatures
+
+#### Creature Toggles
+
+Disable _Goblins_ on the right.
+
+#### Additional Spawns
+
+**Spawn Types**
+
+Disable _Animal Spawns_ and _Ore Guardian Spawns_.
+
 ### Serio's Hotkeys
 
 Recommend _Use Vanilla Hotkeys_ if you're on controller.
@@ -207,7 +225,7 @@ You'll have to read about the mod if you wanna use it, I'm still experimenting. 
 
 _General_
 
-Check _Enable SOS_.
+On the right, import the profile.
 
 ###  SexLab Eager NPCs
 
@@ -231,10 +249,6 @@ Wait for this message to appear in the upper left: **Masturbate (SLEN) added**.
 
 Choose the appropriate options here to offer a follower instead of yourself for sexual favors. This is mainly useful if you aren't attracted to a particular sex.
 
-#### Mischellaneous
-
-There appears to be a bug with the SE version of _SLEN_ which sometimes puts male NPCs into a female role. While this is under investigation, uncheck _SLEN Integration_ here.
-
 ### SexLab Tools
 
 #### Settings
@@ -253,11 +267,25 @@ Finally you'll have to type in how many total people will be in the scene. And y
 
 Here's what makes up for it though, after you begin the scene by clicking on empty space and choosing _Begin scene_, you can press the _Shift+H_ keys to select from a list of commands, including changing positions, stages, and choosing animations from a list. Remember, it only draws from the first 250, or the first 250 of whatever tag you set. If your tag is too specific, nothing will be in the list.
 
+### SKY UI
+
+#### General
+
+Set _Font Size_ to Small.
+
+Disable the _Active Effects HUD_. (It gets in the way of my AMOT preset.)
+
 ### SmoothCam
 
 #### Presets
 
 Click on _Slot 2: Perfect 1.2_ under _Load Preset_ and wait for the message.
+
+### Storm Lightning
+
+#### presets
+
+Click _Realistic_ and wait for it to say **DONE**
 
 ### The Ultimate Dodge Mod
 
