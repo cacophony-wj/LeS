@@ -5,7 +5,6 @@
 	- [SexLab SE is still **beta!** It is still buggy!](#sexlab-se-is-still-beta-it-is-still-buggy)
 - [Number One Rule: This List Is Customizable](#number-one-rule-this-list-is-customizable)
 - [Light But Sexy](#light-but-sexy)
-- [Admiring Yourself](#admiring-yourself)
 - [A Bit of a Note about "Death Alternatives"](#a-bit-of-a-note-about-death-alternatives)
 - [A word about ENBs](#a-word-about-enbs)
 	- [Requirements](#requirements)
@@ -50,25 +49,11 @@ Before asking a question, look at [Troubleshooting](https://github.com/cacophony
 
 # Number One Rule: This List Is Customizable
 
-Your kinks are a very private thing. As opposed to piling together a modlist for every possible fetish, I have created a fun list for myself with beautiful characters and easy ways to initiate dialog sex with the highest quality and most frequently updated animations. The systems are kept intentionally light to ensure SexLab is as stable as it can be and to allow for greater compatibility with user additions. The patches are individual to each mod, there are no merges and the zPatchers can be easily disabled, allowing for almost anything to be added or removed.
+Your kinks are a very private thing. As opposed to piling together a modlist for every possible fetish, I have created a fun list for myself with beautiful characters and easy ways to initiate dialog sex with the highest quality and most frequently updated animations. The systems are kept intentionally light to ensure SexLab is as stable as it can be and to allow for greater compatibility with user additions. The patches are individual to each mod and there are no merges, allowing for almost anything to be added or removed.
 
 # Light But Sexy
 
 I'm boring. While fiddling around with wild and wacky fetishes can be fun, it's more an academic exercise with me, as in, how far can I push this until everything breaks? (I think every LL modder goes through this.) Eventually I got tired of it and made a sexy list you can actually play Skyrim with. So this modlist doesn't have any crazy stuff. No trolls or werewolves. No bondage gear. No sex slaves or boob milk. No ladies sprouting man parts to peg a fella. I also don't think these fetishes are worth the performance loss, instability, and save corruption that often follows. You know what I do like? Hot dudes and babes dual wielding greatswords and wiping out bandit camps to metal music and then making passionate love in the grass. Think _Heavy Metal_ without the sci-fi bits and also totally uncensored.
-
-#  Admiring Yourself
-
-For those who want to experience "POV" (point-of-view) scenes, _Immersive First Person View_ is included. It's a little wonky, so it's disabled by default. Ensure you're in first person mode (F key by default, click the right stick for the controller) and press _NUMPAD 0_ to enable it. Then press F / R3 again and look downward. Should work tolerably well for POV scenes (maybe a bit of clipping) except for animations where the actors are _really_ close to each other. 
-
-**You cannot switch to third person anymore without deactivating IFPV with _NUMPAD 0_!**
-
-To _disable IFPV_ once you have enabled it, ensure that you **can** see your body when you look downward, then press _NUMPAD 0_. You will automatically switch to a third person view. Once more the _F_ or _R3_ buttons will return to its default function, as will the scroll wheel.
-
-Note that _IFPV_ is _not_ recommended for general gameplay due to incompatible animations I have installed. If you leave it on all the time, you will see your shoulders rotating when you run. It is recommendeed to only switch to the _IFPV_ camera for a "POV" scene.
-
-If you wish to use the _IFPV_ camera as a replacement for Skyrim's vanilla camera (for example, so you can see your own body in an immersive fashion), I recommend you _uncheck_ the mod _Realistic Animations Project - Movement_ in Mod Organizer's left pane. This will _disable_ the "360 animations" which allow you to face the camera... you will always walk backward if you pull the left stick toward yourself.
-
-You can always watch a scene from an external view with SexLab's default freecam available with _NUMPAD 3_. This works _incredibly well_ with a controller as opposed to a mouse, one of the reasons I prefer one for a _SexLab_ list.
 
 # A Bit of a Note about "Death Alternatives"
 
@@ -76,7 +61,7 @@ _Death Alternatives_ don't work reliably. I can't stand it when they fail and I 
 
 # A word about ENBs
 
-This list was reborn with the intention of following Rudy's _Cathedral Weathers ENB_ weather and lighting recommendations. If you don't like it, I have also included _Serio's ENB_, _LJoss_, and _PI-CHO_ in the downloads directory which you can install if you wish to try them. If you are running this odlist at 4k, I _strongly_ recommend switching the ENB to _Serio's_. Don't limit yourself to my choices, though, in theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Be warned, the latter is among the most demanding available. 
+This list was reborn with the intention of following Rudy's _Cathedral Weathers ENB_ weather and lighting recommendations. However I have grown weary of the incredibly dark interiors and nights. Rudy also hasn't updated through several ENB revisions, so I have swapped things out for _PI-CHO KONAN EDITION_ from those Korean masters. If you don't like it, I have also included the original _Rudy Cathedral_, _Serio's ENB_, _LJoss_, and _PI-CHO Standard_ in the downloads directory which you can install if you wish to try them. If you are running this modlist at 4k, I _strongly_ recommend switching the ENB to _Serio's_. Don't limit yourself to my choices, though, in theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Choose carefully, ENBs are the most demanding part of any modlist. 
 
 ## Requirements
 
@@ -88,10 +73,10 @@ This list was reborn with the intention of following Rudy's _Cathedral Weathers 
 This portion is under review, but my best estimate as to what you need is as follows:
 
 - CPU: >= 7th gen Intel processor OR >= AMD Ryzen 3000 series processor
-- GPU: >= 1060, you need at least 4GB of VRAM
+- GPU: >= 1070, you need at least 6GB of VRAM
 - RAM: >= DDR4 with at least 12GBs
 
-Everything should be installed on an SSD that has at least 150GB of space available. 
+Everything should be installed on an SSD that has at least 250GB of space available. 
 
 Please note that you will also require _at least_ an additional 30GB on the drive you installed Wabbajack.exe to for extraction and recompression of files.
 
@@ -226,7 +211,7 @@ The rest must be completed after the game itself is launched. I recommend bringi
 
 This is not "officially" supported as per _Wabbajack Rule 11_. That said, I know you want to do it anyway, so I will offer this instruction.
 
-**Screen Archery** by adding _Poser Mods_ is not supported. Download the _Cupid_ modlist for this purpose.
+**Screen Archery** by adding _Poser Mods_ is not supported. Download the _Atelier_ modlist for this purpose.
 
 For _Gear_ it's as simple as adding it under _Added Mods_ and above _LEAVE HERE AT THE END_ in the left pane and the very bottom in the right pane. If your mod comes with _BodySlides_ (it should say so in the description) you will have to select them from the _Groups..._ menu and run them as per the instructions in the _Bodies_ section. If your gear mod does something crazy like add a huge museum of displays or put in chests for you to find you might have some issues. Otherwise, just use _AddItemMenu_ (in your inventory by default) to search for the item by name and put it in your inventory. _AddItemMenu_ is the ultimate cheat so don't use it if you want to play the "game" part of the game.
 
