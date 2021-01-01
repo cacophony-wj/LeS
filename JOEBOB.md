@@ -34,7 +34,11 @@ Every time you access a crafting table, this mod pools all your crafting materia
 
 ### The Chambers
 
-Like collecting stuff like in LOTD, but don't wanna, you know, make a whole _thing_ out of it? The Interdimensional Chambers are hands down the most efficient player home I've ever seen. Bob spent dozens of hours in the PS3 version of Hearthfires planning out the most optimal home before he discovered PC Gaming and especially the CK. Now you can benefit! Every item type in the game has a box designed for that type conveniently placed next to all the furniture and/or crafting stations related to that item type. There's a gold dispenser. And if you use Nether to tell all your followers to live here, everything is markered and navmeshed -- even the pantry and beer kegs.
+Like collecting stuff like in LOTD, but don't wanna, you know, make a whole _thing_ out of it? The Interdimensional Chambers are hands down the most efficient player home I've ever seen. Bob spent dozens of hours in the PS3 version of Hearthfires planning out the most optimal home before he discovered PC Gaming and especially the CK. Now you can benefit! Every item type in the game has a box designed for that type conveniently placed next to all the furniture and/or crafting stations related to that item type. There's a gold dispenser. And if you use Nether to tell all your followers to live here, everything is markered and navmeshed -- even the pantry and beer kegs. 
+
+Can't peep the location? Check it.
+
+https://github.com/cacophony-wj/LeS/raw/master/chambers.png
 
 ### Ion Cannon
 
