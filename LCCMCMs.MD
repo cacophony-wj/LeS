@@ -1,5 +1,6 @@
 - [Licentia Configuration](#licentia-configuration)
 - [Setting your resolution](#setting-your-resolution)
+- [An additional note on BodySlides](#an-additional-note-on-bodyslides)
 - [Character Creation](#character-creation)
 - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
 - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
@@ -12,38 +13,50 @@
     - [Sex Diary / Journal](#sex-diary--journal)
     - [Rebuild & Clean](#rebuild--clean)
     - [Animation Settings](#animation-settings)
-    - [Animation Settings](#animation-settings-1)
   - [SexLab](#sexlab-2)
   - [SAVE AND LOAD!](#save-and-load)
   - [SL Anim Loader](#sl-anim-loader)
     - [General Options](#general-options)
   - [A Matter of Time](#a-matter-of-time)
-  - [CGO](#cgo)
+  - [AGO](#ago)
     - [Settings](#settings)
+  - [BBLS](#bbls)
+  - [CGO](#cgo)
+    - [Settings](#settings-1)
+  - [Clockwork](#clockwork)
+  - [Deadly Dragons](#deadly-dragons)
+  - [Diverse Dragons Col. 3](#diverse-dragons-col-3)
+  - [Extended UI](#extended-ui)
   - [Follower Framework](#follower-framework)
     - [System](#system)
+  - [GIST Soul Trap](#gist-soul-trap)
+  - [Growl Werebeasts](#growl-werebeasts)
   - [Immersive Creatures](#immersive-creatures)
     - [Creature Toggles](#creature-toggles)
     - [Additional Spawns](#additional-spawns)
+  - [Quick Light](#quick-light)
+  - [Sacrosanct Vampires](#sacrosanct-vampires)
   - [Serio's Hotkeys](#serios-hotkeys)
   - [SexLab Aroused](#sexlab-aroused)
-    - [Settings](#settings-1)
+    - [Settings](#settings-2)
   - [SexLab Eager NPCs](#sexlab-eager-npcs)
     - [General](#general)
   - [SexLab Solutions](#sexlab-solutions)
     - [follower](#follower)
   - [SexLab Tools](#sexlab-tools)
-    - [Settings](#settings-2)
+    - [Settings](#settings-3)
   - [SKY UI](#sky-ui)
     - [General](#general-1)
   - [SmoothCam](#smoothcam)
     - [Presets](#presets)
+  - [SPERG](#sperg)
+  - [SSoB](#ssob)
   - [Storm Lightning](#storm-lightning)
     - [presets](#presets-1)
   - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
     - [NPC Settings](#npc-settings)
-  - [VioLens](#violens)
-    - [Profile System](#profile-system)
+  - [Trade and Barter](#trade-and-barter)
+  - [Wildcat Combat](#wildcat-combat)
   - [Ashes](#ashes)
 - [All done!](#all-done)
 
@@ -51,7 +64,7 @@
 
 ## Setting your resolution
 
-_Licentia_ has been configured to run at _1920x1080_ by default. This not only ensures higher FPS, but also quick turnaround for the various "animations" which are laggy in the best of situations. If you wish to change this to a higher resolution, bear in mind that you _will not_ get 60FPS at 4k and most likely not at 1440p. In any case, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
+_Licentia Cash Money_ has been configured to run at _1920x1080_ by default. This not only ensures higher FPS, but also quick turnaround for the various "animations" which are laggy in the best of situations. If you wish to change this to a higher resolution, bear in mind that you _will not_ get 60FPS at 4k and most likely not at 1440p. In any case, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
 
 "1080p" is _iSize H = 1080_ & _iSize W = 1920_
 "1440p" is _iSize H = 1440_ & _iSize W = 2560_
@@ -60,6 +73,10 @@ _Licentia_ has been configured to run at _1920x1080_ by default. This not only e
 If you have an Ultrawide monitor, you will need [this mod](https://www.nexusmods.com/skyrimspecialedition/mods/1778). Install it as you would any other Mod Organizer mod. Just put it under _Added Mods._
 
 I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack readmes or drop by Discord and type _!usesearch_ to hunt for other users' experiences.
+
+## An additional note on BodySlides
+
+With the addition of Creation Club armors you need to build them for your body. Go back to the BodySlides readme and make sure that, along with _3BBB_, you also select _CBBE Creation Club Outfits Immersive (Non HDT and HDT) and _Divine Crusader CBBE_. Follow the rest of the directions as written.
 
 ## Character Creation
 
@@ -145,13 +162,7 @@ If you do want your females to sometimes use strapons, navigate to
 
 and click the mark on the right that reads _Females Use Strap-ons._
 
-There is an option here that significantly affects many of the _Amorous Adventures_ scenes. Sometimes, the quests want a particular foreplay animation to play, but I have disabled _Foreplay_ to minimize the time spent watching a scene. If you want the AA animations to make more sense at the cost of an additional scene at the beginning of every adult interaction, go ahead and enable this option.
-
 Note that **ALL** of _SexLab's_ original old animations have been suppressed due to unpopularity. If you want to re-enable them for some reason, click _CLEAR SUPPRESSED LIST - CLICK HERE_
-
-#### Animation Settings
-
-**Creature animations are completely unsupported.** If you want them download the _Dungeons & Deviousness_ modlist.
 
 ### SexLab
 
@@ -173,15 +184,47 @@ The process will take about two minutes, whereupon you will receive a message th
 
 Load the User Preset.
 
+### AGO
+
+#### Settings
+
+Under **Enable/Disable** deselect _Persistent Arrows_.
+
+### BBLS
+
+This is the cash money suite. There are a lot of options here that are really personal preference. I recommend you look over the descriptions and enable the ones you are interested in. 
+
+A bit of a note, the options under **Resource Heavy** may have a significant impact on Papyrus load. I haven't tested them extensively and make certain to leave them disabled in more heavily scripted profiles. However, they are quite fun.
+
 ###  CGO
 
 #### Settings
 
+_Unlocked Grip_
+
+Change the _Hotkey_ to **Z** if you use M+KB and **D-PAD LEFT** if you use a controller.
+
+_Grip Notifications_
+
+Uncheck _NPCs Change Grip_.
+
+Scroll to the bottom
+
+_Dual Wield Blocking_
+
+Set to **Mouse 3 (Scroll Wheel)** for M+KB and **RB** for controller. This function will be duplicated with "Sprint" on the latter.
+
+_Unlocked Movement_
+
+Make certain all options are unchecked.
+
+Scroll to the top
+
+_Dodge Roll_
+
+Change _Input Type_ to **HOTKEY (TAP)**. This effectively disables CGO's dodge.
+
 _Leaning_
-
-I prefer the _procedural leaning_ and _camera movement_ (also known as **head bobbing**) at X1.00, but it does cause rather severe motion sickness in some players.
-
-**If you find uncomfortable nausea happening to you, I recommend the following values:**
 
 _Lean Multiplier (1st Person)_: _X0.00_
 
@@ -190,6 +233,22 @@ _Lean Multiplier (3rd Person)_: _X1.00_
 _Camera Noise_
 
 _Camera Noise Mult (1st Person)_: _X0.00_
+
+### Clockwork
+
+The respawn on the Gilded gets a little excessive at default. If you want to hate the Clockwork mod, leave these settings alone. If you want to respect it, set _Gilded Recovery Time_ to **6 Hours**. If you want it to be a walk in the park, disable the recovery.
+
+### Deadly Dragons
+
+Uncheck _Knockdown_.
+
+### Diverse Dragons Col. 3
+
+A word of warning, the dragons _Nether_, _Sanguine_, and _Vile_ have been reported to be _extremely_ unfair and difficult to kill. I recommend unchecking them under **Dragons**. You will need to close the menu and wait for the announcement.
+
+### Extended UI
+
+Check _Show Attribute Modifiers_ and _Show Skill Modifiers_
 
 ###  Follower Framework
 
@@ -200,6 +259,14 @@ In the upper right, click _Load From File - CLICK HERE_
 At the message **Settings Loaded. Please exist the MCM menu to apply all changes.** click _Ok_
 
 Exit the MCM and re-open it.
+
+### GIST Soul Trap
+
+Check _Show message on soul trapped_.
+
+### Growl Werebeasts
+
+Check _Invulnerable During Transformation_
 
 ### Immersive Creatures
 
@@ -213,6 +280,18 @@ Disable _Goblins_ on the right.
 
 Disable _Animal Spawns_ and _Ore Guardian Spawns_.
 
+### Quick Light
+
+Set _Type of Light Source_ to **No Special Effect**
+
+Set the brightness to _Bright_ if you want to preserve most of the lighting's integrity.
+
+If you're more concerned about being able to see well, set it to _Wide_ and use it sparingly.
+
+### Sacrosanct Vampires
+
+Check _Fortitude: Disable_
+
 ### Serio's Hotkeys
 
 Recommend _Use Vanilla Hotkeys_ if you're on controller.
@@ -223,9 +302,9 @@ You'll have to read about the mod if you wanna use it, I'm still experimenting. 
 
 #### Settings
 
-_General_
+Scroll to the bottom.
 
-On the right, import the profile.
+Put checks in the following: _Purge Dead Actors Every 10 Game Days_, _Require Light of Sight for arousal_, _Require naked actors to change arousal._, and _Enable SOS_. These options are more realistic but previously impossible in the original version of SLA. Now that most of the script load has been shunted to SKSE they can be safely enabled, and you may notice the update time on arousal is now 30 seconds instead of 300. Another nice feature of SLAM-SE is that your arousal doesn't skyrocket for no reason all the time. It is also much easier to keep low.
 
 ###  SexLab Eager NPCs
 
@@ -279,7 +358,25 @@ Disable the _Active Effects HUD_. (It gets in the way of my AMOT preset.)
 
 #### Presets
 
-Click on _Slot 2: Perfect 1.2_ under _Load Preset_ and wait for the message.
+Click on _Slot 1: Souls-Like_ under _Load Preset_ **ON THE RIGHT SIDE** and wait for the message.
+
+IF YOU ACCIDENTALLY CLICK IT UNDER SAVE, you are screwed for now.
+
+Close the game and reinstall the mod _Souls-Like SmoothCam Preset_ with a right click. 
+
+Then reload the game and return to this menu and pay more attention!
+
+### SPERG
+
+Click _Enable Salvage_
+
+Turn on Quest Rewards.
+
+Enable _Staff Leveling_
+
+### SSoB
+
+Enable _Quest Markers on Stones of Berenziah_
 
 ### Storm Lightning
 
@@ -293,21 +390,19 @@ Click _Realistic_ and wait for it to say **DONE**
 
 Uncheck _NPC Dodge AI_. My followers have been known to get stuck in midair with this option enabled.
 
-### VioLens
+### Trade and Barter
 
-#### Profile System
+This is a bit of personal preference but I recommend leaving it off. It's in here to make speech buffs more rewarding, which you can do by clicking _Modify Barter Settings_ and setting the _Barter Preset_ to **MEDIUM**. I'm warning you though, it'll make it really hard to keep your followers paid and you can probably forget about building a Hearthfires home.
 
-Click _Load - Select_.
+### Wildcat Combat
 
-A menu will appear. Select _VioLens_ and click _Exit_.
+Check _Disable Dynamic Combat_.
 
-When you get the message "Are you sure you want to load?" click _Load_.
+Enable _Allow Wildcat to Manage Difficulty_
 
-Wait a moment. You will see some stuff cycling. Then the message
+This is mainly in here to buff melee and give more variety to the difficulty levels.
 
-_"VioLens.VLMS" Loaded_
-
-Press _OK_
+Speaking of which, Licentia is set to _Expert_ by default, which is more of a balance, but _Adept_ lets you feel like more of a hero and _Master_ is more of a challenge. _Legendary_ is a touch too hard unless you like running away most of the time or rolling with a full posse.
 
 ### Ashes
 
