@@ -1,57 +1,52 @@
 - [Licentia Configuration](#licentia-configuration)
-- [Setting your resolution](#setting-your-resolution)
-- [Character Creation](#character-creation)
-- [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
-- [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
-  - [Controls](#controls)
-- [CONTROLLER MAPPING](#controller-mapping)
-- [Game MCM Options](#game-mcm-options)
-  - [SexLab](#sexlab)
-    - [Install](#install)
-  - [SexLab](#sexlab-1)
-    - [Sex Diary / Journal](#sex-diary--journal)
-    - [Rebuild & Clean](#rebuild--clean)
-    - [Animation Settings](#animation-settings)
-    - [Animation Settings](#animation-settings-1)
-  - [SexLab](#sexlab-2)
-  - [SAVE AND LOAD!](#save-and-load)
-  - [SL Anim Loader](#sl-anim-loader)
-    - [General Options](#general-options)
-  - [A Matter of Time](#a-matter-of-time)
-  - [CGO](#cgo)
-    - [Settings](#settings)
-  - [Follower Framework](#follower-framework)
-    - [System](#system)
-  - [Immersive Creatures](#immersive-creatures)
-    - [Creature Toggles](#creature-toggles)
-    - [Additional Spawns](#additional-spawns)
-  - [Serio's Hotkeys](#serios-hotkeys)
-  - [SexLab Aroused](#sexlab-aroused)
-    - [Settings](#settings-1)
-  - [SexLab Eager NPCs](#sexlab-eager-npcs)
-    - [General](#general)
-  - [SexLab Solutions](#sexlab-solutions)
-    - [follower](#follower)
-  - [SexLab Tools](#sexlab-tools)
-    - [Settings](#settings-2)
-  - [SKY UI](#sky-ui)
-    - [General](#general-1)
-  - [SmoothCam](#smoothcam)
-    - [Presets](#presets)
-  - [Storm Lightning](#storm-lightning)
-    - [presets](#presets-1)
-  - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
-    - [NPC Settings](#npc-settings)
-  - [VioLens](#violens)
-    - [Profile System](#profile-system)
-  - [Ashes](#ashes)
-- [All done!](#all-done)
+  - [Setting your resolution](#setting-your-resolution)
+  - [Character Creation](#character-creation)
+  - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
+  - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
+    - [Controls](#controls)
+  - [CONTROLLER MAPPING](#controller-mapping)
+  - [Game MCM Options](#game-mcm-options)
+    - [SexLab](#sexlab)
+      - [Install](#install)
+    - [SexLab](#sexlab-1)
+      - [Sex Diary / Journal](#sex-diary--journal)
+      - [Rebuild & Clean](#rebuild--clean)
+      - [Animation Settings](#animation-settings)
+      - [Animation Settings](#animation-settings-1)
+    - [SexLab](#sexlab-2)
+    - [SAVE AND LOAD!](#save-and-load)
+    - [SL Anim Loader](#sl-anim-loader)
+      - [General Options](#general-options)
+    - [A Matter of Time](#a-matter-of-time)
+    - [CGO](#cgo)
+      - [Settings](#settings)
+    - [Follower Framework](#follower-framework)
+      - [System](#system)
+    - [Serio's Hotkeys](#serios-hotkeys)
+    - [SexLab Aroused](#sexlab-aroused)
+      - [Settings](#settings-1)
+    - [SexLab Eager NPCs](#sexlab-eager-npcs)
+      - [General](#general)
+    - [SexLab Solutions](#sexlab-solutions)
+      - [follower](#follower)
+    - [SexLab Tools](#sexlab-tools)
+      - [Settings](#settings-2)
+    - [SKY UI](#sky-ui)
+      - [General](#general-1)
+    - [SmoothCam](#smoothcam)
+      - [Presets](#presets)
+    - [Storm Lightning](#storm-lightning)
+      - [presets](#presets-1)
+    - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
+      - [NPC Settings](#npc-settings)
+    - [Ashes](#ashes)
+  - [All done!](#all-done)
 
-## Licentia Configuration
+# Licentia Configuration
 
 ## Setting your resolution
 
-_Licentia_ has been configured to run at _1920x1080_ by default. This not only ensures higher FPS, but also quick turnaround for the various "animations" which are laggy in the best of situations. If you wish to change this to a higher resolution, bear in mind that you _will not_ get 60FPS at 4k and most likely not at 1440p. In any case, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
+_Licentia_ has been configured to run at _1920x1080_ by default. This not only ensures higher FPS, but also quick turnaround for the various "animations" which are laggy in the best of situations. If you wish to change this to a higher resolution, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
 
 "1080p" is _iSize H = 1080_ & _iSize W = 1920_
 "1440p" is _iSize H = 1440_ & _iSize W = 2560_
@@ -63,7 +58,7 @@ I can't help you get it working or test problems with it because I don't have Ul
 
 ## Character Creation
 
-Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard).  There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. Keep in mind that if you choose a _male elf_ character, the facial hair will look weird unless you switch the _Face Part_ to **3.** You'll know you have the right one when it says "high poly" in the bottom right and the face suddenly looks 10,000 times more detailed. Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _CBBE Morphs_ and _Genitals_ options, but I am not going to go into that. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished.
+Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard).  There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. Keep in mind that if you choose a _male elf_ character, the facial hair will look weird unless you switch the _Face Part_ to **3.** You'll know you have the right one when it says "high poly" in the bottom right and the face suddenly looks far more detailed. Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _CBBE Morphs_ and _Genitals_ options, but I am not going to go into that. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished.
 
 **IF YOUR BODY TURNS PURPLE**, scroll Racemenu over to _Body Paint_ and make sure all Textures are set to _Default_ (press the "T" key)
 
@@ -75,13 +70,13 @@ You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHI
 
 ### Controls
 
-The controls for "Licentia" have been set to mouse and keyboard by default, due to the addition of a sprint-slide mod that I love. If you wish to use a controller, please be certain to **delete** any _ControlMap_Custom_ files in your Skryim **game* directory if you plan to do so. Note that you will have to bind any keyboard controls again (such as QuickSave / QuickLoad)
+The controls for "Licentia" have been set to controller by default. I'm old and don't handle buttons well. If you wish to use a controller like me, please be certain to **delete** any _ControlMap_Custom_ files in your Skryim **game* directory if you plan to do so. Note that you will have to bind any keyboard controls again (such as QuickSave / QuickLoad)
 
-Unfortunately 8-way dodges are not possible with a controller without an external program and forcing "always run" which is esssential to any type of Sneak. As you play, keep in mind that you can roll or step dodge in only the four cardinal directions. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the step dodge and a roll with the G key. The menu is weird, "Start" opens the system and quest menu "RB + Start" opens the "TweeN" menu (skills / magic / items / map). Lock on is set to "LB." Where _CGO_ really shines is with a two-hander in one hand and a spell in the other, so fire up those spellsword builds! Don't forget you can also _attack while jumping_ for "death from above" or fancy archery tricks. All melee attacks are "unlocked" which means you can move freely while executing them to land the perfect mace to the dome no matter how squirrelly your opponent.
+Unfortunately 8-way dodges are not possible with a controller without an external program and forcing "always run" which is esssential to any type of Sneak. As you play, keep in mind that you can roll or step dodge in only the four cardinal directions. 
 
-**Under the System > Settings Menu** change Quicksave_ to _F9_, and _Quickload_ to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. However, and I realize this is a pain, _do not_ use the "QuickSave" option from the System menu! Bad things can (and probably will) happen to your long-term save. In addition _do not_ turn on any "Autosave" options. They can and will corrupt with time. Get used to saving a lot!
+**Under the System > Settings Menu** change Quicksave_ to _F9_, and _Quickload_ to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. 
 
-I'm oldschool so sometimes I play with an inverted controller. If your controls are inverted you might have to change it since I forgot to.
+_I've been through the turnstile and am coming at you inverted._ **So are my controls.** If you don't like an inverted up and down you may have to change it yourself.
 
 ## CONTROLLER MAPPING
 
@@ -151,7 +146,7 @@ Note that **ALL** of _SexLab's_ original old animations have been suppressed due
 
 #### Animation Settings
 
-**Creature animations are completely unsupported.** If you want them download the _Dungeons & Deviousness_ modlist.
+**Creature animations are not included.** For additions such as these, join my private Discord server which is linked in the main channel of this modlist.
 
 ### SexLab
 
@@ -179,9 +174,7 @@ Load the User Preset.
 
 _Leaning_
 
-I prefer the _procedural leaning_ and _camera movement_ (also known as **head bobbing**) at X1.00, but it does cause rather severe motion sickness in some players.
-
-**If you find uncomfortable nausea happening to you, I recommend the following values:**
+**I recommend the following values:**
 
 _Lean Multiplier (1st Person)_: _X0.00_
 
@@ -200,18 +193,6 @@ In the upper right, click _Load From File - CLICK HERE_
 At the message **Settings Loaded. Please exist the MCM menu to apply all changes.** click _Ok_
 
 Exit the MCM and re-open it.
-
-### Immersive Creatures
-
-#### Creature Toggles
-
-Disable _Goblins_ on the right.
-
-#### Additional Spawns
-
-**Spawn Types**
-
-Disable _Animal Spawns_ and _Ore Guardian Spawns_.
 
 ### Serio's Hotkeys
 
@@ -279,7 +260,7 @@ Disable the _Active Effects HUD_. (It gets in the way of my AMOT preset.)
 
 #### Presets
 
-Click on _Slot 2: Perfect 1.2_ under _Load Preset_ and wait for the message.
+Click on _Slot 2: EasyEase_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
 
 ### Storm Lightning
 
@@ -288,26 +269,9 @@ Click on _Slot 2: Perfect 1.2_ under _Load Preset_ and wait for the message.
 Click _Realistic_ and wait for it to say **DONE**
 
 ### The Ultimate Dodge Mod
-
 #### NPC Settings
 
 Uncheck _NPC Dodge AI_. My followers have been known to get stuck in midair with this option enabled.
-
-### VioLens
-
-#### Profile System
-
-Click _Load - Select_.
-
-A menu will appear. Select _VioLens_ and click _Exit_.
-
-When you get the message "Are you sure you want to load?" click _Load_.
-
-Wait a moment. You will see some stuff cycling. Then the message
-
-_"VioLens.VLMS" Loaded_
-
-Press _OK_
 
 ### Ashes
 
