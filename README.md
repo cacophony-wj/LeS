@@ -29,6 +29,12 @@ Your kinks are a very private thing. As opposed to piling together a modlist for
 
 _Death Alternatives_ don't work reliably. I can't stand it when they fail and I can't stand trying to improve their success rate. I have included _Ashes_ so you can spawn in a separate cell before reloading, as Wabbajack recommends. If you want to take this respawn mod as an opportunity for a "hardcore" playthrough, feel free to do so, but that is not its intention. Just wait until the screen fades in from black and reload.
 
+# A STRONG WARNING
+
+## SexLab SE is still **beta!** It is still buggy!
+
+Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
+
 ## A word about ENBs
 
 This list was reborn with the intention of following Rudy's _Cathedral Weathers ENB_ weather and lighting recommendations. However I have grown weary of the incredibly dark interiors and nights. Rudy also hasn't updated through several ENB revisions, so I have swapped things out for _PI-CHO KONAN EDITION_ from those Korean masters. If you don't like it, I have also included the original _Rudy Cathedral_, _Serio's ENB_, _LJoss_, and _PI-CHO Standard_ in the downloads directory which you can install if you wish to try them. If you are running this modlist at 4k, I _strongly_ recommend switching the ENB to _Serio's_. Don't limit yourself to my choices, though, in theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Choose carefully, ENBs are the most demanding part of any modlist. 
