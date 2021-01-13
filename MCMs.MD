@@ -3,43 +3,80 @@
   - [Character Creation](#character-creation)
   - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
   - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
-    - [Controls](#controls)
+  - [Controls](#controls)
   - [CONTROLLER MAPPING](#controller-mapping)
   - [Game MCM Options](#game-mcm-options)
-    - [SexLab](#sexlab)
-      - [Install](#install)
-    - [SexLab](#sexlab-1)
-      - [Sex Diary / Journal](#sex-diary--journal)
-      - [Rebuild & Clean](#rebuild--clean)
-      - [Animation Settings](#animation-settings)
-      - [Animation Settings](#animation-settings-1)
-    - [SexLab](#sexlab-2)
-    - [SAVE AND LOAD!](#save-and-load)
-    - [SL Anim Loader](#sl-anim-loader)
-      - [General Options](#general-options)
-    - [A Matter of Time](#a-matter-of-time)
-    - [CGO](#cgo)
-      - [Settings](#settings)
-    - [Follower Framework](#follower-framework)
-      - [System](#system)
+  - [SexLab](#sexlab)
+    - [Install](#install)
+  - [SexLab](#sexlab-1)
+    - [Sex Diary / Journal](#sex-diary--journal)
+    - [Rebuild & Clean](#rebuild--clean)
+    - [Animation Settings](#animation-settings)
+    - [Animation Settings](#animation-settings-1)
+  - [SexLab](#sexlab-2)
+  - [SAVE AND LOAD!](#save-and-load)
+  - [SL Anim Loader](#sl-anim-loader)
+    - [General Options](#general-options)
+  - [A Matter of Time](#a-matter-of-time)
+  - [AGO](#ago)
+    - [Settings](#settings)
+  - [BBLS](#bbls)
+    - [Basic Settings](#basic-settings)
+    - [Resource Heavy](#resource-heavy)
+  - [CGO](#cgo)
+    - [Settings](#settings-1)
+      - [Unlocked Grip](#unlocked-grip)
+      - [Dodge Roll](#dodge-roll)
+      - [Dual Wield Blocking](#dual-wield-blocking)
+      - [Unlocked Movement](#unlocked-movement)
+  - [Classical Lichdom](#classical-lichdom)
+    - [Classical Lichdom](#classical-lichdom-1)
+  - [Clockwork](#clockwork)
+  - [Deadly Dragons](#deadly-dragons)
+    - [Dragons](#dragons)
+      - [Special](#special)
+  - [Diverse Dragons Col. 3](#diverse-dragons-col-3)
+    - [Dragons](#dragons-1)
+  - [Extended UI](#extended-ui)
+  - [FEC](#fec)
+    - [Player Effects](#player-effects)
+    - [Fire](#fire)
+      - [Fire Effects](#fire-effects)
+      - [Immersion](#immersion)
+    - [Frost](#frost)
+      - [Frost Effects](#frost-effects)
+    - [Shock](#shock)
+      - [Shock Effects](#shock-effects)
+      - [Immersion](#immersion-1)
+    - [Poison](#poison)
+  - [Follower Framework](#follower-framework)
+    - [System](#system)
+  - [GIST Soul Trap](#gist-soul-trap)
+  - [Growl Werebeasts](#growl-werebeasts)
+  - [Quick Light](#quick-light)
     - [Serio's Hotkeys](#serios-hotkeys)
+  - [SPERG](#sperg)
+    - [VERY IMPORTANT: IF YOU DO NOT DO THIS YOU WILL CRASH](#very-important-if-you-do-not-do-this-you-will-crash)
+      - [Advaned Options: Enable](#advaned-options-enable)
     - [SexLab Aroused](#sexlab-aroused)
-      - [Settings](#settings-1)
+      - [Settings](#settings-2)
     - [SexLab Eager NPCs](#sexlab-eager-npcs)
       - [General](#general)
     - [SexLab Solutions](#sexlab-solutions)
       - [follower](#follower)
-    - [SexLab Tools](#sexlab-tools)
-      - [Settings](#settings-2)
-    - [SKY UI](#sky-ui)
-      - [General](#general-1)
-    - [SmoothCam](#smoothcam)
-      - [Presets](#presets)
-    - [Storm Lightning](#storm-lightning)
-      - [presets](#presets-1)
-    - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
-      - [NPC Settings](#npc-settings)
-    - [Ashes](#ashes)
+  - [SexLab Tools](#sexlab-tools)
+    - [Settings](#settings-3)
+  - [SKY UI](#sky-ui)
+    - [General](#general-1)
+  - [SmoothCam](#smoothcam)
+    - [Presets](#presets)
+  - [SSoB](#ssob)
+  - [Storm Lightning](#storm-lightning)
+    - [presets](#presets-1)
+  - [Wildcat Combat](#wildcat-combat)
+  - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
+    - [NPC Settings](#npc-settings)
+  - [Ashes](#ashes)
   - [All done!](#all-done)
 
 # Licentia Configuration
@@ -68,7 +105,7 @@ You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHI
 
 ## A bit of a note on System Settings
 
-### Controls
+## Controls
 
 The controls for "Licentia" have been set to controller by default. I'm old and don't handle buttons well. If you wish to use a controller like me, please be certain to **delete** any _ControlMap_Custom_ files in your Skryim **game* directory if you plan to do so. Note that you will have to bind any keyboard controls again (such as QuickSave / QuickLoad)
 
@@ -102,9 +139,9 @@ Y: Jump
 
 It is _very important_ to **wait** until _all_ messages have both ceased appearing and disappearing in the upper left corner of the screen before continuing.
 
-### SexLab
+## SexLab
 
-#### Install
+### Install
 
 Under **SexLab 1.63 SE dev beta 8 by Ashal@LoversLab.com**
 
@@ -118,13 +155,13 @@ Do not touch the mouse or keyboard until the following message appears:
 
 Then open the MCM and continue.
 
-### SexLab
+## SexLab
 
-#### Sex Diary / Journal
+### Sex Diary / Journal
 
 Your character is considered heterosexual by default. If you wish to change this, under **Sexual stats** on the right, click _Sexuality_ until your preference (Bisexual, Gay, or Lesbian) appears.
 
-####  Rebuild & Clean
+###  Rebuild & Clean
 
 Just below **Debug / Development Mode** in the upper right corner, click _Import Settings: Click Here_
 
@@ -136,7 +173,7 @@ I have removed all Futa options because I am not into them. Remaining are seven 
 
 If you do want your females to sometimes use strapons, navigate to
 
-#### Animation Settings
+### Animation Settings
 
 and click the mark on the right that reads _Females Use Strap-ons._
 
@@ -144,19 +181,19 @@ There is an option here that significantly affects many of the _Amorous Adventur
 
 Note that **ALL** of _SexLab's_ original old animations have been suppressed due to unpopularity. If you want to re-enable them for some reason, click _CLEAR SUPPRESSED LIST - CLICK HERE_
 
-#### Animation Settings
+### Animation Settings
 
 **Creature animations are not included.** For additions such as these, join my private Discord server which is linked in the main channel of this modlist.
 
-### SexLab
+## SexLab
 
-### SAVE AND LOAD!
+## SAVE AND LOAD!
 
 Lover's Lab recommends saving and loading the game immediately after fully configuring SexLab. Please do so now. If the QuickSave and QuickLoad buttons have changed, recall that they are now _F9_ and _F10_.
 
-###  SL Anim Loader
+##  SL Anim Loader
 
-#### General Options
+### General Options
 
 Click _Enable All: Click Here_
 
@@ -164,13 +201,41 @@ Click _Register Animations_
 
 The process will take about two minutes, whereupon you will receive a message that animations have been registered. Just click _Accept_
 
-### A Matter of Time
+## A Matter of Time
 
 Load the User Preset.
 
-###  CGO
+## AGO
 
-#### Settings
+### Settings
+
+Under _Enable/Disable_ deselect _Persistent Arrows_
+
+## BBLS
+
+### Basic Settings
+
+You can do whatever you want here, but these options are a _lot_ of fun. 
+
+I recommend enabling all of them except _Cheat Chests_ and _Bed Sharing._
+
+### Resource Heavy
+
+These do appear to be quite heavily scripted. I recommend leaving them as is, but feel free to experiment. _Business Options,_ where you act as manager of the _Luxury Suite_, could be really fun for all I know.
+
+##  CGO
+
+### Settings
+
+#### Unlocked Grip
+
+This switches the way you hold a weapon. You can use anything one or two handed, but can only block with a shield in one-handed mode. Set the key for switching grip here. For controller, I recommend D-Pad Left. For keyboard, I recommend Z.
+
+Uncheck "NPCs Change Grip" if it is checked.
+
+#### Dodge Roll
+
+We need to disable this. Set it to _Hotkey (Tap)_ and leave the key as _ESC_ (which basically means blank)
 
 _Leaning_
 
@@ -184,9 +249,89 @@ _Camera Noise_
 
 _Camera Noise Mult (1st Person)_: _X0.00_
 
-###  Follower Framework
+Scroll all the way down.
 
-####  System
+#### Dual Wield Blocking
+
+This also affects unarmed blocks. Set it to the button you prefer, I recommend either mouse 3 (scroll wheel) or RB / R1.
+
+#### Unlocked Movement
+
+Make certain all of these are unchecked.
+
+## Classical Lichdom
+
+### Classical Lichdom
+
+We want to get busy. Set _Conjuration Requirement_ to 50.
+
+## Clockwork
+
+If you hate frustration, set _Gilded Recovery Time_ to "6 Hours." If you love it, leave it at 3.
+
+## Deadly Dragons
+
+### Dragons
+
+#### Special
+
+Uncheck "Knockdown"
+
+## Diverse Dragons Col. 3
+
+### Dragons
+
+Disable _Nether_, _Sanguine_, and _Vile_.
+
+## Extended UI
+
+Check the boxes marked _Show attribute modifiers_ and _Show skill modifiers
+
+## FEC
+
+### Player Effects
+
+Check "Soul Absorb"
+
+### Fire
+
+#### Fire Effects
+
+Uncheck "Automatic" 
+
+Check "Skeletonize"
+
+#### Immersion
+
+Uncheck "Fire Damage"
+
+### Frost
+
+#### Frost Effects
+
+Uncheck "Automatic" 
+
+Check "Shatter"
+
+### Shock
+
+#### Shock Effects
+
+Uncheck "Automatic"
+
+Check "Explosive" 
+
+#### Immersion
+
+Uncheck "Shock Damage"
+
+### Poison
+
+Set _Poison color intensity_ to 0%
+
+##  Follower Framework
+
+###  System
 
 In the upper right, click _Load From File - CLICK HERE_
 
@@ -194,11 +339,35 @@ At the message **Settings Loaded. Please exist the MCM menu to apply all changes
 
 Exit the MCM and re-open it.
 
+## GIST Soul Trap
+
+Check "Show message on soul trapped"
+
+## Growl Werebeasts
+
+Check "Invulnerable during Transformation"
+
+## Quick Light
+
+Set Type to "No Special Effect"
+
+Brightness to "Normal"
+
+"Set light key"... I recommend D-Pad Up for controller and NUMPAD1 for keyboard.
+
 ### Serio's Hotkeys
 
 Recommend _Use Vanilla Hotkeys_ if you're on controller.
 
 You'll have to read about the mod if you wanna use it, I'm still experimenting. Basically you can set it so your hotkeys are a function of shoulder button + face button for a total of 8 hotkeys on the controller (kinda like FF14 if you've ever played that on console)
+
+## SPERG
+
+### VERY IMPORTANT: IF YOU DO NOT DO THIS YOU WILL CRASH
+
+#### Advaned Options: Enable
+
+Weapon Speed: Disabled
 
 ###  SexLab Aroused
 
@@ -230,9 +399,9 @@ Wait for this message to appear in the upper left: **Masturbate (SLEN) added**.
 
 Choose the appropriate options here to offer a follower instead of yourself for sexual favors. This is mainly useful if you aren't attracted to a particular sex.
 
-### SexLab Tools
+## SexLab Tools
 
-#### Settings
+### Settings
 
 _Matchmaker queue_
 
@@ -248,32 +417,45 @@ Finally you'll have to type in how many total people will be in the scene. And y
 
 Here's what makes up for it though, after you begin the scene by clicking on empty space and choosing _Begin scene_, you can press the _Shift+H_ keys to select from a list of commands, including changing positions, stages, and choosing animations from a list. Remember, it only draws from the first 250, or the first 250 of whatever tag you set. If your tag is too specific, nothing will be in the list.
 
-### SKY UI
+## SKY UI
 
-#### General
+### General
 
 Set _Font Size_ to Small.
 
 Disable the _Active Effects HUD_. (It gets in the way of my AMOT preset.)
 
-### SmoothCam
+## SmoothCam
 
-#### Presets
+### Presets
 
 Click on _Slot 2: EasyEase_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
 
-### Storm Lightning
+## SSoB
 
-#### presets
+Check "Quest Markers on Stones of Berenziah"
+
+## Storm Lightning
+
+### presets
 
 Click _Realistic_ and wait for it to say **DONE**
 
-### The Ultimate Dodge Mod
-#### NPC Settings
+## Wildcat Combat
+
+Check "Disable Dynamic Combat."
+
+Under **difficutly** check "Allow Wildcat to Manage Difficulty"
+
+## The Ultimate Dodge Mod
+
+Highly recommend you set the sneak key for D-PAD down on a controller, or SHIFT on a keyboard
+
+### NPC Settings
 
 Uncheck _NPC Dodge AI_. My followers have been known to get stuck in midair with this option enabled.
 
-### Ashes
+## Ashes
 
 All you need to do is enable the mod.
 
