@@ -1,7 +1,11 @@
 - [Updates](#updates)
   - [An update came out! It's new and shiny! What should I do?](#an-update-came-out-its-new-and-shiny-what-should-i-do)
 - [Technical](#technical)
+  - [I'm randomly crashing!](#im-randomly-crashing)
+  - [I'm crashing in inventory or crafting menus!](#im-crashing-in-inventory-or-crafting-menus)
+  - [My performance is really terrible, low FPS, input lag during combat!](#my-performance-is-really-terrible-low-fps-input-lag-during-combat)
   - [I have a bug that's not in this list.](#i-have-a-bug-thats-not-in-this-list)
+  - [The "scenes" take forever to start, and sometimes don't start at all.](#the-scenes-take-forever-to-start-and-sometimes-dont-start-at-all)
   - [The "scenes" are misaligned! Tab As are not going into Slot Bs!](#the-scenes-are-misaligned-tab-as-are-not-going-into-slot-bs)
   - [I enabled a feature and it's not working.](#i-enabled-a-feature-and-its-not-working)
   - [I added a mod and something weird happened.](#i-added-a-mod-and-something-weird-happened)
@@ -25,11 +29,27 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Technical
 
+### I'm randomly crashing!
+
+You probably don't have enough paged RAM. Skyrim is very badly optimized. Try increasing your pagefile size. The recommendation is to set it to "System Managed" for all of your hard drives, but you can read specific instructions by going to any Wabbajack Discord channel and typing ``!pagefile`` 
+
+### I'm crashing in inventory or crafting menus!
+
+Probably the horrible LE strapons are the cause. Disable everything in the SexLab loaded Strapons menu and hope for the best.
+
+### My performance is really terrible, low FPS, input lag during combat!
+
+Your CPU or GPU are probably too weak. Head over to my Discord server and check the pins. There are many tips for improving performance on lower-end machines, and they can be used with practically any Wabbajack modlist!
+
 ### I have a bug that's not in this list.
 
 The best way to get it looked at is to submit it to [Issues](https://github.com/cacophony-wj/LeS/issues). It's a list, I remember lists, I don't remember or sometimes even notice other things.
 
 If you don't want to do that, I'm not going to be particularly strict about this since people have many reasons to avoid creating yet another account somewhere. So just drop by Discord. If I see it and it's not a known issue I'll try to help.
+
+### The "scenes" take forever to start, and sometimes don't start at all.
+
+SexLab is far from perfect. If you encounter this problem, try cycling the console or pause menus every couple seconds until the scene begins.
 
 ### The "scenes" are misaligned! Tab As are not going into Slot Bs!
 
@@ -41,7 +61,7 @@ I won't answer questions about features I disabled. I disabled them because I co
 
 ### I added a mod and something weird happened.
 
-See the main README. Long and the short of it is, you're on your own unless I'm in a good mood.
+Long and the short of it is, you're on your own unless I'm in a good mood.
 
 ### There's more than 255 ESPs! Will this thing even launch?
 

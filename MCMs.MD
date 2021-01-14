@@ -55,9 +55,6 @@
   - [Growl Werebeasts](#growl-werebeasts)
   - [Quick Light](#quick-light)
     - [Serio's Hotkeys](#serios-hotkeys)
-  - [SPERG](#sperg)
-    - [VERY IMPORTANT: IF YOU DO NOT DO THIS YOU WILL CRASH](#very-important-if-you-do-not-do-this-you-will-crash)
-      - [Advaned Options: Enable](#advaned-options-enable)
     - [SexLab Aroused](#sexlab-aroused)
       - [Settings](#settings-2)
     - [SexLab Eager NPCs](#sexlab-eager-npcs)
@@ -69,7 +66,11 @@
   - [SKY UI](#sky-ui)
     - [General](#general-1)
   - [SmoothCam](#smoothcam)
+    - [Compatibility](#compatibility)
     - [Presets](#presets)
+  - [SPERG](#sperg)
+    - [Fixes & Compatibility](#fixes--compatibility)
+    - [Advanced](#advanced)
   - [SSoB](#ssob)
   - [Storm Lightning](#storm-lightning)
     - [presets](#presets-1)
@@ -363,14 +364,6 @@ Recommend _Use Vanilla Hotkeys_ if you're on controller.
 
 You'll have to read about the mod if you wanna use it, I'm still experimenting. Basically you can set it so your hotkeys are a function of shoulder button + face button for a total of 8 hotkeys on the controller (kinda like FF14 if you've ever played that on console)
 
-## SPERG
-
-### VERY IMPORTANT: IF YOU DO NOT DO THIS YOU WILL CRASH
-
-#### Advaned Options: Enable
-
-Weapon Speed: Disabled
-
 ###  SexLab Aroused
 
 #### Settings
@@ -429,9 +422,33 @@ Disable the _Active Effects HUD_. (It gets in the way of my AMOT preset.)
 
 ## SmoothCam
 
+### Compatibility
+
+Alternate Conversation Camera: Checked
+
+Improved Camera: Checked
+
+Immersive First Person View: Unchecked
+
+Scroll to the bottom where you will find 
+
 ### Presets
 
 Click on _Slot 2: EasyEase_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
+
+## SPERG
+
+### Fixes & Compatibility
+
+Unarmed Mode: Manual
+
+### Advanced 
+
+Advanced Options: Enable
+
+Etheral Arrows Required: Unchecked
+
+Weapon Speed: Disabled
 
 ## SSoB
 
