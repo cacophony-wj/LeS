@@ -1,83 +1,188 @@
 - [Servitium Configuration](#servitium-configuration)
-- [A Note About Creation Club Survival](#a-note-about-creation-club-survival)
-- [A note about SexLab Separate Orgasms](#a-note-about-sexlab-separate-orgasms)
-- [Buying Skyrim Survival](#buying-skyrim-survival)
-- [Setting your resolution](#setting-your-resolution)
-- [Character Creation](#character-creation)
-- [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
-- [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
+  - [Setting your resolution](#setting-your-resolution)
+  - [Character Creation](#character-creation)
+  - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
+  - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
   - [Controls](#controls)
-- [CONTROLLER MAPPING](#controller-mapping)
-- [Game MCM Options](#game-mcm-options)
+  - [CONTROLLER MAPPING](#controller-mapping)
+  - [Game MCM Options](#game-mcm-options)
   - [SexLab](#sexlab)
     - [Install](#install)
   - [SexLab](#sexlab-1)
     - [Sex Diary / Journal](#sex-diary--journal)
     - [Rebuild & Clean](#rebuild--clean)
     - [Animation Settings](#animation-settings)
+    - [Changes for Servitium](#changes-for-servitium)
+    - [Animation Settings](#animation-settings-1)
   - [SexLab](#sexlab-2)
   - [SAVE AND LOAD!](#save-and-load)
+  - [ZaZ Animation Pack](#zaz-animation-pack)
+    - [General](#general)
   - [SL Anim Loader](#sl-anim-loader)
     - [General Options](#general-options)
   - [A Matter of Time](#a-matter-of-time)
-  - [Ashes](#ashes)
-  - [CGO](#cgo)
+  - [AGO](#ago)
     - [Settings](#settings)
+  - [Ashes](#ashes)
+  - [BBLS](#bbls)
+    - [Basic Settings](#basic-settings)
+    - [Resource Heavy](#resource-heavy)
+  - [CBBE 3BBB Addon](#cbbe-3bbb-addon)
+  - [CGO](#cgo)
+    - [Settings](#settings-1)
+      - [Unlocked Grip](#unlocked-grip)
+      - [Dodge Roll](#dodge-roll)
+      - [Dual Wield Blocking](#dual-wield-blocking)
+      - [Unlocked Movement](#unlocked-movement)
+  - [Clockwork](#clockwork)
+  - [Deadly Dragons](#deadly-dragons)
+    - [Dragons](#dragons)
+      - [Special](#special)
   - [Diverse Dragons Col. 3](#diverse-dragons-col-3)
-  - [Creature Framework](#creature-framework)
-    - [General](#general)
+    - [Dragons](#dragons-1)
+  - [Extended UI](#extended-ui)
+  - [FEC](#fec)
+    - [Player Effects](#player-effects)
+    - [Fire](#fire)
+      - [Fire Effects](#fire-effects)
+      - [Immersion](#immersion)
+    - [Frost](#frost)
+      - [Frost Effects](#frost-effects)
+    - [Shock](#shock)
+      - [Shock Effects](#shock-effects)
+      - [Immersion](#immersion-1)
+    - [Poison](#poison)
   - [Follower Framework](#follower-framework)
     - [System](#system)
-  - [Immersive Creatures](#immersive-creatures)
-    - [Creature Toggles](#creature-toggles)
-    - [Additional Spawns](#additional-spawns)
-    - [Night Spawns](#night-spawns)
+  - [GIST Soul Trap](#gist-soul-trap)
+    - [Leveling](#leveling)
+  - [Growl Werebeasts](#growl-werebeasts)
   - [Quick Light](#quick-light)
+  - [Sacrosanct Vampires](#sacrosanct-vampires)
   - [Serio's Hotkeys](#serios-hotkeys)
   - [SexLab Adventures](#sexlab-adventures)
   - [SexLab Aroused](#sexlab-aroused)
-    - [Settings](#settings-1)
+      - [Settings](#settings-2)
   - [SexLab Eager NPCs](#sexlab-eager-npcs)
     - [General](#general-1)
-  - [SexLab Solutions](#sexlab-solutions)
-    - [Animations](#animations)
-    - [follower](#follower)
-  - [Miscellaneous](#miscellaneous)
+    - [SexLab Solutions](#sexlab-solutions)
+      - [follower](#follower)
   - [SexLab Tools](#sexlab-tools)
-    - [Settings](#settings-2)
-  - [Simply Rest Anywhere](#simply-rest-anywhere)
-    - [Main](#main)
-  - [SmoothCam](#smoothcam)
-    - [Presets](#presets)
+    - [Settings](#settings-3)
   - [SL Survival](#sl-survival)
+  - [SKY UI](#sky-ui)
+    - [General](#general-2)
+    - [Advanced](#advanced)
+  - [SmoothCam](#smoothcam)
+    - [Compatibility](#compatibility)
+    - [Presets](#presets)
+  - [Spank That Ass](#spank-that-ass)
+  - [SPERG](#sperg)
+    - [Fixes & Compatibility](#fixes--compatibility)
+    - [Advanced](#advanced-1)
+  - [SSoB](#ssob)
+  - [Storm Lightning](#storm-lightning)
+    - [presets](#presets-1)
+  - [Wildcat Combat](#wildcat-combat)
   - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
     - [NPC Settings](#npc-settings)
-  - [VioLens](#violens)
-    - [Profile System](#profile-system)
-  - [Defeat](#defeat)
-- [All done!](#all-done)
+  - [All done!](#all-done)
 
-## Servitium Configuration
+- [Servitium Configuration](#servitium-configuration)
+  - [Setting your resolution](#setting-your-resolution)
+  - [Character Creation](#character-creation)
+  - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
+  - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
+  - [Controls](#controls)
+  - [CONTROLLER MAPPING](#controller-mapping)
+  - [Game MCM Options](#game-mcm-options)
+  - [SexLab](#sexlab)
+    - [Install](#install)
+  - [SexLab](#sexlab-1)
+    - [Sex Diary / Journal](#sex-diary--journal)
+    - [Rebuild & Clean](#rebuild--clean)
+    - [Animation Settings](#animation-settings)
+    - [Changes for Servitium](#changes-for-servitium)
+    - [Animation Settings](#animation-settings-1)
+  - [SexLab](#sexlab-2)
+  - [SAVE AND LOAD!](#save-and-load)
+  - [ZaZ Animation Pack](#zaz-animation-pack)
+    - [General](#general)
+  - [SL Anim Loader](#sl-anim-loader)
+    - [General Options](#general-options)
+  - [A Matter of Time](#a-matter-of-time)
+  - [AGO](#ago)
+    - [Settings](#settings)
+  - [Ashes](#ashes)
+  - [BBLS](#bbls)
+    - [Basic Settings](#basic-settings)
+    - [Resource Heavy](#resource-heavy)
+  - [CBBE 3BBB Addon](#cbbe-3bbb-addon)
+  - [CGO](#cgo)
+    - [Settings](#settings-1)
+      - [Unlocked Grip](#unlocked-grip)
+      - [Dodge Roll](#dodge-roll)
+      - [Dual Wield Blocking](#dual-wield-blocking)
+      - [Unlocked Movement](#unlocked-movement)
+  - [Clockwork](#clockwork)
+  - [Deadly Dragons](#deadly-dragons)
+    - [Dragons](#dragons)
+      - [Special](#special)
+  - [Diverse Dragons Col. 3](#diverse-dragons-col-3)
+    - [Dragons](#dragons-1)
+  - [Extended UI](#extended-ui)
+  - [FEC](#fec)
+    - [Player Effects](#player-effects)
+    - [Fire](#fire)
+      - [Fire Effects](#fire-effects)
+      - [Immersion](#immersion)
+    - [Frost](#frost)
+      - [Frost Effects](#frost-effects)
+    - [Shock](#shock)
+      - [Shock Effects](#shock-effects)
+      - [Immersion](#immersion-1)
+    - [Poison](#poison)
+  - [Follower Framework](#follower-framework)
+    - [System](#system)
+  - [GIST Soul Trap](#gist-soul-trap)
+    - [Leveling](#leveling)
+  - [Growl Werebeasts](#growl-werebeasts)
+  - [Quick Light](#quick-light)
+  - [Sacrosanct Vampires](#sacrosanct-vampires)
+  - [Serio's Hotkeys](#serios-hotkeys)
+  - [SexLab Adventures](#sexlab-adventures)
+  - [SexLab Aroused](#sexlab-aroused)
+      - [Settings](#settings-2)
+  - [SexLab Eager NPCs](#sexlab-eager-npcs)
+    - [General](#general-1)
+    - [SexLab Solutions](#sexlab-solutions)
+      - [follower](#follower)
+  - [SexLab Tools](#sexlab-tools)
+    - [Settings](#settings-3)
+  - [SL Survival](#sl-survival)
+  - [SKY UI](#sky-ui)
+    - [General](#general-2)
+    - [Advanced](#advanced)
+  - [SmoothCam](#smoothcam)
+    - [Compatibility](#compatibility)
+    - [Presets](#presets)
+  - [Spank That Ass](#spank-that-ass)
+  - [SPERG](#sperg)
+    - [Fixes & Compatibility](#fixes--compatibility)
+    - [Advanced](#advanced-1)
+  - [SSoB](#ssob)
+  - [Storm Lightning](#storm-lightning)
+    - [presets](#presets-1)
+  - [Wildcat Combat](#wildcat-combat)
+  - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
+    - [NPC Settings](#npc-settings)
+  - [All done!](#all-done)
 
-## A Note About Creation Club Survival
-
-I have intentionally left disabled most of the "Needs" functions of _SexLab Survival_ which, admittedly, is one of the primary goals of the mod, because I find hypothermia, camping, campfires, food, drink, sleep, and bathing too tedious to manage and still play the game. This is still supposed to be mostly Skyrim... just a Skyrim from a porn movie. Instead, I have found myself struck with the simplicity of _Skyrim Survival_ as it is available on the _Creation Club._ I think it covers the "gist" of keeping your body alive in the frozen wastes without burying you in micromanagement.
-
-The way it works is by a system of debuffs to your health, stamina, and magicka based on how cold, hungry or tired you are. Small black portions appear on the bars to tell you how much you are affected, similar to the red "rads" portion of the _Fallout 4_ health bar. In addition, the more you are affected, the more magicka, stamina, health regeneration are affected, as well as the effectiveness of certain skills like potions and weapon speed. It provides an intuitive, at-a-glance way to manage needs and works well to offset the OP nature of CGO and EnaiRim, as well as interacting with the next major new system, _SexLab Separate Orgasms._
-
-## A note about SexLab Separate Orgasms
-
-The way this mod works by turning sex into a little "minigame." By default, you press the "X" key on your controller to increase your partner's enjoyment (and your own), however, this drains a little stamina. When it goes all the way down, the scene advances. If you go too long without pressing "X", your partner's enjoyment will go down a little. Your goal is to max out their enjoyment before the scene ends, which you can take any number of potions, alcoholic drinks, or other buffs to help along. Don't worry, it's set to very forgiving by default and you should only have trouble if you are suffering severe debuffs from the Survival mod mentioned above. In addition, sometimes your partner will try to "spank" you, where you have to please him (or her) or talk dirty (by pressing "Y") to keep him from spanking you and penalizing your stamina further. Basically it makes every SexLab scene into a little porn movie. Kinda sick, I guess, but I didn't decide how the world makes its porn. I just installed mods around it. If you want to use a Mouse and Keyboard you WILL need to change these keys yourself, the relevant options are in the "SL Separate Orgasms" menu for the enjoyment key and the "Spank That Ass" menu for the "Talk Dirty" key. I recommend M1 for Enjoyment and M2 for talk dirty.
-
-## Buying Skyrim Survival
-
-So you've decided to take the plunge and try this. I fully admit that its overpriced and the method buying it is extremely dumb. You have to sign in to vanilla, unmodded Skyrim (launch from Steam) and click the "Creation Club" link. It should automatically detect and use your Steam payment information, and you will have to buy 249 credits more than the 500 you need for Survival Mode. If you choose to do this, and spend those 249 credits on something else, I will ensure it is compatible. 
-
-Trust me, if there were a simpler option than Frostfall available that worked basically the same way for no cost I would include it. You can always play this modlist without Survival Mode. And if you know of an alternative, please hit me up on my server and tell me about it.
+# Servitium Configuration
 
 ## Setting your resolution
 
-_Servitium_ should default to your monitor's native resolution on installation. This _will not_ be 60FPS at 4k and most likely not at 1440p. If you care more about FPS than resolution, or wish to use your own ENB, you may wish to dial the resolution back a bit. To do so, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimCustom.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
+_Licentia_ has been configured to run at _1920x1080_ by default. This not only ensures higher FPS, but also quick turnaround for the various "animations" which are laggy in the best of situations. If you wish to change this to a higher resolution, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
 
 "1080p" is _iSize H = 1080_ & _iSize W = 1920_
 "1440p" is _iSize H = 1440_ & _iSize W = 2560_
@@ -89,9 +194,11 @@ I can't help you get it working or test problems with it because I don't have Ul
 
 ## Character Creation
 
-Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard).  There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. Keep in mind that if you choose a _male elf_ character, the facial hair will look weird unless you switch the _Face Part_ to **3.** You'll know you have the right one when it says "high poly" in the bottom right and the face suddenly looks 10,000 times more detailed. Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _CBBE Morphs_ and _Genitals_ options, but I am not going to go into that. Don't ask me either. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished.
+**If you look really old** no matter what you try, reset your Complexion in the _Head_ menu. Vanilla Nord Female Preset 01 is an old hag for some weirdass reason and RaceMenu doesn't reset it properly. 
 
-**IF YOUR BODY TURNS PURPLE**, scroll Racemenu over to _Body Paint_ and make sure all Textures are set to _Default_ (press the "T" key)
+Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard).  There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. Keep in mind that if you choose a _male elf_ character, the facial hair will look weird unless you switch the _Face Part_ to **3.** You'll know you have the right one when it says "high poly" in the bottom right and the face suddenly looks far more detailed. Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _CBBE Morphs_ and _Genitals_ options, but I am not going to go into that. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished.
+
+**IF YOUR BODY OR FACE TURN PURPLE OR OTHERWISE WEIRD**, scroll Racemenu over to _Body Paint_ and make sure all Textures are set to _Default_ (press the "T" key)
 
 ## AS SOON AS CHARACTER CREATION IS COMPLETE
 
@@ -99,17 +206,15 @@ You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHI
 
 ## A bit of a note on System Settings
 
-### Controls
+## Controls
 
-The controls for "Servitium" are specifically designed for use with a controller. Please be certain to **delete** any _ControlMap_Custom_ files in your Skryim **game* directory if you plan to do so. Note that you will have to bind any keyboard controls again (such as QuickSave / QuickLoad)
+The controls for "Licentia" have been set to controller by default. I'm old and don't handle buttons well. If you wish to use a controller like me, please be certain to **delete** any _ControlMap_Custom_ files in your Skryim **game* directory if you plan to do so. Note that you will have to bind any keyboard controls again (such as QuickSave / QuickLoad)
 
-If you want to use a mouse and keyboard, close Skryim and disable everything under the _Controller_ section in the left pane. 
+Unfortunately 8-way dodges are not possible with a controller without an external program and forcing "always run" which is esssential to any type of Sneak. As you play, keep in mind that you can roll or step dodge in only the four cardinal directions. 
 
-Unfortunately 8-way dodges are not possible with a controller without an external program and forcing "always run" which is essential to any type of Sneak. As you play, keep in mind that you can roll or step dodge in only the four cardinal directions. Sneak / Dodge is on "B" (Like Dark Souls). You can switch between the step dodge and a roll with the G key. The menu is weird, "Start" opens the system and quest menu "RB + Start" opens the "TweeN" menu (skills / magic / items / map). Lock on is set to "LB." _CGO_ and _TUDM_ are NOT presently set up, you'll have to fix them the way you want as per the instructions below.
+**Under the System > Settings Menu** change Quicksave_ to _F9_, and _Quickload_ to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. 
 
-**Under the System > Settings Menu** change Quicksave_ to _F9_, and _Quickload_ to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. However, and I realize this is a pain, _do not_ use the "QuickSave" option from the System menu! Bad things can (and probably will) happen to your long-term save. In addition _do not_ turn on any "Autosave" options. They can and will corrupt with time. Get used to saving a lot!
-
-I'm oldschool so sometimes I play with an inverted controller. If your controls are inverted you might have to change it since I forgot to.
+_I've been through the turnstile and am coming at you inverted._ **So are my controls.** If you don't like an inverted up and down you may have to change it yourself.
 
 ## CONTROLLER MAPPING
 
@@ -135,9 +240,9 @@ Y: Jump
 
 It is _very important_ to **wait** until _all_ messages have both ceased appearing and disappearing in the upper left corner of the screen before continuing.
 
-### SexLab
+## SexLab
 
-#### Install
+### Install
 
 Under **SexLab 1.63 SE dev beta 8 by Ashal@LoversLab.com**
 
@@ -151,13 +256,13 @@ Do not touch the mouse or keyboard until the following message appears:
 
 Then open the MCM and continue.
 
-### SexLab
+## SexLab
 
-#### Sex Diary / Journal
+### Sex Diary / Journal
 
 Your character is considered heterosexual by default. If you wish to change this, under **Sexual stats** on the right, click _Sexuality_ until your preference (Bisexual, Gay, or Lesbian) appears.
 
-####  Rebuild & Clean
+###  Rebuild & Clean
 
 Just below **Debug / Development Mode** in the upper right corner, click _Import Settings: Click Here_
 
@@ -165,87 +270,187 @@ A message will appear which concludes with "Do you want to continue?" Click _Acc
 
 Another message will appear, "SexLab configuration successfully imported." Click _Accept_
 
-#### Animation Settings
+I have removed all Futa options because I am not into them. Remaining are seven strapons of varying ridiculousness. If you don't want them click on each one until none are left.
 
-Be _sure_ to check "Use Separate Orgasms" under **Extra Effects**! Otherwise SLSO will do nothing! This is left disabled because none of the other three profiles make use of it.
+If you do want your females to sometimes use strapons, navigate to
 
-Enable "Creature Animation" in the top right, close the menu, and wait for all messages to stop.
+### Animation Settings
 
-I have removed all Futa options because I am not into them. _Strap-ons are enabled_ however, because the mods in _Servitium_ sometimes put females in a male role for group animations. You can disable them if you want, but you'll mostly likely get dickless humping animations anyway. _Too bad!_
+and click the mark on the right that reads _Females Use Strap-ons._
+
+There is an option here that significantly affects many of the _Amorous Adventures_ scenes. Sometimes, the quests want a particular foreplay animation to play, but I have disabled _Foreplay_ to minimize the time spent watching a scene. If you want the AA animations to make more sense at the cost of an additional scene at the beginning of every adult interaction, go ahead and enable this option.
 
 Note that **ALL** of _SexLab's_ original old animations have been suppressed due to unpopularity. If you want to re-enable them for some reason, click _CLEAR SUPPRESSED LIST - CLICK HERE_
 
-### SexLab
+### Changes for Servitium
 
-### SAVE AND LOAD!
+You **WILL** need to enable _Separate Orgasms_ here on the left or you will never be able to orgasm. Talk about Hell!
+
+### Animation Settings
+
+**Creature animations are not included.** For additions such as these, join my private Discord server which is linked in the main channel of this modlist.
+
+## SexLab
+
+## SAVE AND LOAD!
 
 Lover's Lab recommends saving and loading the game immediately after fully configuring SexLab. Please do so now. If the QuickSave and QuickLoad buttons have changed, recall that they are now _F9_ and _F10_.
 
-###  SL Anim Loader
+## ZaZ Animation Pack
 
-#### General Options
+### General
+
+Change all of the _Update Interval_ values to their maximums.
+
+None of the other options really do anything without a Devious setup. This mod is mainly here so Defeat will activate, and I forgot to enable Defeat. It's probably for the best.
+
+##  SL Anim Loader
+
+### General Options
 
 Click _Enable All: Click Here_
 
-Click _General_, again on the left. Click _Register Animations_
+Click _Register Animations_
 
-The process will take about five minutes, whereupon you will receive a message that animations have been registered. Just click _Accept_
+The process will take about two minutes, whereupon you will receive a message that animations have been registered. Just click _Accept_
 
-### A Matter of Time
+## A Matter of Time
 
 Load the User Preset.
 
-### Ashes
+## AGO
 
-Just enable the mod. I don't use its features myself, I just wait until it spawns me in Riverwood and reload my game. This prevents save corruption, but if you want to fiddle with the settings, you can have it rob you or strip you and turn on permadeath or other means of making death and recovery a major _PITA_.
+### Settings
 
-###  CGO
+Under _Enable/Disable_ deselect _Persistent Arrows_
 
-#### Settings
+**If you use Defeat** you will want to disable all arrow bleeding as well.
 
-These will be vastly different depending on whether you use KB+M or controller.
+## Ashes
 
-**Unlocked Grip**
+I recommend setting this to strip all your belongings to simulate _Defeat_ without actually using _Defeat_, but the bare minimum should be to enable the mod since it prevents save corruption. The best way to use it is to wait until you spawn at Riverwood and reload.
 
-_Hotkey_: For KB, I recommend _Z_. For controller, I recommend _D-Pad Right_.
+## BBLS
 
-I recommend unchecking _NPCs Change Grip_ as it conflicts with the Follower mod.
+### Basic Settings
 
-**Dual Wield Blocking** 
+You can do whatever you want here, but these options are a _lot_ of fun. 
 
-For mouse, I recommend the _scroll wheel button._ For controller, I recommend _LB_ or _L1_.
+### Resource Heavy
 
-**Unlocked Movement**
+These do appear to be quite heavily scripted. I recommend leaving them as is, but feel free to experiment. _Business Options,_ where you act as manager of the _Luxury Suite_, could be really fun for all I know.
 
-I recommend unchecking all of these due to various bugs.
+You will probably have to exit the menu and re-enter it to continue.
 
-**Dodge Roll**
+## CBBE 3BBB Addon
 
-Set to _Input Type: Hotkey_ because we will be dodging with TUDM. Uncheck all three options below.
+I recommend setting all of the _Use Slots_ to **60 - Devious Devices Compatible**. This is not because Devious is installed, but because the various bikinis and other slooty outfuts use all those same slots.
 
-**Leaning**
+##  CGO
 
-Set _1st Person_ to _0.00_ to prevent motion sickness.
+### Settings
 
-**Camera Noise**
+#### Unlocked Grip
 
-Set to _0.00_ to prevent motion sickness.
+This switches the way you hold a weapon. You can use anything one or two handed, but can only block with a shield in one-handed mode. Set the key for switching grip here. For controller, I recommend D-Pad Left. For keyboard, I recommend B.
 
-**360 Combat**
+Uncheck "NPCs Change Grip" if it is checked.
 
-_Not supported._ Do _NOT_ enable this option.
+#### Dodge Roll
 
-### Diverse Dragons Col. 3
+We need to disable this. Set it to _Hotkey (Tap)_ and leave the key as _ESC_ (which basically means blank)
 
-### Creature Framework
+_Leaning_
 
-#### General
+**I recommend the following values:**
 
-Disable "Sexlab Aroused Integration." This modlist already scans all humans for how horny they are. We don't need to do the same for everything thats alive.
+_Lean Multiplier (1st Person)_: _X0.00_
 
-###  Follower Framework
+_Lean Multiplier (3rd Person)_: _X1.00_
 
-####  System
+_Camera Noise_
+
+_Camera Noise Mult (1st Person)_: _X0.00_
+
+Scroll all the way down.
+
+#### Dual Wield Blocking
+
+This also affects unarmed blocks. Set it to the button you prefer, I recommend either mouse 3 (scroll wheel) or RB / R1.
+
+#### Unlocked Movement
+
+Make certain all of these are unchecked.
+
+## Clockwork
+
+If you hate frustration, set _Gilded Recovery Time_ to "6 Hours." If you love it, leave it at 3.
+
+## Deadly Dragons
+
+### Dragons
+
+#### Special
+
+Uncheck "Knockdown"
+
+I like my life to suffer a bit more on _Servitium_. I recommend setting the difficulty to _Expert._ Dragons will MACK you if you're not careful.
+
+## Diverse Dragons Col. 3
+
+### Dragons
+
+Disable _Nether_, _Sanguine_, and _Vile_. These dragons are almost impossible to beat, and also hideously ugly. As in, badly designed.
+
+## Extended UI
+
+Check the boxes marked _Show attribute modifiers_ and _Show skill modifiers
+
+## FEC
+
+### Player Effects
+
+Check "Soul Absorb"
+
+### Fire
+
+#### Fire Effects
+
+Uncheck "Automatic" 
+
+Check "Skeletonize"
+
+#### Immersion
+
+Uncheck "Fire Damage"
+
+### Frost
+
+#### Frost Effects
+
+Uncheck "Automatic" 
+
+Check "Shatter"
+
+### Shock
+
+#### Shock Effects
+
+Uncheck "Automatic"
+
+Check "Explosive" 
+
+#### Immersion
+
+Uncheck "Shock Damage"
+
+### Poison
+
+Set _Poison color intensity_ to 0%. This is really the only option you _MUST_ enable, otherwise you'll get weird things with dicks when people die due to poison.
+
+##  Follower Framework
+
+###  System
 
 In the upper right, click _Load From File - CLICK HERE_
 
@@ -253,55 +458,53 @@ At the message **Settings Loaded. Please exist the MCM menu to apply all changes
 
 Exit the MCM and re-open it.
 
-### Immersive Creatures
+## GIST Soul Trap
 
-_These settings will greatly increase crashes if not followed **TO THE LETTER**._
+Check "Show message on soul trapped"
 
-#### Creature Toggles
+Some people like to link soul gem expertise to Enchanting, if you do too go to 
 
-Disable "Goblin" on the right.
+### Leveling
 
-#### Additional Spawns
+Check _Enable Leveling System_ and then choose _Enchanting_.
 
-Disable "Animal" and "Ore Guardian" under _Spawn Types_.
+## Growl Werebeasts
 
-#### Night Spawns
+Check "Invulnerable during Transformation"
 
-Set _Night Spawns_ to "Deactivated"
+## Quick Light
 
-### Quick Light
+Set Type to "No Special Effect"
 
-Set _Type of Light Source_ to _No Special Effect._
+Brightness to "Normal"
 
-Set _Brightness_ to _Wide_
+"Set light key"... I recommend D-Pad Up for controller and NUMPAD1 for keyboard.
 
-Set the light key to your preference, but I recommend _NUMPAD 1_ because it doesn't conflict with anything important.
+## Sacrosanct Vampires
 
-### Serio's Hotkeys
+Click _Fortitude: Disable_
+
+## Serio's Hotkeys
 
 Recommend _Use Vanilla Hotkeys_ if you're on controller.
 
-You'll have to read about the mod if you wanna use it, I don't mess with it really.
+You'll have to read about the mod if you wanna use it, I'm still experimenting. Basically you can set it so your hotkeys are a function of shoulder button + face button for a total of 8 hotkeys on the controller (kinda like FF14 if you've ever played that on console)
 
-### SexLab Adventures
+## SexLab Adventures
 
-Choose _Load from file_, pick the one labeled "NoPovertyOrCrime.json", and hit _Exit._ 
+Choose _Load From File_ and "NoPovertyOrCrime.json". Wait about 10 seconds, the menu will flicker. Then click "Install" and wait for everything to update. You'll know it when it happens.
 
-You'll need to go to _Proximity_ and turn off _Attempt when Undressing_ because this option refuses to export for some reason. 
-
-**LOVER'S LAB!**
-
-###  SexLab Aroused
+##  SexLab Aroused
 
 #### Settings
 
 _General_
 
-Check _Enable SOS_.
+On the right, import the profile.
 
-###  SexLab Eager NPCs
+##  SexLab Eager NPCs
 
-####  General
+###  General
 
 Decide if you want a lot of automatic prompts for sex or a few.
 
@@ -317,21 +520,13 @@ Wait for this message to appear in the upper left: **Masturbate (SLEN) added**.
 
 ###  SexLab Solutions
 
-#### Animations
-
-If you find foreplay kinda boring turn it off. If it turns you on, leave it on. It will probably suck with SLSO.
-
 ####  follower
 
 Choose the appropriate options here to offer a follower instead of yourself for sexual favors. This is mainly useful if you aren't attracted to a particular sex.
 
-### Miscellaneous
+## SexLab Tools
 
-Disable _SLEN Integration_
-
-### SexLab Tools
-
-#### Settings
+### Settings
 
 _Matchmaker queue_
 
@@ -347,21 +542,8 @@ Finally you'll have to type in how many total people will be in the scene. And y
 
 Here's what makes up for it though, after you begin the scene by clicking on empty space and choosing _Begin scene_, you can press the _Shift+H_ keys to select from a list of commands, including changing positions, stages, and choosing animations from a list. Remember, it only draws from the first 250, or the first 250 of whatever tag you set. If your tag is too specific, nothing will be in the list.
 
-### Simply Rest Anywhere
 
-#### Main
-
-Set the _Rest hotkey_ to "H".
-
-### SmoothCam
-
-#### Presets
-
-Click on _Slot 1: Perfect_ under _Load Preset_ and wait for the message.
-
-### SL Survival
-
-I forgot to add the hugest section!
+## SL Survival
 
 This mod is extremely bloated. In setting it up, I got frustrated so many times I almost considered removing it despite all the crazy features it adds. It shares this in common with _Cursed Loot_, another mod that's too bloated in my opinion. Unlike Cursed Loot, however, it seems this mod (aside from the _MCM_) works properly once you understand how you're supposed to use it.
 
@@ -373,46 +555,82 @@ Now you're going to have to give it a little kick for it to finish. Open the _MC
 
 There. _SL Survival_ is now configured and all executing scripts are complete.
 
-There is one caveat. Licenses are on by default, which means you cannot carry or sell weapons or armor without buying one. They are available usually from a given keep's dungeon, but in Whiterun it is a small building behind the alchemist. If you want to disable this, go to _Licenses 1_ in the MCM and turn it off. The only reason it is this way is because it must be enabled to import a setting that allows bikini experience to work. One made, this change remains even if licenses are disabled. I strongly recommend you disable it because it is highly annoying.
+There are a few caveats. Licenses are on by default, which means you cannot carry or sell weapons or armor without buying one. They are available usually from a given keep's dungeon, but in Whiterun it is a small building behind the alchemist. If you want to disable this, go to _Licenses 1_ in the MCM and turn it off. The only reason it is this way is because it must be enabled to import a setting that allows bikini experience to work. One made, this change remains even if licenses are disabled. I strongly recommend you disable it because it is highly annoying.
+
+Another annoying option is Tolls. This prevents you from leaving cities without a follower and payment of a fee (click on the strongbox on a nearby table to pay it). I find this option highly annoying and disable it. You can do so under "Tolls, Evictions and Gates."
+
+Finally, under the main "Settings" category there is an option at the bottom called "Enable Map & Compass Mechanics." I HATE HATE HATE HATE HATE this feature. It keeps you from having a compass or map until you buy one and they're stupid expensive. Not only that they often don't show up at the merchant for a few days. I recommend disabling it, but _you will have to do so every time you start Skyrim._ Yes, it fucking sucks.
 
 This will also help you on your _Dungeons & Deviousness_ installation if you still have one.
 
-Now,
+## SKY UI
 
-### The Ultimate Dodge Mod
+### General
 
-#### NPC Settings
+Set _Font Size_ to Small.
+
+Disable the _Active Effects HUD_. (It gets in the way of my AMOT preset.)
+
+### Advanced
+
+Disable the map menu one because of SL Survival's bullshit.
+
+## SmoothCam
+
+### Compatibility
+
+Alternate Conversation Camera: Checked
+
+Improved Camera: Checked
+
+Immersive First Person View: Unchecked
+
+Scroll to the bottom where you will find 
+
+### Presets
+
+Click on _Slot 2: EasyEase_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
+
+## Spank That Ass
+
+Click _Import Settings._
+
+## SPERG
+
+### Fixes & Compatibility
+
+Unarmed Mode: Manual
+
+### Advanced 
+
+Advanced Options: Enable
+
+Weapon Speed: Disabled
+
+## SSoB
+
+Check "Quest Markers on Stones of Berenziah"
+
+## Storm Lightning
+
+### presets
+
+Click _Realistic_ and wait for it to say **DONE**
+
+## Wildcat Combat
+
+Check "Disable Dynamic Combat."
+
+Under **difficutly** check "Allow Wildcat to Manage Difficulty"
+
+## The Ultimate Dodge Mod
+
+Highly recommend you set the sneak key for D-PAD down on a controller, or SHIFT on a keyboard
+
+### NPC Settings
 
 Uncheck _NPC Dodge AI_. My followers have been known to get stuck in midair with this option enabled.
 
-### VioLens
-
-#### Profile System
-
-Load the profile "VioLens"
-
-### Defeat
-
-Aww shit. Here we go again. Save before you do this in case something goes wrong.
-
-Firstly, this WILL NOT WORK unless you enable "ZaZ 7.0SE-Rev1" in the modlist.
-
-Make sure that if the mod has something called "ZaZAnimationPack.esm" in it that this is either disabled, hidden, or deleted.
-
-Finally go back into Skyrim to the "Defeat" menu.
-
-Enable it.
-
-Close the menu.
-
-Wait for the message. (It can take up to five minutes. If it takes longer than this, you probably won't be able to get it to work. Defeat is a bad mod.)
-
-Import the profile.
-
-Almost everything is off except surrender, which you do with "K". Do it fast or you'll be dead.
-
-Pray to mighty Cthulhu that it works.
-
 ## All done!
 
-Be sure to make a last second save in case something bad happens. You _do not_ want to do these MCMs again. There are two options to start your game. The first is to talk to the Mara statue for a more traditional method. Sexy starts (most of the time involving you being naked) are available from the bookshelf nearby.
+Be sure to press **F9** for a last second save in case something bad happens. You _do not_ want to do these MCMs again. There are two options to start your game. The first is to talk to the Mara statue for a more traditional method. Sexy starts (most of the time involving you being naked) are available from the bookshelf nearby.
