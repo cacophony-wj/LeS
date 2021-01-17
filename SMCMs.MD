@@ -69,7 +69,7 @@
       - [follower](#follower)
   - [SexLab Tools](#sexlab-tools)
     - [Settings](#settings-3)
-  - [SL Survival](#sl-survival)
+  - [Sexlab Survival](#sexlab-survival)
   - [SKY UI](#sky-ui)
     - [General](#general-2)
     - [Advanced](#advanced)
@@ -453,7 +453,7 @@ Finally you'll have to type in how many total people will be in the scene. And y
 Here's what makes up for it though, after you begin the scene by clicking on empty space and choosing _Begin scene_, you can press the _Shift+H_ keys to select from a list of commands, including changing positions, stages, and choosing animations from a list. Remember, it only draws from the first 250, or the first 250 of whatever tag you set. If your tag is too specific, nothing will be in the list.
 
 
-## SL Survival
+## Sexlab Survival
 
 This mod is extremely bloated. In setting it up, I got frustrated so many times I almost considered removing it despite all the crazy features it adds. It shares this in common with _Cursed Loot_, another mod that's too bloated in my opinion. Unlike Cursed Loot, however, it seems this mod (aside from the _MCM_) works properly once you understand how you're supposed to use it.
 
@@ -461,7 +461,9 @@ I'll save the gameplay talk for the channel. For now, you are going to have to _
 
 Now this part is very picky. Sit and **do nothing** in the starting cell until you receive two messages: "Building Bikini List", and a minute or two later "Building Bikini List Complete." 
 
-Now you're going to have to give it a little kick for it to finish. Open the _MCM_ again and return to the _SL Survival Menu_. Once you see the main page of settings, exit the MCM again, and wait for two messages: "Building Pickpocket List" and a few minutes later "Pickpocket List Complete."
+The thing about that is, though, that these messages don't do anything. Now you're going to have to give it a little kick for it to finish. Open the _MCM_ again and return to the _Sexlab Survival Menu_. Once you see the main page of settings go to "Bikinis & Experience," click "Build Bikini Lists", and wait for the completion message.
+
+Finally, exit the MCM again, and wait for two messages: "Building Pickpocket List" and a few minutes later "Pickpocket List Complete."
 
 There. _SL Survival_ is now configured and all executing scripts are complete.
 
