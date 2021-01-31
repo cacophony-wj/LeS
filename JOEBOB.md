@@ -6,9 +6,6 @@
     - [The Most Massive Favorites Menu You Will Ever See](#the-most-massive-favorites-menu-you-will-ever-see)
     - [Assigned Storage](#assigned-storage)
     - [The Chambers](#the-chambers)
-    - [Ion Cannon](#ion-cannon)
-    - [Those Dozens of Summoned Monster Mods, Though! A mountable **T-REX**? An **OGRE FOLLOWER?** WHAT THE _F***_?](#those-dozens-of-summoned-monster-mods-though-a-mountable-t-rex-an-ogre-follower-what-the-f)
-    - [Is this modlist a shitty, half-baked mess?](#is-this-modlist-a-shitty-half-baked-mess)
 
 A friend of mine spent months digging through webforums and the Nexus when he started modding, compiling a massive, 300-strong list of all the mods he wanted to try. He did this back before Special Edition came out, then sat on it for years. He made a few stabs at putting a list together himself, and although he had made his own kickass player home entirely from scratch in The Pale (which is dutifully included in this list), he lacked the patience for the spreadsheet-like work of xEdit. Not to mention he has a life, and no time for patching hundreds of mods! So this is where trusty, indolent, slightly-mad cacophony comes in. We... came to an agreement.
 
