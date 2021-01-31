@@ -39,15 +39,3 @@ Like collecting stuff like in LOTD, but don't wanna, you know, make a whole _thi
 Can't peep the location? Check it.
 
 https://github.com/cacophony-wj/LeS/raw/master/chambers.png
-
-### Ion Cannon
-
-This explodes and dismembers and disembowels and chunks everything over several acres and has no casting cost and practically no cooldown. Forgive Bob... he's a Bob.
-
-### Those Dozens of Summoned Monster Mods, Though! A mountable **T-REX**? An **OGRE FOLLOWER?** WHAT THE _F***_?
-
-Bob.
-
-### Is this modlist a shitty, half-baked mess?
-
-Yes. But it's still fun! And hey, Bob might show you a mod or two you like.
