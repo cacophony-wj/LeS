@@ -1,5 +1,7 @@
 - [Updates](#updates)
   - [An update came out! It's new and shiny! What should I do?](#an-update-came-out-its-new-and-shiny-what-should-i-do)
+- [Content](#content)
+  - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Technical](#technical)
   - [I'm randomly crashing!](#im-randomly-crashing)
   - [I'm crashing in inventory or crafting menus!](#im-crashing-in-inventory-or-crafting-menus)
@@ -14,6 +16,7 @@
   - [Why do I have to CTRL-CLICK to build _BodySlide_?](#why-do-i-have-to-ctrl-click-to-build-bodyslide)
   - [My body looks boring and flat! or My boobs are melting into the ground!](#my-body-looks-boring-and-flat-or-my-boobs-are-melting-into-the-ground)
   - [I read a skill book but my skill didn't go up!](#i-read-a-skill-book-but-my-skill-didnt-go-up)
+  - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
 
 ## Updates
 
@@ -26,6 +29,16 @@ First, check CHANGELOG.md. If you are not interested in the changes, or they do 
 **To confirm: all BodySlide customizations, and additional mods you have installed on top of the Modlist will be deleted. Your saves and downloads folders will not be touched!**
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite_ button.
+
+## Content
+
+### What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!
+
+Boy did you ever download the wrong list. This list is mostly for playing Skyrim with titties in it.
+
+You have two options. The first and best is to install the _Dungeons & Deviousness_ modlist to experience the most Lover's Lab content this side of an Oldrim installation. You may feel this list goes too hard in the direction of suffering and roleplay. If this the case, consider reading about the mods inside it and configuring the menus more to your liking. They are actually very customizable.
+
+Your second option is to find my private server in the #licentia channel and customize the modlist there, Licentia Ultimate. It separates much of the LL content into multiple profiles for easier play and is much more agreeable to Rule 11 violations (customization). Be warned, this list is shipped in an incomplete state and requires someone with modding experience or a willingness to learn and experiment. If you join my server and immediately ask dumb questions about Nemesis without checking the pins, you will likely be banned.
 
 ## Technical
 
@@ -82,3 +95,7 @@ You either didn't run _BodySlide_ or ran it wrong. Follow all the steps in the [
 ### I read a skill book but my skill didn't go up!
 
 This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. Take care of business and _then_ read the book.
+
+### I crash in Project AHO when I complete a certain quest!
+
+Try this. Load before you start the quest's conclusion. Complete a step. Save. Reload. Complete the next step. Continue until you finish the quest without crashing. I have confirmation that this does work.

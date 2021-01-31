@@ -186,7 +186,7 @@ Note that **ALL** of _SexLab's_ original old animations have been suppressed due
 
 ### Animation Settings
 
-**Creature animations are not included.** For additions such as these, join my private Discord server which is linked in the main channel of this modlist.
+**Creature animations are not included.** See the Troubleshooting document for details.
 
 ## SexLab
 
