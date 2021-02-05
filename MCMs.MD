@@ -18,65 +18,32 @@
   - [SL Anim Loader](#sl-anim-loader)
     - [General Options](#general-options)
   - [A Matter of Time](#a-matter-of-time)
-  - [AGO](#ago)
-    - [Settings](#settings)
-  - [BBLS](#bbls)
-    - [Basic Settings](#basic-settings)
-    - [Resource Heavy](#resource-heavy)
   - [CGO](#cgo)
-    - [Settings](#settings-1)
-      - [Unlocked Grip](#unlocked-grip)
-      - [Dodge Roll](#dodge-roll)
-      - [Dual Wield Blocking](#dual-wield-blocking)
-      - [Unlocked Movement](#unlocked-movement)
-  - [Classical Lichdom](#classical-lichdom)
-    - [Classical Lichdom](#classical-lichdom-1)
-  - [Clockwork](#clockwork)
-  - [Deadly Dragons](#deadly-dragons)
-    - [Dragons](#dragons)
-      - [Special](#special)
-  - [Diverse Dragons Col. 3](#diverse-dragons-col-3)
-    - [Dragons](#dragons-1)
-  - [Extended UI](#extended-ui)
-  - [FEC](#fec)
-    - [Player Effects](#player-effects)
-    - [Fire](#fire)
-      - [Fire Effects](#fire-effects)
-      - [Immersion](#immersion)
-    - [Frost](#frost)
-      - [Frost Effects](#frost-effects)
-    - [Shock](#shock)
-      - [Shock Effects](#shock-effects)
-      - [Immersion](#immersion-1)
-    - [Poison](#poison)
+    - [Settings](#settings)
+      - [Leaning](#leaning)
   - [Follower Framework](#follower-framework)
     - [System](#system)
-  - [GIST Soul Trap](#gist-soul-trap)
-  - [Growl Werebeasts](#growl-werebeasts)
   - [Quick Light](#quick-light)
     - [Serio's Hotkeys](#serios-hotkeys)
     - [SexLab Aroused](#sexlab-aroused)
-      - [Settings](#settings-2)
+      - [Settings](#settings-1)
     - [SexLab Eager NPCs](#sexlab-eager-npcs)
       - [General](#general)
     - [SexLab Solutions](#sexlab-solutions)
       - [follower](#follower)
   - [SexLab Tools](#sexlab-tools)
-    - [Settings](#settings-3)
+    - [Settings](#settings-2)
   - [SKY UI](#sky-ui)
     - [General](#general-1)
   - [SmoothCam](#smoothcam)
     - [Compatibility](#compatibility)
     - [Presets](#presets)
-  - [SPERG](#sperg)
-    - [Fixes & Compatibility](#fixes--compatibility)
-    - [Advanced](#advanced)
   - [SSoB](#ssob)
   - [Storm Lightning](#storm-lightning)
     - [presets](#presets-1)
-  - [Wildcat Combat](#wildcat-combat)
   - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
     - [NPC Settings](#npc-settings)
+  - [Weapon Speed Fix](#weapon-speed-fix)
   - [Ashes](#ashes)
   - [All done!](#all-done)
 
@@ -172,15 +139,11 @@ A message will appear which concludes with "Do you want to continue?" Click _Acc
 
 Another message will appear, "SexLab configuration successfully imported." Click _Accept_
 
-I have removed all Futa options because I am not into them. Remaining are seven strapons of varying ridiculousness. If you don't want them click on each one until none are left.
-
 If you do want your females to sometimes use strapons, navigate to
 
 ### Animation Settings
 
 and click the mark on the right that reads _Females Use Strap-ons._
-
-There is an option here that significantly affects many of the _Amorous Adventures_ scenes. Sometimes, the quests want a particular foreplay animation to play, but I have disabled _Foreplay_ to minimize the time spent watching a scene. If you want the AA animations to make more sense at the cost of an additional scene at the beginning of every adult interaction, go ahead and enable this option.
 
 Note that **ALL** of _SexLab's_ original old animations have been suppressed due to unpopularity. If you want to re-enable them for some reason, click _CLEAR SUPPRESSED LIST - CLICK HERE_
 
@@ -208,39 +171,11 @@ The process will take about two minutes, whereupon you will receive a message th
 
 Load the User Preset.
 
-## AGO
-
-### Settings
-
-Under _Enable/Disable_ deselect _Persistent Arrows_
-
-## BBLS
-
-### Basic Settings
-
-You can do whatever you want here, but these options are a _lot_ of fun. 
-
-I recommend enabling all of them except _Cheat Chests_ and _Bed Sharing._
-
-### Resource Heavy
-
-These do appear to be quite heavily scripted. I recommend leaving them as is, but feel free to experiment. _Business Options,_ where you act as manager of the _Luxury Suite_, could be really fun for all I know.
-
 ##  CGO
 
 ### Settings
 
-#### Unlocked Grip
-
-This switches the way you hold a weapon. You can use anything one or two handed, but can only block with a shield in one-handed mode. Set the key for switching grip here. For controller, I recommend D-Pad Left. For keyboard, I recommend Z.
-
-Uncheck "NPCs Change Grip" if it is checked.
-
-#### Dodge Roll
-
-We need to disable this. Set it to _Hotkey (Tap)_ and leave the key as _ESC_ (which basically means blank)
-
-_Leaning_
+#### Leaning
 
 **I recommend the following values:**
 
@@ -254,84 +189,6 @@ _Camera Noise Mult (1st Person)_: _X0.00_
 
 Scroll all the way down.
 
-#### Dual Wield Blocking
-
-This also affects unarmed blocks. Set it to the button you prefer, I recommend either mouse 3 (scroll wheel) or RB / R1.
-
-#### Unlocked Movement
-
-Make certain all of these are unchecked.
-
-## Classical Lichdom
-
-### Classical Lichdom
-
-We want to get busy. Set _Conjuration Requirement_ to 50.
-
-## Clockwork
-
-If you hate frustration, set _Gilded Recovery Time_ to "6 Hours." If you love it, leave it at 3.
-
-## Deadly Dragons
-
-### Dragons
-
-#### Special
-
-Uncheck "Knockdown"
-
-## Diverse Dragons Col. 3
-
-### Dragons
-
-Disable _Nether_, _Sanguine_, and _Vile_.
-
-## Extended UI
-
-Check the boxes marked _Show attribute modifiers_ and _Show skill modifiers
-
-## FEC
-
-### Player Effects
-
-Check "Soul Absorb"
-
-### Fire
-
-#### Fire Effects
-
-Uncheck "Automatic" 
-
-Check "Skeletonize"
-
-#### Immersion
-
-Uncheck "Fire Damage"
-
-### Frost
-
-#### Frost Effects
-
-Uncheck "Automatic" 
-
-Check "Shatter"
-
-### Shock
-
-#### Shock Effects
-
-Uncheck "Automatic"
-
-Check "Explosive" 
-
-#### Immersion
-
-Uncheck "Shock Damage"
-
-### Poison
-
-Set _Poison color intensity_ to 0%
-
 ##  Follower Framework
 
 ###  System
@@ -342,21 +199,9 @@ At the message **Settings Loaded. Please exist the MCM menu to apply all changes
 
 Exit the MCM and re-open it.
 
-## GIST Soul Trap
-
-Check "Show message on soul trapped"
-
-## Growl Werebeasts
-
-Check "Invulnerable during Transformation"
-
 ## Quick Light
 
-Set Type to "No Special Effect"
-
-Brightness to "Normal"
-
-"Set light key"... I recommend D-Pad Up for controller and NUMPAD1 for keyboard.
+This is automatically set to "up" on the D-Pad, even though it says NUMPAD 1. Set it to whatever you wish. All it does is turn on a light so you can see around you.
 
 ### Serio's Hotkeys
 
@@ -424,7 +269,7 @@ Disable the _Active Effects HUD_. (It gets in the way of my AMOT preset.)
 
 ### Compatibility
 
-Alternate Conversation Camera: Checked
+Alternate Conversation Camera: Unchecked
 
 Improved Camera: Checked
 
@@ -436,20 +281,6 @@ Scroll to the bottom where you will find
 
 Click on _Slot 2: EasyEase_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
 
-## SPERG
-
-### Fixes & Compatibility
-
-Unarmed Mode: Manual
-
-### Advanced 
-
-Advanced Options: Enable
-
-Etheral Arrows Required: Unchecked
-
-Weapon Speed: Disabled
-
 ## SSoB
 
 Check "Quest Markers on Stones of Berenziah"
@@ -460,12 +291,6 @@ Check "Quest Markers on Stones of Berenziah"
 
 Click _Realistic_ and wait for it to say **DONE**
 
-## Wildcat Combat
-
-Check "Disable Dynamic Combat."
-
-Under **difficutly** check "Allow Wildcat to Manage Difficulty"
-
 ## The Ultimate Dodge Mod
 
 Highly recommend you set the sneak key for D-PAD down on a controller, or SHIFT on a keyboard
@@ -474,10 +299,14 @@ Highly recommend you set the sneak key for D-PAD down on a controller, or SHIFT 
 
 Uncheck _NPC Dodge AI_. My followers have been known to get stuck in midair with this option enabled.
 
+## Weapon Speed Fix
+
+_SPERG_ plays havoc with weapon speed changes. So does _CGO_. You need to disable this fix, exit the menu, re-enter, then enable the fix again or all your weapons will swing crazy fast.
+
 ## Ashes
 
 All you need to do is enable the mod.
 
 ## All done!
 
-Be sure to press **F9** for a last second save in case something bad happens. You _do not_ want to do these MCMs again. There are two options to start your game. The first is to talk to the Mara statue for a more traditional method. Sexy starts (most of the time involving you being naked) are available from the bookshelf nearby.
+Be sure to make a last second save in case something bad happens. You _do not_ want to do these MCMs again. There are two options to start your game. The first is to talk to the Mara statue for a more traditional method. Sexy starts (most of the time involving you being naked) are available from the bookshelf nearby.

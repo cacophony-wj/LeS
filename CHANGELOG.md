@@ -1,3 +1,39 @@
+## 7.0L
+
+This update is for the primary Licentia profile. It is _not_ save compatible.
+
+- Added SOS Pubic Hair for Females. I decided against Futa options. You can add those yourselves, it's easy.
+- Added Positive Undressed Reactions
+- Added Bijin Skin
+- Added Dirt & Blood
+- Added Embers XD. Reworked the patching for light source.
+- Added Realistic Water Two.
+- Added LOTD High Resolution Textures
+- Added Vigilant High Resolution Textures
+- Added Weapon Speed Fix @Geez
+- Added Freckle Mania 2
+- Added Grass FPS Booster @Tsukino
+- Added back the MCM Automation thanks to a helpful user.
+- Changed the ENB back to Rudy for CW
+- Updated Billyy's SLAL Animations to 4.1.
+- Updated SexLab Utility Plus to the Jan. 30 revision
+- Updated CBBE 3BBB to 1.55
+- Updated BodySlide to 5.3.1
+- Updated Serana Dialogue Add-on to 2.2.4
+- Updated Beast Hair Horn & Brow to 2.6
+- Updated eeekie's NPCs to 2.02
+- Updated FEC to 4.7
+- Updated Legacy of the Dragonborn to 5.4.5
+- Updated Triple Triad to 2.9
+- Updated Mysticism to 1.1.5
+- Updated Vigilant to 1.6.2
+- Updated Nether Follower Framework to 2.7.6
+- Updated Window Shadows to 7.2
+- Updated Realistic Room Rental to 1.71
+- Updated MoreHUD to 4.0.0.5
+- Updated Papyrus Extender to 4.2
+- Removed Demoniac Skin
+
 ## 6.7L
 
 This update is for the primary Licentia profile. It is _not_ save compatible.

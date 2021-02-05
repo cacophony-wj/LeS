@@ -51,8 +51,8 @@ If you get bored with the female body you have in your game just come back to th
 A key part of fun with boobs is adjusting how they bounce. This modlist ships with a conservative physics preset which might not be "energetic" enough if you prefer massive mound-like mammaries. If you make a dramatic change in boob size you want to change the physics to match. Don't worry, nothing will break your game or your save unless you change something I explicitly tell you not to.
 
 1. Right click on _CBBE 3BBB_ and choose _Reinstall_
-2. Uncheck _Pre-built Body mesh_ and **DO NOT** choose any other options. They will break this list. Just click _Next_
-3. It's impossible to change _Base CBPC._ Leave _Performance (Improved)_ selected and click _Next_
+2. **DO NOT** choose any options in the first menu. They will break this list. Just click _Next_
+3. It's impossible to change _Base CBPC._ Check _Performance (Limited)_ selected and click _Next_
 4. Choose _SMP and CBPC (light) and click _Next_
 5. Now for the "fallback" _CBPC_ options. These apply with no input from you.
 6. Choose _New Type_ and click _Next_

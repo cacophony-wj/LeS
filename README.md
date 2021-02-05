@@ -27,19 +27,15 @@ I'm [cacophony](https://github.com/cacophony-wj), a humble person. I want to pro
 
 Your kinks are a very private thing. As opposed to piling together a modlist for every possible fetish, I have created a fun list for myself with beautiful characters and easy ways to initiate dialog sex with the highest quality and most frequently updated animations. The systems are kept intentionally light to ensure SexLab is as stable as it can be and to allow for greater compatibility with user additions. The patches are individual to each mod and there are no merges, allowing for almost anything to be added or removed.
 
-A note about the camera: Improved camera "head bob" is on by default. I like it because I get a better view looking down at my awesome rockin' tits. But it is very squirrelly when it comes to picking up objects and may cause motion sickness in some people. To avoid this, uncheck _Improved Camera - WITH HEAD BOB_ and check _Improved Camera - NO HEAD BOB_ instead.
-
 _Death Alternatives_ don't work reliably. I can't stand it when they fail and I can't stand trying to improve their success rate. I have included _Ashes_ so you can spawn in a separate cell before reloading, as Wabbajack recommends. If you want to take this respawn mod as an opportunity for a "hardcore" playthrough, feel free to do so, but that is not its intention. Just wait until the screen fades in from black and reload.
 
-A word about ENBs. This list was reborn with the intention of following Rudy's _Cathedral Weathers ENB_ weather and lighting recommendations. However I have grown weary of the incredibly dark interiors and nights. Rudy also hasn't updated through several ENB revisions, so I have swapped things out for _PI-CHO KONAN EDITION_ from those Korean masters. If you don't like it, I have also included the original _Rudy Cathedral_, _Serio's ENB_, _LJoss_, and _PI-CHO Standard_ in the downloads directory which you can install if you wish to try them. If you are running this modlist at 4k, I _strongly_ recommend switching the ENB to _Serio's_. Don't limit yourself to my choices, though, in theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Choose carefully, ENBs are the most demanding part of any modlist. 
+A word about ENBs. This list was designed with the intention of following Rudy's _Cathedral Weathers ENB_ weather and lighting recommendations. If you don't like it, I have also included _PI CHO KONAN_, _Serio's ENB_, _LJoss_, and _PI-CHO Standard_ in the downloads directory which you can install if you wish to try them. If you are running this modlist at 4k, I _strongly_ recommend switching the ENB to _Serio's_. Don't limit yourself to my choices, though, in theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Choose carefully, ENBs are the most demanding part of any modlist. 
 
 # A STRONG WARNING
 
 ## SexLab SE is still **beta!** It is still buggy!
 
 Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
-
-
 
 ## Requirements
 
@@ -51,7 +47,7 @@ Before asking a question, look at [Troubleshooting](https://github.com/cacophony
 This portion is under review, but my best estimate as to what you need is as follows:
 
 - CPU: >= 7th gen Intel processor OR >= AMD Ryzen 3000 series processor
-- GPU: >= 1070, you need at least 6GB of VRAM
+- GPU: >= 1080, you need at least 6GB of VRAM
 - RAM: >= DDR4 with at least 12GBs
 
 Everything should be installed on an SSD that has at least 250GB of space available. 
@@ -92,7 +88,7 @@ If you only have one hard drive and Steam is installed to _C:\Program Files_, yo
 
 **Clean Skyrim**
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. **Do not install Skyrim anywhere inside any Program Files folder. Wabbajack will not work in a folder that is protected by Windows.** You should also clean up the Skyrim Special Edition folder in Documents/My Games/. If you have download throttles or caps, or just don't want to wait, you can also use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) by trawz to clean your installation.
+I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. **Do not install Skyrim anywhere inside any Program Files folder. Wabbajack will not work in a folder that is protected by Windows.** You should also clean up the Skyrim Special Edition folder in Documents/My Games/. 
 
 **Start Skyrim**
 
@@ -135,11 +131,11 @@ This can happen when update the modlist receives an update. Check if a new updat
 
 **Wabbajack could not find my game folder:**
 
-Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the Pre-Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator.
+Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the Pre-Installation step. If this still doesn't work, ensure that you are not running Wabbajack as an Administrator. DO NOT ASK FOR HELP WITH PIRATED GAMES ON THE WABBAJACK DISCORD.
 
 **All downloads from Lover's Lab are failing.**
 
-Lover's Lab is much more restrictive about automated downloads to users outside of the United States. Attempt to use a free- or budget- VPN with a terminus in the United States to automate your downloads. If you do not have such an option, you will need to download the LL mods manually, as per the manifest section below.
+Lover's Lab is much more restrictive about automated downloads to users outside of the United States. Attempt to use a free- or budget- VPN with a terminus in the United States to automate your downloads. I personally recommend Proton VPN from _MIT_, it's free, has decent performance and maintains excellent privacy protections. If you do not have such an option, you will need to download the LL mods manually, as per the manifest section below.
 
 **MEGA download cap exceeded.**
 
@@ -161,7 +157,7 @@ Download the latest ENB Series from [here](http://enbdev.com/download_mod_tessky
 
 Copy all of the files located inside the _Licentia Directory/game folder files_ directory to your game folder.
 
-Please note, **do not copy the entire game folder files folder.** Only copy the files _inside_ that folder to _Steam/steamapps/common/Skyrim Special Edition_. There should be around 10 of them, as well as a folder entitled "enbseries".
+Please note, **do not copy the entire game folder files folder.** Only copy the files _inside_ that folder to _Steam/steamapps/common/Skyrim Special Edition_. There should be fewer than a dozen of them, as well as a folder entitled "enbseries".
 
 ## Preparing the Game
 
@@ -175,7 +171,7 @@ Unfortunately I don't feel comfortable offering precompiled BodySlide outputs be
 
 ## Launching the Game
 
-The rest must be completed after the game itself is launched. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **SKSE (RUN ME TO START THE GAME)**. If you receive a message that files are missing, do not exist, or a warning about an incorrect path, you _may_ have to edit the link to "skse_loader" in the drop down and point it to your Skyrim directory. Once you are in-game, create your character and follow _all_ of the instructions in the below link:
+The rest must be completed after the game itself is launched. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **SKSE**. If you receive a message that files are missing, do not exist, or a warning about an incorrect path, you _may_ have to edit the link to "skse_loader" in the drop down and point it to your Skyrim directory. Once you are in-game, create your character and follow _all_ of the instructions in the below link:
 
 [Licentia Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
 

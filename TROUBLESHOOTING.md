@@ -4,7 +4,6 @@
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Technical](#technical)
   - [I'm randomly crashing!](#im-randomly-crashing)
-  - [I'm crashing in inventory or crafting menus!](#im-crashing-in-inventory-or-crafting-menus)
   - [My performance is really terrible, low FPS, input lag during combat!](#my-performance-is-really-terrible-low-fps-input-lag-during-combat)
   - [I have a bug that's not in this list.](#i-have-a-bug-thats-not-in-this-list)
   - [The "scenes" take forever to start, and sometimes don't start at all.](#the-scenes-take-forever-to-start-and-sometimes-dont-start-at-all)
@@ -16,6 +15,7 @@
   - [Why do I have to CTRL-CLICK to build _BodySlide_?](#why-do-i-have-to-ctrl-click-to-build-bodyslide)
   - [My body looks boring and flat! or My boobs are melting into the ground!](#my-body-looks-boring-and-flat-or-my-boobs-are-melting-into-the-ground)
   - [I read a skill book but my skill didn't go up!](#i-read-a-skill-book-but-my-skill-didnt-go-up)
+  - [Hey! I'm not supposed to respawn outside of the Clockwork or Project AHO mods!](#hey-im-not-supposed-to-respawn-outside-of-the-clockwork-or-project-aho-mods)
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
 
 ## Updates
@@ -36,19 +36,13 @@ Updating is like installing. You only have to make sure that you select the same
 
 Boy did you ever download the wrong list. This list is mostly for playing Skyrim with titties in it.
 
-You have two options. The first and best is to install the _Dungeons & Deviousness_ modlist to experience the most Lover's Lab content this side of an Oldrim installation. You may feel this list goes too hard in the direction of suffering and roleplay. If this the case, consider reading about the mods inside it and configuring the menus more to your liking. They are actually very customizable.
-
-Your second option is to find my private server in the #licentia channel and customize the modlist there, Licentia Ultimate. It separates much of the LL content into multiple profiles for easier play and is much more agreeable to Rule 11 violations (customization). Be warned, this list is shipped in an incomplete state and requires someone with modding experience or a willingness to learn and experiment. If you join my server and immediately ask dumb questions about Nemesis without checking the pins, you will likely be banned.
+Your only option at present is to install the _Dungeons & Deviousness_ modlist to experience the most Lover's Lab content this side of an Oldrim installation. You may feel that _DND_ goes too hard in the direction of suffering and roleplay. If this the case, consider reading about the mods inside it and configuring the menus more to your liking. They are actually very customizable.
 
 ## Technical
 
 ### I'm randomly crashing!
 
 You probably don't have enough paged RAM. Skyrim is very badly optimized. Try increasing your pagefile size. The recommendation is to set it to "System Managed" for all of your hard drives, but you can read specific instructions by going to any Wabbajack Discord channel and typing ``!pagefile`` 
-
-### I'm crashing in inventory or crafting menus!
-
-Probably the horrible LE strapons are the cause. Disable everything in the SexLab loaded Strapons menu and hope for the best.
 
 ### My performance is really terrible, low FPS, input lag during combat!
 
@@ -70,7 +64,7 @@ SexLab is far from perfect. Use the hotkeys to align the scene. L goes closer, S
 
 ### I enabled a feature and it's not working.
 
-I won't answer questions about features I disabled. I disabled them because I couldn't get them to work. If you did, that's great, explain how and I'll pin it with a note to ping you so you can support people who ask questions about it.
+I won't answer questions about features I disabled. I disabled them because I couldn't get them to work.
 
 ### I added a mod and something weird happened.
 
@@ -95,6 +89,10 @@ You either didn't run _BodySlide_ or ran it wrong. Follow all the steps in the [
 ### I read a skill book but my skill didn't go up!
 
 This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. Take care of business and _then_ read the book.
+
+### Hey! I'm not supposed to respawn outside of the Clockwork or Project AHO mods!
+
+This is true. If you die in these mods and respawn with Ashes, you game may be permanently messed up. I recommend disabling _Ashes_ before doing either of these quest chains. Or, if you die, simply ensure that you reload instead of continuing.
 
 ### I crash in Project AHO when I complete a certain quest!
 
