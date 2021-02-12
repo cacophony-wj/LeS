@@ -43,6 +43,7 @@
     - [presets](#presets-1)
   - [Ashes](#ashes)
   - [All done!](#all-done)
+- [ULTRA MEGA IMPORTANT](#ultra-mega-important)
 
 # Licentia Configuration
 
@@ -295,3 +296,7 @@ All you need to do is enable the mod.
 ## All done!
 
 Be sure to make a last second save in case something bad happens. You _do not_ want to do these MCMs again. There are two options to start your game. The first is to talk to the Mara statue for a more traditional method. Sexy starts (most of the time involving you being naked) are available from the bookshelf nearby.
+
+# ULTRA MEGA IMPORTANT
+
+**The Ultimate Dodge** will **NOT** work until you leave the starting cell after sleeping on the bed after talking to the statue or choosing a book. It will also **NOT** work **UNTIL YOU PRESS G TWICE.** The **FIRST** thing you should do as soon as you spawn is **PRESS G TWICE**. If you message me about how you are stuck in the air after a dodge, I will tell you to read this entire readme again.
