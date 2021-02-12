@@ -1,3 +1,7 @@
+### 7.1.1.1
+
+This update adds an optional profile for Creation Club's Survival bundle. Survival Mode, Backpacks, Camping. ALL FOODS have been patched to work with it. Buy it today!
+
 ## 7.1.1
 
 This update is save compatible **only** with 7.1. **Do not use old saves** from 7.0 or before.
