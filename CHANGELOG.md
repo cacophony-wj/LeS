@@ -1,6 +1,15 @@
-## 7.0L
+## 7.1.1
 
-This update is for the primary Licentia profile. It is _not_ save compatible.
+This update is save compatible **only** with 7.1. **Do not use old saves** from 7.0 or before.
+
+- Added Spell Perk Distributor along with a couple of mods to give enemies more dangerous abilities.
+- Added back Arena because the vanilla Skyrim scaling is too easy even for me.
+- Switched SOS Pubic Hair to SOS Pubics for Females so the carpet will match the drapes!
+- Updated Veydosebrom Regions to 1.1.1
+
+## 7.0
+
+This update is _not_ save compatible.
 
 - Added SOS Pubic Hair for Females. I decided against Futa options. You can add those yourselves, it's easy.
 - Added Positive Undressed Reactions
@@ -34,9 +43,9 @@ This update is for the primary Licentia profile. It is _not_ save compatible.
 - Updated Papyrus Extender to 4.2
 - Removed Demoniac Skin
 
-## 6.7L
+## 6.7
 
-This update is for the primary Licentia profile. It is _not_ save compatible.
+This update is _not_ save compatible.
 
 - Swapped SexLab Aroused SSE for SexLab Aroused Modular Edition SE
 - Swapped Rudy Cathedral ENB for PI-CHO KONAN ENB
@@ -88,55 +97,6 @@ This update is for the primary Licentia profile. It is _not_ save compatible.
 - Updated Legendary Booty Body presets to 4.0
 - Disabled and REMOVED IFPV
 - Removed the Quicksave menu option
-
-## 0.1.1E
-
-- Added DUMMY THICC - Flame Atronach HYPER version
-- Added Alternate Conversation Camera Plus
-- Added CHOCOLATE
-- Added Spirits of Skyrim
-- Swapped out Battle Maidens Load Screens for Lore-Based Loading Screens
-- Updated Window Shadows to 6.8
-- Updated Unofficial Skyrim Special Edition Patch to 4.24a
-- Added Dark Face Issue Reporter
-
-## 0.1E
-
-This changelog is only for the _alpha_ Evanescentium profile I posted recently. It _only_ reflects the differences as contrasted with _Licentia_.
-
-- Removed all SexLab mods but the framework itself (used for orgasms in OStim scenes)
-- Added OSex with all the optional animation add-ons
-- Added OStim
-- Added Flower Girls
-- Added Animation Selector for Flower Girls
-- Added Flower Girls Wintersun Patch
-- Changed Amorous Adventures to Amorous Adventures PLUS
-- Added Flower Girls More Adventures
-- Added Sex Scene Framework
-- Added Secret Lives of Skyrim NPCs
-- Added Auri
-- Added Auri/Inigo Banter Patch
-- Added Sandwich's Auri Beautifier
-- Added Inigo Marriage Patch for Kaidan 2
-- Added Inigo Marriage Patch for M'rissi
-- Added High Poly Inigo Replacer
-- Added M'rissi
-- Added Kaidan 2
-- Added eeekie's Kaidan Replacer
-- Added the LOTD patches for Auri, M'rissi, and Kaidan
-- Added the Fixed version of Wonders of Weather (no CTDs)
-- Added No Grass in Objects
-- Added No Silly Physics Damage
-- Added Face Discoloration Fix
-- Updated Souls-Like SmoothCam Preset to v2
-- Regenerated LODs specifically for this profile
-- Disabled and REMOVED IFPV
-- Added and Enabled Improved Camera Beta 4
-
-** COMING SOON! **
-
-Wine and chocolate to go with all the cheese!!
-BABO AND BILLYY IMPORTED INTO OSEX??
 
 ## 6.0
 
