@@ -36,14 +36,11 @@
   - [SKY UI](#sky-ui)
     - [General](#general-1)
   - [SmoothCam](#smoothcam)
-    - [Compatibility](#compatibility)
     - [Presets](#presets)
+    - [Compatibility](#compatibility)
   - [SSoB](#ssob)
   - [Storm Lightning](#storm-lightning)
     - [presets](#presets-1)
-  - [The Ultimate Dodge Mod](#the-ultimate-dodge-mod)
-    - [NPC Settings](#npc-settings)
-  - [Weapon Speed Fix](#weapon-speed-fix)
   - [Ashes](#ashes)
   - [All done!](#all-done)
 
@@ -63,9 +60,7 @@ I can't help you get it working or test problems with it because I don't have Ul
 
 ## Character Creation
 
-**If you look really old** no matter what you try, reset your Complexion in the _Head_ menu. Vanilla Nord Female Preset 01 is an old hag for some weirdass reason and RaceMenu doesn't reset it properly. 
-
-Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard).  There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. 
+Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard).  There are no presets for Argonians and Khajiits for some reason. I made two male presets, a mage and a warrior, with an (M) after the name. I also added some weird Yojimbo Dark Elf named Zet. He's marked with (M) too.
 
 Tweak to your liking, you might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _CBBE Morphs_ and _Genitals_ options, but I am not going to go into that. Experiment and figure it out. One thing you can do is open the console with the _Tilde `_ key, click on yourself, and type _unequipall_, and then reload your preset to go nude. Click _Done_ (in the lower left) when you are finished.
 
@@ -151,7 +146,7 @@ Note that **ALL** of _SexLab's_ original old animations have been suppressed due
 
 ### Animation Settings
 
-**Creature animations are not included.** See the Troubleshooting document for details.
+**Creature animations are not included.** If you wish a heavier Lover's Lab modlist featuring creatures, "Devious" content (if you don't know, you don't need to know), and more of an emphasis on smut, try the _Dungeons & Deviousness_ modlist.
 
 ## SexLab
 
@@ -269,6 +264,10 @@ Disable the _Active Effects HUD_. (It gets in the way of my AMOT preset.)
 
 ## SmoothCam
 
+### Presets
+
+Click on _Slot 2: EasyEase_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
+
 ### Compatibility
 
 Alternate Conversation Camera: Unchecked
@@ -279,10 +278,6 @@ Immersive First Person View: Unchecked
 
 Scroll to the bottom where you will find 
 
-### Presets
-
-Click on _Slot 2: EasyEase_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
-
 ## SSoB
 
 Check "Quest Markers on Stones of Berenziah"
@@ -292,18 +287,6 @@ Check "Quest Markers on Stones of Berenziah"
 ### presets
 
 Click _Realistic_ and wait for it to say **DONE**
-
-## The Ultimate Dodge Mod
-
-Highly recommend you set the sneak key for D-PAD down on a controller, or SHIFT on a keyboard
-
-### NPC Settings
-
-Uncheck _NPC Dodge AI_. My followers have been known to get stuck in midair with this option enabled.
-
-## Weapon Speed Fix
-
-_SPERG_ plays havoc with weapon speed changes. So does _CGO_. You need to disable this fix, exit the menu, re-enter, then enable the fix again or all your weapons will swing crazy fast.
 
 ## Ashes
 
