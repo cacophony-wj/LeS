@@ -19,7 +19,7 @@ You will also have to follow all of the steps below.
 8. Click **OK**
 9. Click the _Group Filter_ magnifying glass (upper right). 
 10. Click _Choose Groups..._
-11. Place a checkbox in the _3BBB_ option. Ensure that none others are selected. 
+11. Place checkmarks next to the following: _3BBB, CBBE Vanilla Outfits Physics, Immersive Armors SSE CBBE, Maids, NPC Pubic 3BA,_ and _Unassigned._
 12. Click _OK_
 13. In the top left dropdown, select _CBBE 3BBB Body Amazing_
 14. Select your preset from the dropdown below that. 
@@ -31,13 +31,13 @@ You will also have to follow all of the steps below.
 20. A prompt will appear asking where to put your custom-fitted outfits. Make sure they go to **_Licentia Directory_/mods/BodySlide Output**.
 21. **Do not put your outfits anywhere but _BodySlide Output_.**
 22. Click _Select Folder_
-23. Options for 4 helmets will appear. These helmets have a bit of hair sticking out. Decide what color you want them.
-25. Click OK
-1.  Wait for your outfits to be built in the popup labeled **Processing Outfits**.
+23. Select all of the _(Physics)_ options. There's also one weird one about boots that I don't think matters very much.
+24. Click OK
+25. Wait for your outfits to be built in the popup labeled **Processing Outfits**.
 26. You should receive the message "All outfits processed successfully!"
 27. Click OK
 28. If you receive any error messages, repeat the process from step 16 until you receive the above message.
-29. When finished, navigate to **_Licentia Directory_/mods/BodySlide Output/meshes** and make sure about a dozen outfits folders are there.
+29. When finished, navigate to **_Licentia Directory_/mods/BodySlide Output/meshes** and make sure a little over a dozen or so outfits folders are there.
 30. If there is only a _meshes_ folder there, move it to **_Licentia Directory_/mods/BodySlide Output**
 31. **Confirm that all the outfits folders are in _Licentia Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
 32. You may continue.
