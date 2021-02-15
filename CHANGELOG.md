@@ -12,6 +12,8 @@ Mainly just an update to get it back on the UI, but there are a handful of chang
 - Updated Triple Triad in Skyrim to 3.0
 - Swapped Wyrmstooth to the Nexus version
 
+It SHOULD be save safe with all 7.x versons IF you have not started the Serana romance. If you have, load from before to continue with this update. Enjoy!
+
 ### 7.1.1.1
 
 This update adds an optional profile for Creation Club's Survival bundle. Survival Mode, Backpacks, Camping. ALL FOODS have been patched to work with it. Buy it today!
