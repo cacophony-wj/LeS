@@ -1,3 +1,17 @@
+### 7.2
+
+Mainly just an update to get it back on the UI, but there are a handful of changes:
+
+- Added Anub Human animations
+- Added the SLAL version of M2M animations!
+- Added NCK30 animatons
+- Added Nibbles Human animations
+- Updated Serana Dialog Addon to 2.3.1hotfix
+- Updated Book of 3BBB to 1.7.2 (thanks Tsuki!)
+- Updated Dirt & Blood to 1.7
+- Updated Triple Triad in Skyrim to 3.0
+- Swapped Wyrmstooth to the Nexus version
+
 ### 7.1.1.1
 
 This update adds an optional profile for Creation Club's Survival bundle. Survival Mode, Backpacks, Camping. ALL FOODS have been patched to work with it. Buy it today!
