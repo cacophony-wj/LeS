@@ -1,3 +1,9 @@
+### 7.2.1
+
+- Updated Serana Dialogue Add-On to 2.3.2
+- Updated Windows Shadows and Relighting Skyrim Patch to 2.0
+- Enabled Wyrmstooth lul
+
 ### 7.2
 
 Mainly just an update to get it back on the UI, but there are a handful of changes:
