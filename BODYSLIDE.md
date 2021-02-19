@@ -19,7 +19,7 @@ You will also have to follow all of the steps below.
 8. Click **OK**
 9. Click the _Group Filter_ magnifying glass (upper right). 
 10. Click _Choose Groups..._
-11. Place checkmarks next to the following: _3BBB, CBBE Vanilla Outfits Physics, Immersive Armors SSE CBBE, Maids, NPC Pubic 3BA,_ and _Unassigned._
+11. Place checkmarks next to the following: _3BBB, CBBE Vanilla Outfits, CBBE Vanilla Outfits Physics, Immersive Armors SSE CBBE, Maids, NPC Pubic 3BA, Underwear for Everyone_ and _Unassigned._
 12. Click _OK_
 13. In the top left dropdown, select _CBBE 3BBB Body Amazing_
 14. Select your preset from the dropdown below that. 
