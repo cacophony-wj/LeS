@@ -1,15 +1,15 @@
 ### 7.3
 
-Added Colored SOS Pubic hair, configurable.
-Added removeable undergarments to all NPCs via Pirahna's Under There Synthesis patcher!
-Added Dynamic Animation Replacer (DAR)
-Added EVG Conditional Idles
-Added Diverse Random Idles
-Added Pretty Sit Idles - Random Female Sitting
-Added Dynamic Volumetric Lighting and Sun Shadows.
-Added No Thieves Guild Grind to prevent overstuffing of the Quest Log.
-Added No Killmoves Against Player
-Survival Profile Only: Added Garbage Loot to Barrels & Sacks and ran the Food Remover Synthesis Patcher.
+- Added Colored SOS Pubic hair, configurable.
+- Added removeable undergarments to all NPCs via Pirahna's Under There Synthesis patcher!
+- Added Dynamic Animation Replacer (DAR)
+- Added EVG Conditional Idles
+- Added Diverse Random Idles
+- Added Pretty Sit Idles - Random Female Sitting
+- Added Dynamic Volumetric Lighting and Sun Shadows.
+- Added No Thieves Guild Grind to prevent overstuffing of the Quest Log.
+- Added No Killmoves Against Player
+- Survival Profile Only: Added Garbage Loot to Barrels & Sacks and ran the Food Remover Synthesis Patcher.
 
 ### 7.2.1
 
