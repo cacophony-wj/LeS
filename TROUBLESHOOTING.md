@@ -2,6 +2,8 @@
   - [An update came out! It's new and shiny! What should I do?](#an-update-came-out-its-new-and-shiny-what-should-i-do)
 - [Content](#content)
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
+- [Gameplay](#gameplay)
+  - [What the fuck? Mirabelle, the College of Winterhold tour guide, is wandering all over the damn place!](#what-the-fuck-mirabelle-the-college-of-winterhold-tour-guide-is-wandering-all-over-the-damn-place)
 - [Technical](#technical)
   - [I'm randomly crashing!](#im-randomly-crashing)
   - [My performance is really terrible, low FPS, input lag during combat!](#my-performance-is-really-terrible-low-fps-input-lag-during-combat)
@@ -38,6 +40,12 @@ Updating is like installing. You only have to make sure that you select the same
 Boy did you ever download the wrong list. This list is mostly for playing Skyrim with titties in it.
 
 Your only option at present is to install the _Dungeons & Deviousness_ modlist to experience the most Lover's Lab content this side of an Oldrim installation. You may feel that _DND_ goes too hard in the direction of suffering and roleplay. If this the case, consider reading about the mods inside it and configuring the menus more to your liking. They are actually very customizable.
+
+## Gameplay
+
+### What the fuck? Mirabelle, the College of Winterhold tour guide, is wandering all over the damn place!
+""
+Yeah, Skyrim Sewers expands the Midden and kinda fucks up her pathing, from what I understand. You can just go straight to the main hall where Tolfdir is and skip her little spiel. If for some reason you wish to hear it, I recommend opening console and typing "save funclist 1". A text document will pop up. Search in there for **second** occurrence of "Mirabelle Ervine". You should get a number at the far left like "0001C1B9". Every time she disappears on you, just open console and type "player.moveto 0001C1B9" (replace with your code, it will be different). 
 
 ## Technical
 
