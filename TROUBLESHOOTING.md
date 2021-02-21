@@ -44,7 +44,7 @@ Your only option at present is to install the _Dungeons & Deviousness_ modlist t
 ## Gameplay
 
 ### What the fuck? Mirabelle, the College of Winterhold tour guide, is wandering all over the damn place!
-""
+
 Yeah, Skyrim Sewers expands the Midden and kinda fucks up her pathing, from what I understand. You can just go straight to the main hall where Tolfdir is and skip her little spiel. If for some reason you wish to hear it, I recommend opening console and typing "save funclist 1". A text document will pop up. Search in there for **second** occurrence of "Mirabelle Ervine". You should get a number at the far left like "0001C1B9". Every time she disappears on you, just open console and type "player.moveto 0001C1B9" (replace with your code, it will be different). 
 
 ## Technical
