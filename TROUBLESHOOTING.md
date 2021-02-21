@@ -15,6 +15,7 @@
   - [Why do I have to CTRL-CLICK to build _BodySlide_?](#why-do-i-have-to-ctrl-click-to-build-bodyslide)
   - [My body looks boring and flat! or My boobs are melting into the ground!](#my-body-looks-boring-and-flat-or-my-boobs-are-melting-into-the-ground)
   - [I read a skill book but my skill didn't go up!](#i-read-a-skill-book-but-my-skill-didnt-go-up)
+  - [One of my prostitution quests glitched out!](#one-of-my-prostitution-quests-glitched-out)
   - [Hey! I'm not supposed to respawn outside of the Clockwork or Project AHO mods!](#hey-im-not-supposed-to-respawn-outside-of-the-clockwork-or-project-aho-mods)
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
 
@@ -89,6 +90,14 @@ You either didn't run _BodySlide_ or ran it wrong. Follow all the steps in the [
 ### I read a skill book but my skill didn't go up!
 
 This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. Take care of business and _then_ read the book.
+
+### One of my prostitution quests glitched out!
+
+The mod in question, _Radiant Prostitution_, was rather, shall we say, inexpertly put together and subsequently abandoned before it could be polished up. Before you accept one of the higher-level quests (something more than just walking around looking for Johns), be certain to back out and save your game. After accepting the quest, watch for error messages in the upper-left corner of the screen and consider reloading if you get one such as "Target location does not belong to a faction."  Bear in mind, if you receive a quest for a location that has not been enabled, such as a military camp before the Civil War begins, you will not be able to locate your target location. You will need to reload.
+
+If you receive no such messages, save again, then go to the location of your quest. If the location is locked, consider reloading from _before you accepted the quest_ as that particular quest is probably bugged. Ensure that you can complete the quest and receive kudods from your client(s). If this does not happen, consider reloading. Assuming all does manage to complete, return to the innkeeper for your payment. 
+
+If anything goes wrong throughout these quests, you will have to reload from before accepting it, so as to receive a different randomly-generated one. To be quite honest, very little about this mod works well aside from simple brothel or street walking.
 
 ### Hey! I'm not supposed to respawn outside of the Clockwork or Project AHO mods!
 
