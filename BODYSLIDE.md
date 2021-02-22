@@ -20,27 +20,28 @@ You will also have to follow all of the steps below.
 9. Click the _Group Filter_ magnifying glass (upper right). 
 10. Click _Choose Groups..._
 11. Place checkmarks next to the following: _3BBB, CBBE Vanilla Outfits, CBBE Vanilla Outfits Physics, Immersive Armors SSE CBBE, Maids, NPC Pubic 3BA, Underwear for Everyone_ and _Unassigned._
-12. Click _OK_
-13. In the top left dropdown, select _CBBE 3BBB Body Amazing_
-14. Select your preset from the dropdown below that. 
-15. Preview it with the appropriate button.
-16. (I recommend _3BBB HangEmHigh_. My friend _Arrow_ spent a lot of time on it, I had it in mind when I configured the physics, and you can use _Body Size_ at character creation to change what you look like by quite a bit, without messing around with dozens of _CBBE Morphs_.)
-17. Once you are satisfied, ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
-18. **Hold down the CTRL key** (very important) and click _Batch Build_. 
-19. You will see a huge list of bodies and outfits. Just click _Build_.
-20. A prompt will appear asking where to put your custom-fitted outfits. Make sure they go to **_Licentia Directory_/mods/BodySlide Output**.
-21. **Do not put your outfits anywhere but _BodySlide Output_.**
-22. Click _Select Folder_
-23. Select all of the _(Physics)_ options. There's also one weird one about boots that I don't think matters very much.
-24. Click OK
-25. Wait for your outfits to be built in the popup labeled **Processing Outfits**.
-26. You should receive the message "All outfits processed successfully!"
-27. Click OK
-28. If you receive any error messages, repeat the process from step 16 until you receive the above message.
-29. When finished, navigate to **_Licentia Directory_/mods/BodySlide Output/meshes** and make sure a little over a dozen or so outfits folders are there.
-30. If there is only a _meshes_ folder there, move it to **_Licentia Directory_/mods/BodySlide Output**
-31. **Confirm that all the outfits folders are in _Licentia Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
-32. You may continue.
+12. If you are on the _FULL CC PROFILE_ there are a couple others you need to check: namely, _CBBE Creation Club Outfits Immersive (Non HDT and HDT),_ and _Divine Crusader CBBE_
+13. Click _OK_
+14. In the top left dropdown, select _CBBE 3BBB Body Amazing_
+15. Select your preset from the dropdown below that. 
+16. Preview it with the appropriate button.
+17. (I recommend _3BBB HangEmHigh_. My friend _Arrow_ spent a lot of time on it, I had it in mind when I configured the physics, and you can use _Body Size_ at character creation to change what you look like by quite a bit, without messing around with dozens of _CBBE Morphs_.)
+18. Once you are satisfied, ensure that the checkbox _Build Morphs_ next to the _Batch Build_ button in the lower left is **enabled**.	
+19. **Hold down the CTRL key** (very important) and click _Batch Build_. 
+20. You will see a huge list of bodies and outfits. Just click _Build_.
+21. A prompt will appear asking where to put your custom-fitted outfits. Make sure they go to **_Licentia Directory_/mods/BodySlide Output**.
+22. **Do not put your outfits anywhere but _BodySlide Output_.**
+23. Click _Select Folder_
+24. Select all of the _(Physics)_ options. There's also one weird one about boots that I don't think matters very much.
+25. Click OK
+26. Wait for your outfits to be built in the popup labeled **Processing Outfits**.
+27. You should receive the message "All outfits processed successfully!"
+28. Click OK
+29. If you receive any error messages, repeat the process from step 16 until you receive the above message.
+30. When finished, navigate to **_Licentia Directory_/mods/BodySlide Output/meshes** and make sure a little over a dozen or so outfits folders are there.
+31. If there is only a _meshes_ folder there, move it to **_Licentia Directory_/mods/BodySlide Output**
+32. **Confirm that all the outfits folders are in _Licentia Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
+33. You may continue.
 
 ### Changing It Up
 
