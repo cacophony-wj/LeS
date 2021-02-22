@@ -69,7 +69,7 @@ Tweak to your liking, but bear in mind that many of the close-cropped hairstyles
 
 ## AS SOON AS CHARACTER CREATION IS COMPLETE
 
-You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHING** until you get another popup. Click _Scan Later_. After a third popup, you should be ready to continue.
+You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHING** until you get another popup. After the second popup, you should be ready to continue.
 
 ## A bit of a note on System Settings
 
