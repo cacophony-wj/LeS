@@ -1,3 +1,16 @@
+### 7.3.2 
+
+- Added a new profile for those Daddy Warbucks users with EVERY piece of Creation Club content!
+- This features a much more restricted subset of world integration than other lists featuring CC.
+- It is most definitely intended as a "might as well" feature!
+- Added NPC Pubics with Matching Hair Color. The "bushiest" options have been disabled!
+- Added Dynamic Volumetric Lighting and Sun Shadows.
+- Added Glorious Doors of Skyrim to fix a handful of black textures.
+- Added No Thieves Guild Grind to prevent the deletion of quests.
+- Updated NCK30 SLAL Animations to 2.8
+- Updated SSE Display Tweaks to 0.4.7
+- Restored the ability to craft the Crimson Blood armor.
+
 ### 7.3
 
 - Added Colored SOS Pubic hair, configurable.
