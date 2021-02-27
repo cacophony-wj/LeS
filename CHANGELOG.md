@@ -1,3 +1,15 @@
+### 7.4
+
+The Synthesis patcher *has been rerun!* Underwear breaks when this happens! Do not continue a save with this!
+
+- Re-Did BethINI to fix flickering ground shadows!
+- Added SexLab scenes to the Auri romance via LL's Song of the Green Patches
+- Added WiZkiD Carriages to allow for a Vanilla start
+- Added Actor Limit fix to correct some bugginess with the sheer number of critters
+- Updated Spell Perk Item Distributor to 4.3
+- Updated Landscape Fixes for Grass Mods to 4.8
+- As always, keep me abreast of any issues!
+
 ### 7.3.2 
 
 - Added a new profile for those Daddy Warbucks users with EVERY piece of Creation Club content!
