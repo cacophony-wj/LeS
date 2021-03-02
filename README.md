@@ -1,5 +1,6 @@
 - [Preamble](#preamble)
-	- [A word about ENBs](#a-word-about-enbs)
+- [A STRONG WARNING](#a-strong-warning)
+	- [SexLab SE is still **beta!** It is still buggy!](#sexlab-se-is-still-beta-it-is-still-buggy)
 	- [Requirements](#requirements)
 		- [System Specs](#system-specs)
 	- [Installation](#installation)
@@ -27,7 +28,9 @@ I'm [cacophony](https://github.com/cacophony-wj), a humble person. I want to pro
 
 Your kinks are a very private thing. As opposed to piling together a modlist for every possible fetish, I have created a fun list for myself with beautiful characters and easy ways to initiate dialog sex with the highest quality and most frequently updated animations. The systems are kept intentionally light to ensure SexLab is as stable as it can be and to allow for greater compatibility with user additions. The patches are individual to each mod and there are no merges, allowing for almost anything to be added or removed.
 
-_Death Alternatives_ don't work reliably. I can't stand it when they fail and I can't stand trying to improve their success rate. I have included _Ashes_ so you can spawn in a separate cell before reloading, as Wabbajack recommends. If you want to take this respawn mod as an opportunity for a "hardcore" playthrough, feel free to do so, but that is not its intention. Just wait until the screen fades in from black and reload.
+_Death Alternatives_ don't work reliably. I can't stand it when they fail and I can't stand trying to improve their success rate. I have included _Ashes_ so you can spawn in a separate cell before reloading, which is safer, especially if you're like me and die a lot. Otherwise, scripts from your "previous life" may fail to terminate and cause inescapable bugs. This is a vanilla problem made worse with the addition of hundreds of mods. However, Ashes is still not perfect, especially in a SexLab-adjacent setup. Due to increasing user bug reports, I can no longer recommend the use of its respawn feature in any capacity. Just wait until the screen fades in from black, give everything about 30 seconds to settle, and reload. If you do not, or you happen to save and load in a frequent, rushed manner ("save scumming"), complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game.
+
+A word about _SexLab Aroused._ This is possibly the worst mod to ever use on any Skyrim save that you plan on keeping. It adds variables to every human in the game and updates them every 30 seconds. On saves approaching 200 - 300 hours this may result in inescapable save corruption due to the sheer accumulation of improperly terminated scripts. Do bear in mind this possibility of corruption is true for any Skyrim modlist utilizing _Aroused_. I would go without _Aroused_ completely were it possible but too many mods depend upon it. 
 
 A word about ENBs. This list was designed with the intention of following Rudy's _Cathedral Weathers ENB_ weather and lighting recommendations. If you don't like it, I have also included _PI CHO KONAN_, _Serio's ENB_, _LJoss_, and _PI-CHO Standard_ in the downloads directory which you can install if you wish to try them. If you are running this modlist at 4k, I _strongly_ recommend switching the ENB to _Serio's_. Don't limit yourself to my choices, though, in theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Choose carefully, ENBs are the most demanding part of any modlist. 
 

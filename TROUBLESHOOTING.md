@@ -17,6 +17,7 @@
   - [Why do I have to CTRL-CLICK to build _BodySlide_?](#why-do-i-have-to-ctrl-click-to-build-bodyslide)
   - [My body looks boring and flat! or My boobs are melting into the ground!](#my-body-looks-boring-and-flat-or-my-boobs-are-melting-into-the-ground)
   - [I read a skill book but my skill didn't go up!](#i-read-a-skill-book-but-my-skill-didnt-go-up)
+  - [What the hell! I'm moving backwards! I can't go into first person! I teleported under the ground! **or** I shrunk to a centimeter in height!](#what-the-hell-im-moving-backwards-i-cant-go-into-first-person-i-teleported-under-the-ground-or-i-shrunk-to-a-centimeter-in-height)
   - [One of my prostitution quests glitched out!](#one-of-my-prostitution-quests-glitched-out)
   - [Hey! I'm not supposed to respawn outside of the Clockwork or Project AHO mods!](#hey-im-not-supposed-to-respawn-outside-of-the-clockwork-or-project-aho-mods)
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
@@ -98,6 +99,10 @@ You either didn't run _BodySlide_ or ran it wrong. Follow all the steps in the [
 ### I read a skill book but my skill didn't go up!
 
 This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. Take care of business and _then_ read the book.
+
+### What the hell! I'm moving backwards! I can't go into first person! I teleported under the ground! **or** I shrunk to a centimeter in height!
+
+This appears to be a bug with _SexLab Utility Plus_ which is still kinda ironing things out. The only thing you can do is reload, and if that doesn't work, exit Skyrim, launch it, and then reload.
 
 ### One of my prostitution quests glitched out!
 
