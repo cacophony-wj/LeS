@@ -4,6 +4,7 @@
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Gameplay](#gameplay)
   - [What the fuck? Mirabelle, the College of Winterhold tour guide, is wandering all over the damn place!](#what-the-fuck-mirabelle-the-college-of-winterhold-tour-guide-is-wandering-all-over-the-damn-place)
+  - [What the fuck? The Civil War questline is horribly fucked up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#what-the-fuck-the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
 - [Technical](#technical)
   - [I'm randomly crashing!](#im-randomly-crashing)
   - [My performance is really terrible, low FPS, input lag during combat!](#my-performance-is-really-terrible-low-fps-input-lag-during-combat)
@@ -47,6 +48,17 @@ Your only option at present is to install the _Dungeons & Deviousness_ modlist t
 ### What the fuck? Mirabelle, the College of Winterhold tour guide, is wandering all over the damn place!
 
 Yeah, Skyrim Sewers expands the Midden and kinda fucks up her pathing, from what I understand. You can just go straight to the main hall where Tolfdir is and skip her little spiel. If for some reason you wish to hear it, I recommend opening console and typing "save funclist 1". A text document will pop up. Search in there for **second** occurrence of "Mirabelle Ervine". You should get a number at the far left like "0001C1B9". Every time she disappears on you, just open console and type "player.moveto 0001C1B9" (replace with your code, it will be different). 
+
+### What the fuck? The Civil War questline is horribly fucked up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!
+
+The Civil War questline is incredibly broken even in vanilla Skyrim partially due to the large actor count and infinitely spawning enemies. Pile on CGO scripting all attack patterns and animations and Ultimate Dodge scripting all movement and you have a recipe for disaster. Even if you do manage to complete it, countless other quests will be broken due to destroyed buildings / dead NPCs / flagged variables. It's recommended that you complete this questchain near the very end of your playthrough, if at all. If you choose to do so, I recommend keeping the following things in mind:
+
+1. Before you do _any_ of these big battles with infinite spawns, _disable SexLab Aroused in the MCM!_ **IMPORTANT** You can turn it back on afterward.
+2. Infinite enemy spawns are based around the destructible barricades. Hit them three times with a weapon or Destruction spell to destroy them and stop spawns in that area.
+3. The above does not always work. If you find enemies never stop spawning, _sprint_ to the capitol building of the city you are attempting to reclaim (Dragonsreach, Castle Dour, etc) and make your way inside.
+4. The conclusion of the Battle for Whiterun / Solitude / Windhelm is triggered by entering this capitol building.
+5. You do not need to escort Ulfric, Galmar, Tullius, Likke or anyone else all the way to the capitol building. Sometimes they won't even spawn when you enter the city! Merely entering it yourself is enough. Just as followers appear beside you, so will the faction leaders.
+6. Enjoy the rest of your horribly broken playthrough.
 
 ## Technical
 
