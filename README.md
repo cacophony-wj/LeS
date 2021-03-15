@@ -19,6 +19,7 @@
 	- [Contributing](#contributing)
 	- [Changelog](#changelog)
 
+![Licentia logo](Licentia.png "Licentia")
 
 # Preamble
 
