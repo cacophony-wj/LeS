@@ -22,6 +22,7 @@
   - [One of my prostitution quests glitched out!](#one-of-my-prostitution-quests-glitched-out)
   - [Hey! I'm not supposed to respawn outside of the Clockwork or Project AHO mods!](#hey-im-not-supposed-to-respawn-outside-of-the-clockwork-or-project-aho-mods)
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
+- [For More Information](#for-more-information)
 
 ## Updates
 
@@ -131,3 +132,9 @@ This is true. If you die in these mods and respawn with Ashes, you game may be p
 ### I crash in Project AHO when I complete a certain quest!
 
 Try this. Load before you start the quest's conclusion. Complete a step. Save. Reload. Complete the next step. Continue until you finish the quest without crashing. I have confirmation that this does work.
+
+## For More Information
+
+So you've had a taste of the caco experience and want more, you say? To get specific help with this modlist or modding in general (NSFW or SFW) take your happy ass to my discord server located at the link below. Depending on the phases of the moon you may find alphas of lists in progress, betas of lists being tested, tips for lewding lists and games yourself, or other strange projects. I'm also one of the few WJ modders who welcome additions to his list (or any list) and offer my services as support. While you're there drop in the "co-operating" channel to discuss Dark Souls and other co-op games, or the "hard topics" channel for those spicy subjects that'll get you banned everywhere else! Enjoy!
+
+https://discord.gg/VVRWPJmgf7
