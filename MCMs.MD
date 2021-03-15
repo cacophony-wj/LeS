@@ -127,7 +127,7 @@ It is _very important_ to **wait** until _all_ messages have both ceased appeari
 
 ### Install
 
-Under **SexLab 1.63 SE dev beta 8 by Ashal@LoversLab.com**
+Under **SexLab 1.63 SE dev beta 9 by Ashal@LoversLab.com**
 
 Click _INSTALL/UPDATE SEXLAB 163 SE DEV BETA 9_
 
