@@ -1,3 +1,29 @@
+### 7.5
+
+The Synthesis patcher *has been rerun!* Underwear breaks when this happens! Do not continue a save with this!
+
+- The big change is the removal of _Auri_ so the list can be installed. DW, she will be back!
+- Reinstalled _Billyy's SLAL Animations 4.2_ due to some compilation errors
+- Completed the _Souls-Like_ trilogy by adding _UNSLAAD_ and _GLENMORIL_
+- Added 2K Replacers for the guns in _Vigilant_ and _Glenmoril_
+- Added 3BBB BodySlides for the _Vigilant_ armors
+- Added _Sustained Magic_ with the _Ordinator_ patch
+- Added _Real Bosses_ to make the... bosses tougher?
+- Added _RUSTIC CLOTHING_... now how did I miss this?!
+- Added the bright waterfall fix but it doesn't seem to do shit...
+- Updated _SexLab Framework_ to _DEV BETA 9_ :eyes:
+- Updated _Babo Human_ 
+- Updated _Radiant Prostitution_ to 5.0
+- Updated _Serana Dialogue Add-On_ to 2.3.4
+- Updated _Lucien_ to 1.6.0
+- Updated _Enemy (R)Evolution of Skyrim_ to 1.77
+- Updated _Frozen Electrocuted Combustion_ to 4.8
+- Updated _Storm Lightning_ to 1.4.8
+- Updated _Realistic Water Two_ to 2.3.4
+- Updated _Blended Roads Redone_ to 1.5.1
+- Updated _Papyrus Extender_ to 4.3
+- Updated _SSE Display Tweaks_ to 0.4.8
+  
 ### 7.4
 
 The Synthesis patcher *has been rerun!* Underwear breaks when this happens! Do not continue a save with this!

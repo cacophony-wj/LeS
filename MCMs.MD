@@ -23,6 +23,7 @@
       - [Leaning](#leaning)
   - [Follower Framework](#follower-framework)
     - [System](#system)
+  - [LOTD: The Curator's Companion](#lotd-the-curators-companion)
   - [Quick Light](#quick-light)
     - [Serio's Hotkeys](#serios-hotkeys)
     - [SexLab Aroused](#sexlab-aroused)
@@ -179,7 +180,7 @@ Load the User Preset.
 
 _Lean Multiplier (1st Person)_: _X0.00_
 
-_Lean Multiplier (3rd Person)_: _X1.00_
+_Lean Multiplier (3rd Person)_: _X0.25_
 
 _Camera Noise_
 
@@ -197,6 +198,12 @@ At the message **Settings Loaded. Please exist the MCM menu to apply all changes
 
 Exit the MCM and re-open it.
 
+## LOTD: The Curator's Companion
+
+Some users have reported excessive lag with occasional inventory scans of the Dragonborn Museum when reaching near-capacity (over 1,000 displays and over 100 hours of gameplay)
+
+If this sounds like you, navigate to the _MoreHUD & Scan_ portion of this MCM and set "Museum Scan Interval (Minutes)" to _120_.
+
 ## Quick Light
 
 This is automatically set to "up" on the D-Pad, even though it says NUMPAD 1. Set it to whatever you wish. All it does is turn on a light so you can see around you.
@@ -205,7 +212,7 @@ This is automatically set to "up" on the D-Pad, even though it says NUMPAD 1. Se
 
 Recommend _Use Vanilla Hotkeys_ if you're on controller.
 
-You'll have to read about the mod if you wanna use it, I'm still experimenting. Basically you can set it so your hotkeys are a function of shoulder button + face button for a total of 8 hotkeys on the controller (kinda like FF14 if you've ever played that on console)
+You'll have to read about the mod if you wanna use it, I'm still experimenting. Basically you can set it so your hotkeys are a function of shoulder button + face button for a total of 16 hotkeys on the controller (kinda like FF14 if you've ever played that on console)
 
 ###  SexLab Aroused
 
@@ -292,6 +299,10 @@ Click _Realistic_ and wait for it to say **DONE**
 ## Ashes
 
 All you need to do is enable the mod.
+
+Some people have reported corruption with the injuries module, particularly when save scumming.
+
+If this sounds like you, you may wish to scroll down and deselect the _Simple Injuries_ checkbox.
 
 ## All done!
 
