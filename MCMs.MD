@@ -119,13 +119,13 @@ It is _very important_ to **wait** until _all_ messages have both ceased appeari
 
 Under **SexLab 1.63 SE dev beta 8 by Ashal@LoversLab.com**
 
-Click _INSTALL/UPDATE SEXLAB 163 SE DEV BETA 8_
+Click _INSTALL/UPDATE SEXLAB 163 SE DEV BETA 9_
 
 Close the menu and wait. Once again, a series of messages will appear in the upper left corner. 
 
 Do not touch the mouse or keyboard until the following message appears:
 
-**SexLab - SexLab v1.63 SE dev beta 8 - Ready!**
+**SexLab - SexLab v1.63 SE dev beta 9 - Ready!**
 
 Then open the MCM and continue.
 
