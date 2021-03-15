@@ -113,9 +113,9 @@ The vast majority of these options are configured in the "Controls" portion of S
 
 To change the _Quick Light_ key, open the _Quick Light_ MCM and you should see the option. The same is true for _CGO_, there are options for _Grip Shift_ and _Dual Wield Blocking_.
 
-If you wish to change the _Lock-On_ key, you will have to open the _INI_ file located in the "Simple Lock-On" mod. (Double-click it and select INI.) You will have to change the value of _uHotKey_ to a "scancode" listed here (ignore that it says _Fallout 4_, the codes are the same for _Skyrim_):
+If you wish to change the _Lock-On_ key, you will have to open the _INI_ file located in the "Simple Lock-On" mod. (Double-click it and select INI.) You will have to change the value of _uHotKey_ to a "scancode" listed here:
 
-https://www.creationkit.com/fallout4/index.php?title=DirectX_Scan_Codes
+https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes
 
 ## Game MCM Options
 
