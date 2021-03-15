@@ -94,7 +94,7 @@ _I've been through the turnstile and am coming at you inverted._ **So are my con
 - RB+Start: Tween menu (character menu)
 - LB+RB: Shout (in that order, you kinda haveta roll your fingers across them)
 - LB: Lock-on (activate / deactivate)
-- RB: Sprint
+- RB: Sprint / Dual Wield Block
 - LS: Favorites
 - RS: Switch POV
 - A: Activate
@@ -106,6 +106,16 @@ _I've been through the turnstile and am coming at you inverted._ **So are my con
 - D-Pad Left: Switch grip between 1-handed and 2-handed (CGO)
 - (Yes, you will crouch up and down and turn lights on and off in dialog menus.)
 - (Use the sticks instead!)
+
+I am told I have not provided enough information on configuring these to ones' liking! You poor, poor keyboard and mouse players. 
+
+The vast majority of these options are configured in the "Controls" portion of Skyrim's pause menu. Please take note that your "Sneak" key is **NO LONGER SNEAK**, it is **DODGE** instead. If you wish to select a sneak key, first configure your **DODGE** key (which is labeled as **SNEAK** in the "Controls" menu, remember). Then open the MCM and choose the _Ultimate Dodge_ option. There is an entry there for "Sneak Key", click it and choose. In the end I think you will be better served with Dodge as _Shift_ and Sneak as _CTRL_.
+
+To change the _Quick Light_ key, open the _Quick Light_ MCM and you should see the option. The same is true for _CGO_, there are options for _Grip Shift_ and _Dual Wield Blocking_.
+
+If you wish to change the _Lock-On_ key, you will have to open the _INI_ file located in the "Simple Lock-On" mod. (Double-click it and select INI.) You will have to change the value of _uHotKey_ to a "scancode" listed here (ignore that it says _Fallout 4_, the codes are the same for _Skyrim_):
+
+https://www.creationkit.com/fallout4/index.php?title=DirectX_Scan_Codes
 
 ## Game MCM Options
 
