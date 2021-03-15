@@ -4,7 +4,7 @@
   - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
   - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
   - [Controls](#controls)
-  - [CONTROLLER MAPPING](#controller-mapping)
+  - [DEFAULT CONTROLS AND HOW TO CHANGE THEM](#default-controls-and-how-to-change-them)
   - [Game MCM Options](#game-mcm-options)
   - [SexLab](#sexlab)
     - [Install](#install)
@@ -84,7 +84,7 @@ Unfortunately 8-way dodges are not possible with a controller without an externa
 
 _I've been through the turnstile and am coming at you inverted._ **So are my controls.** If you don't like an inverted up and down you may have to change it yourself.
 
-## CONTROLLER MAPPING
+## DEFAULT CONTROLS AND HOW TO CHANGE THEM
 
 - Start: Journal
 - Back: Wait
