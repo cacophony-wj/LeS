@@ -80,7 +80,7 @@ The controls for "Licentia" have been set to controller by default. I'm old and 
 
 Unfortunately 8-way dodges are not possible with a controller without an external program and forcing "always run" which is murder to any type of Sneak. As you play, keep in mind that you can roll or step dodge in only the four cardinal directions. 
 
-**Under the System > Settings Menu** change Quicksave_ to _F9_, and _Quickload_ to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. 
+**Under the System > Settings Menu** change _Quicksave_ to _F9_, and _Quickload_ to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. 
 
 _I've been through the turnstile and am coming at you inverted._ **So are my controls.** If you don't like an inverted up and down you may have to change it yourself.
 
