@@ -19,6 +19,13 @@
 	- [Contributing](#contributing)
 	- [Changelog](#changelog)
 
+![Licentia logo](Licentia.png "Licentia")
+
+**All Hail ForgottenGlory for the above image! He is a Wizard who never forgets his Robe and Wizard Hat!**
+
+_If you want to experience a more "pure" form of Lover's Lab instead of a hybrid, might I recommend "Dungeons & Deviousness" for the ultimate hardcore experience, or "Atelier" for the ultimate screenshot experience! And hell, why not give "Living Skyrim 3" a run as well?! You can find them here:_
+
+https://www.fgsmodlists.com/home
 
 # Preamble
 

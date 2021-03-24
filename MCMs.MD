@@ -4,7 +4,7 @@
   - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
   - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
   - [Controls](#controls)
-  - [CONTROLLER MAPPING](#controller-mapping)
+  - [DEFAULT CONTROLS AND HOW TO CHANGE THEM](#default-controls-and-how-to-change-them)
   - [Game MCM Options](#game-mcm-options)
   - [SexLab](#sexlab)
     - [Install](#install)
@@ -78,29 +78,44 @@ You will get a **POPUP** from "The Curators Companion". Answer Ok and **DO NOTHI
 
 The controls for "Licentia" have been set to controller by default. I'm old and don't handle buttons well. If you wish to use a controller like me, please be certain to **delete** any _ControlMap_Custom_ files in your Skryim **game* directory if you plan to do so. Note that you will have to bind any keyboard controls again (such as QuickSave / QuickLoad)
 
-Unfortunately 8-way dodges are not possible with a controller without an external program and forcing "always run" which is esssential to any type of Sneak. As you play, keep in mind that you can roll or step dodge in only the four cardinal directions. 
+Unfortunately 8-way dodges are not possible with a controller without an external program and forcing "always run" which is murder to any type of Sneak. As you play, keep in mind that you can roll or step dodge in only the four cardinal directions. 
 
-**Under the System > Settings Menu** change Quicksave_ to _F9_, and _Quickload_ to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. 
+**Under the System > Settings Menu** change _Quicksave_ to _F9_, and _Quickload_ to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. 
 
 _I've been through the turnstile and am coming at you inverted._ **So are my controls.** If you don't like an inverted up and down you may have to change it yourself.
 
-## CONTROLLER MAPPING
+## DEFAULT CONTROLS AND HOW TO CHANGE THEM
 
-Start: Journal
-Back: Wait
-LT: Left Attack
-RT: Right attack
-LB+Back: Quicksave
-RB+Start: Tween menu (character menu)
-LB+RB: Shout (in that order)
-LB: Lock-on (activate / deactivate)
-RB: Sprint
-LS: Favorites
-RS: Switch POV
-A: Activate
-B: Sneak (when still) / Roll (when moving)
-X: Ready weapon
-Y: Jump
+- Start: Journal
+- Back: Wait
+- LT: Left Attack
+- RT: Right attack
+- LB+Back: Quicksave
+- RB+Start: Tween menu (character menu)
+- LB+RB: Shout (in that order, you kinda haveta roll your fingers across them)
+- LB: Lock-on (activate / deactivate)
+- RB: Sprint / Dual Wield Block
+- LS: Favorites
+- RS: Switch POV
+- A: Activate
+- B: Roll
+- X: Ready weapon
+- Y: Jump
+- D-Pad Up: Turn on / off Quick Light
+- D-Pad Down: Sneak / Stop Sneaking
+- D-Pad Left: Switch grip between 1-handed and 2-handed (CGO)
+- (Yes, you will crouch up and down and turn lights on and off in dialog menus.)
+- (Use the sticks instead!)
+
+I am told I have not provided enough information on configuring these to ones' liking! You poor, poor keyboard and mouse players. 
+
+The vast majority of these options are configured in the "Controls" portion of Skyrim's pause menu. Please take note that your "Sneak" key is **NO LONGER SNEAK**, it is **DODGE** instead. If you wish to select a sneak key, first configure your **DODGE** key (which is labeled as **SNEAK** in the "Controls" menu, remember). Then open the MCM and choose the _Ultimate Dodge_ option. There is an entry there for "Sneak Key", click it and choose. In the end I think you will be better served with Dodge as _Shift_ and Sneak as _CTRL_.
+
+To change the _Quick Light_ key, open the _Quick Light_ MCM and you should see the option. The same is true for _CGO_, there are options for _Grip Shift_ and _Dual Wield Blocking_.
+
+If you wish to change the _Lock-On_ key, you will have to open the _INI_ file located in the "Simple Lock-On" mod. (Double-click it and select INI.) You will have to change the value of _uHotKey_ to a "scancode" listed here:
+
+https://www.creationkit.com/index.php?title=Input_Script#DXScanCodes
 
 ## Game MCM Options
 
@@ -112,15 +127,15 @@ It is _very important_ to **wait** until _all_ messages have both ceased appeari
 
 ### Install
 
-Under **SexLab 1.63 SE dev beta 8 by Ashal@LoversLab.com**
+Under **SexLab 1.63 SE dev beta 9 by Ashal@LoversLab.com**
 
-Click _INSTALL/UPDATE SEXLAB 163 SE DEV BETA 8_
+Click _INSTALL/UPDATE SEXLAB 163 SE DEV BETA 9_
 
 Close the menu and wait. Once again, a series of messages will appear in the upper left corner. 
 
 Do not touch the mouse or keyboard until the following message appears:
 
-**SexLab - SexLab v1.63 SE dev beta 8 - Ready!**
+**SexLab - SexLab v1.63 SE dev beta 9 - Ready!**
 
 Then open the MCM and continue.
 
@@ -275,26 +290,6 @@ Disable the _Active Effects HUD_. (It gets in the way of my AMOT preset.)
 ### Presets
 
 Click on _Slot 2: EasyEase_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
-
-### Compatibility
-
-Alternate Conversation Camera: Unchecked
-
-Improved Camera: Checked
-
-Immersive First Person View: Unchecked
-
-Scroll to the bottom where you will find 
-
-## SSoB
-
-Check "Quest Markers on Stones of Berenziah"
-
-## Storm Lightning
-
-### presets
-
-Click _Realistic_ and wait for it to say **DONE**
 
 ## Ashes
 
