@@ -3,6 +3,7 @@
 - [Content](#content)
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Gameplay](#gameplay)
+  - [Every time I try to watch a SexLab scene, my camera "snaps" back into place!](#every-time-i-try-to-watch-a-sexlab-scene-my-camera-snaps-back-into-place)
   - [What the fuck? Mirabelle, the College of Winterhold tour guide, is wandering all over the damn place!](#what-the-fuck-mirabelle-the-college-of-winterhold-tour-guide-is-wandering-all-over-the-damn-place)
   - [What the fuck? The Civil War questline is horribly fucked up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#what-the-fuck-the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
 - [Technical](#technical)
@@ -44,6 +45,10 @@ Boy did you ever download the wrong list. This list is mostly for playing Skyrim
 Your only option at present is to install the _Dungeons & Deviousness_ modlist to experience the most Lover's Lab content this side of an Oldrim installation. You may feel that _DND_ goes too hard in the direction of suffering and roleplay. If this the case, consider reading about the mods inside it and configuring the menus more to your liking. They are actually very customizable.
 
 ## Gameplay
+
+### Every time I try to watch a SexLab scene, my camera "snaps" back into place!
+
+You've been messing with the MCMs, haven't you? Strangely enough, this happens when "Improved Camera Compatibility" is enabled in the _SmoothCam_ MCM. It is disabled by default, _do not_ enable it.
 
 ### What the fuck? Mirabelle, the College of Winterhold tour guide, is wandering all over the damn place!
 
