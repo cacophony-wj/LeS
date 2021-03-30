@@ -175,7 +175,7 @@ Download the latest ENB Series from [here](http://enbdev.com/download_mod_tessky
 
 Copy all of the files located inside the _Licentia Directory/game folder files_ directory to your game folder.
 
-![COPY THESE FILES](GFF.png "Game Folder Files")
+![COPY THESE FILES](gff.png "Game Folder Files")
 
 Please note, **do not copy the entire game folder files folder.** Only copy the files _inside_ that folder to _Steam/steamapps/common/Skyrim Special Edition_. There should be fewer than a dozen of them, as well as a folder entitled "enbseries".
 
