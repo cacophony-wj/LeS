@@ -1,5 +1,6 @@
 ### 7.7
 
+- Temporarily removed the "Full CC" Profile for a serious rework.
 - Added a fantastic collection of SMP hairstyles from Dint999, Fuse, and HHaleyy that are now finally available in RaceMenu form! Seriously, check the physics and collisions on these, they're AMAZING.
 - Added back _Auri_, Sandwich's _Auri Beautifier_ and assorted patches.
 - Added _Jarls Re-Imagined SE_
