@@ -1,3 +1,34 @@
+### 7.7
+
+- Added a fantastic collection of SMP hairstyles from Dint999, Fuse, and HHaleyy that are now finally available in RaceMenu form! Seriously, check the physics and collisions on these, they're AMAZING.
+- Added back _Auri_, Sandwich's _Auri Beautifier_ and assorted patches.
+- Added _Jarls Re-Imagined SE_
+- Added _Taarie and Endarie Re-Imagined_
+- Added the luscious _Serana Re-Imagined!_
+- Added _Serana Dialogue Edit_ and patched it with the _Add-on_
+- Added back _Wonders of Weather_ with Rudy's rain splashes fix.
+- Added the correct _Sustained Magic_ patches and configured them properly this time dammit.
+- Updated _CBBE 3BBB_ to _CBBE 3BA_ v. 2.0.4
+- Updated _Lucien_ to 1.6.2
+- Updated _Legacy of the Dragonborn_ to 5.5.0
+- Updated _Legacy of the Dragonborn Patches_ to 2.5
+- Updated _The Curators Companion_ to 5.1.1
+- Updated _Wyrmstooth_ to 1.19.1
+- Updated _Embers XD_ to 2.2.1
+- Updated _Smoking Torches and Candles_ to 1.76
+- Updated _Storm Lightning_ to 1.3.9
+- Updated _Grass FPS Booster_ to 5.2.1
+- Updated _Yggdrasil SoundFX_ to 3.0.0
+- Updated _SSE Display Tweaks_ to 4.9.1
+- Updated _Copy and Paste in Console_ to 1.0.1
+- Updated _DynDOLOD_ to 3.00 Alpha 33
+- Updated _xLODGen_ to 0.76
+- Updated _Synthesis_ to 17.5
+- Updated _Mod Organizer 2_ to 2.4.1
+- Turned off those goddamn narrators for the _Forgotten City_ letters.
+- Removed all strapon mods because they're not good solutions and I stopped using them. Check the pins in my private server for options.
+- Regenerated LODs with _DynDOLOD 3.00 Alpha_ **without** the use of grass cache or LODs.
+
 ### 7.5
 
 The Synthesis patcher *has been rerun!* Underwear breaks when this happens! Do not continue a save with this!
