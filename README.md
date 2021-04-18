@@ -47,7 +47,7 @@ A word about _SexLab Aroused._ This is possibly the worst mod to ever use on any
 
 Given those facts, though, I am pleased to announce a small contest to determine the longest save a person can reach. If you experience save corruption (will not load at all) on a save file of over 100 hours of gameplay time I will enter you. The holder of the longest such save receives the addition of a mod of his choice to this modlist, within reason. The deadline for now is April Fool's Day, April 1, 2021 but may be extended if I don't get many entries. If this save is also over 200 hours long and features every included LOTD collectible (barring those that cannot be collected due to quest conditions, alternate paths, misflagged variables or bugs), I will gift you a Lifetime subscription to Nexus Premium or the equivalent in Steam wallet funds. Verification will be privately determined, but I will insist on at least two dozen save files spanning a month of play. I will also verify that all items have been registered by The Curator's Companion and deposited into the museum's displays. Yes, it would be entirely possible to cheat this with enough patience or coding experience, but if you go to all that trouble for one Steam game I will happily award you the prize to help alleviate your crippling mental illness(es).
 
-A word about ENBs. This list was designed with the intention of following Rudy's _Cathedral Weathers ENB_ weather and lighting recommendations. If you don't like it, I have also included _PI CHO KONAN_, _Serio's ENB_, _LJoss_, and _PI-CHO Standard_ in the downloads directory which you can install if you wish to try them. If you are running this modlist at 4k, I _strongly_ recommend switching the ENB to _Serio's_. Don't limit yourself to my choices, though, in theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Choose carefully, ENBs are the most demanding part of any modlist. 
+A word about ENBs. This list was designed with the intention of following Rudy's _Cathedral Weathers ENB_ weather and lighting recommendations. However, several other fantastic options include _PI CHO KONAN_, _Serio's ENB_, _LJoss_, and _PI-CHO Standard_. If you are running this modlist at 4k, I _strongly_ recommend switching the ENB to _Serio's_. Don't limit yourself to my choices, though, in theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Choose carefully, ENBs are the most demanding part of any modlist. 
 
 # A STRONG WARNING
 
@@ -175,7 +175,7 @@ Download the latest ENB Series from [here](http://enbdev.com/download_mod_tessky
 
 Copy all of the files located inside the _Licentia Directory/game folder files_ directory to your game folder.
 
-![COPY THESE FILES](GFF.png "Game Folder Files")
+![COPY THESE FILES](gff.png "Game Folder Files")
 
 Please note, **do not copy the entire game folder files folder.** Only copy the files _inside_ that folder to _Steam/steamapps/common/Skyrim Special Edition_. There should be fewer than a dozen of them, as well as a folder entitled "enbseries".
 
