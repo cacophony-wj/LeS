@@ -70,6 +70,9 @@ It is _very important_ to **wait** until _all_ messages have both ceased appeari
 
 Load the User Preset.
 
+## CBBE 3BBB 
+
+Just a quick note here, the commands to enable SMP physics were swapped away from NUMPAD and onto F5 - F8 for NPCs and F12 for the PC. This prevents conflicts when an OSex animation is playing.
 ##  CGO
 
 Note that the "Grip Shift" key is set to **V** and "Dual Wield Block" is set to **MOUSE 3** (the mouse wheel button). These can be changed as needed.
