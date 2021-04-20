@@ -4,19 +4,7 @@
   - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
   - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
   - [Controls](#controls)
-  - [DEFAULT CONTROLS AND HOW TO CHANGE THEM](#default-controls-and-how-to-change-them)
   - [Game MCM Options](#game-mcm-options)
-  - [SexLab](#sexlab)
-    - [Install](#install)
-  - [SexLab](#sexlab-1)
-    - [Sex Diary / Journal](#sex-diary--journal)
-    - [Rebuild & Clean](#rebuild--clean)
-    - [Animation Settings](#animation-settings)
-    - [Animation Settings](#animation-settings-1)
-  - [SexLab](#sexlab-2)
-  - [SAVE AND LOAD!](#save-and-load)
-  - [SL Anim Loader](#sl-anim-loader)
-    - [General Options](#general-options)
   - [A Matter of Time](#a-matter-of-time)
   - [CGO](#cgo)
     - [Settings](#settings)
@@ -24,25 +12,15 @@
   - [Follower Framework](#follower-framework)
     - [System](#system)
   - [LOTD: The Curator's Companion](#lotd-the-curators-companion)
+  - [OBIS Bandits](#obis-bandits)
+    - [Settings](#settings-1)
+  - [ostim](#ostim)
   - [Quick Light](#quick-light)
-    - [Serio's Hotkeys](#serios-hotkeys)
-    - [SexLab Aroused](#sexlab-aroused)
-      - [Settings](#settings-1)
-    - [SexLab Eager NPCs](#sexlab-eager-npcs)
-      - [General](#general)
-    - [SexLab Solutions](#sexlab-solutions)
-      - [follower](#follower)
-  - [SexLab Tools](#sexlab-tools)
-    - [Settings](#settings-2)
   - [SKY UI](#sky-ui)
-    - [General](#general-1)
+    - [General](#general)
   - [SmoothCam](#smoothcam)
     - [Presets](#presets)
-    - [Compatibility](#compatibility)
-  - [SSoB](#ssob)
-  - [Storm Lightning](#storm-lightning)
-    - [presets](#presets-1)
-  - [Ashes](#ashes)
+  - [Trade and Barter](#trade-and-barter)
   - [All done!](#all-done)
 - [ULTRA MEGA IMPORTANT](#ultra-mega-important)
 
@@ -112,24 +90,6 @@ _Camera Noise Mult (1st Person)_: _X0.00_
 
 Scroll all the way down.
 
-## FG Animation Selector
-
-Note that the key to bring up a menu of "Flower Girls" animations is SHIFT. This can be changed as needed.
-
-## Flower Girls SE
-
-A lot of this is up to personal preference. 
-
-### Main Options
-
-If you want sexual favors to be free and easy, uncheck "Service Charge" and "Enable Seduction".
-
-Strapons are up to you but they will probably clip badly. Be sure to choose the CBBE option.
-
-### Hotkeys
-
-If you want to change the FreeCam Key, you will have to save and reload so Flower Girls can detect PapyrusUtil.
-
 ##  Follower Framework
 
 ###  System
@@ -158,13 +118,17 @@ I also highly recommend you change "Extra Bandits" to **1** or every time this m
 
 ## ostim
 
-Begin by scrolling all the way to the bottom right and choosing "Import Settings." WAIT THREE SECONDS, then click okay. If you are eager to play, nothing else is required. Sex scenes will activate and play automatically with no input needed from you.
+The settings in this extensive mod are almost all down to personal preference. I recommend you carefully read the mod pages for both "OSex" and "OStim" if you wish to configure sex into an interactive little "minigame". 
 
-Scroll back to the top and set this fantastic mod up how you see fit.
+At the very least, I strongly recommend you enable "Clippingless First Person", "Misalignment Protection" and "Flipped Animation Fix." If some characters retain clothing after a sex scene begins, go to the **undressing** portion of this MCM and enable removal of everything that makes sense. 
 
-I recommend you carefully read the mod pages for both "OSex" and "OStim" if you wish to configure sex into an interactive little "minigame". I do NOT recommend you alter the values for stripping, clippingless first person (it's actually bugged and causes flicker), flipped animation fix, or use beds (also sometimes bugged). Spend time examining how the controls work. It's a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 1 cancels a command. + is inspect, enter is open or close menu. Period or decimal ends the scene. 
+OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 1 cancels a command. + is inspect / advance scene, enter is open or close menu. Period or decimal ends the scene. 
 
-Remember that at any time you can go up to anyone and press the up arrow to have OSex sex with them.
+Bear in mind that many subjects do not have appropriate animations (such as lesbian scenes). To find these, press the backslash key \ at any time, type in a keyword, and press Enter to begin.
+
+At any time you can go up to anyone and press the up arrow to have OSex sex with them.
+
+Creatures do not function with OSex and I have no plans to ever implement them. Play DND.
 
 ## Quick Light
 
