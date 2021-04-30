@@ -1,12 +1,14 @@
 # DO NOT CLOSE ME
 
-## This README is **NOT** optional! It is **NOT** an advice column! Licentia will **NOT** work AT ALL unless you follow it!
+## This README is **NOT** optional! It is **NOT** an advice column! Licentia AGT will **NOT** work AT ALL unless you follow it!
 
 # READ IT!
 
+- [DO NOT CLOSE ME](#do-not-close-me)
+	- [This README is **NOT** optional! It is **NOT** an advice column! Licentia AGT will **NOT** work AT ALL unless you follow it!](#this-readme-is-not-optional-it-is-not-an-advice-column-licentia-agt-will-not-work-at-all-unless-you-follow-it)
+- [READ IT!](#read-it)
 - [Preamble](#preamble)
 - [A STRONG WARNING](#a-strong-warning)
-	- [SexLab SE is still **beta!** It is still buggy!](#sexlab-se-is-still-beta-it-is-still-buggy)
 	- [Requirements](#requirements)
 		- [System Specs](#system-specs)
 	- [Installation](#installation)
@@ -27,9 +29,9 @@
 
 ![Licentia logo](Licentia.png "Licentia")
 
-**All Hail ForgottenGlory for the above image! He is a Wizard who never forgets his Robe and Wizard Hat!**
+**All Hail ForgottenGlory for the above image!**
 
-_If you want to experience a more "pure" form of Lover's Lab instead of a hybrid, might I recommend "Dungeons & Deviousness" for the ultimate hardcore experience, or "Atelier" for the ultimate screenshot experience! And hell, why not give "Living Skyrim 3" a run as well?! You can find them here:_
+_If you are into an utterly degenerate vision of Skyrim focused on sheer sexual pain and suffering, or you want to experience the ultimate that Lover's Lab has to offer via its "SexLab" framework, this is not the modlist for you. Instead,I recommend "Dungeons & Deviousness" for the ultimate hardcore experience, or "Atelier" for the ultimate screenshot experience! And hell, why not give "Living Skyrim 3" a run as well?! You can find them here:_
 
 https://www.fgsmodlists.com/home
 
@@ -37,21 +39,17 @@ https://www.fgsmodlists.com/home
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
 
-I'm [cacophony](https://github.com/cacophony-wj), a humble person. I want to provide a slightly lewd modlist friendly to male or female characters that will have enough NSFW mods for a spicy experience but not quite so many that you're no longer unable to enjoy the game of Skyrim. Consider this the "Game of Thrones" version of Skyrim -- a lot of clam and wang -- but not a full on porn parody like most Lover's Lab lists.
+I'm [cacophony](https://github.com/cacophony-wj), a humble person. Perhaps the _most_ humble person _ever_. (That goes along with the territory as the universe's giantest nerd.) Welcome to the latest incarnation of _Licentia_ which I have dubbed "All Good Things." This modlist has been completely revamped to completely remove the save-unfriendly _SexLab_ framework to emphasize the far more low-key _NSFW_ framework known as _OStim_ by _Sairion_ which in turn is based on one of Skyrim's first sex frameworks, _OSex_ by _Ceo_, which has been long abandoned. It is still intended primarily as a high fantasy "Game of Thrones" Skyrim -- ultimate power fantasy via the _Enairim_ collection of mods jumped up on steroids with _Vokriinator Black_ and _DServant's Archery_ and _Combat Gameplay Overhauls._ However, now it includes the ability to create your own family throughout Skyrim via the use of _Fertility Mode_ patched for _OStim_ and soon to be expanded via the _ORomance_ mod, all while indulging in life's guilty pleasures - wine, chocolate, cheese... and trading card games!
 
-Your kinks are a very private thing. As opposed to piling together a modlist for every possible fetish, I have created a fun list for myself with beautiful characters and easy ways to initiate dialog sex with the highest quality and most frequently updated animations. The systems are kept intentionally light to ensure SexLab is as stable as it can be and to allow for greater compatibility with user additions. The patches are individual to each mod and there are no merges, allowing for almost anything to be added or removed.
+_In addition_ I offer full support for _every mod from Creation Club,_ available from the dropdown menu with the option "Licentia - Full CC". You can also use just the _Survival_ bundle with "Licentia - Survival". Both modes offer a lot of variety! I recommend you move the _cc* esls_ and _bsas_ appearing in your Data folder to the "CC" mods inside the "Mods" folder. This way they will not interfere with any other _Wabbajack_ modlists. _To activate Survival Mode_ you will have to find your way to an outdoor area or just past _Helgen Keep_ (if you are playing the vanilla intro). A popup will appear. _Be warned,_ fast travel will be enabled and I _do not_ use any carriage overhauls, make up for it by practicing your archery on the hundreds of extra added animals and build your kill XP as you wander around.
 
-_Death Alternatives_ such as _Defeat_, _Peril,_ or the flashy new _Yamete_ don't work reliably. I can't stand it when they fail and I can't stand trying to improve their success rate. I have included _Ashes_ so you can spawn in a separate cell before reloading, which is safer, especially if you're like me and die a lot. Otherwise, scripts from your "previous life" may fail to terminate and cause inescapable bugs. This is a vanilla problem made worse with the addition of hundreds of mods. However, Ashes is still not perfect, especially in a SexLab-adjacent setup. If you spend 30 minutes reloading after an Ashes spawn every couple minutes, especially during or after combat, a _lot_ of stuff will break on your save. I recently had it happen myself when I tested the first Dragon on _Deadly Dragons'_ "Expert" difficulty -- my Curator's Companion stopped registering new items and could not be reset. If you can't get past a group of mods without repeated deaths and reloads, consider accepting your limitations and retreating, or dialing the difficulty back a notch or two. (Nobody is going to give you a trophy for your hardcore NSFW Skyrim playthrough.) Due to increasing user bug reports, I can no longer recommend the use of its respawn feature in any capacity. Just wait until the screen fades in from black, give everything about 30 seconds to settle, and reload. I say again, if you do not do this, or you happen to save and load in a frequent, rushed manner ("save scumming"), complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game. Another thing to keep in mind is if you hit a rough patch and respawn a few times, stuff may randomly stop working. I gave Ulfric some badass Shouts for the conclusion of the Civil War -- he creamed me over and over until his scripts stopped firing due to so many respawns and the only thing he could manage is to limply chase me around the throne. So yeah. Don't die. If you're dying this much, you're defeating the purpose of the modlist.
+A note about difficulty, _AGO,_ _CGO_ and especially _Vokriinator Black_ are impossible to balance for. Nobody at Wabbajack has any idea how to do it (I've asked the pros) because these mods dramatically increase the power of the PC to such an overwhelming level that you _will_ become unstoppably godlike at some point. I personally get a kick out of this because I am a filthy casual who dies at every bandit sneeze. If you want a playthrough that is challenging from beginning to end, you should probably look into something like _Elysium_ or _Living Skyrim_ at the midrange or the Requiem list _Serenity_ at the top end of difficulty. As it is though, there are a few things you can do. First is to just straight up turn up the main difficulty, it defaults to _Adept_ which is very easy, even for a solo player. _Wildcat_ alters the damage values dramatically so you take more damage at higher levels and deal less. Next, play around with the options in the _Wildcat_ mod. You can enable _Dynamic Combat_ and _Injuries_ for a lot of punishing options (although arrow fatigue is incompatible with AGO). Full body stagger is a real killer but makes melee almost impossible. Lastly, adjust the values in the _Deadly Dragons_ mod (you can turn the difficulty all the way up to "Insane" and enable Knockdown for a true table-flipping experience), _OBIS SE_ (turn up the number of extra bandits super high and enable the alternate spawns such as minotaurs and spiders), and _Extended Encounters_ (enable the "Swarm" options as well as "Factions Hunt Player.") This will not last forever, by the time you are stacking Vokriinator perks at level 50 or so even the gods will quail before you. But you can at least delay the game's insignificance, and adjust on-the-fly as well depending on how hard a time you are having. Don't feel bad! This modlist is about having fun and making your own sexy Dragonborn story -- not anything as high-falutin' as the purity of gameplay. 
 
-A word about _SexLab Aroused._ This is possibly the worst mod to ever use on any Skyrim save that you plan on keeping. It adds variables to every human in the game and updates them every 30 seconds. On saves approaching 200 - 300 hours this may result in inescapable save corruption due to the sheer accumulation of improperly terminated scripts. Do bear in mind this possibility of corruption is true for any Skyrim modlist utilizing _Aroused_. I would go without _Aroused_ completely were it possible but too many mods depend upon it. My standing recommendation is simply to disable it in the MCM so long as you are "playing Skyrim the game" and not "Skyrim the porn". All the dialog sex will still work. The only time I really think you need to turn it on is if you use some of _Radiant Prostitution / Gigolo_ functions. The other two primary mods (_SexLab Solutions_ and _SexLab Eager NPCs_) do not use Aroused to determine anything of significance. You most **certainly should not** attempt large battles such as those in the "Civil War" questchain with Aroused enabled. I've had Imperial Soldiers reverse-CGO leaning into existence up from the ground like polygonal versions of an inverted Protagonist after forgetting to disable Aroused in these situations!
-
-Given those facts, though, I am pleased to announce a small contest to determine the longest save a person can reach. If you experience save corruption (will not load at all) on a save file of over 100 hours of gameplay time I will enter you. The holder of the longest such save receives the addition of a mod of his choice to this modlist, within reason. The deadline for now is April Fool's Day, April 1, 2021 but may be extended if I don't get many entries. If this save is also over 200 hours long and features every included LOTD collectible (barring those that cannot be collected due to quest conditions, alternate paths, misflagged variables or bugs), I will gift you a Lifetime subscription to Nexus Premium or the equivalent in Steam wallet funds. Verification will be privately determined, but I will insist on at least two dozen save files spanning a month of play. I will also verify that all items have been registered by The Curator's Companion and deposited into the museum's displays. Yes, it would be entirely possible to cheat this with enough patience or coding experience, but if you go to all that trouble for one Steam game I will happily award you the prize to help alleviate your crippling mental illness(es).
+A note about save scumming, a peril for any modlist but especially script-heavy ones such as _Licentia AGT_. If you spend 30 minutes reloading after death again and again, especially during or after combat, a _lot_ of stuff will break on your save. I recently had it happen myself when I tested the first Dragon on _Deadly Dragons'_ "Expert" difficulty -- my Curator's Companion stopped registering new items and could not be reset. If you can't get past a group of enemies without repeated deaths and reloads, consider accepting your limitations and retreating, or dialing the difficulty back a notch or two. (Nobody is going to give you a trophy for your Ironman NSFW Skyrim playthrough.) If you continue to save and load rapidly, complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game. 
 
 A word about ENBs. This list was designed with the intention of following Rudy's _Cathedral Weathers ENB_ weather and lighting recommendations. However, several other fantastic options include _PI CHO KONAN_, _Serio's ENB_, _LJoss_, and _PI-CHO Standard_. If you are running this modlist at 4k, I _strongly_ recommend switching the ENB to _Serio's_. Don't limit yourself to my choices, though, in theory, any _ENB_ that works with _Cathedral Weathers_ will work here, including the popular _Silent Horizons_. Choose carefully, ENBs are the most demanding part of any modlist. 
 
 # A STRONG WARNING
-
-## SexLab SE is still **beta!** It is still buggy!
 
 Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
 
@@ -185,7 +183,7 @@ The next step is to prepare the game for play. Navigate to the directory where y
 
 ## Crafting the Female Bodies
 
-Unfortunately I don't feel comfortable offering precompiled BodySlide outputs because this essentially rehosts all of a 3D modelers' work in another location. So you will have to build them yourself. Please don't abandon me here, I've minimized the steps as much as possible. There are only four options you really have to choose from and they're all hair colors, it's pretty much an autopilot procedure. Check out the document below.
+Unfortunately I don't feel comfortable offering precompiled BodySlide outputs because this essentially rehosts all of a 3D modelers' work in another location. So you will have to build them yourself. Please don't abandon me here, I've minimized the steps as much as possible. It's just a few clicks and a few extra seconds.
 
 [Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
 
@@ -193,7 +191,7 @@ Unfortunately I don't feel comfortable offering precompiled BodySlide outputs be
 
 The rest must be completed after the game itself is launched. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **SKSE**. If you receive a message that files are missing, do not exist, or a warning about an incorrect path, you _may_ have to edit the link to "skse_loader" in the drop down and point it to your Skyrim directory. Once you are in-game, create your character and follow _all_ of the instructions in the below link:
 
-[Licentia Configuration](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
+[Licentia MCM Configuration And More](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
 
 ## Removing the Modlist
 
@@ -202,6 +200,8 @@ You can just remove the _Licentia_ folder and be done with it. SKSE and ENB file
 ## Contact
 
 I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-support`). I will not respond to direct messages unless I know you. **DO NOT DIRECT MESSAGE ME**
+
+If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to me in any amount of one dollar or more via my [Patreon](https://www.patreon.com/cacophony1979). Your donation will better the quality of my life and ensure that I can spend more time improving _Licentia AGT._ There are no expectations for a recurring subscription, donate one dollar and immediately cancel if you wish. You will also receive benefits such as access to my Discord server's VIP channel where my friends and Wabbajack staff talk shop, as well as votes and mod suggestions to change the direction of _Licentia AGT_ in the future. Finally, a portion of all proceeds will be forwarded as donations to various signature modders featured in _Licentia AGT_, given that it could not exist without them.
 
 ## Contributing
 

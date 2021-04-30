@@ -3,25 +3,19 @@
 - [Content](#content)
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Gameplay](#gameplay)
-  - [Every time I try to watch a SexLab scene, my camera "snaps" back into place!](#every-time-i-try-to-watch-a-sexlab-scene-my-camera-snaps-back-into-place)
+  - [My skills don't seem to be leveling up!](#my-skills-dont-seem-to-be-leveling-up)
+  - [Invisibility is acting weird.](#invisibility-is-acting-weird)
   - [What the fuck? Mirabelle, the College of Winterhold tour guide, is wandering all over the damn place!](#what-the-fuck-mirabelle-the-college-of-winterhold-tour-guide-is-wandering-all-over-the-damn-place)
   - [What the fuck? The Civil War questline is horribly fucked up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#what-the-fuck-the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
 - [Technical](#technical)
   - [I'm randomly crashing!](#im-randomly-crashing)
   - [My performance is really terrible, low FPS, input lag during combat!](#my-performance-is-really-terrible-low-fps-input-lag-during-combat)
   - [I have a bug that's not in this list.](#i-have-a-bug-thats-not-in-this-list)
-  - [The "scenes" take forever to start, and sometimes don't start at all.](#the-scenes-take-forever-to-start-and-sometimes-dont-start-at-all)
-  - [The "scenes" are misaligned! Tab As are not going into Slot Bs!](#the-scenes-are-misaligned-tab-as-are-not-going-into-slot-bs)
-  - [I enabled a feature and it's not working.](#i-enabled-a-feature-and-its-not-working)
   - [I added a mod and something weird happened.](#i-added-a-mod-and-something-weird-happened)
   - [There's more than 255 ESPs! Will this thing even launch?](#theres-more-than-255-esps-will-this-thing-even-launch)
   - [My load order got fucked up!](#my-load-order-got-fucked-up)
   - [Why do I have to CTRL-CLICK to build _BodySlide_?](#why-do-i-have-to-ctrl-click-to-build-bodyslide)
   - [My body looks boring and flat! or My boobs are melting into the ground!](#my-body-looks-boring-and-flat-or-my-boobs-are-melting-into-the-ground)
-  - [I read a skill book but my skill didn't go up!](#i-read-a-skill-book-but-my-skill-didnt-go-up)
-  - [What the hell! I'm moving backwards! I can't go into first person! I teleported under the ground! **or** I shrunk to a centimeter in height!](#what-the-hell-im-moving-backwards-i-cant-go-into-first-person-i-teleported-under-the-ground-or-i-shrunk-to-a-centimeter-in-height)
-  - [One of my prostitution quests glitched out!](#one-of-my-prostitution-quests-glitched-out)
-  - [Hey! I'm not supposed to respawn outside of the Clockwork or Project AHO mods!](#hey-im-not-supposed-to-respawn-outside-of-the-clockwork-or-project-aho-mods)
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
 - [For More Information](#for-more-information)
 
@@ -35,6 +29,8 @@ First, check CHANGELOG.md. If you are not interested in the changes, or they do 
 
 **To confirm: all BodySlide customizations, and additional mods you have installed on top of the Modlist will be deleted. Your saves and downloads folders will not be touched!**
 
+**If you have added any mods and wish to keep them, rename the mod itself with _[NoDelete]_ at the beginning. It will be left alone -- but you will probably have to adjust its order once the update is complete.**
+
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite_ button.
 
 ## Content
@@ -47,9 +43,13 @@ Your only option at present is to install the _Dungeons & Deviousness_ modlist t
 
 ## Gameplay
 
-### Every time I try to watch a SexLab scene, my camera "snaps" back into place!
+### My skills don't seem to be leveling up!
 
-You've been messing with the MCMs, haven't you? Strangely enough, this happens when "Improved Camera Compatibility" is enabled in the _SmoothCam_ MCM. It is disabled by default, _do not_ enable it.
+This is due to my Uncapper present. Simple skills that anybody could pick up -- like Speech and Light Armor -- level normally, but extremely specialized skills that would logically require a trainer -- like Conjuration or One Handed -- are almost impossible to learn without a teacher. Hit up a wiki and find the trainer for the skill you want to improve, drop some gold on some lessons. I have edited Gameplay Tweaks so each level you get 5 training sessions that roll over to the next level, so don't worry about losing them. For example, if you don't train at all until level 7, you will be able to do so 35 times (given enough gold)!
+
+### Invisibility is acting weird.
+
+Yeah I made it like the "Cloak" tech in Crysis. While Invisible, you are _absolutely impossible to detect._ Move, make noise, attack, steal, even bump directly into dudes -- they will never see you. The downside is your Magicka is constantly being drained and you will reappear again once it goes to zero. Make a build around it if you want! It's fun.
 
 ### What the fuck? Mirabelle, the College of Winterhold tour guide, is wandering all over the damn place!
 
@@ -59,8 +59,7 @@ Yeah, Skyrim Sewers expands the Midden and kinda fucks up her pathing, from what
 
 The Civil War questline is incredibly broken even in vanilla Skyrim partially due to the large actor count and infinitely spawning enemies. Pile on CGO scripting all attack patterns and animations and Ultimate Dodge scripting all movement and you have a recipe for disaster. Even if you do manage to complete it, countless other quests will be broken due to destroyed buildings / dead NPCs / flagged variables. It's recommended that you complete this questchain near the very end of your playthrough, if at all. If you choose to do so, I recommend keeping the following things in mind:
 
-1. Before you do _any_ of these big battles with infinite spawns, _disable SexLab Aroused in the MCM!_ **IMPORTANT** You can turn it back on afterward.
-2. Infinite enemy spawns are based around the destructible barricades. Hit them three times with a weapon or Destruction spell to destroy them and stop spawns in that area.
+1. Infinite enemy spawns are based around the destructible barricades. Hit them three times with a weapon or Destruction spell to destroy them and stop spawns in that area.
 3. The above does not always work. If you find enemies never stop spawning, _sprint_ to the capitol building of the city you are attempting to reclaim (Dragonsreach, Castle Dour, etc) and make your way inside.
 4. The conclusion of the Battle for Whiterun / Solitude / Windhelm is triggered by entering this capitol building.
 5. You do not need to escort Ulfric, Galmar, Tullius, Likke or anyone else all the way to the capitol building. Sometimes they won't even spawn when you enter the city! Merely entering it yourself is enough. Just as followers appear beside you, so will the faction leaders.
@@ -74,25 +73,13 @@ You probably don't have enough paged RAM. Skyrim is very badly optimized. Try in
 
 ### My performance is really terrible, low FPS, input lag during combat!
 
-Your CPU or GPU are probably too weak. Head over to my Discord server and check the pins. There are many tips for improving performance on lower-end machines, and they can be used with practically any Wabbajack modlist!
+Your CPU or GPU are probably too weak. Head over to my Discord server and search the #licentia channel. There are many tips for improving performance on lower-end machines, and they can be used with practically any Wabbajack modlist!
 
 ### I have a bug that's not in this list.
 
 The best way to get it looked at is to submit it to [Issues](https://github.com/cacophony-wj/LeS/issues). It's a list, I remember lists, I don't remember or sometimes even notice other things.
 
 If you don't want to do that, I'm not going to be particularly strict about this since people have many reasons to avoid creating yet another account somewhere. So just drop by Discord. If I see it and it's not a known issue I'll try to help.
-
-### The "scenes" take forever to start, and sometimes don't start at all.
-
-SexLab is far from perfect. If you encounter this problem, try cycling the console or pause menus every couple seconds until the scene begins.
-
-### The "scenes" are misaligned! Tab As are not going into Slot Bs!
-
-SexLab is far from perfect. Use the hotkeys to align the scene. L goes closer, Shift-L farther away. ; goes higher, : goes lower. ' moves to the left, " to the right. Check the hotkeys menu in the _SexLab_ MCM for more commands.
-
-### I enabled a feature and it's not working.
-
-I won't answer questions about features I disabled. I disabled them because I couldn't get them to work.
 
 ### I added a mod and something weird happened.
 
@@ -113,26 +100,6 @@ _Mod Organizer 2_ does not put edits to existing files in the _overwrite_ folder
 ### My body looks boring and flat! or My boobs are melting into the ground!
 
 You either didn't run _BodySlide_ or ran it wrong. Follow all the steps in the [Female Bodies and Outfits](https://github.com/cacophony/LeS/blob/master/BODYSLIDE.md) section again, especially the bits about making sure everything went to the correct directory.
-
-### I read a skill book but my skill didn't go up!
-
-This is because you "can't concentrate" if you're horny, so you don't get 100% skill experience from skill books. Check the _Magic Effects_ tab of your _Magic_ window for **red** effects that affect experience gain. Usually they are marked **Lover's Desire**. Take care of business and _then_ read the book.
-
-### What the hell! I'm moving backwards! I can't go into first person! I teleported under the ground! **or** I shrunk to a centimeter in height!
-
-This appears to be a bug with _SexLab Utility Plus_ which is still kinda ironing things out. The only thing you can do is reload, and if that doesn't work, exit Skyrim, launch it, and then reload.
-
-### One of my prostitution quests glitched out!
-
-The mod in question, _Radiant Prostitution_, was rather, shall we say, inexpertly put together and subsequently abandoned before it could be polished up. Before you accept one of the higher-level quests (something more than just walking around looking for Johns), be certain to back out and save your game. After accepting the quest, watch for error messages in the upper-left corner of the screen and consider reloading if you get one such as "Target location does not belong to a faction."  Bear in mind, if you receive a quest for a location that has not been enabled, such as a military camp before the Civil War begins, you will not be able to locate your target location. You will need to reload.
-
-If you receive no such messages, save again, then go to the location of your quest. If the location is locked, consider reloading from _before you accepted the quest_ as that particular quest is probably bugged. Ensure that you can complete the quest and receive kudos from your client(s). If this does not happen, consider reloading. Assuming all does manage to complete, return to the innkeeper for your payment. 
-
-If anything goes wrong throughout these quests, you will have to reload from before accepting it, so as to receive a different randomly-generated one. To be quite honest, very little about this mod works well aside from simple brothel or street walking.
-
-### Hey! I'm not supposed to respawn outside of the Clockwork or Project AHO mods!
-
-This is true. If you die in these mods and respawn with Ashes, you game may be permanently messed up. I recommend disabling _Ashes_ before doing either of these quest chains. Or, if you die, simply ensure that you reload instead of continuing.
 
 ### I crash in Project AHO when I complete a certain quest!
 
