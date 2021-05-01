@@ -1,5 +1,7 @@
 - [Licentia Configuration](#licentia-configuration)
   - [Setting your resolution](#setting-your-resolution)
+  - [Customizing Controls](#customizing-controls)
+  - [Enabling Enhanced Gamepad Controls](#enabling-enhanced-gamepad-controls)
   - [Character Creation](#character-creation)
   - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
   - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
@@ -11,8 +13,8 @@
     - [Settings](#settings)
       - [Leaning](#leaning)
   - [Follower Framework](#follower-framework)
-  - [Fertility_Mode](#fertility_mode)
     - [System](#system)
+  - [Fertility_Mode](#fertility_mode)
   - [LOTD: The Curator's Companion](#lotd-the-curators-companion)
   - [OBIS - Bandits](#obis---bandits)
   - [OStim](#ostim)
@@ -47,6 +49,37 @@ _Licentia AGT_ has been configured to run at _2560x1440_ by default. If you wish
 If you have an Ultrawide monitor, you will need [this mod](https://www.nexusmods.com/skyrimspecialedition/mods/1778). Install it as you would any other Mod Organizer mod. Just put it under _Added Mods._
 
 I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack readmes or drop by Discord and type _!usesearch_ to hunt for other users' experiences.
+
+## Customizing Controls
+
+The vast majority of these options are configured in the "Controls" portion of Skyrim's pause menu. Please take note that your "Sneak" key is **NO LONGER SNEAK**, it is **DODGE** instead. If you wish to select a sneak key, first configure your **DODGE** key (which is labeled as **SNEAK** in the "Controls" menu, remember). Then open the MCM and choose the _Ultimate Dodge_ option. There is an entry there for "Sneak Key", click it and choose. In the end I think you will be better served with Dodge as _Shift_ and Sneak as _CTRL_.
+
+To change the _Quick Light_ key, open the _Quick Light_ MCM and you should see the option. The same is true for _CGO_, there are options for _Grip Shift_ and _Dual Wield Blocking_.
+
+## Enabling Enhanced Gamepad Controls
+
+Due to a request from multiple users I have returned the enhanced Gamepad control mods as an option. To enable them, check all three mods underneath the _Controller_ header near the _UI/HUD_ section of the left pane of the modlist. Next, you will have to **delete any ControlMap_Custom" file(s) in your Skyrim game directory. You will have to configure CGO (I recommend D-Pad Left for grip shift and LB for Dual-Wield Blocking), The Ultimate Dodge Mod (I recommend D-Pad Down for Sneak), and Quick Light (I recommend D-Pad Up).  Finally, reconfigure your QuickSave and QuickLoad keys in-game. When all is said and done the Gamepad controls will be as follows:
+
+- Start: Journal
+- Back: Wait
+- LT: Left Attack
+- RT: Right attack
+- LB+Back: Quicksave
+- RB+Start: Tween menu (character menu)
+- LB+RB: Shout (in that order, you kinda haveta roll your fingers across them)
+- LB: Lock-on (toggle)
+- RB: Sprint, Dual-Wield Block
+- LS: Favorites
+- RS: Switch POV
+- A: Activate
+- B: Roll
+- X: Ready weapon
+- Y: Jump
+- D-Pad Up: Turn on / off Quick Light
+- D-Pad Down: Sneak / Stop Sneaking
+- D-Pad Left: Switch grip between 1-handed and 2-handed (CGO)
+- (Yes, you will crouch up and down and turn lights on and off in dialog menus.)
+- (Use the sticks instead!)
 
 ## Character Creation
 
