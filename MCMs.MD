@@ -100,6 +100,14 @@ Scroll all the way down.
 
 ##  Follower Framework
 
+###  System
+
+In the upper right, click _Load From File - CLICK HERE_
+
+At the message **Settings Loaded. Please exist the MCM menu to apply all changes.** click _Ok_
+
+Exit the MCM and re-open it.
+
 ## Fertility_Mode
 
 First "Enable" the mod. This is a _slow_ process. Give it about 30 seconds to check itself.
@@ -113,14 +121,6 @@ The _Spouse Fidelity_ option is hilarious if you set it down to around 50%. This
 _Randomly Inseminate_ allows you to simulate widespread fucking without acting it out. Be wary of this mode!
 
 Finally, under _Information_, the _Show Verbose Messages_ option with pop up various methods on Skyrim's sexual exploits such as, with spouse fidelity low: "Embry came inside Gerdur."
-
-###  System
-
-In the upper right, click _Load From File - CLICK HERE_
-
-At the message **Settings Loaded. Please exist the MCM menu to apply all changes.** click _Ok_
-
-Exit the MCM and re-open it.
 
 ## LOTD: The Curator's Companion
 
