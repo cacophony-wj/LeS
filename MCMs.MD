@@ -143,7 +143,9 @@ Exit the MCM and re-open it.
 
 ## Fertility_Mode
 
-First "Enable" the mod. This is a _slow_ process. Give it about 30 seconds to check itself.
+_Be Warned:_ This mod is _very_ intrusive, with a lot of "heavy" features, and currently suffers from a few bugs in the implementation of the code necessary to disable it as well as manage magic effects and onscreen widgets properly. If this concerns you, or you do not wish to deal with the difficulty inherent from possessing a full fertility and reproductive cycle, **do not** enable this mod, as in its current state it **can not** be fully disabled again. If this is not a concern of yours...
+
+"Enable" the mod. This is a _slow_ process. Give it about 30 seconds to check itself.
 
 Check _Unique Women Only_ and _Unique Men Only_.
 
