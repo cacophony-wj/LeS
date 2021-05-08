@@ -1,3 +1,20 @@
+### 8.5.6
+
+Sorry I haven't been keeping up with these. A lot has changed. I'll fill out the rest later, but for now, you'll have to deal with the changes from 8.5.5 to 8.5.6.
+
+- Added the official releases of EggyPapa's _OStrap_ and _SexLab Solutions OStim Port._
+- Updated _OStim_ to 4.8.1
+- Update _Fertility Mode Fixes & Tweaks_ to 1.69
+- Updated _SDA Crimson Blood Patch_ to 1.0Redux
+- Updated _Extended Encounters_ to 1.6.2
+- Updated _Windows Shadows_ to 7.5
+- Updated _iWant Widgets_ to 1.23
+- Updated _SSE Display Tweaks_ to 0.4.14
+- Updated _powerofthree's Papyrus Extender_ to 4.3.7
+- Corrected the paths of the Tools in the Dropdown.
+
+I've heard conflicting things about how save safe this is. I wouldn't recommend an update unless you are comfortable cleaning your save if something goes wrong.
+
 ### 7.7
 
 - Temporarily removed the "Full CC" Profile for a serious rework.
