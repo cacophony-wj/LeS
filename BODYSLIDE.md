@@ -19,7 +19,7 @@ You will also have to follow all of the steps below.
 8. Click **OK**
 9. Click the _Group Filter_ magnifying glass (upper right). 
 10. Click _Choose Groups..._
-11. Place a checkmark next to the _3BA_ group.
+11. Place a checkmark next to the _3BA_ group and _Unassigned_ group.
 13. Click _OK_
 14. In the top left dropdown, select _CBBE 3BBB Body Amazing_
 15. Select your preset from the dropdown below that. 
