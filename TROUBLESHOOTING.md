@@ -23,8 +23,7 @@
 
 ## DODGE ISN'T WORKING! or I CAN'T SNEAK!
 
-I see you are not the type of person to read readmes. It's addressed at the end of the MCM document, but for dodge and sneak to work properly you must press the G key twice. If I knew a way to make this unnecessary, I would. Please look at the relevant portions of the other documents for more information. And while you're there, try skimming over them all again to make sure you haven't missed something.
-
+I see you are not the type of person to read readmes. It's addressed at the end of the MCM document, but for dodge and sneak to work properly you must press the G key twice. If I knew a way to make this unnecessary, I would. Please look at the relevant portions of the other documents for more information. And while you're there, try skimming over them all again to make sure you haven't missed something. 
 ## Updates
 
 ### An update came out! It's new and shiny! What should I do?
