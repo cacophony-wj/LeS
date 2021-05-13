@@ -185,11 +185,15 @@ The next step is to prepare the game for play. Navigate to the directory where y
 
 Unfortunately I don't feel comfortable offering precompiled BodySlide outputs because this essentially rehosts all of a 3D modelers' work in another location. So you will have to build them yourself. Please don't abandon me here, I've minimized the steps as much as possible. It's just a few clicks and a few extra seconds.
 
+# PLEASE CLICK THE BELOW LINK TO CONTINUE THIS ESSENTIAL README. THEN RETURN HERE TO COMPLETE THIS ESSENTIAL README.
+
 [Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
 
 ## Launching the Game
 
 The rest must be completed after the game itself is launched. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **SKSE**. If you receive a message that files are missing, do not exist, or a warning about an incorrect path, you _may_ have to edit the link to "skse_loader" in the drop down and point it to your Skyrim directory. Once you are in-game, create your character and follow _all_ of the instructions in the below link:
+
+# PLEASE CLICK THE BELOW LINK TO CONTINUE THIS ESSENTIAL README. THEN RETURN HERE TO COMPLETE THIS ESSENTIAL README.
 
 [Licentia MCM Configuration And More](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
 
