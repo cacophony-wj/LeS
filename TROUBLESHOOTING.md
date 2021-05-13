@@ -1,3 +1,4 @@
+- [DODGE ISN'T WORKING! or I CAN'T SNEAK!](#dodge-isnt-working-or-i-cant-sneak)
 - [Updates](#updates)
   - [An update came out! It's new and shiny! What should I do?](#an-update-came-out-its-new-and-shiny-what-should-i-do)
 - [Content](#content)
@@ -18,6 +19,11 @@
   - [My body looks boring and flat! or My boobs are melting into the ground!](#my-body-looks-boring-and-flat-or-my-boobs-are-melting-into-the-ground)
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
 - [For More Information](#for-more-information)
+
+
+## DODGE ISN'T WORKING! or I CAN'T SNEAK!
+
+I see you are not the type of person to read readmes. It's addressed at the end of the MCM document, but for dodge and sneak to work properly you must press the G key twice. If I knew a way to make this unnecessary, I would. Please look at the relevant portions of the other documents for more information. And while you're there, try skimming over them all again to make sure you haven't missed something.
 
 ## Updates
 
@@ -45,7 +51,7 @@ Your only option at present is to install the _Dungeons & Deviousness_ modlist t
 
 ### My skills don't seem to be leveling up!
 
-This is due to my Uncapper present. Simple skills that anybody could pick up -- like Speech and Light Armor -- level normally, but extremely specialized skills that would logically require a trainer -- like Conjuration or One Handed -- are almost impossible to learn without a teacher. Hit up a wiki and find the trainer for the skill you want to improve, drop some gold on some lessons. I have edited Gameplay Tweaks so each level you get 5 training sessions that roll over to the next level, so don't worry about losing them. For example, if you don't train at all until level 7, you will be able to do so 35 times (given enough gold)!
+This is due to my Uncapper preset. Simple skills that anybody could pick up -- like Speech and Light Armor -- level normally, but extremely specialized skills that would logically require a trainer -- like Conjuration or One Handed -- are almost impossible to learn without a teacher. Hit up a wiki and find the trainer for the skill you want to improve, drop some gold on some lessons. I have edited Gameplay Tweaks so each level you get 5 training sessions that roll over to the next level, so don't worry about losing them. For example, if you don't train at all until level 7, you will be able to do so 35 times (given enough gold)!
 
 ### Invisibility is acting weird.
 
