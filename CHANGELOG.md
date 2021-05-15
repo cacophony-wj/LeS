@@ -1,3 +1,33 @@
+### 8.6
+
+Not save safe!
+
+- Redid the entire NPC setup in favor of Northbourne!
+- Added an absolutely massive Music Merge. Suffer my metal no longer!
+- Added _Non-Skimpy Book of UUNP Oatch_
+- Added _Maximum Carnage_
+- Added _Spellsiphon - Immersive Combat_
+- Added _Skyrim Weapons Expansion_
+- Added _Immersive Jewelry_
+- Added _Ice Blade of the Monarch_
+- Added _Royal Armory_
+- Added _Ruin's Edge_
+- Added _Additional Hearthfire Dolls_
+- Added _Better Dynamic Snow SE_
+- Added _Quiet Dog_
+- Added _Auri RaceMenu Crash Fix
+- Added _MiniMap_
+- Added _Player Rotation in ShowRaceMenu_
+- Added _Serana Dialogue Addon OStim Hotfix_
+- Added back _Equipable Underwear for Everyone!_
+- Replaced _Hyperborean Snow_ with _Nordic Snow_ (should fix blue snow mismatch)
+- Updated _Wyrmstooth_ to 1.19.3
+- Updated _Extended Encounters_ to 1.6.2
+- Updated _Unofficial Skyrim Creation Club Content Patch_ to 5.15
+- Updated _The Sensual Lady BodySlide Preset_ to 1.9
+- Updated _SSE Display Tweaks_ to 0.4.14
+- Downgraded _MoreHUD SE_ to 3.8. This hopefully fixes the related crashes.
+
 ### 8.5.6
 
 Sorry I haven't been keeping up with these. A lot has changed. I'll fill out the rest later, but for now, you'll have to deal with the changes from 8.5.5 to 8.5.6.
