@@ -1,4 +1,24 @@
-### 8.6
+### Pending Changes
+
+These are some of the upcoming changes from 8.7 through 8.8.
+
+- Removed _Beyond Reach_
+- Removed _Beyond Skyrim - Bruma_
+- Removed _Daedric Realms - Volume I The Hunting Grounds_
+- Removed _Darkend_
+- Removed _Falskaar_
+- Removed _Glamoril_
+- Removed _Glenmoril_
+- Removed _The Gray Cowl of Nocturnal_
+- Removed _Moon and Star_
+- Removed _Moonpath to Elsewyr_
+- Removed _Project AHO_
+- Removed _Unslaad_
+- Removed _Skyrim Underground_
+- Removed _Teldryn Serious - A Teldryn Sero Backstory Quest_
+- Removed _Wheels of Lull_
+
+- ### 8.6
 
 Not save safe!
 
