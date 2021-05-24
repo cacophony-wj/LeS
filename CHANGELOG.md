@@ -1,7 +1,41 @@
 ### Pending Changes
 
-These are some of the upcoming changes from 8.7 through 8.8.
+These are some of the upcoming changes from 8.7 through 8.8. I'm sure I've missed some
 
+- NPC Setup is now (in order of low to high priority, lower overwrites the higher):
+    WICO
+    The Men of Winter
+    Males of Skyrim
+    Pandorables Males
+    Bijin
+    Kalilies
+    Pandorables full suite
+- Created _Alternate Start_ for _Bob's Interdimensional Chambers_
+- Added _Carriage and Ferry Travel Overhaul_
+- Added _Cathedral Armory_
+- Added _Chantry College of Winterhold_
+- Added _Faster Mining Animation (DAR)_
+- Added _Faster Wood Chopping Animation_
+- Added _Gemling Queen Jewelry_
+- Added _Genesis Surface Spawns - Encounters Unlevelled_
+- Added _Genesis Unleashed Levelled_
+- Added _High Level Enemies_
+- Added _KS Hairdos 1.7 Salt and Wind_
+- Added _Lock Overhaul_
+- Added _Lock Related Loot_
+- Added _Magical College of Winterhold_
+- Added _Path of Sorcery Synergy Fix_
+- Added _saLa Hair_
+- Added _Skyrim Fishing_
+- Added _Skyrim Revamped_
+- Added _Vanilla Hair Salt and Wind_
+- Updated _Fertility Mode Fixes and Tweaks_ to 2.0
+- Updated _iWant Widgets_ to 1.25
+- Updated _ORomance_ to 1.4.5
+- Updated _OStim_ to 4.9.2
+- Updated _Serana Dialog Addon_ to 2.5.5
+- Updated _Vokriinator Black_ to 6.4
+- Updated _Windows Shadows_ to 7.6
 - Removed _Beyond Reach_
 - Removed _Beyond Skyrim - Bruma_
 - Removed _Daedric Realms - Volume I The Hunting Grounds_
@@ -17,6 +51,11 @@ These are some of the upcoming changes from 8.7 through 8.8.
 - Removed _Skyrim Underground_
 - Removed _Teldryn Serious - A Teldryn Sero Backstory Quest_
 - Removed _Wheels of Lull_
+- Removed _Guard Dialog Overhaul_
+- Removed _Ice Blade of the Monarch_
+- Removed _Immersive Jewelry_
+- Removed _Relationship Dialog Overhaul_
+- Removed _Ruin's Edge_
 
 - ### 8.6
 
