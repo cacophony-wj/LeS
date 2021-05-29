@@ -1,0 +1,35 @@
+ [0A] YUP - Base Game + All DLC.esm (6EC88741) \ Cell \ 00081CFA <RocketLabTop>
+ [0A] YUP - Base Game + All DLC.esm (6EC88741) \ Cell \ 000EF2E4 <ElReyMotelRoom02> \ 000EF2FD
+ [0A] YUP - Base Game + All DLC.esm (6EC88741) \ Cell \ 000F5E35 <ElReyMotelRoom03> \ 000F5E43
+ [0A] YUP - Base Game + All DLC.esm (6EC88741) \ Cell \ 000FE889 <1EHostetlerHome> \ 000FE8A9
+ [0A] YUP - Base Game + All DLC.esm (6EC88741) \ Cell \ 00154829 <SLCavernFireRootINT> \ 0015487A
+  
+ Looks like your navpatch has a few ITMs for some reason.
+ 
+ [0A] YUP - Base Game + All DLC.esm (6EC88741) \ Cell \ 001188ED <ULGourmand> \ 0011AF6E
+ 
+ And more...
+ 
+ The Luxury mod doesn't include some ownership updates from YUP, may want to patch it?
+ 
+ [0A] YUP - Base Game + All DLC.esm (6EC88741) \ Worldspace \ 000DA726 <WastelandNV> \ 00084327 \ 000D73F0
+ [0A] YUP - Base Game + All DLC.esm (6EC88741) \ Worldspace \ 000DA726 <WastelandNV> \ 0008432D <SLToxicWasteSite> \ 000D7C67
+ [0A] YUP - Base Game + All DLC.esm (6EC88741) \ Worldspace \ 000DA726 <WastelandNV> \ 00084338 \ 000947F2
+ [0A] YUP - Base Game + All DLC.esm (6EC88741) \ Worldspace \ 000DA726 <WastelandNV> \ 00084338 \ 000947F5
+ 
+ And more...
+ 
+ A lot of these objects are deleted by Vurt. Since they have no other references it's probabably fine, but best 
+ practice is to undelete, disable and bury.
+ 
+ ...Maybe I just don't understand this mod.
+ 
+ EDIT: Kae explained the situation. Seems to be ok.
+ 
+ Looks good. Gameplay test forthcoming.
+ 
+ 
+ 
+
+ 
+ 
