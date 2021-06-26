@@ -1,3 +1,14 @@
+### 9.5.3
+
+- Added _3BA Vanilla Clothes and Armor_
+- Added _Pet the Dog - Animations_
+- Added _iHarvest_
+- Added _Silent Harvesting_
+- Added _HD Terrain Noise Texture SE_
+- Added _SkyUI AIO Survival
+- Added _Improved Camera INI for OStim_
+- Removed _Immersive Interactions_
+
 ### 9.0 MINILICENTIA
 
 A lot of stuff hits the chopping block. Let's get to work.
