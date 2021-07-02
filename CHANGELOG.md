@@ -1,3 +1,29 @@
+### 9.5.6 SURVIVAL
+
+- Added _You Hunger SE_
+- Added _Unofficial Skyrim Survival Mode Patch_
+- Added _Crazy Caco's Creation Club Collection_ (CCCCC)
+- Added _Havok Fix_
+- Added _Maximum Carnage Essential Fix_
+- Added _Whiterun Mesh Fixes_
+- Added _SkyPal Papyrus Library_
+- Updated _Serana - Daughter of Coldharbour_ to 2.0
+- Updated _3BA Vanllla Clothes and Armor_ to 1.7
+- Updated _Simple Dual Sheath_ to 1.3
+- Updated _Spellsiphon_ to 5.14
+- Updated _Strange Runes_ to 3.6
+- Updated _Wintersun_ to 3.2
+- Updated _Wyrmstooth_ to 1.19.4
+- Updated _Undeath - Classical Lichdom_ to 2.40
+- Updated _Extended Encounters_ to 1.6.3
+- Updated _Immersive World Encounters_ to 3.3
+- Updated _Frozen Electrocuted Combustion_ to 4.9.3
+- Updated _Papyrus Extender_ to 4.4.1
+- Updated _More Informative Console_ to 0.43
+- Updated _Grass FPS Booster_ to 5.6
+- Reworked the texture base to support 4K UHD as well as lowres for 4GB VRAM
+- Reworked the INIs and CFGs to support uncapped framerate
+
 ### 9.5.3
 
 - Added _3BA Vanilla Clothes and Armor_
