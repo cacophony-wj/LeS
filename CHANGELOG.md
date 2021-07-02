@@ -1,7 +1,10 @@
 ### 9.5.6 SURVIVAL
 
-- Added _You Hunger SE_
 - Added _Unofficial Skyrim Survival Mode Patch_
+- Added _Conner's Survival Mode_
+- Added _Simple Camping Storage_
+- Added _You Hunger SE_
+- Reworked the leveled lists to support Creation Club Survival
 - Added _Crazy Caco's Creation Club Collection_ (CCCCC)
 - Added _Havok Fix_
 - Added _Maximum Carnage Essential Fix_
