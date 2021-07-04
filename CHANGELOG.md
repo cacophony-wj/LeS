@@ -1,3 +1,20 @@
+### 9.6
+
+- Removed _Assigned Storage_ as fallout from the Modpocalypse.
+- Removed _Nether Follower Framework_ as fallout from the Modpocalypse.
+- Added _Simple Follower Extension_.
+- Added _Simple Outfit System_.
+- Added _Better Stealth AI for Followers_.
+- Added _Quick Mass Follower Commands_.
+- Added _Follower Trap Safety_.
+- Added _Followers Don't Draw Weapons_.
+- Added _Horses for Followers_.
+- Added _Remember Lockpick Angle_.
+- Returned _Underwear for Everyone_ with the patcher.
+- Worked 4 hours to resolve neck seams, failed.
+- Replaced _Bijin Skin_ with _Diamond Skin_.
+- Reran BodySlides.
+
 ### 9.5.6 SURVIVAL
 
 - Added _Unofficial Skyrim Survival Mode Patch_
