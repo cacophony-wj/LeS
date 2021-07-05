@@ -14,8 +14,6 @@
     - [Settings](#settings)
       - [Leaning](#leaning)
   - [Completionist](#completionist)
-  - [Follower Framework](#follower-framework)
-    - [System](#system)
   - [Fertility Mode+](#fertility-mode)
   - [OStim](#ostim)
     - [Configuration](#configuration)
@@ -141,16 +139,6 @@ _Camera Noise Mult (1st Person)_: _X0.00_
 ## Completionist
 
 This mod is intended as a fantastic companion to your own Quest Journal, informing you of ALL the quests available in a particular area as well as from added mods in this list - so you will never be without something to do! Refer here if you are at a loss and do whatever you feel is of interest. Two things to keep in mind, if you click on a quest it will "Manually" complete it and you will have to reset them all to get it back, so don't do that unless the MCM bugs out and the quest does not complete on its own! Second, _this mod does not update with quest steps._ It will not tell you where to go and what to do, your normal Journal serves that purpose -- only what is necessary to start a quest, as well as a notification that it has completed.
-
-##  Follower Framework
-
-###  System
-
-In the upper right, click _Load From File - CLICK HERE_
-
-At the message **Settings Loaded. Please exist the MCM menu to apply all changes.** click _Ok_
-
-Exit the MCM and re-open it.
 
 ## Fertility Mode+
 
