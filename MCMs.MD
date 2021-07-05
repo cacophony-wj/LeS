@@ -178,6 +178,8 @@ Uncheck "Use Beds". Nice idea but too buggy.
 
 Uncheck everything but "Fully undress at start."
 
+There is also a separate menu for this on the left regarding body slots. Make certain you place checkboxes in slot **56**, a pelvis slot, and slot **49** a chest slot. This will ensure that actors' underwear is removed for sex scenes.
+
 ### How To Use This Mod
 
 OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect / advance scene, enter is open or close menu. Period or decimal ends the scene. 
