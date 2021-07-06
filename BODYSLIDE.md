@@ -52,14 +52,14 @@ A key part of fun with boobs is adjusting how they bounce. This modlist ships wi
 1. Right click on _CBBE 3BA (3BBB)_ and choose _Reinstall_
 2. **DO NOT** choose any options in the first menu. They will break this list. Just click _Next_
 3. It's impossible to change _Base CBPC._ Check _Performance (Improved)_ and click _Next_
-4. Choose _Full SMP_ and click _Next_
+4. Choose _SMP and CBPC (Lite)_ and click _Next_
 5. Now for the "fallback" _CBPC_ options. Choose _New Type_ and click _Next_
-7. If your body has small boobs when thin and big boobs when heavy (you can check this with the slider in the preview window of _BodySlide_), it's best to choose _Real Bounce_ and _Small~Big Boobs_. Otherwise, choose the options that best match _your_ boobs.
+7. If your body has small boobs when thin and big boobs when heavy (you can check this with the slider in the preview window of _BodySlide_), it's best to choose _Real Bounce_ and _(Low)Small~(High)Big_. Otherwise, choose the options that best match _your_ boobs.
 8. Belly, butt, and legs are like Zoidberg on higher than _Muscular_. But it might turn you on to be a walking bowl of JELL-O so I leave it to you.
 10. Next is _SMP_ that you manually turn on with _F12_. These physics look extremely sexy but will cripple your PC if used too liberally. I recommend only activing them before an adult scene.
 11. _Boobs Physics Preset_ you're just gonna have to take a stab at.
 12. You **MUST** choose _CBPC - RegularSOS_. The other two options are incompatible.
 13. Hoo boy. _Vagina Textures_. Personally I think anything but "Dark Red" seems to be so bright it glows. But you can try it.
-14. Ensure that on this screen, only _Replace CBBE v1.6.x Morph Sliders_ is checked.
+14. Ensure that on this screen, only _None_ is checked.
 15. Click _Install_, followed by _Replace_, and wait for the mod's progress bar to go away.
 16. That's it. Hop in game and try out your new funbags.
