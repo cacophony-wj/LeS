@@ -24,6 +24,7 @@
 - [REDACTED. BODYSLIDES ARE INCLUDED AND NO LONGER NECESSARY. GO PLAY THE GAME!](#redacted-bodyslides-are-included-and-no-longer-necessary-go-play-the-game)
   - [Launching the Game](#launching-the-game)
 - [PLEASE CLICK THE BELOW LINK TO CONTINUE THIS ESSENTIAL README. THEN RETURN HERE TO COMPLETE THIS ESSENTIAL README.](#please-click-the-below-link-to-continue-this-essential-readme-then-return-here-to-complete-this-essential-readme)
+  - [Updating the Modlist](#updating-the-modlist)
   - [Removing the Modlist](#removing-the-modlist)
   - [Contact](#contact)
   - [Contributing](#contributing)
@@ -201,6 +202,16 @@ The rest must be completed after the game itself is launched. I recommend bringi
 # PLEASE CLICK THE BELOW LINK TO CONTINUE THIS ESSENTIAL README. THEN RETURN HERE TO COMPLETE THIS ESSENTIAL README.
 
 [Licentia MCM Configuration And More](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
+
+## Updating the Modlist
+
+Many times newer versions of _Licentia_ will require an updated version of _Wabbajack_, otherwise you will receive an image of a knocked-out Sheo with the message "Corrupted Modlist." Therefore, please ensure that you run _only_ the `Wabbajack.exe` located in the root of your _Wabbajack_ directory, not any of the executables in the archives or version directories (such as _2.5.0.9_). When you do so, _Wabbajack_ will automatically update to the latest version if necessary. 
+
+Then simply re-download the modlist from the Gallery and specify the same directories you did the first time. Then check the "Overwrite" box. This will _delete_ any customizations you have made to the modlist _unless_ you change the names of the folder(s) they are located in. More on this below.
+
+If you are downloading one of _Licentia's_ tasty Alpha or Beta versions, or a variant or experimental modlist available from my private server, you will need to select the "Install From Disk" option and choose the `.wabbajack` file you snagged from me. Afterward the steps are all the same.
+
+It is rarely recommended to continue a save when you update a modlist because _Skyrim_ super doesn't like it when you do that. Only update on a current save if you wish to start the game over, or if there is some irreconcilable bug with it. In the latter case, I can often write a patch to fix your problem without necessitating a new save. Ask me on my private server. Just to confirm, _none of your save games will be deleted_ when you update. However, _if you have generated custom BodySlides_ or _added mods such as armors, followers, or any other alterations_ these will all be blown away. But there is a way to keep them! Just name the folder they are in to start with the tag `[NoDelete]`. Then they will be kept as-is. (As an example, using this method, `BodySlide Output` would be renamed to `[NoDelete]BodySlide Output`.
 
 ## Removing the Modlist
 
