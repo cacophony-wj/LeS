@@ -7,6 +7,7 @@
   - [The Civil War questline is horribly fucked up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
 - [Technical](#technical)
   - [I'm randomly crashing!](#im-randomly-crashing)
+  - [I have problems with the camera! Flickering, weird 1st person body clipping! Can't switch to 3rd person!(#i-have-problems-with-the-camera-flickering-weird-1st-person-body-clipping-can't-switch-to-3rd-person)
   - [My performance is really terrible, low FPS, input lag during combat!](#my-performance-is-really-terrible-low-fps-input-lag-during-combat)
   - [I have a bug that's not in this list.](#i-have-a-bug-thats-not-in-this-list)
   - [I added a mod and something weird happened.](#i-added-a-mod-and-something-weird-happened)
@@ -53,6 +54,10 @@ The Civil War questline is incredibly broken even in vanilla Skyrim partially du
 ### I'm randomly crashing!
 
 You probably don't have enough paged RAM. Skyrim is very badly optimized. Try increasing your pagefile size. The recommendation is to set it to "System Managed" for all of your hard drives, but you can read specific instructions by going to any Wabbajack Discord channel and typing ``!pagefile`` 
+
+### I have problems with the camera! Flickering, weird 1st person body clipping! Can't switch to 3rd person!
+
+These are all caused by the extremely janky customization that makes first person POV sex under OStim a possibility. You are probably better off disabling both "Improved Camera" and the "Improved Camera INI" in the left pane of MO2. They do not have traditional ESPs, so your save will be fine. For a compromise, you can switch _to_ third person with the "F" key, and _back_ to first person with the scroll wheel. yes it is quite jank
 
 ### My performance is really terrible, low FPS, input lag during combat!
 
