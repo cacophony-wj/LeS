@@ -116,10 +116,6 @@ To change the _Quick Light_ key, open the _Quick Light_ MCM and you should see t
 
 Load the User Preset.
 
-## Assigned Storage
-
-This is an interesting mod -- it basically duplicates the "Craftloot" function of _Legacy of the Dragonborn_ such that you can keep all of your crafting ingredients in a sort of "cloud storage" which deposits itself into your inventory each time you use a crafting function. Be wary when you activate such tools, wait for the cloud storage to load into your inventory both _before_ and out of your inventory _after_ you access a crafting table, otherwise problems may occur. I don't utilize the MCM options, but you can also refer to the mod page and designate any chest or container in the game as the recipient of this "cloud storage" somewhat like the "Item Boxes" in the _Resident Evil_ series. Have fun, but remember, if you do a quest that requires crafting ingredients, they will be removed once you finish with the table! (Alvor, I'm looking at you.) You may need to AddItem in that piece of Leather just to continue the Quest.
-
 ##  CGO
 
 ### Settings
@@ -158,27 +154,7 @@ Finally, under _Information_, the _Show Verbose Messages_ option with pop up var
 
 ## OStim
 
-The settings in this extensive mod are almost all down to personal preference. I recommend you carefully read the mod pages for both "OSex" and "OStim" if you wish to configure sex into an interactive little "minigame". 
-
-However, I do have the following recommendations:
-
-### Configuration
-
-#### Sex Scenes
-
-Uncheck "Actors Control Speed."
-
-Set the "Excitement Multiplier" to 3.00.
-
-#### Beds
-
-Uncheck "Use Beds". Nice idea but too buggy.
-
-#### Undressing
-
-Uncheck everything but "Fully undress at start."
-
-There is also a separate menu for this on the left regarding body slots. Make certain you place checkboxes in slot **56**, a pelvis slot, and slot **49** a chest slot. This will ensure that actors' underwear is removed for sex scenes.
+Import Profile
 
 ### How To Use This Mod
 
