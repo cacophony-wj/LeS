@@ -19,7 +19,7 @@ You will also have to follow all of the steps below.
 8. Click **OK**
 9. Click the _Group Filter_ magnifying glass (upper right). 
 10. Click _Choose Groups..._
-11. Place a checkmark next to the _3BA_ group.
+11. Place a checkmark next to the _3BA_ and _Unassigned_ groups.
 13. Click _OK_
 14. In the top left dropdown, select _CBBE 3BBB Body Amazing_
 15. Select your preset from the dropdown below that. 
@@ -31,15 +31,16 @@ You will also have to follow all of the steps below.
 21. A prompt will appear asking where to put your custom-fitted outfits. Make sure they go to **_Licentia Directory_/mods/BodySlide Output**.
 22. **Do not put your outfits anywhere but _BodySlide Output_.**
 23. Click _Select Folder_
-25. Click OK
-26. Wait for your outfits to be built in the popup labeled **Processing Outfits**.
-27. You should receive the message "All outfits processed successfully!"
-28. Click OK
-29. If you receive any error messages, repeat the process from the Batch Build step until you receive the above message.
-30. When finished, navigate to **_Licentia Directory_/mods/BodySlide Output/meshes** and make sure a little over a dozen or so outfits folders are there.
-31. If there is only a _meshes_ folder there, move it to **_Licentia Directory_/mods/BodySlide Output**
-32. **Confirm that all the outfits folders are in _Licentia Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
-33. You may continue.
+25. Ensure that all of the _(Physics)_ options are selected. The other two don't matter. 
+26. Click OK
+27. Wait for your outfits to be built in the popup labeled **Processing Outfits**.
+28. You should receive the message "All outfits processed successfully!"
+29. Click OK
+30. If you receive any error messages, repeat the process from the Batch Build step until you receive the above message.
+31. When finished, navigate to **_Licentia Directory_/mods/BodySlide Output/meshes** and make sure a little over a dozen or so outfits folders are there.
+32. If there is only a _meshes_ folder there, move it to **_Licentia Directory_/mods/BodySlide Output**
+33. **Confirm that all the outfits folders are in _Licentia Directory_/mods/BodySlide Output/meshes. They should not be located anywhere else.**
+34. You may continue.
 
 ### Changing It Up
 
