@@ -1,3 +1,57 @@
+### 9.10.1
+
+- Added _Artifacts - Tournament of the Ten Bloods_
+- Added _Lore Weapon Expansion_
+- Added _Savage Skyrim_
+- Added _Wicked Werewolves_
+- Added _Supreme Vampire Lords_
+- Added _powerofthree's Tweaks_
+- Added _Scrambled Bugs_
+- Added _Scrambled Eggchantments_
+- Added _Skyrim Priority SE_
+- Added _Simple Offence Suppression_
+- Added _Mum's The Word_
+
+### 9.10.0.1
+
+- Added the BRAND NEW _OBody_ Ostim Addon!
+- Removed a bunch of joke meme superboob BodySlide Presets
+- Added _The Tea Body_
+- Added _Natural Curves_
+- Added _o777 Au Naturel_
+- Added _Fab to Fit_
+- Added _LeiaBody_
+- Updated _OStim_ to 5.0.4
+
+### 9.9
+
+Added _OComfort_
+Added _OTrainers_
+Added _Sacrosanct Fertility Mode Integration_
+
+And for the Expanded profile...
+
+Patched everything for full _Creation Club_ support!
+Added _Better Adventurer's Backpack_
+Added _Better Rare Curios_
+Added _Creation Club Integration - Armours_
+Added _Creation Club Armors Upscaled Textures_
+Added _Creation Club - Properly Environment Mapped_
+Added _Planters for Hendraheim_
+Added _XPMSSE Left Hand Skeleton Rotation Fix_
+Added _SSE-SRO - Enhanced Spidersac_ (this one had been bugging me)
+Added back _Septentrional Landscapes 4K_
+Regenerated LODs
+Updated _OStim_ to 5.0.2
+Updated _Fertility Mode Fixes and Tweaks_ to 2.14
+Updated _Simple Dual Sheath_ to 1.4.1
+Updated _Dirt and Blood_ to 2.1
+Updated _Improved Camera INI_ to 1.3
+Updated _Papyrus Extender_ to 4.4.2
+Tweaked _Skill Rate Remover_ to work better with Andromeda
+Disabled all parallax texture options -- they may be back!
+**OBODY HAS NOT BEEN ADDED YET**
+
 ### 9.6
 
 - Removed _Assigned Storage_ as fallout from the Modpocalypse.
