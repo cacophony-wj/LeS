@@ -31,26 +31,26 @@ Added _Sacrosanct Fertility Mode Integration_
 
 And for the Expanded profile...
 
-Patched everything for full _Creation Club_ support!
-Added _Better Adventurer's Backpack_
-Added _Better Rare Curios_
-Added _Creation Club Integration - Armours_
-Added _Creation Club Armors Upscaled Textures_
-Added _Creation Club - Properly Environment Mapped_
-Added _Planters for Hendraheim_
-Added _XPMSSE Left Hand Skeleton Rotation Fix_
-Added _SSE-SRO - Enhanced Spidersac_ (this one had been bugging me)
-Added back _Septentrional Landscapes 4K_
-Regenerated LODs
-Updated _OStim_ to 5.0.2
-Updated _Fertility Mode Fixes and Tweaks_ to 2.14
-Updated _Simple Dual Sheath_ to 1.4.1
-Updated _Dirt and Blood_ to 2.1
-Updated _Improved Camera INI_ to 1.3
-Updated _Papyrus Extender_ to 4.4.2
-Tweaked _Skill Rate Remover_ to work better with Andromeda
-Disabled all parallax texture options -- they may be back!
-**OBODY HAS NOT BEEN ADDED YET**
+- Patched everything for full _Creation Club_ support!
+- Added _Better Adventurer's Backpack_
+- Added _Better Rare Curios_
+- Added _Creation Club Integration - Armours_
+- Added _Creation Club Armors Upscaled Textures_
+- Added _Creation Club - Properly Environment Mapped_
+- Added _Planters for Hendraheim_
+- Added _XPMSSE Left Hand Skeleton Rotation Fix_
+- Added _SSE-SRO - Enhanced Spidersac_ (this one had been bugging me)
+- Added back _Septentrional Landscapes 4K_
+- Regenerated LODs
+- Updated _OStim_ to 5.0.2
+- Updated _Fertility Mode Fixes and Tweaks_ to 2.14
+- Updated _Simple Dual Sheath_ to 1.4.1
+- Updated _Dirt and Blood_ to 2.1
+- Updated _Improved Camera INI_ to 1.3
+- Updated _Papyrus Extender_ to 4.4.2
+- Tweaked _Skill Rate Remover_ to work better with Andromeda
+- Disabled all parallax texture options -- they may be back!
+- **OBODY HAS NOT BEEN ADDED YET**
 
 ### 9.6
 
