@@ -254,7 +254,7 @@ Once you reach your chosen location and have dispensed with any tutorials and or
 
 ## Genesis Surface Spawns, Genesis Spawns Unleashed
 
-The meat of _minilicentia's_ difficulty. Spawns extra enemies in each area. I tested with everything maxed, incuding OBIS, and it was _tough_ at early level. Probably something like 4 additional spawns for each mod is more appropriate.
+The meat of _Licentia's_ difficulty. Spawns extra enemies in each area. I tested with everything maxed, incuding OBIS, and it was _tough_ at early level. Probably something like 4 additional spawns for each mod is more appropriate.
 
 ## OBIS - Bandits
 
