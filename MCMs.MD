@@ -43,7 +43,7 @@
 
 ## Setting your resolution
 
-_minilicentia_ has been configured to run at _2560x1440_ by default. If you wish to change this to a higher or lower resolution, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
+_Licentia_ has been configured to run at _2560x1440_ by default. If you wish to change this to a higher or lower resolution, click the puzzle piece icon and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
 
 "1080p" is _iSize H = 1080_ & _iSize W = 1920_
 "1440p" is _iSize H = 1440_ & _iSize W = 2560_
