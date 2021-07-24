@@ -191,13 +191,11 @@ Please note, **do not copy the entire game folder files folder.** Only copy the 
 
 The next step is to prepare the game for play. Navigate to the directory where you installed the modlist _Licentia_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it to continue.
 
-## Crafting the Female Bodies
+##  Female Bodies And Outfits
 
-# REDACTED. BODYSLIDES ARE INCLUDED AND NO LONGER NECESSARY. GO PLAY THE GAME!
+With the introduction of _OBody_ to the modlist, building BodySlides is basically a thing of the past. To use your preferred BodySlide preset with _Licentia_, simply install and enable it anywhere in the list, complete character creation and MCM configuration, and strike the `O` key. This will bring up a list of every BodySlide preset you have installed! Choose the one you want, set your character's Weight via the Vanity Mirror, and you are good to go! That's right, you can switch the body as easily as you do your outfit! 
 
-If you know what you are doing and wish to craft your own body with its own physics, refer to previous versions of the readme. All of the modlist's tools and options are still available from the dropdown, they are simply hidden. If you have no clue how to access them, you should probably avoid using them without a significant amount of research.
-
-[Female Bodies and Outfits](https://github.com/cacophony-wj/LeS/blob/master/BODYSLIDE.md)
+If you wish to use custom armors with the list, however, the process is a bit more involved. The armors MUST be built with the ZEROED SLIDERS option in BodySlide -- none of the others will work properly with OBody and will in fact make your dudettes look Super Weird! When you do build the bodies, be sure to check the 'BUILD MORPHS' checkbox in the lower right corner if it isn't already. That should be about all you need to know. If you need more detailed BodySlide instructions, they can be found with a simple Google search. Or feel free to drop in the channel and ask for help if you get confused. Most people are happy to give it!
 
 ## Launching the Game
 
