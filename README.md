@@ -187,7 +187,7 @@ Please note, **do not copy the entire game folder files folder.** Only copy the 
 
 The next step is to prepare the game for play. Navigate to the directory where you installed the modlist _Licentia_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it to continue.
 
-##  Female Bodies And Outfits
+## Crafting the Female Bodies
 
 With the introduction of _OBody_ to the modlist, building BodySlides is basically a thing of the past. To use your preferred BodySlide preset with _Licentia_, simply install and enable it anywhere in the list, complete character creation and MCM configuration, and strike the `O` key. This will bring up a list of every BodySlide preset you have installed! Choose the one you want, set your character's Weight via the Vanity Mirror, and you are good to go! That's right, you can switch the body as easily as you do your outfit! 
 
