@@ -116,10 +116,6 @@ To change the _Quick Light_ key, open the _Quick Light_ MCM and you should see t
 
 Load the User Preset.
 
-## Assigned Storage
-
-This is an interesting mod -- it basically duplicates the "Craftloot" function of _Legacy of the Dragonborn_ such that you can keep all of your crafting ingredients in a sort of "cloud storage" which deposits itself into your inventory each time you use a crafting function. Be wary when you activate such tools, wait for the cloud storage to load into your inventory both _before_ and out of your inventory _after_ you access a crafting table, otherwise problems may occur. I don't utilize the MCM options, but you can also refer to the mod page and designate any chest or container in the game as the recipient of this "cloud storage" somewhat like the "Item Boxes" in the _Resident Evil_ series. Have fun, but remember, if you do a quest that requires crafting ingredients, they will be removed once you finish with the table! (Alvor, I'm looking at you.) You may need to AddItem in that piece of Leather just to continue the Quest.
-
 ##  CGO
 
 ### Settings
