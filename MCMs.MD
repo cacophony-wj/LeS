@@ -152,6 +152,16 @@ _Randomly Inseminate_ allows you to simulate widespread fucking without acting i
 
 Finally, under _Information_, the _Show Verbose Messages_ option with pop up various methods on Skyrim's sexual exploits such as, with spouse fidelity low: "Embry came inside Gerdur."
 
+## Follower Framework
+
+Back due to popular demand and a policy change by Nether. I don't want to discuss it.
+
+### System
+
+Click _Load Profile_
+
+There are a LOT of things you can do with this, like make your followers into tanks, change their outfits, give them homes they live in, they can even wear the outfits in the homes! You can assign homes to the dogs and cats, too, which is the main reason I want this in the first place. But there's more! You can have them loot stuff for you automatically, return to town and sell stuff for you, the options are insane. It's a little too bloated to me but it's become a standard. Dig around in there and figure it out. Keep in mind that Friendly Fire is DISABLED so when you are NOT in combat your weapons will show zero damage! I know nobody will understand this, but I'm saying it anyway. You can change it in the options of this mod.
+
 ## OStim
 
 The settings in this extensive mod are almost all down to personal preference. I recommend you carefully read the mod pages for both "OSex" and "OStim" if you wish to configure sex into an interactive little "minigame". 
