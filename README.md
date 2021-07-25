@@ -177,11 +177,7 @@ Move your downloads folder outside of your _Licentia Directory_, ensure the _Lic
 
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and extract _only_ d3d11.dll and d3dcompiler_46e.dll from the _WrapperVersion_ folder to your game folder. This is the directory in which _SkyrimSE.exe_ is located.
 
-Copy all of the files located inside the _Licentia Directory/Game Folder Files - Quality_ directory to your game folder.
-
-If you find that your framerate is too low for your liking, or you know you already have a weak GPU, try the contents of the _Game Folder Files - Performance_ directory instead.
-
-If your framerate is _still_ abysmal, drop by my private server for a special "performance" version of the modlist designed for lower-end PCs!
+Copy all of the files located inside the _Licentia Directory/Game Folder Files_ directory to your game folder.
 
 ![COPY THESE FILES](gff.png "Game Folder Files")
 
