@@ -38,6 +38,12 @@ _If you are into an utterly degenerate vision of Skyrim focused on sheer sexual 
 
 https://www.fgsmodlists.com/home
 
+_If you're looking for a modlist in between the two, with just a bit more racy content without all the slavery and suffering, featuring more of an "Eastern" flair -- tough melee parry-and-riposte gameplay and hand-picked custom combat animations and sexy oufits, try "Tsukiro" also available on the Wabbajack main menu!_
+
+https://www.wabbajack.org/#/modlists/info?machineURL=tsukiro
+
+_C'mon man. I'm begging you. Please do not play this modlist. It sucks. Go away! And don't step on my lawn!_
+
 # Preamble
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
