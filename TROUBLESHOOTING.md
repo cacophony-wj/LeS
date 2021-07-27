@@ -2,6 +2,7 @@
 - [Content](#content)
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Gameplay](#gameplay)
+  - [I don't have one of those ancient ass NUMPADs! How the hell am I gonna use OStim?](#i-dont-have-one-of-those-ancient-ass-numpads-how-the-hell-am-i-gonna-use-ostim)
   - [My skills don't seem to be leveling up!](#my-skills-dont-seem-to-be-leveling-up)
   - [My follower is walking around with an exploded head! (Or other types of gore.)](#my-follower-is-walking-around-with-an-exploded-head-or-other-types-of-gore)
   - [The Civil War questline is horribly fucked up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
@@ -31,6 +32,12 @@ Boy did you ever download the wrong list. This list is mostly for playing Skyrim
 Your only option at present is to install the _Dungeons & Deviousness_ modlist to experience the most Lover's Lab content this side of an Oldrim installation. You may feel that _DND_ goes too hard in the direction of suffering and roleplay. If this the case, consider reading about the mods inside it and configuring the menus more to your liking. They are actually very customizable.
 
 ## Gameplay
+
+### I don't have one of those ancient ass NUMPADs! How the hell am I gonna use OStim?
+
+From my user "BigMac"
+
+> "If you hold F8 for 10 seconds it activates OSAs emergency rebind. Where Lshift pulls up the menu and WASD is how you nav. You can then rebind the keys manually. I use P L ; '  to nav, O and [ as yes/no and ] as toggle."
 
 ### My skills don't seem to be leveling up!
 
@@ -86,7 +93,7 @@ I have included backups. Click the swirly arrows. There's one for the load order
 
 Try this. Load before you start the quest's conclusion. Complete a step. Save. Reload. Complete the next step. Continue until you finish the quest without crashing. I have confirmation that this does work.
 
-## I can't take two steps in Lucien's final dungeon without freezing or crashing!
+### I can't take two steps in Lucien's final dungeon without freezing or crashing!
 
 Lucien's final dungeon has a TON of custom models and assets that are quite demanding even WITHOUT the massive texture overhauls of _Licentia_. I have already installed the only mod created to resolve this issue by adding more occlusion planes to hide non-visible objects. My recommendation to you is to either disable all 4K Texture mods temporarily (except those with ESPs -- look inside the mod folder) and also disable the _SmoothCam_ mod. Hopefully this fixes your problem, otherwise, I'm afraid I don't know what to do as these freezes seem related to weird system configurations. My team members were able to push through the dungeon even with the crashes by carefully staring at the ground and using _Whirlwind Sprint_ in the worst areas, but they are _extremely_ determined!
 
