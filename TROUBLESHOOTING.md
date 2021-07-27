@@ -11,7 +11,7 @@
   - [I have problems with the camera! Flickering, weird 1st person body clipping! Can't switch to 3rd person!](#i-have-problems-with-the-camera-flickering-weird-1st-person-body-clipping-cant-switch-to-3rd-person)
   - [My performance is really terrible, low FPS, input lag during combat!](#my-performance-is-really-terrible-low-fps-input-lag-during-combat)
   - [I have a bug that's not in this list.](#i-have-a-bug-thats-not-in-this-list)
-  - [I added a mod and something weird happened.](#i-added-a-mod-and-something-weird-happened)
+  - [I added a mod (or mods) and something weird happened.](#i-added-a-mod-or-mods-and-something-weird-happened)
   - [There's more than 255 ESPs! Will this thing even launch?](#theres-more-than-255-esps-will-this-thing-even-launch)
   - [My load order got fucked up!](#my-load-order-got-fucked-up)
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
@@ -81,9 +81,11 @@ The best way to get it looked at is to submit it to [Issues](https://github.com/
 
 If you don't want to do that, I'm not going to be particularly strict about this since people have many reasons to avoid creating yet another account somewhere. So just drop by Discord. If I see it and it's not a known issue I'll try to help.
 
-### I added a mod and something weird happened.
+### I added a mod (or mods) and something weird happened.
 
-Long and the short of it is, you're on your own unless I'm in a good mood.
+Feed free to stop by my private server and talk about it. I'm usually in a good mood and willing to help unless you did something crazy like add LOTD, all LOTD patches, and all TCC patches for those patches. Then you're on your own! You can always browse _Lively's Learn To Mod Series_ to get info on how to change any modlist you want. Just if you're going to lose your damn mind about it and try to pile on 50 SexLab mods try not to bother anyone else about it yeah?
+
+https://github.com/LivelyDismay/Learn-To-Mod
 
 ### There's more than 255 ESPs! Will this thing even launch?
 
