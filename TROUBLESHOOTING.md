@@ -14,6 +14,7 @@
   - [There's more than 255 ESPs! Will this thing even launch?](#theres-more-than-255-esps-will-this-thing-even-launch)
   - [My load order got fucked up!](#my-load-order-got-fucked-up)
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
+  - [I can't take two steps in Lucien's final dungeon without freezing or crashing!](#i-cant-take-two-steps-in-luciens-final-dungeon-without-freezing-or-crashing)
 - [For More Information](#for-more-information)
 
 
@@ -84,6 +85,10 @@ I have included backups. Click the swirly arrows. There's one for the load order
 ### I crash in Project AHO when I complete a certain quest!
 
 Try this. Load before you start the quest's conclusion. Complete a step. Save. Reload. Complete the next step. Continue until you finish the quest without crashing. I have confirmation that this does work.
+
+## I can't take two steps in Lucien's final dungeon without freezing or crashing!
+
+Lucien's final dungeon has a TON of custom models and assets that are quite demanding even WITHOUT the massive texture overhauls of _Licentia_. I have already installed the only mod created to resolve this issue by adding more occlusion planes to hide non-visible objects. My recommendation to you is to either disable all 4K Texture mods temporarily (except those with ESPs -- look inside the mod folder) and also disable the _SmoothCam_ mod. Hopefully this fixes your problem, otherwise, I'm afraid I don't know what to do as these freezes seem related to weird system configurations. My team members were able to push through the dungeon even with the crashes by carefully staring at the ground and using _Whirlwind Sprint_ in the worst areas, but they are _extremely_ determined!
 
 ## For More Information
 
