@@ -35,9 +35,9 @@ Your only option at present is to install the _Dungeons & Deviousness_ modlist t
 
 ### I don't have one of those ancient ass NUMPADs! How the hell am I gonna use OStim?
 
-From my user "BigMac"
+From my user _BigMac_
 
-> "If you hold F8 for 10 seconds it activates OSAs emergency rebind. Where Lshift pulls up the menu and WASD is how you nav. You can then rebind the keys manually. I use P L ; '  to nav, O and [ as yes/no and ] as toggle."
+> If you hold F8 for 10 seconds it activates OSAs emergency rebind. Where Lshift pulls up the menu and WASD is how you nav. You can then rebind the keys manually. I use P L ; '  to nav, O and [ as yes/no and ] as toggle.
 
 ### My skills don't seem to be leveling up!
 
