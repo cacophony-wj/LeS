@@ -200,7 +200,7 @@ Creatures do not function with OSex and I have no plans to ever implement them. 
 
 ### OStrap
 
-I am not a fan of strap-ons, but I am even less of a fan of futa options, so this mod is included for reasons. I recommend the following options:
+I am not a fan of strap-ons, but I am even less of a fan of futa options. Not that there is anything wrong with either, but I have experienced _extreme_ reactions from futa options appearing in-game unexpectedly. If you wish to include futa options in your game, you can find a pinned message in great detail on my private server. I recommend the following options for _OStrap_:
 
 _OStrap Core_
 
