@@ -1,7 +1,7 @@
 - [Licentia Configuration](#licentia-configuration)
   - [Setting your resolution](#setting-your-resolution)
   - [Customizing Controls](#customizing-controls)
-  - [Enabling Enhanced Gamepad Controls](#enabling-enhanced-gamepad-controls)
+  - [Using A Controller](#using-a-controller)
   - [Character Creation](#character-creation)
   - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
   - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
@@ -59,9 +59,9 @@ The vast majority of these options are configured in the "Controls" portion of S
 
 To change the _Quick Light_ key, open the _Quick Light_ MCM and you should see the option. The same is true for _CGO_, there are options for _Grip Shift_ and _Dual Wield Blocking_.
 
-## Enabling Enhanced Gamepad Controls
+## Using A Controller
 
-Due to a request from multiple users I have returned the enhanced Gamepad control mods. They are all enabled by default, but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **delete any ControlMap_Custom" file(s) in your Skyrim game directory. You will have to configure CGO (I recommend D-Pad Left for grip shift and LB for Dual-Wield Blocking), The Ultimate Dodge Mod (I recommend D-Pad Down for Sneak), and Quick Light (I recommend D-Pad Up).  Finally, reconfigure your QuickSave and QuickLoad keys in-game. You must ALSO recall that almost ALL OStim navigation can only be accomplished via the keyboard, so you will have to either switch back and forth or set to autopilot. When all is said and done the Gamepad controls will be as follows:
+Due to a request from multiple users I have enabled all controller mods by default. They can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **delete any ControlMap_Custom" file(s) in your Skyrim game directory. You will have to configure CGO (I recommend D-Pad Left for grip shift and LB for Dual-Wield Blocking), The Ultimate Dodge Mod (I recommend D-Pad Down for Sneak), and Quick Light (I recommend D-Pad Up).  Finally, reconfigure your QuickSave and QuickLoad keys in-game. You must ALSO recall that almost ALL OStim navigation can only be accomplished via the keyboard, so you will have to either switch back and forth or set to autopilot. When all is said and done the Gamepad controls will be as follows:
 
 - Start: Journal
 - Back: Wait
