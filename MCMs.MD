@@ -126,7 +126,7 @@ Load the User Preset.
 
 _Lean Multiplier (1st Person)_: _X0.00_
 
-_Lean Multiplier (3rd Person)_: _X0.25_
+_Lean Multiplier (3rd Person)_: _X0.00_
 
 _Camera Noise_
 
@@ -243,6 +243,14 @@ Click on _Slot 2: EasyEase_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREE
 ## Trade and Barter
 
 Click "Modify Barter Settings" and change the "Preset" to your liking.
+
+## True Directional Movement
+
+I recommend you leave most of these options alone, but lock-on is off by default, and it's the best lock-on I've ever seen. Enable the hotkey to your preference under
+
+### Target Lock
+
+But I recommend "B" for Keyboard and "LB/L1" for Controller.
 
 ## VioLens
 
