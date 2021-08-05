@@ -238,7 +238,7 @@ Due to the location of additional HUD elements like the minimap, under "Active E
 
 ### Presets
 
-Click on _Slot 2: EasyEase_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
+Click on _Slot 4: Modern_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
 
 ## Trade and Barter
 
