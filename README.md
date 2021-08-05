@@ -62,6 +62,8 @@ Another big thing about this list is I intentionally made it different from ever
 
 A note about save scumming, a peril for any modlist but especially script-heavy ones such as _Licentia_. If you spend 30 minutes reloading after death again and again, especially during or after combat, a _lot_ of stuff will break on your save. I have experienced this first-hand. If you can't get past a group of enemies without repeated deaths and reloads, consider accepting your limitations and retreating, or loading an hour or so back and dialing the spawn count down a few notches. (Nobody is going to give you a trophy for your Ironman NSFW Skyrim playthrough.) If you continue to save and load rapidly, complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game. 
 
+Lastly this issue keeps coming up so I had better address it here. The camera in OStim still has a long way to go. Most scenes are ideally experienced from a first person "POV" perspective. If you must view the scenes in third person, it is recommended to only use the F key to switch out to the 3rd person camera and do not attempt to switch back while the scene is running. Either it won't work at all, or things will go really screwy. FreeCam is not recommended at all but if you must use it, set it in the MCM menu and DO NOT use the `tfc` command, it doesn't work properly. Hopefully at some point the camera will reach parity with SexLab.
+
 # A STRONG WARNING
 
 Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
