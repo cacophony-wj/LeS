@@ -187,9 +187,9 @@ Move your downloads folder outside of your _Licentia Directory_, ensure the _Lic
 
 **Copy Game Folder Files**
 
-Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm) and extract _only_ d3d11.dll and d3dcompiler_46e.dll from the _WrapperVersion_ folder to your game folder. This is the directory in which _SkyrimSE.exe_ is located.
+Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm). Inside the archive you will find a _WrapperVersion_ folder. Extract _only_ d3d11.dll and d3dcompiler_46e.dll from this _WrapperVersion_ folder to your game folder. This is the directory in which _SkyrimSE_ is located.
 
-Copy all of the files located inside the _Licentia Directory/Game Folder Files_ directory to your game folder.
+Copy all of the files located inside the _Licentia Directory/Game Folder Files_ directory to your game folder. This is the directory in which _SkyrimSE_ is located.
 
 ![COPY THESE FILES](gff.png "Game Folder Files")
 
