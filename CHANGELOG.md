@@ -1,3 +1,73 @@
+### 9.20.1
+
+- Added _Mo's TUDM Patch Collection_
+- Added back _Equippable Underwear for Everyone_
+- Added back _Under There_
+- Updated _3BA Vanilla Clothes and Armor_ to 1.9.3.
+- Updated _Books of Dibella SE_ to 1.2
+- Updated _Static Skill Leveling_ to 2.1
+
+### 9.19
+
+- Added _Skyrim's Paraglider_
+- Added _Lanterns of Skyrim II_ and associated patches.
+- Regenerated LODs.
+
+### 9.18
+
+- Added _Excitable Subs for OStim_
+- Updated _CBBE_ to 1.6.2
+- Updated _3BA Vanilla Clothes and Armor_ to 1.9.2
+- Updated _True Directional Movement_ to 1.1.3
+- Updated _Maximum Carnage_ to 6.4.
+- Updated _Water for ENB_ to 1.36
+- Updated _Embers XD_ to 2.2.4
+- Updated _Starting Outfit Suppressed_ to 1.20
+- Reinstalled four mods that may have been corrupt.
+
+### 9.16.6.3
+
+- Added _OVoice_
+- Added _OBIS Missives Addon_
+- Updated _Frozen Electrocuted Combustion_ to 4.9.4
+- Updated _Unofficial Skyrim Special Edition Patch_ to 4.2.5b
+
+### 9.16.1
+
+- Added _True Directional Movement_ this one is a real game-changer folks!
+- Added _SmoothCam Modern Camera Preset_
+- Added the _DynDoLod 3.0 Lod Pack_ for Majestic Mountains
+- Added a couple of custom script fixes by @EggyPapa
+- Updated _BodySlide and Outfit Studio_ to 5.4.1
+- Updated _Fertility Mode Fixes and Tweaks_ to 2.19
+- Updated _Northbourne NPCs of Whiterun Hold_ to 2.2
+- Updated _3BA Vanilla Clothes and Armor_ to 1.9
+- Updated _Spellsiphon_ to 5.15
+- Updated _Mundus_ to 1.6.1
+- Updated _Draugr Upgrades and Improvements_ to 2.4.1
+- Updated _Genesis Surface Spawns Levelled_ to 1.8
+- Updated _Gladys the Corgi_ to 1.0.4
+- Updated _Embers XD_ to 2.2.3
+- Updated _Realistic Water Two_ to 3.1.1
+- Updated _DynDOLOD Resources SE_ to the standalone version.
+- Updated _powerofthree's Tweaks_ to 1.2
+- Regenerated LODs.
+
+### 9.13
+
+- Added _Artifacts of Skyrim Revised_
+- Added _Common Clothes and Armors_
+- Added _Brigandage_
+- Added BodySlides for the above in the form of _FranklinZunge Collection 3BA_
+- Updated _OTrainers_ to 2.0
+
+### 9.11
+
+- Added _Mundus_
+- Removed _Andromeda_
+- Corrected a patch for _Immersive Patrols_ character classes
+- Regenerated Synthesis
+
 ### 9.10.1
 
 - Added _Artifacts - Tournament of the Ten Bloods_
