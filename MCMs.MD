@@ -43,15 +43,13 @@
 
 ## Setting your resolution
 
-_Licentia_ has been configured to run at _2560x1440_ by default. If you wish to change this to a higher or lower resolution, click the puzzle piece icon and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
+_Licentia_ has been configured to run at _1920x1080_ by default. If you wish to change this to a higher or lower resolution, click the puzzle piece icon and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. 
 
 "1080p" is _iSize H = 1080_ & _iSize W = 1920_
 "1440p" is _iSize H = 1440_ & _iSize W = 2560_
 "2160p" or "True 4K" is _iSize H = 2160_ & _iSize W = 3840_
 
-If you have an Ultrawide monitor, you will need [this mod](https://www.nexusmods.com/skyrimspecialedition/mods/1778). Install it as you would any other Mod Organizer. Just put it under _Added Mods._ Then adjust the above values to your monitor's native resolution.
-
-I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack readmes or drop by Discord and type _!usesearch_ to hunt for other users' experiences.
+If you have an Ultrawide monitor, you will need to enable all of the mods in the "UltraWide" section of the modlist. I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack readmes or drop by Discord and type _!usesearch_ to hunt for other users' experiences.
 
 ## Customizing Controls
 
@@ -59,9 +57,11 @@ The vast majority of these options are configured in the "Controls" portion of S
 
 To change the _Quick Light_ key, open the _Quick Light_ MCM and you should see the option. The same is true for _CGO_, there are options for _Grip Shift_ and _Dual Wield Blocking_.
 
+The last control you need to configure is within the _True Directional Movement_ mod. I recommend setting the "Lock-On" key to one of your alternate mouse buttons, such as the scroll wheel or one of the side buttons, if you have one.
+
 ## Using A Controller
 
-Due to a request from multiple users I have enabled all controller mods by default. They can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **delete any ControlMap_Custom" file(s) in your Skyrim game directory. You will have to configure CGO (I recommend D-Pad Left for grip shift and LB for Dual-Wield Blocking), The Ultimate Dodge Mod (I recommend D-Pad Down for Sneak), and Quick Light (I recommend D-Pad Up).  Finally, reconfigure your QuickSave and QuickLoad keys in-game. You must ALSO recall that almost ALL OStim navigation can only be accomplished via the keyboard, so you will have to either switch back and forth or set to autopilot. When all is said and done the Gamepad controls will be as follows:
+Due to a request from multiple users I have enabled all controller mods by default. They can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **delete any ControlMap_Custom" file(s) in your Skyrim game directory.** You will have to configure CGO (I recommend D-Pad Left for grip shift and LB for Dual-Wield Blocking), The Ultimate Dodge Mod (I recommend D-Pad Down for Sneak), and Quick Light (I recommend D-Pad Up). There is no good button for lock-on, I typically assign the same one as Spring and Dual-Wield Blocking (LB).  Finally, reconfigure your QuickSave and QuickLoad keys in-game. You must ALSO recall that almost ALL OStim navigation can only be accomplished via the keyboard, so you will have to either switch back and forth or set to autopilot. When all is said and done the Gamepad controls will be as follows:
 
 - Start: Journal
 - Back: Wait
@@ -88,7 +88,7 @@ Due to a request from multiple users I have enabled all controller mods by defau
 
 Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard). I have also recently included a host of presets from one of my users, featuring male and female variants for every race, including Argonians and Khajiit.
 
-Tweak to your liking, but bear in mind that many of the close-cropped hairstyles will **NOT** look right until you select the _High Poly Head_ by navigating to the _Head_ portion of RaceMenu and choose _Face Part 3_ (near the bottom). You might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _CBBE Morphs_ and _Genitals_ options, but I am not going to go into that. Most of the options will not function correctly until you have completed character creation at least once -- when you have done so, remove your clothing (if so desired), turn around and use the "Vanity Mirror" to make final adjustments. (Don't go too crazy with the dong, or it will poke through people's heads!) This option is basically the same thing as Riften's "Face Sculptor" and causes none of the bugs and dropped racial and magic effects that the _showracemenu_ command does. Experiment and figure it out. 
+Tweak to your liking, but bear in mind that many of the close-cropped hairstyles will **NOT** look right until you select the _High Poly Head_ by navigating to the _Head_ portion of RaceMenu and choose _Face Part 3_ (near the bottom). You might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _CBBE Morphs_ and _Genitals_ options, but I am not going to go into that. Most of the options will not function correctly until you have completed character creation at least once -- when you have done so, turn around and use the "Vanity Mirror" to make final adjustments. (Don't go too crazy with the dong, or it will poke through people.) This option is basically the same thing as Riften's "Face Sculptor" and causes none of the bugs and dropped racial and magic effects that the _showracemenu_ command does. Experiment and figure it out. 
 
 **IF YOUR BODY OR FACE TURN PURPLE OR OTHERWISE WEIRD**, scroll Racemenu over to _Body Paint_ and make sure all Textures are set to _Default_ (press the "T" key)
 
@@ -97,16 +97,6 @@ Tweak to your liking, but bear in mind that many of the close-cropped hairstyles
 **DO NOTHING** until **ALL** of the messages in the top left corner stop appearing. This is the most script intensive part of the game and may break otherwise. (It almost certainly will break if you forgot to copy game folder files.)
 
 ## A bit of a note on System Settings
-
-## Controls
-
-**Under the System > Settings Menu** change _Quicksave_ to _F9_, and _Quickload_ to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. 
-
-## DEFAULT CONTROLS AND HOW TO CHANGE THEM
-
-The vast majority of these options are configured in the "Controls" portion of Skyrim's pause menu. Please take note that your "Sneak" key is **NO LONGER SNEAK**, it is **DODGE** instead. If you wish to select a sneak key, first configure your **DODGE** key (which is labeled as **SNEAK** in the "Controls" menu, remember, and is assigned to **CTRL** by default). Then open the MCM and choose the _Ultimate Dodge_ option. There is an entry there for "Sneak Key", click it and choose. In the end I think you will be better served with Dodge as _Shift_ and Sneak as _CTRL_.
-
-To change the _Quick Light_ key, open the _Quick Light_ MCM and you should see the option. The same is true for _CGO_, there are options for _Grip Shift_ and _Dual Wield Blocking_.
 
 ## Game MCM Options
 
@@ -138,7 +128,7 @@ This mod is intended as a fantastic companion to your own Quest Journal, informi
 
 ## Fertility Mode+
 
-_Be Warned:_ This mod is _very_ intrusive, with a lot of "heavy" features, and currently suffers from a few bugs in the implementation of the code necessary to disable it as well as manage magic effects and onscreen widgets properly. If this concerns you, or you do not wish to deal with the difficulty inherent from possessing a full fertility and reproductive cycle, **do not** enable this mod, as in its current state it **can not** be fully disabled again. If this is not a concern of yours...
+_Be Warned:_ This mod is _very_ intrusive, with a lot of "heavy" features. If this concerns you, or you do not wish to deal with the difficulty inherent from possessing a full fertility and reproductive cycle, **do not** enable this mod, as in its current state it **can not** be fully disabled again. If this is not a concern of yours...
 
 "Enable" the mod. This is a _slow_ process. It will lock up the MCM menu, most likely, so you will have to exit all menus and re-enter.
 
@@ -154,13 +144,13 @@ Finally, under _Information_, the _Show Verbose Messages_ option with pop up var
 
 ## Follower Framework
 
-Back due to popular demand and a policy change by Nether. I don't want to discuss it.
+Back due to popular demand and a policy change by Nether.
 
 ### System
 
 Click _Load Profile_
 
-There are a LOT of things you can do with this, like make your followers into tanks, change their outfits, give them homes they live in, they can even wear the outfits in the homes! You can assign homes to the dogs and cats, too, which is the main reason I want this in the first place. But there's more! You can have them loot stuff for you automatically, return to town and sell stuff for you, the options are insane. It's a little too bloated to me but it's become a standard. Dig around in there and figure it out. Keep in mind that Friendly Fire is DISABLED so when you are NOT in combat your weapons will show zero damage! I know nobody will understand this, but I'm saying it anyway. You can change it in the options of this mod.
+There are a LOT of things you can do with this, like make your followers into tanks, change their outfits, give them homes they live in, even the dogs and cats, too, which is the main reason I want this in the first place. Dig around in there and figure it out. 
 
 ## OStim
 
@@ -176,10 +166,6 @@ Uncheck "Actors Control Speed."
 
 Set the "Excitement Multiplier" to 3.00.
 
-#### Beds
-
-Uncheck "Use Beds". Nice idea but too buggy.
-
 #### Undressing
 
 Uncheck everything but "Fully undress at start."
@@ -190,13 +176,13 @@ There is also a separate menu for this on the left regarding body slots. Make ce
 
 OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect / advance scene, enter is open or close menu. Period or decimal ends the scene. 
 
-If you are unfortunate and have a 75% keyboard or some other device without a NUMPAD, you will have to use an autohotkey script or remap the OSex controls somehow. Join my private server and search the #licentia channel for tips. You can find the link in the #sse-licentia channel on the Wabbajack Discord.
+If you encounter a scene that is terribly out of alignment, press the L key to open a menu with tons of options for adjustments. If you save your changes they will persist for that animation.
 
 Bear in mind that many subjects do not have appropriate animations (such as lesbian scenes). To find these, press the backslash key \ at any time, type in a keyword, and press Enter to begin.
 
 At any time you can go up to anyone and press the up arrow to have OSex sex with them.
 
-Creatures do not function with OSex and I have no plans to ever implement them. Play DND.
+Creatures do not function with OSex and I have no plans to ever implement them.
 
 ### OStrap
 
@@ -250,7 +236,7 @@ I recommend you leave most of these options alone, but lock-on is off by default
 
 ### Target Lock
 
-But I recommend "B" for Keyboard and "LB/L1" for Controller.
+But I recommend MOUSE 3 or 4 for MKB and "LB/L1" for Controller.
 
 ## VioLens
 
@@ -269,10 +255,6 @@ Once you reach your chosen location and have dispensed with any tutorials and or
 ## Genesis Surface Spawns, Genesis Spawns Unleashed
 
 The meat of _Licentia's_ difficulty. Spawns extra enemies in each area. I tested with everything maxed, incuding OBIS, and it was _tough_ at early level. Probably something like 4 additional spawns for each mod is more appropriate.
-
-## OBIS - Bandits
-
-First Enable the mod, then decide how many extra bandits you want at every bandit spawn. The default is a pretty good number, but the difficulty is low, so feel free to set it as you wish. The more spawns you add, the more trouble your system will have, so try to use a guesstimate of what your system can handle. As a frame of reference, I had all 3 Dynamic Spawn mods maximized and occasionally experienced hard freezes for up to a minute with a Radeon 5 3600 and an NVIDIA 2070 SUPER. No crashes as of yet.
 
 # ULTRA MEGA IMPORTANT
 
