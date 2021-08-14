@@ -4,12 +4,8 @@
   - [Using A Controller](#using-a-controller)
   - [Character Creation](#character-creation)
   - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
-  - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
-  - [Controls](#controls)
-  - [DEFAULT CONTROLS AND HOW TO CHANGE THEM](#default-controls-and-how-to-change-them)
   - [Game MCM Options](#game-mcm-options)
   - [A Matter of Time](#a-matter-of-time)
-  - [Assigned Storage](#assigned-storage)
   - [CGO](#cgo)
     - [Settings](#settings)
       - [Leaning](#leaning)
@@ -36,7 +32,6 @@
   - [Now you are ready to spawn!](#now-you-are-ready-to-spawn)
   - [ONE FINAL STEP](#one-final-step)
   - [Genesis Surface Spawns, Genesis Spawns Unleashed](#genesis-surface-spawns-genesis-spawns-unleashed)
-  - [OBIS - Bandits](#obis---bandits)
 - [ULTRA MEGA IMPORTANT](#ultra-mega-important)
   
 # Licentia Configuration
@@ -95,8 +90,6 @@ Tweak to your liking, but bear in mind that many of the close-cropped hairstyles
 ## AS SOON AS CHARACTER CREATION IS COMPLETE
 
 **DO NOTHING** until **ALL** of the messages in the top left corner stop appearing. This is the most script intensive part of the game and may break otherwise. (It almost certainly will break if you forgot to copy game folder files.)
-
-## A bit of a note on System Settings
 
 ## Game MCM Options
 
