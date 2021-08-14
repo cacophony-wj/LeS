@@ -33,7 +33,7 @@ Your only option at present is to install the _Dungeons & Deviousness_ modlist t
 
 ## Gameplay
 
-### I don't have one of those ancient ass NUMPADs! How the hell am I gonna use OStim?
+### I don't have one of those ancient NUMPADs! How am I gonna use OStim?
 
 From my user _BigMac_
 
@@ -47,7 +47,7 @@ Sleep to learn new skills. You can pick whatever you want!
 
 The fix I installed for this doesn't always trigger. Try casting the "Maximum Mending" spell you started the game with. It removes the gore effect from all nearby NPCs.
 
-### The Civil War questline is horribly fucked up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!
+### The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!
 
 The Civil War questline is incredibly broken even in vanilla Skyrim partially due to the large actor count and infinitely spawning enemies. Pile on CGO scripting all attack patterns and animations and Ultimate Dodge scripting all movement and you have a recipe for disaster. Even if you do manage to complete it, countless other quests will be broken due to destroyed buildings / dead NPCs / flagged variables. It's recommended that you complete this questchain near the very end of your playthrough, if at all. If you choose to do so, I recommend keeping the following things in mind:
 
@@ -73,7 +73,7 @@ These are all caused by the extremely janky customization that makes first perso
 
 ### My performance is really terrible, low FPS, input lag during combat!
 
-Your CPU or GPU are probably too weak. Head over to my Discord server and check the pins. I have a "Performance" version of _Licentia_ available there that greatly reduces the system requirements. You can get them even lower by switching the _ENB_ to "Serio" or removing it entirely! 
+Your CPU or GPU are probably too weak. Head over to my Discord server and check the pins. 
 
 ### I have a bug that's not in this list.
 
@@ -83,7 +83,7 @@ If you don't want to do that, I'm not going to be particularly strict about this
 
 ### I added a mod (or mods) and something weird happened.
 
-Feed free to stop by my private server and talk about it. I'm usually in a good mood and willing to help unless you did something crazy like add LOTD, all LOTD patches, and all TCC patches for those patches. Then you're on your own! You can always browse _Lively's Learn To Mod Series_ to get info on how to change any modlist you want. Just if you're going to lose your damn mind about it and try to pile on 50 SexLab mods try not to bother anyone else about it yeah?
+Feed free to stop by my private server and talk about it. I'm usually in a good mood and willing to help unless you did something crazy like add LOTD, all LOTD patches, and all TCC patches for those patches. Then you're on your own! You can always browse _Lively's Learn To Mod Series_ to get info on how to change any modlist you want. Just if you're going to lose your mind about it and try to pile on 50 SexLab mods try not to bother anyone else about it yeah?
 
 https://github.com/LivelyDismay/Learn-To-Mod
 
@@ -91,7 +91,7 @@ https://github.com/LivelyDismay/Learn-To-Mod
 
 Yes. ESPs flagged as ESL don't count. Double click the little number to see how many real ESPs there are.
 
-### My load order got fucked up!
+### My load order got messed up!
 
 I have included backups. Click the swirly arrows. There's one for the load order (right pane) and one for the install order (left pane). Be sure to get the most recent one!
 
@@ -105,6 +105,6 @@ Lucien's final dungeon has a TON of custom models and assets that are quite dema
 
 ## For More Information
 
-So you've had a taste of the caco experience and want more, you say? To get specific help with this modlist or modding in general (NSFW or SFW) take your happy ass to my discord server located at the link below. Depending on the phases of the moon you may find alphas of lists in progress, betas of lists being tested, tips for lewding lists and games yourself, or other strange projects. I'm also one of the few WJ modders who welcome additions to his list (or any list) and offer my services as support. While you're there drop in the "co-operating" channel to discuss Dark Souls and other co-op games, or the "hard topics" channel for those spicy subjects that'll get you banned everywhere else! Enjoy!
+So you've had a taste of the caco experience and want more, you say? To get specific help with this modlist or modding in general (NSFW or SFW) feel free to join my discord server located at the link below. Depending on the phases of the moon you may find alphas of lists in progress, betas of lists being tested, tips for lewding lists and games yourself, or other strange projects. I'm also one of the few WJ modders who welcome additions to his list (or any list) and offer my services as support. 
 
 https://discord.gg/VVRWPJmgf7
