@@ -147,23 +147,7 @@ There are a LOT of things you can do with this, like make your followers into ta
 
 ## OStim
 
-The settings in this extensive mod are almost all down to personal preference. I recommend you carefully read the mod pages for both "OSex" and "OStim" if you wish to configure sex into an interactive little "minigame". 
-
-However, I do have the following recommendations:
-
-### Configuration
-
-#### Sex Scenes
-
-Uncheck "Actors Control Speed."
-
-Set the "Excitement Multiplier" to 3.00.
-
-#### Undressing
-
-Uncheck everything but "Fully undress at start."
-
-There is also a separate menu for this on the left regarding body slots. Make certain you place checkboxes in slot **56**, a pelvis slot, and slot **49** a chest slot. This will ensure that actors' underwear is removed for sex scenes.
+The settings in this extensive mod are almost all down to personal preference. I recommend you simply "Import Settings" to get my recommendations (scroll all the way down, on the right).
 
 ### How To Use This Mod
 
