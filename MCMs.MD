@@ -27,6 +27,8 @@
   - [SmoothCam](#smoothcam)
     - [Presets](#presets)
   - [Trade and Barter](#trade-and-barter)
+  - [True Directional Movement](#true-directional-movement)
+  - [Ultimate Dodge](#ultimate-dodge)
   - [VioLens](#violens)
     - [Profile System](#profile-system)
   - [Now you are ready to spawn!](#now-you-are-ready-to-spawn)
@@ -202,6 +204,10 @@ Due to the location of additional HUD elements like the minimap, under "Active E
 ### Presets
 
 Click on _Slot 4: Modern_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
+
+## Ultimate Dodge
+
+### At the bottom left, you will find an option for NPCs to dodge and get iFrames, just like you can. It is _Super Annoying._ I recommend you disable it.
 
 ## Trade and Barter
 
