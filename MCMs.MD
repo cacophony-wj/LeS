@@ -207,7 +207,7 @@ Click on _Slot 4: Modern_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN*
 
 ## Ultimate Dodge
 
-### At the bottom left, you will find an option for NPCs to dodge and get iFrames, just like you can. It is _Super Annoying._ I recommend you disable it.
+At the bottom left, you will find an option for NPCs to dodge and get iFrames, just like you can. It is _Super Annoying._ I recommend you disable it.
 
 ## Trade and Barter
 
