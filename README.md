@@ -1,6 +1,6 @@
-# DO NOT CLOSE ME
+# DO NOT CLOSE ME! This modlist WILL NOT FUNCTION unless you follow the steps in this document.
 
-## This README is **NOT** optional! It is **NOT** an advice column! Licentia will **NOT** work AT ALL unless you follow it!
+# DO NOT ADD MODS! Wabbajack's policy on modlist modifications has changed. Read this document for more details.
 
 # READ IT!
 
@@ -50,9 +50,13 @@ The first thing you should probably know is that I am more of a fan of old-schoo
 
 A note about "save scumming," which is the practice of quickly saving and reloading many times in a row to get a perfect result, the "Groundhog Day" method of playing a videogame. If you spend 30 minutes reloading after death again and again, especially during or after combat, a _lot_ of stuff will break on your save. I have experienced this first-hand. If you can't get past a group of enemies without repeated deaths and reloads, consider accepting your limitations and retreating, or loading an hour or so back and dialing the spawn difficulty down a few notches. If you continue to save and load rapidly, complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game. 
 
-# A STRONG WARNING
+# STRONG WARNINGS
 
 Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
+
+### IMPORTANT NOTE ON ADDING MODS
+
+Wabbajack's _server-wide policy_ for modlist modifications has changed due to rampant abuse. In the interests of supporting the community, I can _no longer offer suppert_ for added mods to this list, at least within official _Wabbajack_ channels. What this means is that if you join a support channel and ask about conflicts with an added mod, _you will receive a warning_ and **three warnings equals a ban from the server.** That said, there are a couple of exceptions. **First,** if you make _certain_ to ONLY ask your questions about your mods _on my private server_ and **do not darken Wabbajack with added mod requests**, I will likely help you with anything you wish to add. **Second,** if you make trivial changes such as switching out ENBs or enabling the ultrawide options, you will not receive this warning. **All other additions will result in a warning. I will then refer you to this paragraph after you receive the warning, and you will immediately recall how I told you to read the document and you didn't.**
 
 ## Requirements
 
