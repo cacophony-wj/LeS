@@ -1,3 +1,70 @@
+### 9.24.2
+
+- Added _Powers Keyring_ thanks to my old user Lugubrious!
+- Added _Leaps of Faith_ thanks to my new user Bibbley!
+- Updated _OStim_ to Sairion's Freecam-Friendly Test Build
+- Updated _VIGILANT Voiced_ to 3.2.2
+- Updated _Auri - Song of the Green_ to 1.3
+- Updated _Gladys the Corgi_ to 1.1.2
+- Updated _Sidequests of Skyrim_ to 0.4
+- Updated _True Directional Movement_ to 1.4.1
+- Updated _Embers XD_ to 2.3.1
+- Updated _Better Windhelm Ground Meshes_ to 1.3.2
+- Updated _.NET Script Framework_ to v16
+
+### 9.24.1
+
+- Added _MCM Helper_
+- Added custom patches for _TDM Boss Bars_
+- Updated _Nibbles Animation Pack for OStim_ to 1.2
+- Updated _Gladys the Corgi_ to 1.1.1
+- Updated _Sidequests of Skyrim_ to 0.3.5
+- Updated _Water for ENB_ to 1.38
+- Updated _Spell Perk Item Distributor_ to 4.5.1
+
+### 9.24
+
+- Added _Sidequests of Skyrim_
+- Updated _Undeath Classical Lichdom_ to 2.50
+- Updated _Skyrim's Paraglider_ to 1.5.0
+- Updated _Embers XD_ to 2.27
+- Updated _PI-CHO ENB_ to N6.55
+
+### 9.22.2
+
+- Added _Royal Armory - Experience Patch_
+- Added _Flashing Savegames Fix for widescreen_ as an optional file
+- Updated _True Directional Movement_ to 1.3
+- Updated _BodySlide & Outfit Studio_ to 5.4.2
+- Updated _Bob's Interdimensional Chambers_ to 1.1
+- Updated _Genesis Surface Spawns_ to 1.9.1
+- Reinstalled missing textures from _Glacierslab_
+
+### 9.22.1
+
+- Updated _3BA Vanilla Clothes and Armor_ to 1.9.4
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.21
+- Updated _Excitable Subs for OStim_ to 1.01
+- Updated _Face Discoloration Fix_ to 1.01
+- Updated _Scrambled Bugs_ to 1.2
+- Removed _Skyrim Priority_
+- Applied some test Navmesh fixes to _Bob's Chambers_.
+- Regenerated BodySlides.
+- Regenerated Undies (Synthesis)
+
+### 9.20.2
+
+Deprecated all alternate _Licentia_ profiles.
+Fixed a bug where _Paraglider_ wouldn't work.
+Added _OAlign_. If an OStim scene is misaligned, press the L key to fix it.
+Added _HD Skins for Old Female Faces_. This actually means less wrinkles, not more.
+Added _High Poly Vanilla Hair_.
+Updated _OStim_ to 5.1
+Updated _SmoothCam_ to 1.5
+Updated _Modern Camera Preset_ to 1.5
+Updated _Wyrmstooth to 1.19.5_ and fixed the mismatched NPC AI Packages in the _High Poly NPC Patch_ causing freezes at the main menu.
+Regenerated LODs.
+
 ### 9.20.1
 
 - Added _Mo's TUDM Patch Collection_
