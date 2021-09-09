@@ -83,6 +83,8 @@ Due to a request from multiple users I have enabled all controller mods by defau
 
 ## Character Creation
 
+Genesis pops up a warning about being in the Abandoned Prison prior to the Face menu. Just click OK.
+
 Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard). I have also recently included a host of presets from one of my users, featuring male and female variants for every race, including Argonians and Khajiit.
 
 Tweak to your liking, but bear in mind that many of the close-cropped hairstyles will **NOT** look right until you select the _High Poly Head_ by navigating to the _Head_ portion of RaceMenu and choose _Face Part 3_ (near the bottom). You might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _CBBE Morphs_ and _Genitals_ options, but I am not going to go into that. Most of the options will not function correctly until you have completed character creation at least once -- when you have done so, turn around and use the "Vanity Mirror" to make final adjustments. (Don't go too crazy with the dong, or it will poke through people.) This option is basically the same thing as Riften's "Face Sculptor" and causes none of the bugs and dropped racial and magic effects that the _showracemenu_ command does. Experiment and figure it out. 
@@ -92,6 +94,8 @@ Tweak to your liking, but bear in mind that many of the close-cropped hairstyles
 ## AS SOON AS CHARACTER CREATION IS COMPLETE
 
 **DO NOTHING** until **ALL** of the messages in the top left corner stop appearing. This is the most script intensive part of the game and may break otherwise. (It almost certainly will break if you forgot to copy game folder files.)
+
+Fertility mode will pop up a window requesting to turn on. Choose NO right now, even if you want it on, as the script load can get too high.
 
 ## Game MCM Options
 
@@ -103,11 +107,11 @@ Load the User Preset.
 
 ##  CGO
 
+**NOTE:** this is where the headbobbing is coming from.
+
 ### Settings
 
 #### Leaning
-
-**I recommend the following values:**
 
 _Lean Multiplier (1st Person)_: _X0.00_
 
@@ -116,10 +120,6 @@ _Lean Multiplier (3rd Person)_: _X0.00_
 _Camera Noise_
 
 _Camera Noise Mult (1st Person)_: _X0.00_
-
-## Completionist
-
-This mod is intended as a fantastic companion to your own Quest Journal, informing you of ALL the quests available in a particular area as well as from added mods in this list - so you will never be without something to do! Refer here if you are at a loss and do whatever you feel is of interest. Two things to keep in mind, if you click on a quest it will "Manually" complete it and you will have to reset them all to get it back, so don't do that unless the MCM bugs out and the quest does not complete on its own! Second, _this mod does not update with quest steps._ It will not tell you where to go and what to do, your normal Journal serves that purpose -- only what is necessary to start a quest, as well as a notification that it has completed.
 
 ## Fertility Mode+
 
@@ -139,13 +139,11 @@ Finally, under _Information_, the _Show Verbose Messages_ option with pop up var
 
 ## Follower Framework
 
-Back due to popular demand and a policy change by Nether.
-
 ### System
 
 Click _Load Profile_
 
-There are a LOT of things you can do with this, like make your followers into tanks, change their outfits, give them homes they live in, even the dogs and cats, too, which is the main reason I want this in the first place. Dig around in there and figure it out. 
+There are a LOT of things you can do with the follower framework, like make your followers into tanks or healers, changing their outfits, give them homes they live in, even the dogs and cats, too, which is the main reason I want this in the first place. Dig around in there and figure it out. 
 
 ## OStim
 
@@ -153,9 +151,9 @@ The settings in this extensive mod are almost all down to personal preference. I
 
 ### How To Use This Mod
 
-OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect / advance scene, enter is open or close menu. Period or decimal ends the scene. 
+OStim/OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect / advance scene, enter is open or close menu. Period or decimal ends the scene. 
 
-If you encounter a scene that is terribly out of alignment, press the L key to open a menu with tons of options for adjustments. If you save your changes they will persist for that animation.
+If you encounter a scene that is terribly out of alignment, press the L key to open a menu with tons of options for adjustments (this is the OAlign mod). If you save your changes they will persist for that animation.
 
 Bear in mind that many subjects do not have appropriate animations (such as lesbian scenes). To find these, press the backslash key \ at any time, type in a keyword, and press Enter to begin.
 
@@ -215,11 +213,11 @@ Click "Modify Barter Settings" and change the "Preset" to your liking.
 
 ## True Directional Movement
 
-I recommend you leave most of these options alone, but lock-on is off by default, and it's the best lock-on I've ever seen. Enable the hotkey to your preference under
+I recommend you leave most of these options alone, but lock-on is off by default, and it's the best lock-on I've ever seen. 
 
 ### Target Lock
 
-But I recommend MOUSE 3 or 4 for MKB and "LB/L1" for Controller.
+Enable the hotkey to your preference, but I recommend MOUSE 3 or 4 for MKB and "LB/L1" for Controller.
 
 ## VioLens
 
@@ -239,6 +237,6 @@ Once you reach your chosen location and have dispensed with any tutorials and or
 
 The meat of _Licentia's_ difficulty. Spawns extra enemies in each area. I tested with everything maxed, incuding OBIS, and it was _tough_ at early level. Probably something like 4 additional spawns for each mod is more appropriate.
 
-# ULTRA MEGA IMPORTANT
+# Pre Licentia 10 - ULTRA MEGA IMPORTANT
 
 **The Ultimate Dodge** will **NOT** work until you leave the starting cell after sleeping on the bed after talking to the statue or choosing a book. It will also **NOT** work **UNTIL YOU PRESS G TWICE.** The **FIRST** thing you should do as soon as you spawn is **PRESS G TWICE**. If you message me about how you are stuck in the air after a dodge, I will tell you to read this entire readme again.
