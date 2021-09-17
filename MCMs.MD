@@ -101,6 +101,16 @@ Fertility mode will pop up a window requesting to turn on. Choose NO right now, 
 
 **NOTE:** Any menus or options not specifically mentioned here can be ignored. I have used what limited xEdit and Papyrus knowledge I possess to configure them automatically at game init (while those messages were cycling earlier)
 
+## ODEFEAT
+
+### Very Important!
+
+This mod _drastically_ changes the way you interact with Skyrim in an NSFW way. Basically, if you die to a humanoid attacker under certain conditions set here, a "struggle snuggle" minigame will take place where you fight off your attacker, and if you fail, you will be "taken advantage of" and dumped in a nearby location, possibly robbed. _Yes, I know this does not fit the rest of the modlist_ and for that reason, I recommend you _disable all options_ here unless you are interested in a bit more racy game. That said, I am a sucker for the type of "erotic roleplay" that Defeat mods can provide and have been trying to get them to work properly for 10 years, so this new one that actually seems to be the best one yet has me intrigued. If you do choose to use this option, bear these things in mind:
+
+_Once you enable player victim, you cannot disable it._ If you do, you will be immortal. This cannot be changed. So be _certain_ this is what you want to do!
+
+_Under events options_ you can basically make this as easy or Iron Man as you wish. If you want death to be easy to recover from, disable all robbery options and set yourself to be dumped nearby at 100% chance. Of course, the true IRON MAN MODE is to set robbery and dumped at 100% with theft of all items above zero gold -- which is what I do when I'm messing with crazy mods like this.
+
 ## A Matter of Time
 
 Load the User Preset.
@@ -135,19 +145,17 @@ The _Spouse Fidelity_ option is hilarious if you set it down to around 50%. This
 
 _Randomly Inseminate_ allows you to simulate widespread fucking without acting it out. Be wary of this mode!
 
-Finally, under _Information_, the _Show Verbose Messages_ option with pop up various methods on Skyrim's sexual exploits such as, with spouse fidelity low: "Embry came inside Gerdur."
-
-## Follower Framework
-
-### System
-
-Click _Load Profile_
-
-There are a LOT of things you can do with the follower framework, like make your followers into tanks or healers, changing their outfits, give them homes they live in, even the dogs and cats, too, which is the main reason I want this in the first place. Dig around in there and figure it out. 
-
 ## OStim
 
 The settings in this extensive mod are almost all down to personal preference. I recommend you simply "Import Settings" to get my recommendations (scroll all the way down, on the right).
+
+That said, a couple more optimization options are available. 
+
+### Add-Ons
+
+Under **ORomance**, everyone will be bisexual unless you enable "NPC Sexualities." Then you will have to confirm their sexual orientation before you can seduce them with this mod. The **Difficulty Modifier** is quite stout at default -- you require a lot of compliments, persuasion, and gifts to convince someone to like you. It's a bit like a dating sim in this respect, which was Sairion's goal. If you _really_ want to go hard with this, you will ignore all the other sexy dialog prompts and options in this modlist until you successfully seduce someone with _ORomance_ for the first time. That would be rather immersive. Finally, if you do have sex with a special lady, you may find she is suddenly angry and will not speak with you any longer. You came inside her you dumbass. They don't like that. To prevent this, check the box here that says "NPCs are not cautious about vaginal ejaculation." Makes the most sense if you don't bother with Fertility Mode.
+
+Under **ONights** you can control how often the people around you have sex. This will never happen during the day and never in a public space, people will behave semi-realistically and, on default settings, they will stop having sex and put on their clothes if they spot you peeping. You can change this here, as well as increase the horniness of all of Skyrim.
 
 ### How To Use This Mod
 
@@ -206,6 +214,8 @@ Click on _Slot 4: Modern_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN*
 ## Ultimate Dodge
 
 At the bottom left, you will find an option for NPCs to dodge and get iFrames, just like you can. It is _Super Annoying._ I recommend you disable it.
+
+That said, though, lately I have been leaving it on but setting it to "Non-Frequent" for that little quirky surprise now and again. It's neat when your followers do it, too.
 
 ## Trade and Barter
 
