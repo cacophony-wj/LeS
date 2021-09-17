@@ -1,84 +1,84 @@
 ### 10.6
 
-Removed _Nether's Follower Framework_ for ethical reasons.
-Added _Simple Follower Extension_
-Added _Simple Outfit System_
-Added _Simple No Internal Friendly Fire_
-Added _Highly Improved Male Body Overhaul -HIMBO_
-Added _Greek God - HIMBO BodySlide Preset_
-Added _HIMBO regular guy preset_
-Added _No Grass in Objects_
-Added _Ice skating fixed for real_
-Added so many Rudy Particle Lights mods I can't be arsed to list them all.
-Also the same thing with cubemaps to make armor shinier and shit.
-Replaced _Occlusioned Skyrim_ with _Exterior FPS Boost_ (same thing, PLEASE report anything invisible)
-Updated _OStim_ to sai's latest dev
-Updated _ODefeat_ to the official 1.0
-Updated _OBody_ to 1.3
-Updated _OVoice_ to 1.1beta
-_OAroused_ and _OCrime_ coming soon!
-If you want _OProstitution_ boost the server or donate $1 to me or Sairion and vote for it!
-Updated _Immersive World Encounters_ to 3.4alpha
-Updated _Spell Perk Item Distributor_ to 5.0.3
-Updated _Dyndolod Resources SE_ to 3.00 alpha 12
-Re-Ran Nemesis
-Rebuilt BodySlides
-Pre-generated grass cache
-Regenerated LODs, including grass lods
-(To reduce flicker)
+- Removed _Nether's Follower Framework_ for ethical reasons.
+- Added _Simple Follower Extension_
+- Added _Simple Outfit System_
+- Added _Simple No Internal Friendly Fire_
+- Added _Highly Improved Male Body Overhaul -HIMBO_
+- Added _Greek God - HIMBO BodySlide Preset_
+- Added _HIMBO regular guy preset_
+- Added _No Grass in Objects_
+- Added _Ice skating fixed for real_
+- Added so many Rudy Particle Lights mods I can't be arsed to list them all.
+- Also the same thing with cubemaps to make armor shinier and shit.
+- Replaced _Occlusioned Skyrim_ with _Exterior FPS Boost_ (same thing, PLEASE report anything invisible)
+- Updated _OStim_ to sai's latest dev
+- Updated _ODefeat_ to the official 1.0
+- Updated _OBody_ to 1.3
+- Updated _OVoice_ to 1.1beta
+- _OAroused_ and _OCrime_ coming soon!
+- If you want _OProstitution_ boost the server or donate $1 to me or Sairion and vote for it!
+- Updated _Immersive World Encounters_ to 3.4alpha
+- Updated _Spell Perk Item Distributor_ to 5.0.3
+- Updated _Dyndolod Resources SE_ to 3.00 alpha 12
+- Re-Ran Nemesis
+- Rebuilt BodySlides
+- Pre-generated grass cache
+- Regenerated LODs, including grass lods
+- (To reduce flicker)
 
 ### 10.5 - Internal testing version.
 
 ### 10.4
 
-Updated _OStim_ to Sai's latest dev
-Updated _ODefeat_ to Eggy's latest dev
-Removed _Dragon Stalking Fix_
-Added _Fixed Dragon Stalking Fix_
-Removed _Fixed Dragon Stalking Fix_
-Added _Fixed Fixed Dragon Stalking Fix_ (absurd!)
-Added _Sanguine - Enhanced Blood Retexture_
-Added _Skyrim Landscape and Water Fixes_
-Added _Realistic Natural Skin Tones_
-Added _TitKit by Monsto SSE_
-Added _A Matter of Time - Settings Loader_
-Updated _Legacy of the Dragonborn Patches_ to 2.5.6
-Updated _Knights of the North_ to 2.0.4
-Updated _Ultimate Dodge Script Fixes_ to 4.6
-Updated _Water for ENB_ to 1.40beta
-Updated _Fab to Fit BodySlide Preset_ to 1.1
-Updated _Spell Perk Item Distributor_ to 5.0.1
-Updated _The Choice Is Yours_ to 2.2
-Updated _.NET Script Framework_ to 17.0
+- Updated _OStim_ to Sai's latest dev
+- Updated _ODefeat_ to Eggy's latest dev
+- Removed _Dragon Stalking Fix_
+- Added _Fixed Dragon Stalking Fix_
+- Removed _Fixed Dragon Stalking Fix_
+- Added _Fixed Fixed Dragon Stalking Fix_ (absurd!)
+- Added _Sanguine - Enhanced Blood Retexture_
+- Added _Skyrim Landscape and Water Fixes_
+- Added _Realistic Natural Skin Tones_
+- Added _TitKit by Monsto SSE_
+- Added _A Matter of Time - Settings Loader_
+- Updated _Legacy of the Dragonborn Patches_ to 2.5.6
+- Updated _Knights of the North_ to 2.0.4
+- Updated _Ultimate Dodge Script Fixes_ to 4.6
+- Updated _Water for ENB_ to 1.40beta
+- Updated _Fab to Fit BodySlide Preset_ to 1.1
+- Updated _Spell Perk Item Distributor_ to 5.0.1
+- Updated _The Choice Is Yours_ to 2.2
+- Updated _.NET Script Framework_ to 17.0
 
 ### 10.3
 
-Added _ODefeat_ CONFIGURE THIS MOD
-Added _Know Your Enemy Redux_ READ ABOUT THIS MOD
-Added _Know Your Enemy Redux - Armors_ THIS ONE TOO
-Replaced _Thiz' Tankards_ with _ElSopa Tankards_
-Updated _OSex_ to last night's alpha supporting _ODefeat_
-Updated _OVoice_ to 1.1alpha
-Updated _Gladys the Corgi_ to 1.2
-Updated _Embers XD_ to 2.3.3
-Updated _True Directional Movement_ to 1.4.2
-Updated _Ultimate Dodge Script Fixes_ to 4.0
-Updated _TUDM Patch Collection_ to 2.0.5
-Updated _The Choice is Yours_ to 2.1
-Updated _Scrambled Bugs_ to 13.0
-Removed all Mihail mods except for....
-... Falmer Abyssraiders
-... Ghouls
-... Giant Centipedes
-... Giant Mantis
-... Goblins
-... Liches
-... Mimics
-... Ogrim
-... Rotten Maidens
-... Vampire Lords
-... Wraiths
-... Zombies
+- Added _ODefeat_ CONFIGURE THIS MOD
+- Added _Know Your Enemy Redux_ READ ABOUT THIS MOD
+- Added _Know Your Enemy Redux - Armors_ THIS ONE TOO
+- Replaced _Thiz' Tankards_ with _ElSopa Tankards_
+- Updated _OSex_ to last night's alpha supporting _ODefeat_
+- Updated _OVoice_ to 1.1alpha
+- Updated _Gladys the Corgi_ to 1.2
+- Updated _Embers XD_ to 2.3.3
+- Updated _True Directional Movement_ to 1.4.2
+- Updated _Ultimate Dodge Script Fixes_ to 4.0
+- Updated _TUDM Patch Collection_ to 2.0.5
+- Updated _The Choice is Yours_ to 2.1
+- Updated _Scrambled Bugs_ to 13.0
+- Removed all Mihail mods except for....
+- ... Falmer Abyssraiders
+- ... Ghouls
+- ... Giant Centipedes
+- ... Giant Mantis
+- ... Goblins
+- ... Liches
+- ... Mimics
+- ... Ogrim
+- ... Rotten Maidens
+- ... Vampire Lords
+- ... Wraiths
+- ... Zombies
 
 Regenerated LODs
 
@@ -88,65 +88,65 @@ Regenerated LODs
 
 ### 10.0
 
-Added _Legacy of the Dragonborn and Patches (Official)_
-Added _Legacy of the Dragonborn Follower Patches_
-Added _Legacy of the Dragonborn Cleaned Textures_
-Added _Legacy Safehouse Plus_
-Added _Legacy of the Dragonborn Furniture Management_
-Added _Legacy of the Dragonborn BadGremlins Collection_
-Added _Legacy of the Dragonborn NPC Overhaul_
-Added _Legacy of the Dragonborn CBBE Patch_
-Added _Keep the Skeleton Key, Deceive Nocturnal_
-Added _Relic Hunter Guildmaster Start_
-Added _Fate Card Packs_
-Added _Relics of Hyrule SE_ (gonna ignore complaints on this one)
-Added _Artifacts of Skyrim LOTD Patch_
-Added _Lanterns of Skyrim and patches_
-Added _Windows Shadows RT_
-Added _Enhanced Lighting for ENB and patches_
-Added _Better Lighting for Moon and Star_
-Added _Dust Effects by HHaleyy_
-Added _Community Overlays 0 - 70_ (some may be buggy please report)
-Added _Shep's Tattoo Collection_ (male and female)
-Added _Equipable Underwear for Everyone_
-Added _Diversity Character Overhaul_ and OBIS patch for it
-Added _Metalsabers Beautiful Orcs of Skyrim_
-Added _Improved Bards_
-Added _Followers Hirelings and Housecarls_
-Added _Marvelous Mage Followers_
-Added _Fresh Faces_
-Added _Kalilies NPCs_
-Added _Pandorables collection of NPCs_ and their _Salt and Wind_
-Added _Bijin Family_ and _Salt and Wind_ for them
-Added a few of _eeekie's Enhanced NPCS_ (the sinister Cicero most noticeably)
-Added _Interesting NPCs Visual Overhaul_
-Added _Auri Lenka Replacer SE_
-Added _Serana Dialog Addon and patches_
-Added _DX Crimson Blood_
-Added _Lustmord Vampire Armor_
-Added _Citizens of Tamriel Complete_ (god these people like to talk)
-Added _Citizens of Tamriel Visual Overhaul_
-Added _Mythos SE_
-Added _8K Night Skies - Blue_
-Added _Adamant Perks for NPCS_
-Added _Enemy (R)Evolution of Skyrim_
-Added _Ordinator for SPell Perk Item Distributor_
-Added _Vokrii Perks for NPCS_
-Added _Shouty People of SKyrim_
-Added JDSmith's _Elder Souls Mihail Merge_
-Added the fixed _Skyrim Immersive Creatures!_
-Added _Occlusion Skyrim_ (likely to be buggy, please report invisible crap)
-Added _Fast Travel Speed Fix_
-Added _Quick Loot RE_ and retexture
-Added _KG's Minimap Markers_ and moved the map again, consult the pins if you don't like it
-Added _Adopt Aventus Aretino_
-Replaced _Glacierslab_ with _Skyrim Remastered Caves, Glaciers & Ice_
-Replaced _Simple Children_ and _TK Children_ with _RS Children_
-Updated _Ultimate Dodge Script Fixes_ to 4.0
-Merged SMIM
-Merged the NPCs
-Merged the offspring
-...all so you can add moar mods!
+- Added _Legacy of the Dragonborn and Patches (Official)_
+- Added _Legacy of the Dragonborn Follower Patches_
+- Added _Legacy of the Dragonborn Cleaned Textures_
+- Added _Legacy Safehouse Plus_
+- Added _Legacy of the Dragonborn Furniture Management_
+- Added _Legacy of the Dragonborn BadGremlins Collection_
+- Added _Legacy of the Dragonborn NPC Overhaul_
+- Added _Legacy of the Dragonborn CBBE Patch_
+- Added _Keep the Skeleton Key, Deceive Nocturnal_
+- Added _Relic Hunter Guildmaster Start_
+- Added _Fate Card Packs_
+- Added _Relics of Hyrule SE_ (gonna ignore complaints on this one)
+- Added _Artifacts of Skyrim LOTD Patch_
+- Added _Lanterns of Skyrim and patches_
+- Added _Windows Shadows RT_
+- Added _Enhanced Lighting for ENB and patches_
+- Added _Better Lighting for Moon and Star_
+- Added _Dust Effects by HHaleyy_
+- Added _Community Overlays 0 - 70_ (some may be buggy please report)
+- Added _Shep's Tattoo Collection_ (male and female)
+- Added _Equipable Underwear for Everyone_
+- Added _Diversity Character Overhaul_ and OBIS patch for it
+- Added _Metalsabers Beautiful Orcs of Skyrim_
+- Added _Improved Bards_
+- Added _Followers Hirelings and Housecarls_
+- Added _Marvelous Mage Followers_
+- Added _Fresh Faces_
+- Added _Kalilies NPCs_
+- Added _Pandorables collection of NPCs_ and their _Salt and Wind_
+- Added _Bijin Family_ and _Salt and Wind_ for them
+- Added a few of _eeekie's Enhanced NPCS_ (the sinister Cicero most noticeably)
+- Added _Interesting NPCs Visual Overhaul_
+- Added _Auri Lenka Replacer SE_
+- Added _Serana Dialog Addon and patches_
+- Added _DX Crimson Blood_
+- Added _Lustmord Vampire Armor_
+- Added _Citizens of Tamriel Complete_ (god these people like to talk)
+- Added _Citizens of Tamriel Visual Overhaul_
+- Added _Mythos SE_
+- Added _8K Night Skies - Blue_
+- Added _Adamant Perks for NPCS_
+- Added _Enemy (R)Evolution of Skyrim_
+- Added _Ordinator for SPell Perk Item Distributor_
+- Added _Vokrii Perks for NPCS_
+- Added _Shouty People of SKyrim_
+- Added JDSmith's _Elder Souls Mihail Merge_
+- Added the fixed _Skyrim Immersive Creatures!_
+- Added _Occlusion Skyrim_ (likely to be buggy, please report invisible crap)
+- Added _Fast Travel Speed Fix_
+- Added _Quick Loot RE_ and retexture
+- Added _KG's Minimap Markers_ and moved the map again, consult the pins if you don't like it
+- Added _Adopt Aventus Aretino_
+- Replaced _Glacierslab_ with _Skyrim Remastered Caves, Glaciers & Ice_
+- Replaced _Simple Children_ and _TK Children_ with _RS Children_
+- Updated _Ultimate Dodge Script Fixes_ to 4.0
+- Merged SMIM
+- Merged the NPCs
+- Merged the offspring
+- ...all so you can add moar mods!
 
 ### 9.24.2
 
