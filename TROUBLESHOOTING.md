@@ -82,7 +82,7 @@ If you don't want to do that, I'm not going to be particularly strict about this
 
 ### I added a mod (or mods) and something weird happened.
 
-Feed free to stop by my private server and talk about it. I'm usually in a good mood and willing to help unless you did something crazy like add LOTD, all LOTD patches, and all TCC patches for those patches. Then you're on your own! You can always browse _Lively's Learn To Mod Series_ to get info on how to change any modlist you want. Just if you're going to lose your mind about it and try to pile on 50 SexLab mods try not to bother anyone else about it yeah?
+Feed free to stop by my private server and talk about it. I'm usually in a good mood and willing to help unless you did something crazy like add seven huge quest mods, all available patches for those mods, and all available LOTD patches for those mods and their patches. Then you're on your own! You can always browse _Lively's Learn To Mod Series_ to get info on how to change any modlist you want. Just if you're going to lose your mind about it and try to pile on 50 SexLab mods try not to bother anyone else about it yeah?
 
 https://github.com/LivelyDismay/Learn-To-Mod
 
