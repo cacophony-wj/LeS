@@ -2,6 +2,7 @@
 - [Content](#content)
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Gameplay](#gameplay)
+  - [I don't like the headbobbing and leaning! How do I turn it off?](#i-dont-like-the-headbobbing-and-leaning-how-do-i-turn-it-off)
   - [I don't have one of those ancient ass NUMPADs! How the hell am I gonna use OStim?](#i-dont-have-one-of-those-ancient-ass-numpads-how-the-hell-am-i-gonna-use-ostim)
   - [My follower is walking around with an exploded head! (Or other types of gore.)](#my-follower-is-walking-around-with-an-exploded-head-or-other-types-of-gore)
   - [The Civil War questline is horribly fucked up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
@@ -32,6 +33,10 @@ Boy did you ever download the wrong list. This list is mostly for playing Skyrim
 Your only option at present is to install the _Dungeons & Deviousness_ modlist to experience the most Lover's Lab content this side of an Oldrim installation. You may feel that _DND_ goes too hard in the direction of suffering and roleplay. If this the case, consider reading about the mods inside it and configuring the menus more to your liking. They are actually very customizable.
 
 ## Gameplay
+
+### I don't like the headbobbing and leaning! How do I turn it off?
+
+You also apparently don't like reading documents. Please refer to the MCM section of the readme with the largest possible header stating how to disable headbobbing and leaning.
 
 ### I don't have one of those ancient NUMPADs! How am I gonna use OStim?
 
