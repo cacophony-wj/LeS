@@ -1,4 +1,3 @@
-- [DODGE ISN'T WORKING! or I CAN'T SNEAK!](#dodge-isnt-working-or-i-cant-sneak)
 - [Content](#content)
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Gameplay](#gameplay)
@@ -18,11 +17,6 @@
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
   - [I can't take two steps in Lucien's final dungeon without freezing or crashing!](#i-cant-take-two-steps-in-luciens-final-dungeon-without-freezing-or-crashing)
 - [For More Information](#for-more-information)
-
-
-## DODGE ISN'T WORKING! or I CAN'T SNEAK!
-
-I see you are not the type of person to read readmes. It's addressed at the end of the MCM document, but for dodge and sneak to work properly you must press the G key twice. If I knew a way to make this unnecessary, I would. Please look at the relevant portions of the other documents for more information. And while you're there, try skimming over them all again to make sure you haven't missed something. 
 
 ## Content
 
