@@ -117,7 +117,7 @@ Load the User Preset.
 
 ##  CGO
 
-**NOTE:** this is where the headbobbing is coming from.
+# ATTENTION. THIS IS WHERE THE HEADBOBBING AND LEANING ARE COMING FROM. 
 
 ### Settings
 
