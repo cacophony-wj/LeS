@@ -7,6 +7,7 @@
   - [Game MCM Options](#game-mcm-options)
   - [A Matter of Time](#a-matter-of-time)
   - [CGO](#cgo)
+  - [ATTENTION. THIS IS WHERE THE HEADBOBBING AND LEANING ARE COMING FROM.](attention-this-is-where-the-headbobbing-and-leaning-are-coming-from)
     - [Settings](#settings)
       - [Leaning](#leaning)
   - [Completionist](#completionist)
