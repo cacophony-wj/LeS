@@ -1,5 +1,7 @@
 ### 10.6.7
 
+The big removal here is _ODefeat._ It doesn't like my camera setup, it doesn't play well with _Maximum Carnage_, and both of those are more important to me. Player victim also cannot be disabled if something goes wrong. Also, quite significantly, it engenders a lot of confusion and complaints from users, so it has to go. If you disagree with this or any other removals, please keep such discussions to my private server available from the readme or various links on _Wabbajack's_ primary server. Most of them are relatively simple to add back. I am also on a continuous hunt for seams. If you find any DM me, but be prepared for a salty caco because they make me angry.
+
 - Fixed seams on the _Bijins_ (again), also
 - Reverted Adrianne to her _Northbourne_ variant because the seam APPEARS to be part of the original mod.
 - Updated _OComfort_ to 1.2
@@ -14,7 +16,7 @@ The below mods seemed like good ideas for some reason but actually were not. I l
 - Removed _Sanguine Blood ReTexture SE_ for being too red.
 - Removed _No Edge Glow - Magic and Transformations_ because it's kinda important to see who has buffs before you attack them.
 
-I thought it would be cool if 10% of Skyrim had powerful perks. One of them was a perk that reflects damage from melee killmoves at the player so they instantly die. No thanks! However, it may have been an altered perk from _Vokriinator_ and not exactly intended. Complain enough and I'll try a compromise.
+I thought it would be cool if 10% of Skyrim had powerful perks. One of them was a perk that reflects damage from melee killmoves at the player so they instantly die. No thanks! However, it may have been an altered perk from _Vokriinator_ and not exactly intended. Complain enough and I'll try a compromise. You can feel free to try any of these on your own as well, similarly to _ODefeat._
 
 - Removed _Shouty People of Skyrim_
 - Removed _Adamant Perks for NPCs_
@@ -22,7 +24,7 @@ I thought it would be cool if 10% of Skyrim had powerful perks. One of them was 
 - Removed _Ordinator Perks for Spell Perk Item Distributor_
 - Removed _Enemy (R)Evolution of Skyrim_
 
-I also thought it would be cool to have random encounters. After three Wisps spawned on me in Whiterun and downed almost everyone, I decided the Genesis guy does not want to play the same game I do.
+I also thought it would be cool to have random encounters. After three Wisps spawned on me in Whiterun and downed almost everyone, I decided the Genesis guy does not want to play the same game I do. 
 
 - Removed _Genesis Unleashed_
 - Removed _Genesis Surface Spawns_
