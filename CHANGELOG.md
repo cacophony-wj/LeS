@@ -1,6 +1,6 @@
 ### 10.6.7
 
-The big removal here is _ODefeat._ It doesn't like my camera setup, it doesn't play well with _Maximum Carnage_, and both of those are more important to me. Player victim also cannot be disabled if something goes wrong. Also, quite significantly, it engenders a lot of confusion and complaints from users, so it has to go. If you disagree with this or any other removals, please keep such discussions to my private server available from the readme or various links on _Wabbajack's_ primary server. Most of them are relatively simple to add back. I am also on a continuous hunt for seams. If you find any DM me, but be prepared for a salty caco because they make me angry.
+The big removal here is _ODefeat._ It doesn't like my camera setup, it doesn't play well with _Maximum Carnage_, and both of those are more important to me. Player victim also cannot be disabled if something goes wrong. Also, quite significantly, it engenders a lot of confusion and complaints from users, so it has to go. If you disagree with this or any other removals, please keep such discussions to my private server available from the readme or various links on _Wabbajack's_ primary server. Most of them are relatively simple to add back. I am also on a continuous hunt for seams. If you find any, inform me, but be prepared for a salty caco because they make me angry.
 
 - Fixed seams on the _Bijins_ (again), also
 - Reverted Adrianne to her _Northbourne_ variant because the seam APPEARS to be part of the original mod.
