@@ -16,7 +16,7 @@ The below mods seemed like good ideas for some reason but actually were not. I l
 - Removed _Sanguine Blood ReTexture SE_ for being too red.
 - Removed _No Edge Glow - Magic and Transformations_ because it's kinda important to see who has buffs before you attack them.
 
-I thought it would be cool if 10% of Skyrim had powerful perks. One of them was a perk that reflects damage from melee killmoves at the player so they instantly die. No thanks! However, it may have been an altered perk from _Vokriinator_ and not exactly intended. Complain enough and I'll try a compromise. You can feel free to try any of these on your own as well, similarly to _ODefeat._
+I thought it would be cool if 10% of Skyrim had powerful perks. One of them was a perk that reflects damage from melee killmoves at the player so they instantly die. No thanks! However, it may have been an altered perk from _Vokriinator_ and not exactly intended. Complain enough and I'll try a compromise.
 
 - Removed _Shouty People of Skyrim_
 - Removed _Adamant Perks for NPCs_
