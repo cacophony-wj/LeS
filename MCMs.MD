@@ -102,16 +102,6 @@ Fertility mode will pop up a window requesting to turn on. Choose NO right now, 
 
 **NOTE:** Any menus or options not specifically mentioned here can be ignored. I have used what limited xEdit and Papyrus knowledge I possess to configure them automatically at game init (while those messages were cycling earlier)
 
-## ODEFEAT
-
-### Very Important!
-
-This mod _drastically_ changes the way you interact with Skyrim in an NSFW way. Basically, if you die to a humanoid attacker under certain conditions set here, a "struggle snuggle" minigame will take place where you fight off your attacker, and if you fail, you will be "taken advantage of" and dumped in a nearby location, possibly robbed. _Yes, I know this does not fit the rest of the modlist_ and for that reason, I recommend you _disable all options_ here unless you are interested in a bit more racy game. That said, I am a sucker for the type of "erotic roleplay" that Defeat mods can provide and have been trying to get them to work properly for 10 years, so this new one that actually seems to be the best one yet has me intrigued. If you do choose to use this option, bear these things in mind:
-
-_Once you enable player victim, you cannot disable it._ If you do, you will be immortal. This cannot be changed. So be _certain_ this is what you want to do!
-
-_Under events options_ you can basically make this as easy or Iron Man as you wish. If you want death to be easy to recover from, disable all robbery options and set yourself to be dumped nearby at 100% chance. Of course, the true IRON MAN MODE is to set robbery and dumped at 100% with theft of all items above zero gold -- which is what I do when I'm messing with crazy mods like this.
-
 ## A Matter of Time
 
 Load the User Preset.
@@ -239,15 +229,3 @@ Click _Load_ and select _VioLens._ Wait about three seconds until the menus stop
 ## Now you are ready to spawn!
 
 Be sure to make a last second save in case something bad happens. You _do not_ want to do these MCMs again. I have expanded roleplaying options from the beginning of the game with the mod "Abandoned Prison Tweaks." First turn around and grab the key and mirror on the shelf nearby. The mirror is what you should use to change your appearance -- it causes far fewer bugs than the ``showracemenu`` command. The book provides a little flavor text on how you got where you are. The key opens the cabinet nearby, which you should do now. Inside you will find many books. On the left are alternate starts that usually put you somewhere compromised and naked. Underneath is "The Firmament", a book that lets you choose whatever Standing Stone you prefer from the beginning. On the right are Prostitution starts -- which are for flavor text only since the OStim Prostitution mod has yet to be developed. It will get here one day, believe me! Behind these books (move them by holding down the Activate button) is a chest with scrolls to assign your starting spells -- take all of them if you are a power gamer, or only the ones that represent your background. All starting spells have been removed. On the middle shelf is another key, which you should grab, and a cask with a few potions in it. On the bottom shelf is a chest with various crappy starting gear you can wear. There are two ways to choose where you will spawn. The statue, as in most lists, provides a host of specfic roleplaying options. And of course, there are the books mentioned previously. Do note that you must PICK UP a book to choose the start, not just READ it. After choosing one, check the small chest hidden behind a barrel in the corner where you started for a dozen lockpicks if you wish to take them. Then sleep on the bed to begin. Unfortunately, INI tweaks necessary for clippingless first person mode to function properly render the vanilla start unplayable. I recommend you choose "camping in the woods" if you want to begin near Helgen. It is highly unlikely that I will disable the tweaks necessary for clippingless first person.
-
-## ONE FINAL STEP
-
-Once you reach your chosen location and have dispensed with any tutorials and or cutscenes, there are a couple further steps. Return to the MCM menus listed below.
-
-## Genesis Surface Spawns, Genesis Spawns Unleashed
-
-The meat of _Licentia's_ difficulty. Spawns extra enemies in each area. I tested with everything maxed, incuding OBIS, and it was _tough_ at early level. Probably something like 4 additional spawns for each mod is more appropriate.
-
-# Pre Licentia 10 - ULTRA MEGA IMPORTANT
-
-**The Ultimate Dodge** will **NOT** work until you leave the starting cell after sleeping on the bed after talking to the statue or choosing a book. It will also **NOT** work **UNTIL YOU PRESS G TWICE.** The **FIRST** thing you should do as soon as you spawn is **PRESS G TWICE**. If you message me about how you are stuck in the air after a dodge, I will tell you to read this entire readme again.
