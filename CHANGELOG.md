@@ -1,3 +1,41 @@
+### 10.6.7
+
+- Fixed seams on the _Bijins_ (again), also
+- Reverted Adrianne to her _Northbourne_ variant because the seam APPEARS to be part of the original mod.
+- Updated _OComfort_ to 1.2
+- Updated _OStrap_ to 1.2.4
+- Added _NL-MCM_ since _OStrap_ stopped including it.
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.24
+- Updated _On A Crimson Trail_ to 1.1
+- Updated _Vanilla Script (micro)Optimizations_ to 1.1a
+
+The below mods seemed like good ideas for some reason but actually were not. I learned some of this before but apparently completely forgot about it.
+
+- Removed _Sanguine Blood ReTexture SE_ for being too red.
+- Removed _No Edge Glow - Magic and Transformations_ because it's kinda important to see who has buffs before you attack them.
+
+I thought it would be cool if 10% of Skyrim had powerful perks. One of them was a perk that reflects damage from melee killmoves at the player so they instantly die. No thanks! However, it may have been an altered perk from _Vokriinator_ and not exactly intended. Complain enough and I'll try a compromise.
+
+- Removed _Shouty People of Skyrim_
+- Removed _Adamant Perks for NPCs_
+- Removed _Vokrii Perks for NPCs_
+- Removed _Ordinator Perks for Spell Perk Item Distributor_
+- Removed _Enemy (R)Evolution of Skyrim_
+
+I also thought it would be cool to have random encounters. After three Wisps spawned on me in Whiterun and downed almost everyone, I decided the Genesis guy does not want to play the same game I do.
+
+- Removed _Genesis Unleashed_
+- Removed _Genesis Surface Spawns_
+
+### 10.6.5
+
+- Replaced a texture that was causing crashes when feeding as a werewolf.
+- Removed _Skyrim Outfit System_ for being too confusing. 
+
+### 10.6.3 & 10.6.4
+
+- Seam fixes for the _Bijins_ that didn't work.
+
 ### 10.6
 
 - Removed _Nether's Follower Framework_ for ethical reasons.
