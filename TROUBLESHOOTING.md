@@ -6,8 +6,10 @@
   - [My follower is walking around with an exploded head! (Or other types of gore.)](#my-follower-is-walking-around-with-an-exploded-head-or-other-types-of-gore)
   - [The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
 - [Technical](#technical)
+  - [I crashed!](#i-crashed)
   - [I'm randomly crashing!](#im-randomly-crashing)
   - [As soon as I start the game in the main "overworld" everybody starts spinning around and collapsing at the speed of light!](#as-soon-as-i-start-the-game-in-the-main-overworld-everybody-starts-spinning-around-and-collapsing-at-the-speed-of-light)
+  - [I gave something to a follower and it crashed!](#i-gave-something-to-a-follower-and-it-crashed)
   - [I have problems with the camera! Flickering, weird 1st person body clipping! Can't switch to 3rd person!](#i-have-problems-with-the-camera-flickering-weird-1st-person-body-clipping-cant-switch-to-3rd-person)
   - [My performance is really terrible, low FPS, input lag during combat!](#my-performance-is-really-terrible-low-fps-input-lag-during-combat)
   - [I have a bug that's not in this list.](#i-have-a-bug-thats-not-in-this-list)
@@ -58,6 +60,10 @@ The Civil War questline is incredibly broken even in vanilla Skyrim partially du
 
 ## Technical
 
+### I crashed!
+
+Slow down there pardner. Skyrim crashes all the time, less so in vanilla but more so with over 700 mods. First make sure it crashes the next time you do the exact same thing. If it does, drop by the support channels on Discord and give as much detail as possible and I'll fix it.
+
 ### I'm randomly crashing!
 
 You probably don't have enough paged RAM. Skyrim is very badly optimized. Try increasing your pagefile size. The recommendation is to set it to "System Managed" for all of your hard drives, but you can read specific instructions by going to any Wabbajack Discord channel and typing ``!pagefile`` 
@@ -65,6 +71,12 @@ You probably don't have enough paged RAM. Skyrim is very badly optimized. Try in
 ### As soon as I start the game in the main "overworld" everybody starts spinning around and collapsing at the speed of light!
 
 This happens sometimes to some people when the framerate is not capped. Please ensure you copied over the _Game Folder Files_ as the main readme suggests. While you're at it, why don't you skim it again to make certain you didn't miss anything? I know it's long, but it's kind of important.
+
+### I gave something to a follower and it crashed!
+
+Was it less than a full stack of arrows but more than half of that stack of arrows? Yeah, this is a bug and can't be fixed. Don't do that!
+
+If it was something else, first launch the game and try it again. If it happens again report it and tell me which item it was!
 
 ### I have problems with the camera! Flickering, weird 1st person body clipping! Can't switch to 3rd person!
 
