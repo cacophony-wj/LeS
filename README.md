@@ -1,7 +1,5 @@
 # DO NOT CLOSE ME! This modlist WILL NOT FUNCTION unless you follow the steps in this document.
 
-# DO NOT ADD MODS! Wabbajack's policy on modlist modifications has changed. Read this document for more details.
-
 # READ IT!
 
 - [DO NOT CLOSE ME](#do-not-close-me)
@@ -34,11 +32,19 @@
 
 _Thank you to ForgottenGlory for the above image. If you are into an utterly degenerate vision of Skyrim focused on sheer sexual pain and suffering, or you want to experience the ultimate that Lover's Lab has to offer via its "SexLab" framework, this is not the modlist for you. Instead, I recommend "Dungeons & Deviousness" for the ultimate hardcore experience. You can find more information at the below link._
 
-https://www.fgsmodlists.com/home
+https://www.fgsmodlists.com
 
-_If you're looking for a modlist in between the two, with just a bit more racy content without all the slavery and suffering, featuring more of an "Eastern" flair -- tough melee parry-and-riposte gameplay and hand-picked custom combat animations and sexy oufits, try "Tsukiro" also available on the Wabbajack main menu!_
+_If you're looking for a modlist in between "DND" and "Licentia", with just a bit more racy content without all the slavery and suffering, featuring more of an "Eastern" flair -- tough melee parry-and-riposte gameplay and hand-picked custom combat animations and sexy oufits, try "Tsukiro" also available on the Wabbajack main menu!_
 
 https://www.wabbajack.org/#/modlists/info?machineURL=tsukiro
+
+_If you need to get busy in the post-apocalypse, our _Fallout_ NSFW modist is called "Devil's Food Cake," made by LaughingHyena and maintained by yours truly! The modlist is currently a shadow of it's former self given many Fallout modder's exile from the _Nexus_ but it's still alive and kicking! Check it out here:
+
+https://www.wabbajack.org/#/modlists/info?machineURL=dfc
+
+_**Just Now** added to cacophony's collection is the sexy outfit modlist "Aldrnari" designed by Sovn of QWEST fame and featuring almost 1800 mods of more hand-placed clothing and armors than you can possibly go through in a lifetime! Sovn is heading off to greener pastures (whereas mine are long behind me) so I have taken over this one for the foreseeable future! Download it and try it out!
+
+https://www.wabbajack.org/#/modlists/info?machineURL=aldrnari
 
 # Preamble
 
@@ -52,15 +58,11 @@ A note about difficulty. _CGO, AGO, Vokriinator Black,_ and all the camera, move
 
 A note about the signature followers _Auri, Inigo_ and _Kaiden._ These guys are badasses in the Vanilla game but are stone-cold killers in _Licentia._ I have user reports of them doing 7,000 - 10,000 damage per hit after all the perks given to them are converted to their _Vokriinator Black_ equivalents. As a result, they have all been severely nerfed to put more focus on the player. Most perks having to do with offense and damage multiplication have been removed, a few of the defensive ones are left so they can serve as tanks or distractions. Please keep this in mind as you play and do not report this to the innocent mod authors who designed these mods, they are _not_ meeting their original intention in this list and never could. It is not their problem. _Lucien_ has been left untouched as he has only very basic dual-casting perks at the start. However, he grows as you travel with him, so he may end up quite the badass himself!
 
-A note about "save scumming," which is the practice of quickly saving and reloading many times in a row to get a perfect result, the "Groundhog Day" method of playing a videogame. If you spend 30 minutes reloading after death again and again, especially during or after combat, a _lot_ of stuff will break on your save. I have experienced this first-hand. If you can't get past a group of enemies without repeated deaths and reloads, consider accepting your limitations and retreating, or loading an hour or so back and dialing the spawn difficulty down a few notches. If you continue to save and load rapidly, complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game. 
+A note about "save scumming," which is the practice of quickly saving and reloading many times in a row to get a perfect result, the "Groundhog Day" method of playing a videogame. If you spend 30 minutes reloading after death again and again, especially during or after combat, a _lot_ of stuff will break on your save. I have experienced this first-hand. If you can't get past a group of enemies without repeated deaths and reloads, consider accepting your limitations and retreating, or loading an hour or so back and dialing the difficulty down a few notches. If you continue to save and load rapidly, complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game. 
 
 # STRONG WARNINGS
 
 Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
-
-### IMPORTANT NOTE ON ADDING MODS
-
-Wabbajack's _server-wide policy_ for modlist modifications has changed due to rampant abuse. In the interests of supporting the community, I can _no longer offer suppert_ for added mods to this list, at least within official _Wabbajack_ channels. What this means is that if you join a support channel and ask about conflicts with an added mod, _you will receive a warning_ and **three warnings equals a ban from the server.** That said, there are a couple of exceptions. **First,** if you make _certain_ to ONLY ask your questions about your mods _on my private server_ and **do not darken Wabbajack with added mod requests**, I will likely help you with anything you wish to add. **Second,** if you make trivial changes such as switching out ENBs or enabling the ultrawide options, you will not receive this warning. **All other additions will result in a warning. I will then refer you to this paragraph after you receive the warning, and you will immediately recall how I told you to read the document and you didn't.**
 
 ## Requirements
 
@@ -76,9 +78,9 @@ This portion is under review, but my best estimate as to what you need is as fol
 - GPU: >= 1080, you need at least 6GB of VRAM
 - RAM: >= DDR4 with at least 12GBs
 
-Also of UTMOST IMPORTANCE is that you have a VERY LARGE PAGEFILE on the fastest hard drives available to you. I networked with Wabbajack staff to drastically improve the texture quality in this list -- Wabbajack's recommendation of a 20GB pagefile is not enough because that size crashed me in testing. I myself have it at 40GB, but you could probably get away with "System Managed" on each of your SSD's.
+Also of UTMOST IMPORTANCE is that you have a VERY LARGE PAGEFILE on the fastest hard drives available to you. I networked with Wabbajack staff to drastically improve the texture quality in this list -- Wabbajack's recommendation of a 20GB pagefile is not enough because that size crashed me in testing. I myself have it at 40GB, but you could probably get away with "System Managed" on each of your SSD's (the OS drive and at least one more)
 
-Speaking of which, everything should be installed on an SSD that has at least 250GB of space available. The game is playable on an HDD as it does not load much during play, but expect transition times of up to five minutes, especially spawning into large outdoor areas.
+Speaking of which, everything should be installed on an SSD that has at least 250GB of space available. The game is unplayable on an HDD, although you can relocate your downloads folder to one if you need space.
 
 Please note that you will also require _at least_ an additional 30GB on the drive you installed Wabbajack.exe to for extraction and recompression of files.
 
