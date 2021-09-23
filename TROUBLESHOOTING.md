@@ -13,7 +13,7 @@
   - [I have a bug that's not in this list.](#i-have-a-bug-thats-not-in-this-list)
   - [I added a mod (or mods) and something weird happened.](#i-added-a-mod-or-mods-and-something-weird-happened)
   - [There's more than 255 ESPs! Will this thing even launch?](#theres-more-than-255-esps-will-this-thing-even-launch)
-  - [My load order got fucked up!](#my-load-order-got-fucked-up)
+  - [My load order got messed up!](#my-load-order-got-messed-up)
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
   - [I can't take two steps in Lucien's final dungeon without freezing or crashing!](#i-cant-take-two-steps-in-luciens-final-dungeon-without-freezing-or-crashing)
 - [For More Information](#for-more-information)
