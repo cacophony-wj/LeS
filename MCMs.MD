@@ -10,7 +10,6 @@
   - [ATTENTION. THIS IS WHERE THE HEADBOBBING AND LEANING ARE COMING FROM.](#attention-this-is-where-the-headbobbing-and-leaning-are-coming-from)
     - [Settings](#settings)
       - [Leaning](#leaning)
-  - [Completionist](#completionist)
   - [Fertility Mode+](#fertility-mode)
   - [OStim](#ostim)
     - [Configuration](#configuration)
