@@ -32,8 +32,7 @@
   - [VioLens](#violens)
     - [Profile System](#profile-system)
   - [Now you are ready to spawn!](#now-you-are-ready-to-spawn)
-- [ULTRA MEGA IMPORTANT](#ultra-mega-important)
-  
+
 # Licentia Configuration
 
 ## Setting your resolution
