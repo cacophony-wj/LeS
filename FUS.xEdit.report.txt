@@ -1,3 +1,6 @@
+ FUS xEdit Report:
+ -----------------
+ 
  [06] Unofficial Skyrim Special Edition Patch.esp (0CD1CA0B) \ Magic Effect
   Most of these magic effects are not using the sound records from Immersive Sounds or Reverb Overhaul. Please ensure this is correct.
  
@@ -31,6 +34,18 @@
  [50] Marc.esp (4A46E687) \ Container \ 00078C0C <MerchantRiverwoodTraderChest>
   I guess this is a balance concern? You don't want Lucan to have the Arcane Archery stuff? Geez, you're no fun.
 		  
+Readme Issues:
+--------------
+
+Firstly, I highly recommend including specific details on how to adjust supersampling in both SteamVR and Oculus software. The Google links are annoying to sort through, with out of date, irrelevant information. Either describe the steps or link to a place that does.
+
+Second, if a dumb user like me selects both SteamVR and OpenComposite, it becomes impossible to copy over the correct OpenVR DLL as it becomes overwritten. Please make a note that the user must rerun Wabbajack if they happen to make this mistake.
+
+That's all I can think of at this time.		  
 		  
 		  
+Gameplay Issues:
+----------------
+
+None noted.
 		  
