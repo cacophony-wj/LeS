@@ -55,7 +55,9 @@ The last control you need to configure is within the _True Directional Movement_
 
 ## Using A Controller
 
-Due to incompatibilities with _OStim's_ FreeCam I have disabled all controller mods by default. They can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **enable all these mods** and **delete any ControlMap_Custom" file(s) in your Skyrim game directory.** You will have to configure CGO (I recommend D-Pad Left for grip shift and LB or L1 for Dual-Wield Blocking), The Ultimate Dodge Mod (I recommend D-Pad Down for Sneak), and Quick Light (I recommend D-Pad Up). There is no good button for lock-on, I typically assign the same one as Spring and Dual-Wield Blocking (LB).  Finally, reconfigure your QuickSave and QuickLoad keys in-game. You must ALSO recall that almost ALL OStim navigation can only be accomplished via the keyboard, so you will have to either switch back and forth or set to autopilot. When all is said and done the Gamepad controls will be as follows:
+Due to incompatibilities with _OStim's_ FreeCam I have disabled all controller mods by default. They can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **enable all these mods** and **delete any ControlMap_Custom" file(s) in your Skyrim game directory.** _If there is no such file in your Skyrim directory, you do not need to worry about it._ Just make certain one is not present.
+
+You will have to configure CGO (I recommend D-Pad Left for grip shift and LB or L1 for Dual-Wield Blocking), The Ultimate Dodge Mod (I recommend D-Pad Down for Sneak), and Quick Light (I recommend D-Pad Up). There is no good button for lock-on, I typically assign the same one as Spring and Dual-Wield Blocking (LB).  Finally, reconfigure your QuickSave and QuickLoad keys in-game. You must ALSO recall that almost ALL OStim navigation can only be accomplished via the keyboard, so you will have to either switch back and forth or set to autopilot. When all is said and done the Gamepad controls will be as follows:
 
 - Start: Journal
 - Back: Wait
@@ -191,6 +193,20 @@ Set _Font Size_ and _Icon Size_ to your preference, likewise with _Category Icon
 ### Advanced
 
 Due to the location of additional HUD elements like the minimap, under "Active Effects HUD" you will need to set _Vertical Anchor_ to "Center".
+
+## Skyrim Outfit System
+
+This section is brought to you entirely by my devoted user `Palentier` who was convinced someting was wrong with this mod, prompting me to remove it, pissed off half my server, then made amends by realizing his mistake and writing this guide. Thanks a lot, man!
+
+This mod allows you to have multiple outfit appearances that can be saved, favorited and switched or removed totally with the "Change Outfit" power. This mod allows you to wear any Armor including shields and jewelry while maintaining the appearance of the set you saved.  So you can get your Characters Look exactly how you want it, while wearing the stuff you need to buff your character with.
+
+Using this Mod is optional, but you MUST use the "Change Outfit" Power and select [NO OUTFIT] if you wish to see your character nude for Ostim scenes.  This power can be used after starting the scene if you forget to turn it off before the scene begins.  WARNING: The setting under Outfit settings (while creating a new Outfit) "Require Equipped Armors" **WILL NOT REMOVE YOUR UNDERWEAR.**  You must manually select [NO OUTFIT] each time you start a scene.
+
+### Options
+
+**Quick Slots Enable**
+
+_You must Favorite an Outfit to see it in the Change Outfit Power Menu_
 
 ## SmoothCam
 
