@@ -208,10 +208,6 @@ Choose the appropriate options here to offer a follower instead of yourself for 
 
 Set _Font Size_ and _Icon Size_ to your preference, likewise with _Category Icon Theme_. (I personally only really like the "Celtic" version of the icons.)
 
-### Advanced
-
-Due to the location of additional HUD elements like the minimap, under "Active Effects HUD" you will need to set _Vertical Anchor_ to "Center".
-
 ## Skyrim Outfit System
 
 This section is brought to you entirely by my devoted user `Palentier` who was convinced someting was wrong with this mod, prompting me to remove it, pissed off half my server, then made amends by realizing his mistake and writing this guide. Thanks a lot, man!
@@ -225,12 +221,6 @@ Using this Mod is optional, but you MUST use the "Change Outfit" Power and selec
 **Quick Slots Enable**
 
 _You must Favorite an Outfit to see it in the Change Outfit Power Menu_
-
-## SmoothCam
-
-### Presets
-
-Click on _Slot 4: Modern_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
 
 ## Ultimate Dodge
 
@@ -251,12 +241,6 @@ I recommend you leave most of these options alone, but lock-on is off by default
 ### Target Lock
 
 Enable the hotkey to your preference, but I recommend MOUSE 3 or 4 for MKB and "LB/L1" for Controller.
-
-## VioLens
-
-### Profile System
-
-Click _Load_ and select _VioLens._ Wait about three seconds until the menus stop cycling.
 
 ## Now you are ready to spawn!
 
