@@ -191,6 +191,8 @@ Copy all of the files located inside the _Licentia Directory/Game Folder Files_ 
 
 Please note, **do not copy the entire game folder files folder.** Only copy the files _inside_ that folder to _Steam/steamapps/common/Skyrim Special Edition_. There should be fewer than a dozen of them, as well as a folder entitled "enbseries".
 
+Bear in mind that the ENB in use by default is an extremely heavy configuration for _PI-CHO for Cathedral Weathers._ If you have performance problems the first step is probably to reinstall PI-CHO with a more performance-friendly configuration, adjust the INIs with files from my private server, and/or install another ENB of your choosing. Any ENB designed for _Cathedral Weathers_ will work, but I recommend _Serio's ENB._ It's nice and light!
+
 ## Preparing the Game
 
 The next step is to prepare the game for play. Navigate to the directory where you installed the modlist _Licentia_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it to continue.
