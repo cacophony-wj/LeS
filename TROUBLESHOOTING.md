@@ -42,6 +42,10 @@ From my user _BigMac_
 
 Sleep to learn new skills. You can pick whatever you want!
 
+Still not working? The uncapper preset prevents skills from leveling beyond your level +18, to a maximum of twice your level. If your skill won't go up any further, try gaining a level!
+
+Skill not leveling up upon reading a skill book? Check for any debuffs to skill gain on your magic effects tab. Take care of those, then try again.
+
 ### I can't induct members into the Blades! Or other Follower weirdness!
 
 Sadly the follower framework I use is nowhere near as advanced as _Nether_, and I prefer not to use that one for reasons which are important to me. Search around the Discord if you're curious why. In any case, you can disable _Simple Follower Extension_ and fix issues with your followers by going to Farengar's office and clicking the little plaque to the right of his Enchanting Station.
