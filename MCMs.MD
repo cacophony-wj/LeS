@@ -238,6 +238,8 @@ At the bottom left, you will find an option for NPCs to dodge and get iFrames, j
 
 That said, though, lately I have been leaving it on but setting it to "Non-Frequent" for that little quirky surprise now and again. It's neat when your followers do it, too.
 
+**Bear in mind that _Ultimate Dodge_ WILL NOT FUNCTION in the starting cell. You will need to spawn into the larger world to use it!**
+
 ## Trade and Barter
 
 Click "Modify Barter Settings" and change the "Preset" to your liking.
