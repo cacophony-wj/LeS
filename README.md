@@ -187,9 +187,13 @@ Move your downloads folder outside of your _Licentia Directory_, ensure the _Lic
 
 ## Post-Installation
 
-**Copy Game Folder Files**
+**ENB Installation**
+
+As installed by Wabbajack, Licentia does not include the ENB dlls.
 
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm). Inside the archive you will find a _WrapperVersion_ folder. Extract _only_ d3d11.dll and d3dcompiler_46e.dll from this _WrapperVersion_ folder to your game folder. This is the directory in which _SkyrimSE_ is located.
+
+**Copy Game Folder Files**
 
 Copy all of the files located inside the _Licentia Directory/Game Folder Files_ directory to your game folder. This is the directory in which _SkyrimSE_ is located.
 
