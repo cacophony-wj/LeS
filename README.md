@@ -38,14 +38,6 @@ _If you're looking for a modlist in between "DND" and "Licentia", with just a bi
 
 https://www.wabbajack.org/#/modlists/info?machineURL=tsukiro
 
-_If you need to get busy in the post-apocalypse, our _Fallout_ NSFW modist is called "Devil's Food Cake," made by LaughingHyena and maintained by yours truly! The modlist is currently a shadow of it's former self given many Fallout modder's exile from the _Nexus_ but it's still alive and kicking! Check it out here:
-
-https://www.wabbajack.org/#/modlists/info?machineURL=dfc
-
-_**Just Now** added to cacophony's collection is the sexy outfit modlist "Aldrnari" designed by Sovn of QWEST fame and featuring almost 1800 mods of more hand-placed clothing and armors than you can possibly go through in a lifetime! Sovn is heading off to greener pastures (whereas mine are long behind me) so I have taken over this one for the foreseeable future! Download it and try it out!
-
-https://www.wabbajack.org/#/modlists/info?machineURL=aldrnari
-
 # Preamble
 
 **This Modlist contains mods with sexual content and you need to be of legal age in your country (most western countries: 18+, some eastern ones: 21+)**.
