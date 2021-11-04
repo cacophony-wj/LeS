@@ -1,8 +1,9 @@
 - [Content](#content)
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Gameplay](#gameplay)
-  - [I don't like the headbobbing and leaning! How do I turn it off?](#i-dont-like-the-headbobbing-and-leaning-how-do-i-turn-it-off)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
+  - [My skills don't seem to be leveling up!](#my-skills-dont-seem-to-be-leveling-up)
+  - [I can't induct members into the Blades! Or other Follower weirdness!](#i-cant=induct-members-into-the-blades-or-other-follower-weirdness)
   - [My follower is walking around with an exploded head! (Or other types of gore.)](#my-follower-is-walking-around-with-an-exploded-head-or-other-types-of-gore)
   - [The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
 - [Technical](#technical)
@@ -30,10 +31,6 @@ Your only option at present is to install the _Dungeons & Deviousness_ modlist t
 
 ## Gameplay
 
-### I don't like the headbobbing and leaning! How do I turn it off?
-
-You also apparently don't like reading documents. Please refer to the MCM section of the readme with the largest possible header stating how to disable headbobbing and leaning.
-
 ### I don't have one of those ancient NUMPADs! How am I gonna use OStim?
 
 From my user _BigMac_
@@ -43,6 +40,10 @@ From my user _BigMac_
 ### My skills don't seem to be leveling up!
 
 Sleep to learn new skills. You can pick whatever you want!
+
+### I can't induct members into the Blades! Or other Follower weirdness!
+
+Sadly the follower framework I use is nowhere near as advanced as _Nether_, and I prefer not to use that one for reasons which are important to me. Search around the Discord if you're curious why. In any case, you can disable _Simple Follower Extension_ and fix issues with your followers by going to Farengar's office and clicking the little plaque to the right of his Enchanting Station.
 
 ### My follower is walking around with an exploded head! (Or other types of gore.)
 
