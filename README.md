@@ -177,7 +177,9 @@ This shouldn't happen unless you download the list multiple times or download mu
 
 **Downloading from the Manifest**
 
-Sometimes no matter what anyone tries, a file will not download from Wabbajack for some reason. If that happens to you, go to the _www.wabbajack.org_ website, find the gallery entry for _Licentia_, click _Archive Search_ and type _the filename_ of each mod you cannot download automatically. They can be downloaded from the _link_ icon (looks like a chain link). Ensure that any files you download go to your _Licentia_ downloads directory. Just save them there, do _not_ open them and definitely do _not_ extract them. Close Wabbajack, reopen it, and click the **PLAY** button again.
+~~Sometimes no matter what anyone tries, a file will not download from Wabbajack for some reason. If that happens to you, go to the _www.wabbajack.org_ website, find the gallery entry for _Licentia_, click _Archive Search_ and type _the filename_ of each mod you cannot download automatically. They can be downloaded from the _link_ icon (looks like a chain link). Ensure that any files you download go to your _Licentia_ downloads directory. Just save them there, do _not_ open them and definitely do _not_ extract them. Close Wabbajack, reopen it, and click the **PLAY** button again.~~
+
+This no longer works due to Axios error on Wabbajack's end. Nothing we can do about it.
 
 **Wabbajack cannot continue because of unknown files.**
 
@@ -185,9 +187,13 @@ Move your downloads folder outside of your _Licentia Directory_, ensure the _Lic
 
 ## Post-Installation
 
-**Copy Game Folder Files**
+**ENB Installation**
+
+As installed by Wabbajack, Licentia does not include the ENB dlls.
 
 Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm). Inside the archive you will find a _WrapperVersion_ folder. Extract _only_ d3d11.dll and d3dcompiler_46e.dll from this _WrapperVersion_ folder to your game folder. This is the directory in which _SkyrimSE_ is located.
+
+**Copy Game Folder Files**
 
 Copy all of the files located inside the _Licentia Directory/Game Folder Files_ directory to your game folder. This is the directory in which _SkyrimSE_ is located.
 
