@@ -2,6 +2,7 @@
   - [Setting your resolution](#setting-your-resolution)
   - [Customizing Controls](#customizing-controls)
   - [Using A Controller](#using-a-controller)
+  - [Enabling POV Sex](#enabling-pov-sex)
   - [Character Creation](#character-creation)
   - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
   - [Game MCM Options](#game-mcm-options)
@@ -80,6 +81,22 @@ You will have to configure CGO (I recommend D-Pad Left for grip shift and LB or 
 - D-Pad Left: Switch grip between 1-handed and 2-handed (CGO)
 - (Yes, you will crouch up and down and turn lights on and off in dialog menus.)
 - (Use the sticks instead!)
+
+## Enabling POV Sex
+
+One of the most fantastic developments of the entire _OStim_ suite, in my humble opinion, is the ability to have almost completely clippingless first person POV sex. It is extremely immersive, but to be quite honest, the _Improved Camera_ mod it relies upon to function (which gives the player a first person body) has so many bugs and unusual quirks that it necessitates a great deal of additional "tech support," so I have chosen to disable it by default. If you wish to have sex in first person, you can feel free to enable this mod **and its INI** in the relevant "Camera" section of MO2, with the following caveats:
+ 
+1. To have POV sex, you must begin the scene in first person
+2. You must remain in first person throughout the entire scene, switching to 3rd and back can cause bugs
+3. The vanilla Skyrim intro (cart ride) will not function correctly, choose an alternate one
+4. There will be more flicker on mountains and distant textures
+5. Distant pop-in may be worse
+6. Camera switching may be buggy and/or inconsistent, press F a few times to fix it
+7. You may no longer be able to switch cameras with the scroll wheel, use the F key instead
+8. You may get locked up or frozen into neverending crafting, mining, wood-chopping animations, and finally
+9. Sometimes you will be able to see your headless body running out ahead of you.
+
+The sex is great though!
 
 ## Character Creation
 
