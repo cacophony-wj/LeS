@@ -7,6 +7,7 @@
   - [My follower is walking around with an exploded head! (Or other types of gore.)](#my-follower-is-walking-around-with-an-exploded-head-or-other-types-of-gore)
   - [The tuning gloves in Winterhold seem to be acting up.](#the-tuning-gloves-in-winterhold-seem-to-be-acting-up)
   - [The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
+  - [I set OStim to Auto Mode and things got weird.](#i-set-ostim-to-auto-mode-and-things-got-weird)
 - [Technical](#technical)
   - [I crashed!](#i-crashed)
   - [I'm randomly crashing!](#im-randomly-crashing)
@@ -67,6 +68,10 @@ The Civil War questline is incredibly broken even in vanilla Skyrim partially du
 4. The conclusion of the Battle for Whiterun / Solitude / Windhelm is triggered by entering this capitol building.
 5. You do not need to escort Ulfric, Galmar, Tullius, Likke or anyone else all the way to the capitol building. Sometimes they won't even spawn when you enter the city! Merely entering it yourself is enough. Just as followers appear beside you, so will the faction leaders.
 6. Enjoy the rest of your horribly broken playthrough.
+
+### I set OStim to Auto Mode and things got weird.
+
+Auto Mode is a work in progress. I recommend leaving it disabled completely, even for "aggressive" scenes. It has a tendency to get locked up in a solo animation, a kissing animation, not progress to later steps in the scene, among other issues. I'm sure it will improve over time.
 
 ## Technical
 
