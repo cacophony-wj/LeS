@@ -203,6 +203,10 @@ With the introduction of _OBody_ to the modlist, building BodySlides is basicall
 
 If you wish to use custom armors with the list, however, the process is a bit more involved. The armors MUST be built with the ZEROED SLIDERS option in BodySlide -- none of the others will work properly with OBody. When you do build the bodies, be sure to check the 'BUILD MORPHS' checkbox in the lower left corner if it isn't already. That should be about all you need to know. If you need more detailed BodySlide instructions, they can be found with a simple Google search. Or feel free to drop in the channel and ask for help if you get confused. Most people are happy to give it!
 
+## Choosing your Licentia Profile
+
+By default, two profiles are included for your _Licentia_ install. The primary one, labeled simply, "Licentia," requires no special consideration and can be played as-is. The alternate profile, "Licentia AE," is intended for usage when the finalized version of _Skyrim Anniversary Edition_ "AE" is released and the majority of relevant mods are updated for that version. However, that is far into the future, several months or possibly a year. For now, it is shorthand for _Licentia's_ "Creation Club" profile. In order to use it, you must purchase _every single piece of Creation Club content_ within the online storefront feature inside of vanilla Skyrim. Given that these will all be included in AE when it releases, it is presently a **super** bad deal. It is intended primarily for those users who previously purchased the content.
+
 ## Launching the Game
 
 The rest must be completed after the game itself is launched. I recommend bringing up this readme on a portable device by navigating to [www.wabbajack.org](https://www.wabbajack.org) and referring to the Gallery. Anyway, Launch the modlist from the command which reads **SKSE**. If you receive a message that files are missing, do not exist, or a warning about an incorrect path, you _may_ have to edit the link to "skse_loader" in the drop down and point it to your Skyrim directory. Once you are in-game, create your character and follow _all_ of the instructions in the below link:
