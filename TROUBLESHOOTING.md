@@ -3,7 +3,7 @@
 - [Gameplay](#gameplay)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
   - [My skills don't seem to be leveling up!](#my-skills-dont-seem-to-be-leveling-up)
-  - [I can't induct members into the Blades! Or other Follower weirdness!](#i-cant=induct-members-into-the-blades-or-other-follower-weirdness)
+  - [I can't induct members into the Blades! Or other Follower weirdness!](#i-cant-induct-members-into-the-blades-or-other-follower-weirdness)
   - [My follower is walking around with an exploded head! (Or other types of gore.)](#my-follower-is-walking-around-with-an-exploded-head-or-other-types-of-gore)
   - [The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
 - [Technical](#technical)
