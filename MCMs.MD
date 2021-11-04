@@ -24,6 +24,7 @@
   - [SKY UI](#sky-ui)
     - [General](#general)
     - [Advanced](#advanced)
+  - [Skyrim Outfit System](#skyrim-outfit-system)
   - [SmoothCam](#smoothcam)
     - [Presets](#presets)
   - [Trade and Barter](#trade-and-barter)
