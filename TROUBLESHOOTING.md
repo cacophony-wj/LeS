@@ -5,6 +5,7 @@
   - [My skills don't seem to be leveling up!](#my-skills-dont-seem-to-be-leveling-up)
   - [I can't induct members into the Blades! Or other Follower weirdness!](#i-cant-induct-members-into-the-blades-or-other-follower-weirdness)
   - [My follower is walking around with an exploded head! (Or other types of gore.)](#my-follower-is-walking-around-with-an-exploded-head-or-other-types-of-gore)
+  - [The tuning gloves in Winterhold seem to be acting up.](the-tuning-gloves-in-Winterhold-seem-to-be-acting-up)
   - [The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
 - [Technical](#technical)
   - [I crashed!](#i-crashed)
@@ -48,6 +49,10 @@ Sadly the follower framework I use is nowhere near as advanced as _Nether_, and 
 ### My follower is walking around with an exploded head! (Or other types of gore.)
 
 The fix I installed for this doesn't always trigger. Try casting the "Maximum Mending" spell you started the game with. It removes the gore effect from all nearby NPCs.
+
+### The tuning gloves in Winterhold seem to be acting up.
+
+Try removing them and equipping them in between atempts. I dunno either, man.
 
 ### The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!
 
