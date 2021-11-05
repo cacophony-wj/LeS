@@ -1,3 +1,65 @@
+### 10.9.1
+
+- Added _Arcing Spells_
+- Added _Merlin the Corgi_
+- Added _OStim feet Animation Pack_
+- Added _Pubes Forever SSE_
+- Added _Lusty Argonian Skill Books_
+- Added _High Level Enemeis Redux_
+- Added _Party of Four - Harder Bosses_
+- Added back _Savage Skyrim_
+- Added back _Genesis Unleashed Levelled_ for Dungeons ONLY
+- Added back _Skyrim Outfit System SE Revived_ and updated the readme as per Palentier (thanks!)
+- Added back _No Grass In Objects_
+- Added _Atlas Map Markers_
+- Added _Random Silly Paraglide Animations_
+- Added _Paraglider Auto-Equip Tarhiel's Gale_
+- Added _Another Chantry College_
+- Added _Legacy of the Dragonborn Lighting Mod_
+- Added _Vigilant Armors and Weapons Retexture SE_
+- Added _Simply Destructive Dragonbone Weapons_
+- Added _Aurora SE_
+- Added _Custom Skills Framework_ for the LOTD Archaeology Trees_
+- Added _Sometimes Pick Up Books_
+- Added _Crimson Nirnroot Markers_
+- Replaced _Dirt & Blood_ with _Just Blood_ (no more boring bathing requirements!)
+- Replaced _The Paarthurnax Dilemma_ with _Paarthurnax Quest Expansion_
+- Updated _Triple Triad_ to 3.1
+- Updated _OStim_ to 5.3.1
+- Updated _OBody_ to 1.3.1
+- Updated _ORomance_ to 1.8
+- Updated _OStrap_ to 1.3
+- Updated _OVirginity_ to 1.3.1
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.30
+- Updated _HDT-SMP Hair Wigs_ to 1.2
+- Updated _Serana Dialogue Add-On_ to 2.8.2
+- Updated _Wyrmstooth_ to 1.19.6
+- Updated _Immersive World Encounters_ to 3.5a
+- Updated _Know Your Enemy Redux_ to 1.2.1
+- Updated _True Directional Movement Boss INI Tweaks_ to 1.3
+- Updated _3BA Vanilla Clothes and Armor_ to 1.9.5
+- Updated _eFPS - Exterior FPS Boost_ to 1.6.1
+- Updated _Magical College of Winterhold_
+- Updated _Skyland AIO_ to 2.1
+- Updated _Water for ENB_ to 1.46
+- Updated _Embers XD_ to 2.4.4
+- Updated _iWant Widgets_ to 1.27
+- Updated _Vanilla Script Optimizations_ to 1.12
+- Updated _Frozen Electrocuted Combustion_ to 4.9.6
+- Updated _PO3's Papyrus Extender_ to 4.5.2
+- Updated _NL_MCM - A Modular MCM Framework_ to 1.0.5
+- Removed _Remember Lockpick Angle_
+- Removed _Pet the Dog Animations_
+- Removed _Faster Mining Animation_
+- Removed _Faster Wood-Chopping Animation_
+- Reinstalled _Enhanced Vanilla Trees_ for large lush option
+- Reinstalled _Veydosebrom Regions_ to hopefully fix the grass flicker issue.
+- Regenerated BodySlides
+- Pre-Generated Grass Cache for Grass LODs
+- Updated TexGen with Grass LODs
+- Updated DynDOLOD with Grass LODs
+- Fixed an incompatible texture for Ebony Shields
+
 ### 10.8
 - Added several more _Lucien_ patches for _Creation Club_ content
 - Added _Banshee - Wisp Mother Sounds Rework_
