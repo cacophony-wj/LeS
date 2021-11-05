@@ -6,11 +6,6 @@
   - [Character Creation](#character-creation)
   - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
   - [Game MCM Options](#game-mcm-options)
-  - [A Matter of Time](#a-matter-of-time)
-  - [CGO](#cgo)
-  - [ATTENTION. THIS IS WHERE THE HEADBOBBING AND LEANING ARE COMING FROM.](#attention-this-is-where-the-headbobbing-and-leaning-are-coming-from)
-    - [Settings](#settings)
-      - [Leaning](#leaning)
   - [Fertility Mode+](#fertility-mode)
   - [OStim](#ostim)
     - [Configuration](#configuration)
@@ -18,21 +13,7 @@
       - [Beds](#beds)
       - [Undressing](#undressing)
     - [How To Use This Mod](#how-to-use-this-mod)
-    - [OStrap](#ostrap)
-  - [Quick Light](#quick-light)
-    - [SexLab Solutions](#sexlab-solutions)
-      - [follower](#follower)
-  - [SKY UI](#sky-ui)
-    - [General](#general)
-    - [Advanced](#advanced)
   - [Skyrim Outfit System](#skyrim-outfit-system)
-  - [SmoothCam](#smoothcam)
-    - [Presets](#presets)
-  - [Trade and Barter](#trade-and-barter)
-  - [True Directional Movement](#true-directional-movement)
-  - [Ultimate Dodge](#ultimate-dodge)
-  - [VioLens](#violens)
-    - [Profile System](#profile-system)
   - [Now you are ready to spawn!](#now-you-are-ready-to-spawn)
 
 # Licentia Configuration
@@ -116,27 +97,7 @@ Fertility mode will pop up a window requesting to turn on. Choose NO right now, 
 
 ## Game MCM Options
 
-**NOTE:** Any menus or options not specifically mentioned here can be ignored. I have used what limited xEdit and Papyrus knowledge I possess to configure them automatically at game init (while those messages were cycling earlier)
-
-## A Matter of Time
-
-Load the User Preset.
-
-##  CGO
-
-# ATTENTION. THIS IS WHERE THE HEADBOBBING AND LEANING ARE COMING FROM. 
-
-### Settings
-
-#### Leaning
-
-_Lean Multiplier (1st Person)_: _X0.00_
-
-_Lean Multiplier (3rd Person)_: _X0.00_
-
-_Camera Noise_
-
-_Camera Noise Mult (1st Person)_: _X0.00_
+**NEW!** Almost every MCM is now automated! The only two mods you may be interested in configuring are _Fertility Mode_ and _Ostim_ itself. Read on for details!
 
 ## Fertility Mode+
 
@@ -176,38 +137,6 @@ At any time you can go up to anyone and press the up arrow to have OSex sex with
 
 Creatures do not function with OSex and I have no plans to ever implement them.
 
-### OStrap
-
-I am not a fan of strap-ons, but I am even less of a fan of futa options. Not that there is anything wrong with either, but I have experienced _extreme_ reactions from futa options appearing in-game unexpectedly. If you wish to include futa options in your game, you can find a pinned message in great detail on my private server. I recommend the following options for _OStrap_:
-
-_OStrap Core_
-
-"Enable mod" and "Enable for NPC." Use "Enable for Player" only if you are female.
-
-_OStrap Integrations_
-
-"Enable OCum Support"
-
-_Enabled Strapons_
-
-All.
-
-## Quick Light
-
-This is automatically set to NUMPAD 1. Set it to whatever you wish. All it does is turn on a light so you can see around you.
-
-###  SexLab Solutions
-
-####  follower
-
-Choose the appropriate options here to offer a follower instead of yourself for sexual favors. This is mainly useful if you aren't attracted to a particular sex.
-
-## SKY UI
-
-### General
-
-Set _Font Size_ and _Icon Size_ to your preference, likewise with _Category Icon Theme_. (I personally only really like the "Celtic" version of the icons.)
-
 ## Skyrim Outfit System
 
 This section is brought to you entirely by my devoted user `Palentier` who was convinced someting was wrong with this mod, prompting me to remove it, pissed off half my server, then made amends by realizing his mistake and writing this guide. Thanks a lot, man!
@@ -221,26 +150,6 @@ Using this Mod is optional, but you MUST use the "Change Outfit" Power and selec
 **Quick Slots Enable**
 
 _You must Favorite an Outfit to see it in the Change Outfit Power Menu_
-
-## Ultimate Dodge
-
-At the bottom left, you will find an option for NPCs to dodge and get iFrames, just like you can. It is _Super Annoying._ I recommend you disable it.
-
-That said, though, lately I have been leaving it on but setting it to "Non-Frequent" for that little quirky surprise now and again. It's neat when your followers do it, too.
-
-**Bear in mind that _Ultimate Dodge_ WILL NOT FUNCTION in the starting cell. You will need to spawn into the larger world to use it!**
-
-## Trade and Barter
-
-Click "Modify Barter Settings" and change the "Preset" to your liking.
-
-## True Directional Movement
-
-I recommend you leave most of these options alone, but lock-on is off by default, and it's the best lock-on I've ever seen. 
-
-### Target Lock
-
-Enable the hotkey to your preference, but I recommend MOUSE 3 or 4 for MKB and "LB/L1" for Controller.
 
 ## Now you are ready to spawn!
 
