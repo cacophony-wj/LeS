@@ -187,21 +187,11 @@ Move your downloads folder outside of your _Licentia Directory_, ensure the _Lic
 
 ## Post-Installation
 
-**ENB Installation**
+**REDACTED.** _Licentia_ now makes use of the "Stock Game" feature, so there is no longer a need to download `enbseries` manually, nor to copy over Game Folder Files. Carry on!
 
-As installed by Wabbajack, Licentia does not include the ENB dlls.
+Do keep in mind, though, that any changes that would normally be made to the _Skyrim Special Edition_ directory such as changing ENB for better performance, adding Creation Club Content, and so on, must now be placed in the _Licentia/Stock Game_ folder instead.
 
-Download the latest ENB Series from [here](http://enbdev.com/download_mod_tesskyrimse.htm). Inside the archive you will find a _WrapperVersion_ folder. Extract _only_ d3d11.dll and d3dcompiler_46e.dll from this _WrapperVersion_ folder to your game folder. This is the directory in which _SkyrimSE_ is located.
-
-**Copy Game Folder Files**
-
-Copy all of the files located inside the _Licentia Directory/Game Folder Files_ directory to your game folder. This is the directory in which _SkyrimSE_ is located.
-
-![COPY THESE FILES](gff.png "Game Folder Files")
-
-Please note, **do not copy the entire game folder files folder.** Only copy the files _inside_ that folder to _Steam/steamapps/common/Skyrim Special Edition_. There should be fewer than a dozen of them, as well as a folder entitled "enbseries".
-
-Bear in mind that the ENB in use by default is an extremely heavy configuration for _PI-CHO for Cathedral Weathers._ If you have performance problems the first step is probably to reinstall PI-CHO with a more performance-friendly configuration, adjust the INIs with files from my private server, and/or install another ENB of your choosing. Any ENB designed for _Cathedral Weathers_ will work, but I recommend _Serio's ENB._ It's nice and light!
+This does mean, also, that you can install any other list with this feature (Stock Game) and they will be completely independent of each other and no longer require changing out any files whatsoever. Enjoy _Licentia_ when the Old Lady is not around, play _Living Skyrim_ when she's doing annoying things like hogging space in your Man Cave!
 
 ## Preparing the Game
 
