@@ -105,7 +105,7 @@ _Be Warned:_ This mod is _very_ intrusive, with a lot of "heavy" features. If th
 
 "Enable" the mod. This is a _slow_ process. It will lock up the MCM menu, most likely, so you will have to exit all menus and re-enter.
 
-Check _Unique Women Only_ and _Unique Men Only_.
+Check _No Non-Unique Women_ and _No Non-Unique Men_.
 
 The only other options you may be interested in are under "Automation" in the lower right.
 
