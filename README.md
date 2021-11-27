@@ -5,7 +5,7 @@
 - [DO NOT CLOSE ME](#do-not-close-me)
   - [This README is **NOT** optional! It is **NOT** an advice column! Licentia will **NOT** work AT ALL unless you follow it!](#this-readme-is-not-optional-it-is-not-an-advice-column-licentia-will-not-work-at-all-unless-you-follow-it)
 - [READ IT!](#read-it)
-- [SKYRIM'S MOST RECENT UPDATE BREAKS EVERYTHING ABOUT WABBAJACK!](#skyrims-most-recent-update-breaks-everything-about-wabbajack)
+- [ATTENTION! UPDATE SKYRIM!](#attention-update-skyrim)
 - [Preamble](#preamble)
 - [A STRONG WARNING](#a-strong-warning)
   - [Requirements](#requirements)
@@ -39,13 +39,9 @@ _If you're looking for a modlist in between "DND" and "Licentia", with just a bi
 
 https://www.wabbajack.org/#/modlists/info?machineURL=tsukiro
 
-# SKYRIM'S MOST RECENT UPDATE BREAKS EVERYTHING ABOUT WABBAJACK!
+# ATTENTION! UPDATE SKYRIM!
 
-_If you have updated or installed your copy of Skyrim Special Edition more recently than November 10th, 2021, it will no longer function with the majority of mods._ There is no way around this, it is not possible to use the latest version with ANY of our modlists. You are going to have to use the _Skyrim SE Downgrader_ available here:
-
-[Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618)
-
-Be certain to download and execute the FULL patcher available from the "Files" section -- the "Best of Both Worlds" patcher will NOT function. Testing for the AE profile using all the extra paid mods WITHOUT the upgrade to the game itself will begin whenever I decide to stop being a completely useless loaf. Please **DO NOT ASK** in any of our Wabbajack channels when our lists will be compatible with the latest version, it is going to be a complicated and time-consuming process given all the changes that need to be made. **If you feel you must complain and moan** about Todd ruining everything once again, please spare our poor support teams, we already know how you feel (many of us feel the same way) and there's nothing any of us can do to change it.
+Although many of our _Wabbajack_ modlists require you to use the "Skyrim Special Edition Downgrader" before installing them, _Licentia does not._ In order to install this modlist, you **MUST** have your copy of _Skyrim Special Edition_ **COMPLETELY UPGRADED** to the latest version before beginning. It must also be set to the **ENGLISH LANGUAGE,** no other version will function properly. _Wabbajack_ will automatically "downgrade" it and place a copy in the `Stock Game` folder for use during play. I realize this is not an ideal situation, with some our lists requiring one step and the rest requiring another, but hopefully everyone will eventually come around to one method. To reduce the support burden for myself, I have chosen this particular route.
 
 # Preamble
 
