@@ -2,67 +2,68 @@
 
 Lot of new content this time, so let's get to it. Check #announcements for an update as to _Licentia's_ future.
 
-Added _Mitsuriou's Follower Bodies Overhaul_
-Added back _Artifacts of Skyrim Revised_
-Added - _Odin - Skyrim Magic Overhaul_
-Added _Hoth_
-Added _Vilja in Skyrim_
-Added _Vilja & Vilja Family Re-Imagined_
-Added LOTD Rooms for Hoth & Vilja
-Added _4K Parallax High Hrothgar_
-Changed _Briraka's Draugr Overhaul_ to _Haugbui_,
-With associated patches for the above.
-Updated _CBBE 3BA_ to 2.13
-Updated _Pandorable's Serana_ to 1.2.1
-Updated _Pandorable's Valerica_ to 1.1
-Updated _Gladys the Corgi_ to 1.2.3
-Updated _Merlin the Corgi_ to 1.0.4
-Updated _Legacy of the Dragonborn_ to 2.5.9
-Updated _Legacy Safehouse Plus_ to 3.2
-Updated _Undeath - Classical Lichdom_ to 2.40
-Updated _Sidequests of Skyrim_ to 0.6
-Updated _Vokriinator Black_ to 6.6
-Updated _Ordinator_ to 9.31
-Updated _Triumvirate_ to 1.8.0
-Updated _Experience_ to 2.0
-Updated _Armor Variants Expansion_ to 2.1
-Updated _Ancient Nord Stalhrim_ to 1.1.7
-Updated _Magical College of Winterhold_ to 5.8.2
-Updated _WizKid Carriages_ to 1.2
-Updated _Completionist_ to 3.4
-Updated _Spell Perk Item Distributor_ to 5.1
-Updated _Simple Dual Sheath_ to 1.5.1
-Updated _Face Discoloration Fix_ to 1.0.2
-Updated _Lanters of Skyrim II_ to 4.0
-Updated _Water for ENB_ to 1.0
-Updated _eFPS - Exterior FPS Boost_ to 2.2
-Updated _Skyrim Landscape and Water Fixes_ to 6.4.1
-Updated _CC's Enhanced Ore Veins_ to 9.0
-Updated _SSE Engine Fixes_ to 5.8.3
-Updated _SSE Display Tweaks_ to 0.5.3b
-Updated _po3's Tweaks_ to 1.3
-Updated _iWant Widgets_ to 1.28
+- Added _Mitsuriou's Follower Bodies Overhaul_
+- Added back _Artifacts of Skyrim Revised_
+- Added - _Odin - Skyrim Magic Overhaul_
+- Added _Hoth_
+- Added _Vilja in Skyrim_
+- Added _Vilja & Vilja Family Re-Imagined_
+- Added LOTD Rooms for Hoth & Vilja
+- Added _4K Parallax High Hrothgar_
+- Changed _Briraka's Draugr Overhaul_ to _Haugbui_,
+- With associated patches for the above.
+- Updated _CBBE 3BA_ to 2.13
+- Updated _Pandorable's Serana_ to 1.2.1
+- Updated _Pandorable's Valerica_ to 1.1
+- Updated _Gladys the Corgi_ to 1.2.3
+- Updated _Merlin the Corgi_ to 1.0.4
+- Updated _Legacy of the Dragonborn_ to 2.5.9
+- Updated _Legacy of the Dragonborn_ to 2.5.9
+- Updated _Legacy Safehouse Plus_ to 3.2
+- Updated _Undeath - Classical Lichdom_ to 2.40
+- Updated _Sidequests of Skyrim_ to 0.6
+- Updated _Vokriinator Black_ to 6.6
+- Updated _Ordinator_ to 9.31
+- Updated _Triumvirate_ to 1.8.0
+- Updated _Experience_ to 2.0
+- Updated _Armor Variants Expansion_ to 2.1
+- Updated _Ancient Nord Stalhrim_ to 1.1.7
+- Updated _Magical College of Winterhold_ to 5.8.2
+- Updated _WizKid Carriages_ to 1.2
+- Updated _Completionist_ to 3.4
+- Updated _Spell Perk Item Distributor_ to 5.1
+- Updated _Simple Dual Sheath_ to 1.5.1
+- Updated _Face Discoloration Fix_ to 1.0.2
+- Updated _Lanters of Skyrim II_ to 4.0
+- Updated _Water for ENB_ to 1.0
+- Updated _eFPS - Exterior FPS Boost_ to 2.2
+- Updated _Skyrim Landscape and Water Fixes_ to 6.4.1
+- Updated _CC's Enhanced Ore Veins_ to 9.0
+- Updated _SSE Engine Fixes_ to 5.8.3
+- Updated _SSE Display Tweaks_ to 0.5.3b
+- Updated _po3's Tweaks_ to 1.3
+- Updated _iWant Widgets_ to 1.28
 
 **Following are a series of NPC removals I am sure will be unpopular.** These represented multiple huge overhauls that only affected a handful of NPCs so I decided to cut all but the most comprehensive. It also makes it much easier to patch and update (no merge to deal with). This will change once the NPC Vote is completed.
 
-Removed the _High Poly NPCs_ series of mods.
-Removed _Interesting NPCs Visual Overhaul_
-Removed _Not Very Immersive Character Overhaul_
-Removed the _Northbourne_ series of NPCs.
-Removed _Diversity - A Character Overhaul_
-Removed _Improved Bards - Special Edition_
-Removed _Followers Hirelings and Housecarls SSE_
-Removed _Marvelous Mage Followers SSE_
-Removed _Fresh Faces SSE_
-Removed the _eeekie's_ series of NPCS - all except for Cicero.
-Removed _Pandorable's Black-Briar Ladies_
-Removed _Pandorable's Frea and Frida_
-Removed _Pandorable's Initiates_
-Removed _Pandorable's Lethal Ladies_
-Removed _Pandorable's Shield Sisters_
-Removed _Pandorable's Warrior Women_
-Unmerged and repatched all NPCs.
-Regenerated LODs.
+- Removed the _High Poly NPCs_ series of mods.
+- Removed _Interesting NPCs Visual Overhaul_
+- Removed _Not Very Immersive Character Overhaul_
+- Removed the _Northbourne_ series of NPCs.
+- Removed _Diversity - A Character Overhaul_
+- Removed _Improved Bards - Special Edition_
+- Removed _Followers Hirelings and Housecarls SSE_
+- Removed _Marvelous Mage Followers SSE_
+- Removed _Fresh Faces SSE_
+- Removed the _eeekie's_ series of NPCS - all except for Cicero.
+- Removed _Pandorable's Black-Briar Ladies_
+- Removed _Pandorable's Frea and Frida_
+- Removed _Pandorable's Initiates_-
+- Removed _Pandorable's Lethal Ladies_
+- Removed _Pandorable's Shield Sisters_
+- Removed _Pandorable's Warrior Women_
+- Unmerged and repatched all NPCs.
+- Regenerated LODs.
 
 ### 10.9.1
 
