@@ -14,6 +14,7 @@
       - [Beds](#beds)
       - [Undressing](#undressing)
     - [How To Use This Mod](#how-to-use-this-mod)
+  - [CGO](#cgo)
   - [Skyrim Outfit System](#skyrim-outfit-system)
   - [Now you are ready to spawn!](#now-you-are-ready-to-spawn)
 
@@ -145,6 +146,10 @@ Bear in mind that many subjects do not have appropriate animations (such as lesb
 At any time you can go up to anyone and press the up arrow to have OSex sex with them.
 
 Creatures do not function with OSex and I have no plans to ever implement them.
+
+## CGO
+
+I lied, there's a third one, but it's relatively minor. For some reason when the Skyrim update was pushed, my scripts to disable headbobbing stopped functioning properly. To prevent headbobbing completely, you must find the "Camera Mult" setting in this MCM (on the right, about halfway down) and change it to anything, then back to zero. However, if you are using Improved Camera, sometimes your camera will get "stuck" in a super nauseating headbobbing mode where every little motion causes incredible jerkiness. To solve this issue, simply strike the F key a few times (or press in on the right stick with a controller)
 
 ## Skyrim Outfit System
 
