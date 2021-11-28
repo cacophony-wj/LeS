@@ -3,6 +3,7 @@
   - [Customizing Controls](#customizing-controls)
   - [Using A Controller](#using-a-controller)
   - [Enabling POV Sex](#enabling-pov-sex)
+  - [Enabling SFW Features](#enabling-sfw-features)
   - [Character Creation](#character-creation)
   - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
   - [Game MCM Options](#game-mcm-options)
@@ -78,6 +79,14 @@ One of the most fantastic developments of the entire _OStim_ suite, in my humble
 9. Sometimes you will be able to see your headless body running out ahead of you.
 
 The sex is great though!
+
+## Enabling SFW Features
+
+If you're like me, you kinda like a nice pair of bloomers every so often. You may also wish for the nudity in this list to be minimized, or all of the sex stuff to be optional, perhaps because you are playing in mixed company, around your younger (or older) family, or you just don't want the embarrassment of somebody watching you play a video game with tits and schlongs in it. As a friend to personal shame myself, I understand completely. 
+
+At the end of your load order you will find an "Undies" ESP. For all characters to be equipped with a lootable pair of Undies, simply enable this ESP before choosing "New Game." This is the **ONLY** time that this ESP can be enabled or disabled -- before you choose "New Game." To do **AT ANY OTHER TIME** will cause all kinds of wardrobe malfunctions including missing inventory and naked people walking around. This is also true if this Undies ESP is ever updated, and I do have to do that sometimes, so if you choose to play with Undies, **ONLY UPDATE THE LIST AS A LAST RESORT.** You have been warned!
+
+You may also wish for the sex part of the list to be completely optional. While you cannot remove the adult dialog options without reworking most of the list, you **can** ensure that any pornographic imagery only takes place when you choose for it to. Somewhere inside your load order is an ESP called "ONights." This ESP enables NPCs in the game to have sex with each other on their own without your input. Once again, you must disable it **ONLY BEFORE CHOOSING NEW GAME.** Doing so at any other time will cause issues. Once this ESP is disabled, the only sex scenes that will start are the ones that you choose to do so. So save it for when Granny isn't around, alright?
 
 ## Character Creation
 
