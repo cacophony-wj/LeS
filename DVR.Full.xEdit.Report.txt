@@ -1,0 +1,67 @@
+**DIABOLIST VR MODLIST REVIEW CONCERTS**
+
+---
+
+** FULL xEDIT REPORT **
+
+Firstly I must say I am very impressed with how clean the xEdit is for this list contrasted with the original 
+submission. I thought ex0-tekk had disappeared, but it's obvious now that he has merely been working very 
+hard on his list.
+ 
+ [35] Skyrim Bridges.esp (C724B281)
+ 
+ You may want to have Bridges win these Landscape conflicts as opposed to Landscape Fixes.
+ Landscape Fixes just alters things like grass whereas Bridges probably has changes to the shape of the land.
+ If you don't do this, you may have seams or obstructions.
+ At the very least, check the cells in question.
+ 
+ [48] Dark_Forests.esp (13FA74E3) \ Worldspace \ 0000003C <Tamriel> \ 
+ 
+ Shouldn't Dark Forests win Landscape conflicts over vanilla files?
+ 
+ [5E] eqRLE_CORE.esp (C70F2AC9) \ Armor \ 00016EE4 <SkinTroll>
+ 
+ Many of these values were reverted by a merge.
+ Ensure this is correct.
+ 
+ [60] Skyrim Immersive Creatures Special Edition.esp (E92A5A2D) \ Non-Player Character (Actor)
+ 
+ SIC changes some of these creatures to different base templates as part of their uniqueness.
+ They have been reverted by your CR.
+ Is this correct?
+ 
+ [6B] AVExpansion.esp (E11A2FFB) \ Leveled Item
+ 
+ Hmm, which Synthesis patcher did you use for your Leveled Lists here?
+ I use Armor Variants.
+ I may use your patcher myself if is well-made.
+ 
+ [6B] AVExpansion.esp (E11A2FFB) \ Outfit
+ 
+ Couple of outfits from SIC were also reverted here.
+  
+ [CB] ElysiumEstate.esp (CDCBD5E8) \ Worldspace \ 0000003C <Tamriel> \ 0000963B <WhiterunExterior15> \ 000A3449
+ 
+ There's a pretty serious Navmesh conflict here, but not critical since no door triangles involved.
+ Consider regenerating this navmesh in the CK, 
+ Or allowing Ancient Land to win, as it is the most drastically different from vani1lla.
+ 
+---
+
+** README NOTES **
+ 
+ Instructions for adjusting Supersampling and in-game resolution should be clearer.
+ 
+ Damn that's a lot of MCMs!
+ 
+--- 
+
+** GAMEPLAY NOTES **
+
+ I experienced one crash during gameplay while testing performance in cities. It was not repeatable. I am not sure if 
+ this was a fluke given Skyrim VR's overall bugginess. To minimize future problems, I recommend consulting Timboman's 
+ UVRE readme and other VR modlist developers for full steps to ensure as crash-free an experience as possible. These 
+ steps should be communicated in your own readme as well, as it is difficult enough to encourage users to read even 
+ one of them.
+
+ 
