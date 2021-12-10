@@ -42,7 +42,7 @@ There are also a handful of custom fixes...
 - Fixed a bug where certain hunters may spawn without a bow
 - Enabled FXAA and VSync
 
-10.13
+### 10.13
 
 Lot of new content this time, so let's get to it. Check #announcements for an update as to _Licentia's_ future.
 
