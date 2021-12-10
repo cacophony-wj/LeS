@@ -1,4 +1,48 @@
-### 10.13
+### 10.17
+
+- Revamped the fonts for greater readibility
+- Added _QUSTR - Qwinn's Universal Skin Texture Replacer_ - should resolve remaining Bijin seams!
+- Added _Undeath Classical Lichdom - The Ascension (Lite)_ .. allows for female Lich forms!
+- Added _Sleeping Expanded - Animations and NPC Reactions_
+- Added back _Maximum Carnage_
+- Updated _CBBE 3BA_ to 2.14 and tuned physics to "very modest" 
+- BodySlide Presets for greater _OBody_ variety... thanks to my users!
+- Added _OWrong Bodies - CBBE 3BA_ BodySlide Presets
+- Added _Natural and Realistic Bodies_ BodySlide Presets
+- Added _Vyr's Consort - 3BA_ BodySlide preset
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.31
+- Updated _Vokriinator Black_ to 6.6.1
+- Updated _Path of Sorcery_ to 2.5.1
+- Updated _Legacy of the Dragonborn_ to 5.5.5
+- Updated _Undeath - Classical Lichdom_ to 3.40
+- Updated _Grey Cowl of Nocturnal Patches to 1.3
+- Updated _Immersive World Encounters_ to 3.6a
+- Updated _Merlin the Corgi_ to 1.1
+- Updated _Embers XD_ to 2.4.8
+- Updated _SmoothCam_ to 1.6.1
+- Reinstalled _Vedosebrom Regions_ with more performant grass settings
+- Removed _AddItemMenu_ due to a crash with Vilja
+- Removed _Mihails Giant Mantis SSE_ due to crashes
+
+And for our AE owning friends, coming soon...
+
+- Added _Necro Pizza - Skyrim Pizza Delivery_ with full Survival Mode support!
+- Added _Inigo - Bloodchill Manor Patch_
+- Added back _Knight of the North_
+- Added back _The Vigilants' New Clothes_
+- Added back _Crossbow Integration_
+- Updated _Unofficial Skyrim Creation Club Content Patch_ to 6.1
+
+There are also a handful of custom fixes...
+
+- Fixed a BFB on one or two NPCs
+- Enabled distribution of coffee ingredients (they were missing from shops before)
+- Patched Winterhold Arcanaeum's desk and other areas to remove misplaced, clipping & floating objects
+- Patched Myrwatch area to remove clipping landscapes
+- Fixed a bug where certain hunters may spawn without a bow
+- Enabled FXAA and VSync
+
+10.13
 
 Lot of new content this time, so let's get to it. Check #announcements for an update as to _Licentia's_ future.
 
