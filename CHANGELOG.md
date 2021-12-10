@@ -15,7 +15,7 @@
 - Updated _Path of Sorcery_ to 2.5.1
 - Updated _Legacy of the Dragonborn_ to 5.5.5
 - Updated _Undeath - Classical Lichdom_ to 3.40
-- Updated _Grey Cowl of Nocturnal Patches to 1.3
+- Updated _Grey Cowl of Nocturnal Patches_ to 1.3
 - Updated _Immersive World Encounters_ to 3.6a
 - Updated _Merlin the Corgi_ to 1.1
 - Updated _Embers XD_ to 2.4.8
