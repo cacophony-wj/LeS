@@ -23,6 +23,7 @@
   - [My load order got messed up!](#my-load-order-got-messed-up)
   - [I crash in Project AHO when I complete a certain quest!](#i-crash-in-project-aho-when-i-complete-a-certain-quest)
   - [I can't take two steps in Lucien's final dungeon without freezing or crashing!](#i-cant-take-two-steps-in-luciens-final-dungeon-without-freezing-or-crashing)
+  - [My quests have started to disappear from my Quest Log.](#my-quests-have-started-to-disappear-from-my-quest-log)
 - [For More Information](#for-more-information)
 
 ## Content
@@ -138,6 +139,10 @@ Try this. Load before you start the quest's conclusion. Complete a step. Save. R
 ### I can't take two steps in Lucien's final dungeon without freezing or crashing!
 
 Lucien's final dungeon has a TON of custom models and assets that are quite demanding even WITHOUT the massive texture overhauls of _Licentia_. I have already installed the only mod created to resolve this issue by adding more occlusion planes to hide non-visible objects. My recommendation to you is to either disable all 4K Texture mods temporarily (except those with ESPs -- look inside the mod folder) and also disable the _SmoothCam_ mod. Hopefully this fixes your problem, otherwise, I'm afraid I don't know what to do as these freezes seem related to weird system configurations. My team members were able to push through the dungeon even with the crashes by carefully staring at the ground and using _Whirlwind Sprint_ in the worst areas, but they are _extremely_ determined!
+
+### My quests have started to disappear from my Quest Log.
+
+Skyrim uses a very tiny variable to keep track of these. The maximum number of quests you can have, both active **AND COMPLETED,** cannot exceed 255. When this happens, the older quests will start to vanish. _There is no way around this limitation, it is hard-coded into the game._ If you somehow find yourself playing the hundreds of hours required to do this many quests, read and follow the directions in this mod when you first notice the problem: https://www.nexusmods.com/skyrimspecialedition/mods/56130  You can also find a Synthesis / Mutagen version of this Quest Recovery tool if you are more advanced. 
 
 ## For More Information
 
