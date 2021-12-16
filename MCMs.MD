@@ -15,6 +15,7 @@
       - [Undressing](#undressing)
     - [How To Use This Mod](#how-to-use-this-mod)
   - [CGO](#cgo)
+  - [Quick Light](#quick-light)
   - [Skyrim Outfit System](#skyrim-outfit-system)
   - [Now you are ready to spawn!](#now-you-are-ready-to-spawn)
 
