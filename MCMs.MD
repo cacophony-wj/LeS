@@ -137,7 +137,9 @@ Under **ONights** you can control how often the people around you have sex. This
 
 ### How To Use This Mod
 
-OStim/OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect / advance scene, enter is open or close menu. Period or decimal ends the scene. 
+OStim/OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect / advance scene, enter is open or close menu. Period or decimal ends the scene. **FreeCam is disabled by default.** To enable it, adjust the value for start scene and the hotkey on the right side of this mod's MCM.
+
+Personally as a despicable Boomer and former data entry clerk at UPS, the fact that people willingly choose to do without NUMPADs both disturbs and angers me. But I know it's a thing. If you don't have one, no problem. You can hold down **F8** for 10 seconds to rebind all of OSex's default controls. Good luck finding keys that aren't already in use.
 
 If you encounter a scene that is terribly out of alignment, press the L key to open a menu with tons of options for adjustments (this is the OAlign mod). If you save your changes they will persist for that animation.
 
@@ -150,6 +152,10 @@ Creatures do not function with OSex and I have no plans to ever implement them.
 ## CGO
 
 I lied, there's a third one, but it's relatively minor. For some reason when the Skyrim update was pushed, my scripts to disable headbobbing stopped functioning properly. To prevent headbobbing completely, you must find the "Camera Mult" setting in this MCM (on the right, about halfway down) and change it to anything, then back to zero. However, if you are using Improved Camera, sometimes your camera will get "stuck" in a super nauseating headbobbing mode where every little motion causes incredible jerkiness. To solve this issue, simply strike the F key a few times (or press in on the right stick with a controller)
+
+## Quick Light
+
+Just as a note here, the free lantern can be turned on at any time by striking the `L` key or holding down the `Activate` button (`E` on keyboard, `A` on Gamepad). The keys for this can be changed in this MCM, as well as the brightness and style of the lantern.
 
 ## Skyrim Outfit System
 
