@@ -1,3 +1,133 @@
+### 10.24.1
+
+- I forgot to include the ENB with the last update. Rather than answer questions about it, I put the list under maintenance.
+- Both the UI and LLS versions should have all updates and fixes below.
+- Included Community RaceMenu and BodySlide presets previously in use in DNDDC.
+- Renamed all presets in the list for clarity and ease-of-use. (Sorting features only).
+
+Private server **only:**
+
+- Added _OAroused_ to the Libertas profiles (oversight, necessary for _OProstitution_ to work properly)
+- Seeking testers to track down a magicka bug for the above.
+- Seeking testers to troubleshoot camera issues with _ODefeat._
+
+### 10.24
+
+**Available only from my private server.**
+
+- Fixes the purple textures on Daedric weapons.
+- Corrected a bug that may have prevented certain quests that spawn objects from triggering.
+- Undeath's necromancers, and Mythos' attack site, I'm lookin' at you.
+
+### 10.22.1.2
+
+ONLY affects the Servitium profile from LLS.
+
+- Updated _Devious Devices_ to 5.2 beta 3
+- Updated _Devious Devices BodySlides 3BA_ to Beta 0.3
+
+### 10.22.1
+
+- All the Licentia-only updates go to the UI
+- Bugfixes including:
+- Fix for invisible lich form
+- Fix for invisible Dragonborn Museum gate
+- Fix for Stormclock Patrol BFBs
+- Several others I can't remember
+- Return of the Undies ESP by request
+
+### 10.22
+
+**Available only from my private server.**
+
+Added _Security Overhaul SKSE - Lock Variations_
+Added _Security Overhaul SKSE - Add-ons_
+Added _Security Overhaul SKSE - Some More Locks_
+Added _Underwater Treasure SSE_
+Added _Sink or Swim_
+Added _NPCs Can Swim in Combat_
+Added _Oxygen Meter_
+Added _OBody Standalone_ (Nexus Version) and _OBody_ to the Servitium profile
+Updated _CBBE 3BA_ to 2.15
+Updated _Pandorable's NPCs - Males_ to 1.1
+Updated _Pandorable's NPCs - Males 2_ to 1.1
+Updated _Fab to Fit 3BA BodySlide Preset_ to 2.1
+Updated _CBPC - CBP Physics with Collisons_ to 1.4.8
+Updated _Vokriinator Black_ to 6.7
+Updated _Path of Sorcery - Magic Perk Overhaul_ to 2.6
+Updated _Enhanced Blood Textures_ to the cloak-free SPID version!
+Updated _Deadly Dragons SE Patches_ to 6.5.6
+Updated _Aetherius - A Race Overhaul_ to 2.7.1
+Updated _Pilgrim_ to 1.0.10.1
+Updated _Manbeast - A Werewolf Overhaul_ to 1.2.1
+Updated _Apothecary - An Alchemy Overhaul_ to 1.2.3
+Updated _Mundus - A Standing Stone Overhaul_ to 1.7
+Updated _Knight of the North_ to 2.1.0.1
+Updated _Immersive World Encounters_ to 3.6.1
+Updated _The Choice is Yours_ to 2.3
+Updated _Storm Lightning to SSE_ to 1.4.13
+Updated _Embers XD_ to 2.4.9
+Updated _Cleaned Skyrim SE Textures_ to 1.2.3.2
+Updated _SSE Display Tweaks_ to 0.5.7b
+Reinstalled _Skyrim 2020 Parallax_ to support, well, parallax
+Reinstalled _Illustrious Whiterun SE_ to support parallax
+Reinstalled the rest of the big texture overhauls
+Removed _HIMBO Regular Guy_ Preset
+Removed _Natural Curves - A CBBE BodySlide Preset_
+Removed _Teraru's Fit n' Thick BodySlide Preset_
+Tried and failed to use underwear in a better way
+Tried and succeeded to enable parallax properly
+Rebuilt BodySlides
+Regenerated Synthesis
+Deleted old, duplicated versions of mods
+
+### 10.21
+
+Removed a few minor mods so my private users can add more of their own.
+
+- Replaced _Know Your Enemy Redux_ with _Know Your Enemy Patcher for Mutagen_
+- Replaced _Protect Your People_ with a patcher version.
+- Removed _OVoice_
+- Removed _Equipable Underwear for Everyone_
+- Removed _Positive Undressed Reactions_ (I love the mod but it barely ever triggers)
+- Removed _Pubes Forever_
+- Removed _SaLa Hair_
+- Removed _CL's Daedric and Ebony Replacers_
+- Removed _Arcing Spells_
+- Removed _Vision_
+- Removed _Atlas Map Markers_
+- Removed _Powers Keyring_
+- Removed _Adopt Aventus Aretino_
+- Removed _Stackable Stones of Berenziah_
+- Removed _Crimson Nirnoot Markers_
+- Removed a few memey mods I'm too embarrassed to describe.
+
+### 10.19
+
+- NOT SAVE SAFE BECAUSE I REMOVED A MOD
+- That mod was _Cats of Skyrim_ which Nexus finally got around to deleting.
+- Taking suggestions for a replacement.
+
+### 10.17.3
+
+- NOT SAVE SAFE IF YOU USE UNDIES
+- Removed _High Hrothgar 4K by Pfuscher_ (Oldrim only, shouldn't have used)
+- Replaced with _Halls of the Greybeards - A High Hrothgar Retexturing_
+- Added _Skyrim 3D High Hrothgar Steps_
+- Fixed some bow-related leveled-list issues with _Skyrim Weapon Expansion_
+- Beta fix for the nude headless Meridia
+
+For the LLS profile ONLY
+
+- Added _Necro Pizza - Skyrim Pizza Delivery_ with full Survival support!
+- Added _Inigo - Bloodchill Manor Patch_
+- Added back _Knight of the North_
+- Added back _The Vigilants' New Clothes_
+- Added back _Crossbow Integration_
+- Updated _Billyy's SLAL Animations_ to 5.1
+- Updated _SexLab Utility Plus_ to 11-27-2021
+- Updated _Unofficial Skyrim Creation Club Content Patch_ to 6.1
+
 ### 10.17
 
 - Revamped the fonts for greater readibility
