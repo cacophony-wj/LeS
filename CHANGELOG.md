@@ -40,46 +40,47 @@ ONLY affects the Servitium profile from LLS.
 
 **Available only from my private server.**
 
-Added _Security Overhaul SKSE - Lock Variations_
-Added _Security Overhaul SKSE - Add-ons_
-Added _Security Overhaul SKSE - Some More Locks_
-Added _Underwater Treasure SSE_
-Added _Sink or Swim_
-Added _NPCs Can Swim in Combat_
-Added _Oxygen Meter_
-Added _OBody Standalone_ (Nexus Version) and _OBody_ to the Servitium profile
-Updated _CBBE 3BA_ to 2.15
-Updated _Pandorable's NPCs - Males_ to 1.1
-Updated _Pandorable's NPCs - Males 2_ to 1.1
-Updated _Fab to Fit 3BA BodySlide Preset_ to 2.1
-Updated _CBPC - CBP Physics with Collisons_ to 1.4.8
-Updated _Vokriinator Black_ to 6.7
-Updated _Path of Sorcery - Magic Perk Overhaul_ to 2.6
-Updated _Enhanced Blood Textures_ to the cloak-free SPID version!
-Updated _Deadly Dragons SE Patches_ to 6.5.6
-Updated _Aetherius - A Race Overhaul_ to 2.7.1
-Updated _Pilgrim_ to 1.0.10.1
-Updated _Manbeast - A Werewolf Overhaul_ to 1.2.1
-Updated _Apothecary - An Alchemy Overhaul_ to 1.2.3
-Updated _Mundus - A Standing Stone Overhaul_ to 1.7
-Updated _Knight of the North_ to 2.1.0.1
-Updated _Immersive World Encounters_ to 3.6.1
-Updated _The Choice is Yours_ to 2.3
-Updated _Storm Lightning to SSE_ to 1.4.13
-Updated _Embers XD_ to 2.4.9
-Updated _Cleaned Skyrim SE Textures_ to 1.2.3.2
-Updated _SSE Display Tweaks_ to 0.5.7b
-Reinstalled _Skyrim 2020 Parallax_ to support, well, parallax
-Reinstalled _Illustrious Whiterun SE_ to support parallax
-Reinstalled the rest of the big texture overhauls
-Removed _HIMBO Regular Guy_ Preset
-Removed _Natural Curves - A CBBE BodySlide Preset_
-Removed _Teraru's Fit n' Thick BodySlide Preset_
-Tried and failed to use underwear in a better way
-Tried and succeeded to enable parallax properly
-Rebuilt BodySlides
-Regenerated Synthesis
-Deleted old, duplicated versions of mods
+- Added _Security Overhaul SKSE - Lock Variations_
+- Added _Security Overhaul SKSE - Add-ons_
+- Added _Security Overhaul SKSE - Add-ons_
+- Added _Security Overhaul SKSE - Some More Locks_
+- Added _Underwater Treasure SSE_
+- Added _Sink or Swim_
+- Added _NPCs Can Swim in Combat_
+- Added _Oxygen Meter_
+- Added _OBody Standalone_ (Nexus Version) and _OBody_ to the Servitium profile
+- Updated _CBBE 3BA_ to 2.15
+- Updated _Pandorable's NPCs - Males_ to 1.1
+- Updated _Pandorable's NPCs - Males 2_ to 1.1
+- Updated _Fab to Fit 3BA BodySlide Preset_ to 2.1
+- Updated _CBPC - CBP Physics with Collisons_ to 1.4.8
+- Updated _Vokriinator Black_ to 6.7
+- Updated _Path of Sorcery - Magic Perk Overhaul_ to 2.6
+- Updated _Enhanced Blood Textures_ to the cloak-free SPID version!
+- Updated _Deadly Dragons SE Patches_ to 6.5.6
+- Updated _Aetherius - A Race Overhaul_ to 2.7.1
+- Updated _Pilgrim_ to 1.0.10.1
+- Updated _Manbeast - A Werewolf Overhaul_ to 1.2.1
+- Updated _Apothecary - An Alchemy Overhaul_ to 1.2.3
+- Updated _Mundus - A Standing Stone Overhaul_ to 1.7
+- Updated _Knight of the North_ to 2.1.0.1
+- Updated _Immersive World Encounters_ to 3.6.1
+- Updated _The Choice is Yours_ to 2.3
+- Updated _Storm Lightning to SSE_ to 1.4.13
+- Updated _Embers XD_ to 2.4.9
+- Updated _Cleaned Skyrim SE Textures_ to 1.2.3.2
+- Updated _SSE Display Tweaks_ to 0.5.7b
+- Reinstalled _Skyrim 2020 Parallax_ to support, well, parallax
+- Reinstalled _Illustrious Whiterun SE_ to support parallax
+- Reinstalled the rest of the big texture overhauls
+- Removed _HIMBO Regular Guy_ Preset
+- Removed _Natural Curves - A CBBE BodySlide Preset_
+- Removed _Teraru's Fit n' Thick BodySlide Preset_
+- Tried and failed to use underwear in a better way
+- Tried and succeeded to enable parallax properly
+- Rebuilt BodySlides
+- Regenerated Synthesis
+- Deleted old, duplicated versions of mods
 
 ### 10.21
 
