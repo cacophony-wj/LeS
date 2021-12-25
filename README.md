@@ -20,7 +20,6 @@
   - [Post-Installation](#post-installation)
   - [Preparing the Game](#preparing-the-game)
   - [Crafting the Female Bodies](#crafting-the-female-bodies)
-  - [Do You Like Underwear?](#do-you-like-underwear)
   - [Launching the Game](#launching-the-game)
 - [PLEASE CLICK THE BELOW LINK TO CONTINUE THIS ESSENTIAL README. THEN RETURN HERE TO COMPLETE THIS ESSENTIAL README.](#please-click-the-below-link-to-continue-this-essential-readme-then-return-here-to-complete-this-essential-readme)
   - [Updating the Modlist](#updating-the-modlist)
@@ -201,10 +200,6 @@ The next step is to prepare the game for play. Navigate to the directory where y
 With the introduction of _OBody_ to the modlist, building BodySlides is basically a thing of the past. To use your preferred BodySlide preset with _Licentia_, simply install and enable it anywhere in the list, complete character creation and MCM configuration, and strike the O key (the letter, not the number). This will bring up a list of every BodySlide preset you have installed. Choose the one you want, set your character's Weight via the Vanity Mirror, and you are good to go. You can switch the body as easily as you do your outfit. You can do the same with any NPC, by hovering the crosshair over them and striking the O key.
 
 If you wish to use custom armors with the list, however, the process is a bit more involved. The armors MUST be built with the ZEROED SLIDERS option in BodySlide -- none of the others will work properly with OBody. When you do build the bodies, be sure to check the 'BUILD MORPHS' checkbox in the lower left corner if it isn't already. That should be about all you need to know. If you need more detailed BodySlide instructions, they can be found with a simple Google search. Or feel free to drop in the channel and ask for help if you get confused. Most people are happy to give it!
-
-## Do You Like Underwear?
-
-One option that may not be immediately obvious is the "Safe For Work" option, whereby most NPCs in _Licentia_ can be equipped with a set of lootable underwear by default, so you only have to look at jibblies if you _really_ want to. If you would like this to be the case, simply enable the ESP entitled `UndiesX.esp` at the bottom of the right pane of MO2. However you must be aware that **this ESP must never change during the course of a game.** Otherwise everyone with a different set of underwear will walk around naked due to a bug! _This makes it doubly important that you never update your installation during play._ Only update _Licentia_, or activate or deactivate `UndiesX.esp`, on a **totally New Game.** Loading with completed MCMs does _NOT_ count! In addition, NPCs have sex lives by default that you may stumble upon. To prevent this, disable the "ONights" mod in the left pane completely.
 
 ## Launching the Game
 
