@@ -7,7 +7,7 @@
 - [READ IT!](#read-it)
 - [ATTENTION! UPDATE SKYRIM!](#attention-update-skyrim)
 - [Preamble](#preamble)
-- [A STRONG WARNING](#a-strong-warning)
+- [STRONG WARNINGS](#strong-warnings)
   - [Requirements](#requirements)
     - [System Specs](#system-specs)
   - [Installation](#installation)
