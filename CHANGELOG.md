@@ -1,3 +1,18 @@
+### 10.25.1
+
+- Added _Female Makeup Suite - Special Edition_
+- Added _Lamenthia's Marks of Beauty_
+- Added _Sunstarved - Tanlines Special Edition_
+- Added _Wolfpaint - Facepaint Collection_
+- Added _Xara's Makeup and Warpaints SE_
+- Added _Yyvengar Bodypaint_
+- Added _Ziovdendian Bodypaint_
+- Added back _Shep's Tattoo Collection SE_ (Male and Female)
+
+### 10.25
+
+- Updated _Devious Devices_ to 5.2 Beta 3 Fixed 2
+
 ### 10.24.1
 
 - I forgot to include the ENB with the last update. Rather than answer questions about it, I put the list under maintenance.
@@ -18,6 +33,10 @@ Private server **only:**
 - Fixes the purple textures on Daedric weapons.
 - Corrected a bug that may have prevented certain quests that spawn objects from triggering.
 - Undeath's necromancers, and Mythos' attack site, I'm lookin' at you.
+
+### 10.23
+
+Only minor fixes and reshuffling of profiles.
 
 ### 10.22.1.2
 
