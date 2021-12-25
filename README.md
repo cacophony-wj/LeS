@@ -20,6 +20,7 @@
   - [Post-Installation](#post-installation)
   - [Preparing the Game](#preparing-the-game)
   - [Crafting the Female Bodies](#crafting-the-female-bodies)
+  - [Do You Like Underwear?](#do-you-like-underwear)
 - [REDACTED. BODYSLIDES ARE INCLUDED AND NO LONGER NECESSARY. GO PLAY THE GAME!](#redacted-bodyslides-are-included-and-no-longer-necessary-go-play-the-game)
   - [Launching the Game](#launching-the-game)
 - [PLEASE CLICK THE BELOW LINK TO CONTINUE THIS ESSENTIAL README. THEN RETURN HERE TO COMPLETE THIS ESSENTIAL README.](#please-click-the-below-link-to-continue-this-essential-readme-then-return-here-to-complete-this-essential-readme)
@@ -31,13 +32,7 @@
 
 ![Licentia logo](Licentia.png "Licentia")
 
-_Thank you to ForgottenGlory for the above image. If you are into an utterly degenerate vision of Skyrim focused on sheer sexual pain and suffering, or you want to experience the ultimate that Lover's Lab has to offer via its "SexLab" framework, this is not the modlist for you. Instead, I recommend "Dungeons & Deviousness" for the ultimate hardcore experience. You can find more information at the below link._
-
-https://www.fgsmodlists.com
-
-_If you're looking for a modlist in between "DND" and "Licentia", with just a bit more racy content without all the slavery and suffering, featuring more of an "Eastern" flair -- tough melee parry-and-riposte gameplay and hand-picked custom combat animations and sexy oufits, try "Tsukiro" also available on the Wabbajack main menu!_
-
-https://www.wabbajack.org/#/modlists/info?machineURL=tsukiro
+_Thank you to ForgottenGlory for the above image._
 
 # ATTENTION! UPDATE SKYRIM!
 
@@ -51,11 +46,11 @@ Welcome to the latest incarnation of _Licentia_. This modlist is intended as a h
 
 _Want more detailed information before committing to a 300+ GB download?_ Check out the links below.
 
-[List of All Mods in Licentia on Load Order Library](https://loadorderlibrary.com/lists/licentia)
+[Video Preview of Licentia by "Official" Wabbajack Streamer _DroppedIceCream_](https://www.youtube.com/watch?v=vM0xFFFirRc)
 
 [Positive Review of Licentia on Reddit](https://www.reddit.com/r/skyrimmods/comments/qcvrc6/licentia_review_with_links_and_a_thank_you_to_mod/)
 
-**COMING SOON** ~~Cameplay Video of Licentia~~
+[List of All Mods in Licentia on Load Order Library](https://loadorderlibrary.com/lists/licentia)
 
 _Came here because you are experiencing a bug? Check out the Troubleshooting Document:_
 
@@ -208,9 +203,9 @@ With the introduction of _OBody_ to the modlist, building BodySlides is basicall
 
 If you wish to use custom armors with the list, however, the process is a bit more involved. The armors MUST be built with the ZEROED SLIDERS option in BodySlide -- none of the others will work properly with OBody. When you do build the bodies, be sure to check the 'BUILD MORPHS' checkbox in the lower left corner if it isn't already. That should be about all you need to know. If you need more detailed BodySlide instructions, they can be found with a simple Google search. Or feel free to drop in the channel and ask for help if you get confused. Most people are happy to give it!
 
-## Choosing your Licentia Profile
+## Do You Like Underwear?
 
-By default, two profiles are included for your _Licentia_ install. The primary one, labeled simply, "Licentia," requires no special consideration and can be played as-is. The alternate profile, "Licentia AE," is intended for usage when the finalized version of _Skyrim Anniversary Edition_ "AE" is released and the majority of relevant mods are updated for that version. However, that is far into the future, several months or possibly a year. For now, it is shorthand for _Licentia's_ "Creation Club" profile. In order to use it, you must purchase _every single piece of Creation Club content_ within the online storefront feature inside of vanilla Skyrim. Given that these will all be included in AE when it releases, it is presently a **super** bad deal. It is intended primarily for those users who previously purchased the content.
+One option that may not be immediately obvious is the "Safe For Work" option, whereby most NPCs in _Licentia_ can be equipped with a set of lootable underwear by default, so you only have to look at jibblies if you _really_ want to. If you would like this to be the case, simply enable the ESP entitled `UndiesX.esp` at the bottom of the right pane of MO2. However you must be aware that **this ESP must never change during the course of a game.** Otherwise everyone with a different set of underwear will walk around naked due to a bug! _This makes it doubly important that you never update your installation during play._ Only update _Licentia_, or activate or deactivate `UndiesX.esp`, on a **totally New Game.** Loading with completed MCMs does _NOT_ count! In addition, NPCs have sex lives by default that you may stumble upon. To prevent this, disable the "ONights" mod in the left pane completely.
 
 ## Launching the Game
 
