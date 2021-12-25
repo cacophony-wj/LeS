@@ -3,6 +3,7 @@
 - [Gameplay](#gameplay)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
   - [My skills don't seem to be leveling up!](#my-skills-dont-seem-to-be-leveling-up)
+  - [WARNING! DON'T LISTEN TO ORLANDO!](#warning-dont-listen-to-orlando)
   - [I can't induct members into the Blades! Or other Follower weirdness!](#i-cant-induct-members-into-the-blades-or-other-follower-weirdness)
   - [My follower is walking around with an exploded head! (Or other types of gore.)](#my-follower-is-walking-around-with-an-exploded-head-or-other-types-of-gore)
   - [The tuning gloves in Winterhold seem to be acting up.](#the-tuning-gloves-in-winterhold-seem-to-be-acting-up)
@@ -49,6 +50,10 @@ Sleep to learn new skills. You can pick whatever you want!
 Still not working? The uncapper preset prevents skills from leveling beyond your level +18, to a maximum of twice your level. If your skill won't go up any further, try gaining a level!
 
 Skill not leveling up upon reading a skill book? Check for any debuffs to skill gain on your magic effects tab. Take care of those, then try again.
+
+### WARNING! DON'T LISTEN TO ORLANDO!
+
+Upon entering a certain inn, you will be given the option to stab a certain Vigilant of Stendarr with a Needle. **DO NOT DO THIS.** This is basically a means by which veterans to the "VIGILANT" mod can skip 3/4 of the mod to get to the fun stuff at the end. You will be _extremely_ underpowered and _utterly_ clueless as to what is going on if you do this. **SO DON'T DO IT!!** No, there is no way back. You will have to load from before you did what the obviously evil dude told you to do.
 
 ### I can't induct members into the Blades! Or other Follower weirdness!
 
