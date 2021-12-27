@@ -1,4 +1,4 @@
-### 10.25.3 (NOT YET RELEASED)
+### 10.25.3
 
 NOTE: The invisible trim around the door of the Thalmor Embassy is a bug with ENB. You will have to deal with it.
 
