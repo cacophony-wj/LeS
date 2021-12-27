@@ -1,6 +1,6 @@
 ### 10.25.3 (NOT YET RELEASED)
 
-IN PROGRESS: Fixing invisible trim on a Thalmor Embassy door.
+NOTE: The invisible trim around the door of the Thalmor Embassy is a bug with ENB. You will have to deal with it.
 
 - Fixed some invisible shins on high heeled shoes if using optional skimp.
 - Fixed the invisible LOTD gate (again).
