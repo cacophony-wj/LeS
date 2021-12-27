@@ -1,6 +1,13 @@
-### 10.25.4
+### 10.25.4.1
 
 NOT YET RELEASED. ONLY APPLIES TO THE LLS VARIANT.
+
+- Removed Synthesis records for Myrwatch which was turning it into a void.
+- Updated the ENB Light patcher so hopefully it won't happen again.
+
+### 10.25.4
+
+ONLY APPLIES TO THE LLS VARIANT.
 
 - Enabled Static Leveling on all profiles.
 - Fixed the unreadable Pizza menu in the AE profiles.
