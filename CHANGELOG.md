@@ -6,6 +6,7 @@ NOTE: The invisible trim around the door of the Thalmor Embassy is a bug with EN
 - Fixed the invisible LOTD gate (again).
 - Fixed blank textures in VIGILANT snow buildings.
 - Minor navmesh fixes around the "Man Those Borders" towers.
+- Verified the Meridia fix appears to be valid for the base profile.
 - Confirmed 1080p default resolution.
 - Confirmed ENB Settings (BALANCED PI-CHO)
 
