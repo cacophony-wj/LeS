@@ -2,7 +2,7 @@
 
 NOTE: The invisible trim around the door of the Thalmor Embassy is a bug with ENB. You will have to deal with it.
 
-- Fixed some invisible shins on high heeled shoes if using optional skimp.
+- Fixed some invisible shins on high heeled shoes.
 - Fixed the invisible LOTD gate (again).
 - Fixed blank textures in VIGILANT snow buildings.
 - Minor navmesh fixes around the "Man Those Borders" towers.
