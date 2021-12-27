@@ -1,3 +1,14 @@
+### 10.25.3 (NOT YET RELEASED)
+
+IN PROGRESS: Fixing invisible trim on a Thalmor Embassy door.
+
+- Fixed some invisible shins on high heeled shoes if using optional skimp.
+- Fixed the invisible LOTD gate (again).
+- Fixed blank textures in VIGILANT snow buildings.
+- Minor navmesh fixes around the "Man Those Borders" towers.
+- Confirmed 1080p default resolution.
+- Confirmed ENB Settings (BALANCED PI-CHO)
+
 ### 10.25.1
 
 - Added _Female Makeup Suite - Special Edition_
