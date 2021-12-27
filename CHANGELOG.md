@@ -1,3 +1,10 @@
+### 10.25.4
+
+NOT YET RELEASED. ONLY APPLIES TO THE LLS VARIANT.
+
+- Enabled Static Leveling on all profiles.
+- Fixed the unreadable Pizza menu in the AE profiles.
+
 ### 10.25.3
 
 NOTE: The invisible trim around the door of the Thalmor Embassy is a bug with ENB. You will have to deal with it.
