@@ -3,6 +3,7 @@
 NOT YET RELEASED. ONLY APPLIES TO THE LLS VARIANT.
 
 - Reinstalling the Experience mod reverted the perk menu to default. Oops, fixed.
+- Fixed the incorrect path for Synthesis.
 - Removed Synthesis records for Myrwatch which was turning it into a void.
 - Updated the ENB Light patcher so hopefully it won't happen again.
 
