@@ -145,7 +145,7 @@ The download and installation process can take a very long time depending on you
     Click the Go/Begin button
     Wait for Wabbajack to finish
     
-To have the highest amount of threads and thus the fastest speed, it is advised to have ALL of the folders (for `Wabbajack.exe`, the modlist folder, and the downloads folder) on an SSD. As of my last check, _Licentia_ requires about 200 GB for the modlist itself, and 100GB for the downloads. You will also need an additional 30 GB beyond the modlists' official size to store temporary working files. All of this space needs to be free on _the same SSD_ to prevent issues during the install.
+To have the highest amount of threads and thus the fastest speed, it is advised to have ALL of the folders (for `Wabbajack.exe`, the modlist folder, and the downloads folder) on an SSD. As of my last check, _Licentia_ requires about 200 GB for the modlist itself, and about 110GB for the downloads. You will also need an additional 30 GB beyond the modlists' official size to store temporary working files. All of this space needs to be free on _the same SSD_ to prevent issues during the install.
 
 After it is complete, you can relocate the Downloads to an HDD, external drive, or another cheap storage medium. You can even delete them if you want, they are not needed to play the game, but if the modlist requires an update you may have to download many of them again. It is not recommended to allow your drive to get over 90% full (red bar in File Explorer) so be sure to leave yourself a little headroom on top of all that.
 
