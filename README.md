@@ -137,13 +137,17 @@ Start the game and exit once you're in the main menu.
 
 ##  Downloading and Installing
 
-The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD. You will also need an additional 30 GB beyond the modlists' official size to store temporary working files. It is not recommended to allow your drive to get over 90% full (red bar in File Explorer) so be sure to leave yourself a little headroom on top of all that.
+The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. 
 
     Adjust the Installation Location to a directory located on the root directory of one of your drives
     For example, this might be "C:\Licentia", "D:\Licentia", or "E:\Licentia"
     Ensure the Download Location is within that directory
     Click the Go/Begin button
     Wait for Wabbajack to finish
+    
+To have the highest amount of threads and thus the fastest speed, it is advised to have ALL of the folders (for `Wabbajack.exe`, the modlist folder, and the downloads folder) on an SSD. As of my last check, _Licentia_ requires about 200 GB for the modlist itself, and 100GB for the downloads. You will also need an additional 30 GB beyond the modlists' official size to store temporary working files. All of this space needs to be free on _the same SSD_ to prevent issues during the install.
+
+After it is complete, you can relocate the Downloads to an HDD, external drive, or another cheap storage medium. You can even delete them if you want, they are not needed to play the game, but if the modlist requires an update you may have to download many of them again. It is not recommended to allow your drive to get over 90% full (red bar in File Explorer) so be sure to leave yourself a little headroom on top of all that.
 
 ##  Problems with Wabbajack
 
