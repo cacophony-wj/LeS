@@ -7,9 +7,21 @@
 
 OK so that took a little longer than expected! Had a bit more trouble with those eeekie's than I thought! I will probably need to do a bit more testing for now.
 
+**EDIT: A FEW LAST MINUTE ADDITIONS FOR TESTING!**
+
+- Added _A Cat's Life_
+- Added back _Cat Mod_ for better cat textures
+- Added _I'm Glad You're Here - A Hugging Mod!_
+- Added _Dwemer Glowyfication - Clockwork & Book of UUNP_
+- Added _Janquel's Arguably Needed Quixotically Unifying ESP Library_
+- Added a couple of SIC patches
+
+**BELOW ARE THE ORIGINAL FIXES AND ADDITIONS**
+
 - Fixed the VioLens profile that wouldn't load. 
 - (I actually broke it in the first place and the talented JanuarySnow fixed it)
 - This should prevent killmoves against the player.
+- Found yet ANOTHER reason Meridia was a naked woman and hopefully fixed it!
 - Fixed a ridiculous amount of broken NPCs!
 - Updated _Faster HDT SMP_ to 1.18
 - Updated _OStim Solutions_ to Beta 5
