@@ -1,6 +1,127 @@
+## CURRENT UI VERSION: 10.25.3
+## CURRENT MEGA VERSION: 10.26
+
+### 10.26.4
+
+**NOT YET RELEASED**
+
+OK so that took a little longer than expected! Had a bit more trouble with those eeekie's than I thought! I will probably need to do a bit more testing for now.
+
+- Fixed the VioLens profile that wouldn't load. 
+- (I actually broke it in the first place and the talented JanuarySnow fixed it)
+- This should prevent killmoves against the player.
+- Fixed a ridiculous amount of broken NPCs!
+- Updated _Faster HDT SMP_ to 1.18
+- Updated _OStim Solutions_ to Beta 5
+- Updated _Vokriinator Black_ to 6.8.0
+- Updated _Adamant_ to 5.3.5
+- Updated _Attack Dogs_ to 1.1.5k
+- Still haven't pulled the trigger on a cat mod.
+- I'll get the new _OSex_ animations by ace in there eventually.
+
+### 10.26.3
+
+**NOT YET RELEASED**
+
+- Added _Gray Quarter Apartment_
+- Added _Buyable Home Patch for Elysium Estate SSE_
+- Removed _Beginner's Shack - Starter Home_
+- Removed _Ruska - Riften Player Home_
+- Removed _Sicarius' Refuge SSE - A Hitman's Hideout_
+
+### 10.26.2 
+
+**NOT YET RELEASED**
+
+Can't stop, won't stop. Decided to add a few player home options to the UI profile and well, maybe got a little carried away.
+Will probably compile this after a little more testing, for distribution on this server as a "test" version.
+
+- Abandoned my research into custom physics XMLs. None are as good as the defaults.
+- Replaced _HDT Skinned Mesh Physics_ with _Faster HDT-SMP_
+- Changed my mind on the grass mod. The LOD transition is actually WAY better. As far as I am concerned, it is worth the substantial tradeoff in grass quality. The new grass is also FAR more performance-friendly.
+- Added craft-only _Girl's Heavy Armors SE_
+- Added a **small** collection of _BD's Armor Replacers_ and listed them as "sexy" variants that you can purchase at a premium from Khajiit caravans.
+- Added official support for _Book of UUNP_, skimpy edition. They will likely be uncommon enough to avoid most complaints.
+- Officially added _Elysium Estate_. Pending, need to check for conflicts in all profiles.
+- Added a collection of Elianora homes listed below.
+- Added _Beginner's Shack - Starter Home_
+- Added _Eli's Breezehome_
+- Added _The Rookery - Bard and Thief Loft in Solitude_
+
+### 10.26.1b
+
+**NOT YET RELEASED**
+
+Preliminary UI version is completed. The following changes were made:
+
+- Still experimenting with SMP and CBPC configs.
+- Attempting to track down why killmoves are still happening against the player.
+- Added _Masque of Clavicus Vile 4K_
+- Added back _No Grass In Objects_
+- Added back _Grass FPS Booster_
+- Replaced _Veydosebrome Regions_ with _Cathedral Landscapes._
+- Updated _Synthesis_ to 0.21.4
+- Fixed several small bugs reported in my server.
+- Regenerated much more performant LODs with grass LOD option (for the horrid transition)
+- Reran BodySlides
+- Reran Nemesis
+- Reran Synthesis
+
+Will possibly compile a version for my team sometime before dawn, but doubt they will have time to test it...
+
+### 10.26.1a
+
+**NOT YET RELEASED**
+
+**Felt cute, thought I might update _Licentia._**
+
+Here's a preview of the **10.26 UI Release** which will probably drop shortly after the New Year.
+
+Not sure when I'll have time for the **LLS Variant.**
+
+- Experimenting with new SMP and CBPC configs for more realistic jiggliness.
+  We'll see how it goes.
+- Experimenting with lighter grass LOD configs to do something, anything about the
+  terrible fucking LOD transition.
+- Added the _Skyrim 2020 8.6 Update_ to the list (need to rerun LODs now...)
+- Added Pfuscher's _Blended Roads Retexture BETA_
+- Updated _Maximum Carnage_ to 6.9.3 and added support for animated limbs!
+- Updated _Odin_ to 1.9.1
+- Updated _Adamant - A Perk Overhaul_ to 5.3.4
+- Updated _CHADD Uncapper Preset Library_ to 2.11
+- Updated _eeekie's Enhanced NPCS_ to the 3.2 Compatibility Version
+  (only going to use the Cicero...)
+- Updated _High Level Enemies Redux_ to 2.0.1
+- Updated _Mihail's Falmer Abyssraiders_ to 2.0
+- Updated _Mihail's Giant Centipedes_ to 1.4
+- Updated _Attack Dogs - A Dog Combat Overhaul_ to 1.1.15j
+- Updated _Attack Dogs_ patches and incorporated them into the list.
+- Updated _Guard Dialogue Overhaul_ to 2.18
+- Updated _Sleeping Expanded_ to 1.20
+- Updated _Water for ENB_ to 1.53
+- Updated _Embers XD_ to 2.5.0
+- Updated _Ruins Clutter Improved_ to 3.2
+- Updated _Legacy of the Dragonborn Patches_ to 2.5.10
+- Need to decide on a replacement for the Cat Mod. **TAKING SUGGESTIONS!**
+- Need to examine Discord and Github backlog to address any outstanding bugs.
+  If you have them, **REPORT THEM!**
+- Need to regenerate LODs.
+- Need to rerun BodySlides.
+- Possibly need to rerun Nemesis.
+- And Synthesis.
+- And finally upload all the ancillary output files to the CDN!
+
+### 10.26
+
+**ONLY APPLIES TO THE LLS VARIANT**
+
+**THIS IS THE CURRENT VERSION ON MEGA**
+
+- Updated _Billyy's Animations SE_ to 5.2
+
 ### 10.25.4.2
 
-NOT YET RELEASED. ONLY APPLIES TO THE LLS VARIANT.
+**ONLY APPLIES TO THE LLS VARIANT**
 
 - Reinstalling the Experience mod reverted the perk menu to default. Oops, fixed.
 - Fixed the incorrect path for Synthesis.
@@ -9,12 +130,14 @@ NOT YET RELEASED. ONLY APPLIES TO THE LLS VARIANT.
 
 ### 10.25.4
 
-ONLY APPLIES TO THE LLS VARIANT.
+**ONLY APPLIES TO THE LLS VARIANT**
 
 - Enabled Static Leveling on all profiles.
 - Fixed the unreadable Pizza menu in the AE profiles.
 
 ### 10.25.3
+
+**THIS IS THE CURRENT VERSION ON THE UI**
 
 NOTE: The invisible trim around the door of the Thalmor Embassy is a bug with ENB. You will have to deal with it.
 
