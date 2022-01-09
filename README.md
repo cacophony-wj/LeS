@@ -3,7 +3,6 @@
 # READ IT!
 
 - [DO NOT CLOSE ME](#do-not-close-me)
-  - [This README is **NOT** optional! It is **NOT** an advice column! Licentia will **NOT** work AT ALL unless you follow it!](#this-readme-is-not-optional-it-is-not-an-advice-column-licentia-will-not-work-at-all-unless-you-follow-it)
 - [READ IT!](#read-it)
 - [ATTENTION! UPDATE SKYRIM!](#attention-update-skyrim)
 - [Preamble](#preamble)
