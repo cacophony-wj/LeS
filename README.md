@@ -2,8 +2,6 @@
 
 # READ IT!
 
-- [DO NOT CLOSE ME](#do-not-close-me)
-- [READ IT!](#read-it)
 - [ATTENTION! UPDATE SKYRIM!](#attention-update-skyrim)
 - [Preamble](#preamble)
 - [STRONG WARNINGS](#strong-warnings)
