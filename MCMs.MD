@@ -14,9 +14,9 @@
       - [Beds](#beds)
       - [Undressing](#undressing)
     - [How To Use This Mod](#how-to-use-this-mod)
-  - [CGO](#cgo)
   - [Quick Light](#quick-light)
   - [Skyrim Outfit System](#skyrim-outfit-system)
+  - [VioLens](#violens)
   - [Now you are ready to spawn!](#now-you-are-ready-to-spawn)
 
 # Licentia Configuration
@@ -167,6 +167,10 @@ Using this Mod is optional, but you MUST use the "Change Outfit" Power and selec
 **Quick Slots Enable**
 
 _You must Favorite an Outfit to see it in the Change Outfit Power Menu_
+
+## VioLens
+
+Killmoves on the player are bugged due to the power levels of enemies. You need to choose the bottom menu, then import the "NoKillmovesOnPlayer" profile.
 
 ## Now you are ready to spawn!
 
