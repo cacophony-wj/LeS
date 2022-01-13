@@ -9,10 +9,6 @@
   - [Game MCM Options](#game-mcm-options)
   - [Fertility Mode+](#fertility-mode)
   - [OStim](#ostim)
-    - [Configuration](#configuration)
-      - [Sex Scenes](#sex-scenes)
-      - [Beds](#beds)
-      - [Undressing](#undressing)
     - [How To Use This Mod](#how-to-use-this-mod)
   - [Quick Light](#quick-light)
   - [Skyrim Outfit System](#skyrim-outfit-system)
@@ -126,15 +122,7 @@ _Randomly Inseminate_ allows you to simulate widespread fucking without acting i
 
 ## OStim
 
-The settings in this extensive mod are almost all down to personal preference. I recommend you simply "Import Settings" to get my recommendations (scroll all the way down, on the right).
-
-That said, a couple more optimization options are available. 
-
-### Add-Ons
-
-Under **ORomance**, everyone will be bisexual unless you enable "NPC Sexualities." Then you will have to confirm their sexual orientation before you can seduce them with this mod. The **Difficulty Modifier** is quite stout at default -- you require a lot of compliments, persuasion, and gifts to convince someone to like you. It's a bit like a dating sim in this respect, which was Sairion's goal. If you _really_ want to go hard with this, you will ignore all the other sexy dialog prompts and options in this modlist until you successfully seduce someone with _ORomance_ for the first time. That would be rather immersive. Finally, if you do have sex with a special lady, you may find she is suddenly angry and will not speak with you any longer. You came inside her you dumbass. They don't like that. To prevent this, check the box here that says "NPCs are not cautious about vaginal ejaculation." Makes the most sense if you don't bother with _Fertility Mode_.
-
-Under **ONights** you can control how often the people around you have sex. This will never happen during the day and never in a public space, people will behave semi-realistically and, on default settings, they will stop having sex and put on their clothes if they spot you peeping. You can change this here, as well as increase the horniness of all of Skyrim.
+The settings in this extensive mod are almost all down to personal preference. I recommend you simply "Import Settings" to get my recommendations (scroll all the way down, on the right). If you wish to customize the settings further, I recommend you read about the whole Suite of mods on Nexus. It's pretty cool stuff.
 
 ### How To Use This Mod
 
