@@ -126,13 +126,11 @@ The settings in this extensive mod are almost all down to personal preference. I
 
 ### How To Use This Mod
 
-OStim/OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect / advance scene, enter is open or close menu. Period or decimal ends the scene. **FreeCam is disabled by default.** To enable it, adjust the value for start scene and the hotkey on the right side of this mod's MCM.
+OStim/OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect or advance scene, enter is open or close menu. Period or decimal ends the scene. Freecam is now enabled, but not automatically. Press the forward slash key on the NUMPAD to activate it.
 
 Personally as a despicable Boomer and former data entry clerk at UPS, the fact that people willingly choose to do without NUMPADs both disturbs and angers me. But I know it's a thing. If you don't have one, no problem. You can hold down **F8** for 10 seconds to rebind all of OSex's default controls. Good luck finding keys that aren't already in use.
 
 If you encounter a scene that is terribly out of alignment, press the L key to open a menu with tons of options for adjustments (this is the OAlign mod). If you save your changes they will persist for that animation.
-
-Bear in mind that many subjects do not have appropriate animations (such as lesbian scenes). To find these, press the backslash key \ at any time, type in a keyword, and press Enter to begin.
 
 At any time you can go up to anyone and press the up arrow to have OSex sex with them.
 
