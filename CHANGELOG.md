@@ -10,7 +10,7 @@ The alternate profiles are not yet available. Expect them by the end of the mont
 - Updated _OCum_ to 1.4 and got it working
 - Reinstalled a couple of animation mods that wouldn't compile.
 
-## 10.29.1 *
+## 10.29.1
 
 **UNRELEASED**
 
