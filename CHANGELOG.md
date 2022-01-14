@@ -1,9 +1,93 @@
-## CURRENT UI VERSION: 10.25.3
-## CURRENT MEGA VERSION: 10.26
+## 10.30
+
+**THIS IS THE CURRENT VERSION ON THE UI.**
+
+The alternate profiles are not yet available. Expect them by the end of the month. There is however, an old totally SFW version floating around, not sure if it still installs.
+
+- Added _OPubes_
+- Added _Pubes Forever SSE_
+- Added _Pubic Hair Overlays SE_
+- Updated _OCum_ to 1.4 and got it working
+- Reinstalled a couple of animation mods that wouldn't compile.
+
+## 10.29.1 *
+
+**UNRELEASED**
+
+- Updated _CBPC - CBP Physics with Collisions_ to 1.4.16
+- Updated _Faster SMP_ to 1.22
+- Updated _VioLens - A Killmove Mod SE_ to 2.30
+- Updated _Skyrim Immersive Creatures_ to 7.0.2 (thanks Xanza)
+- Updated _Embers XD_ to 2.5.1
+- Updated _powerofthree's Papyrus Extender_ to 4.5.7
+
+## 10.29
+
+**UNRELEASED**
+
+- Updated _New Animations for OSex by aceanimations_ to 0.4.2nexus
+- Updated _Janquel's Arguably Needed Quixotically Unifying ESP Library_ to 1.4
+- Reran _Nemesis_
+- Reran _Synthesis_
+- Regenerated BodySlides
+
+## 10.28.1 
+
+**UNRELEASED**
+
+- Updated _Serana Dialogue Add-On_ to 2.9.2.2
+
+- Updated _CBBE 3BA_ to 2.18
+- Updated _Faster HDT-SMP_ to 1.19
+- Updated _CPBC - CBP Physics with Collisions_ to 1.4.15
+- Updated _Security Overhaul SKSE - Some More Locks_ to 1.01
+- Updated _Vanilla Script (micro)Optimizations_ to 1.14
+
+## 10.28
+
+- Fixed the _OStim_ profile to load a freecam hotkey (thanks Eggy!)
+- Attempted a new weapon speed fix.
+- Reverted the change to skill points.
+- Made it so that you don't have to sleep to level up. (Eggy again)
+- Added _OSound_
+- Added _OPrivacy_
+- Added _ORomance Stat Editor_
+- Added back _OVoice_
+- Added back _Veydosebrom Regions_
+- Reinstalled _Grass FPS Booster_ to match.
+- Added _Grass Cache Fixes_
+- Updated _Serana Dialogue Addon_ to 2.9 Full
+- Updated _OCum_ to 1.4
+- Removed _Cathedral Landscapes_
+- Reduced the insane sharp filter on ENB just a touch.
+- Regenerated Grass Cache
+- Regenerated LODs
+- Reran Synthesis
+
+## 10.27
+
+- Fixed a bug where OStim animations would not play.
+- Fixed a bug where the White Stag of Hircine was invisible.
+- Followers not going into Wolfskull is a vanilla issue, reported to USSEP team.
+- Added _L'Amour Rose Lesbian Animation Pack_
+- Added back _Positive Undressed Reactions_
+- Added _New Vegasized Static Skill Leveling_
+- Added _Experience Quests Tweak_
+- Added _No Startup Quest XP_
+- Along with the above, reworked level and perk progression down a touch slower
+- Added _Dwemer Glowyfication - Skyrim Immersive Creatures_
+- Added a special _OStim Animations Compatibility Patch_ by Kwynon!
+- Updated _Serana Dialogue Addon_ to the long awaited 2.9
+- Updated _CBPC Physics_ to 1.4.11
+- Updated _Deiform Aldiun_ to 1.2
+- Updated _Unofficial Skyrim Special Edition Patch_ to 4.2.6a
+- Updated _Better Windhelm Ground Meshes_ to 1.3.3
+- Updated _Vanilla Script (micro)Optimizations to 1.13
+- Reran _Nemesis_ since I fucked with animations so much
+- Reran _Synthesis_ just in case
+- Reran _Undies_ as well, for the same reason
 
 ### 10.26.4
-
-**NOT YET RELEASED**
 
 OK so that took a little longer than expected! Had a bit more trouble with those eeekie's than I thought! I will probably need to do a bit more testing for now.
 
@@ -33,8 +117,6 @@ OK so that took a little longer than expected! Had a bit more trouble with those
 
 ### 10.26.3
 
-**NOT YET RELEASED**
-
 - Added _Gray Quarter Apartment_
 - Added _Buyable Home Patch for Elysium Estate SSE_
 - Removed _Beginner's Shack - Starter Home_
@@ -42,8 +124,6 @@ OK so that took a little longer than expected! Had a bit more trouble with those
 - Removed _Sicarius' Refuge SSE - A Hitman's Hideout_
 
 ### 10.26.2 
-
-**NOT YET RELEASED**
 
 Can't stop, won't stop. Decided to add a few player home options to the UI profile and well, maybe got a little carried away.
 Will probably compile this after a little more testing, for distribution on this server as a "test" version.
@@ -61,8 +141,6 @@ Will probably compile this after a little more testing, for distribution on this
 - Added _The Rookery - Bard and Thief Loft in Solitude_
 
 ### 10.26.1b
-
-**NOT YET RELEASED**
 
 Preliminary UI version is completed. The following changes were made:
 
@@ -82,8 +160,6 @@ Preliminary UI version is completed. The following changes were made:
 Will possibly compile a version for my team sometime before dawn, but doubt they will have time to test it...
 
 ### 10.26.1a
-
-**NOT YET RELEASED**
 
 **Felt cute, thought I might update _Licentia._**
 
@@ -127,8 +203,6 @@ Not sure when I'll have time for the **LLS Variant.**
 
 **ONLY APPLIES TO THE LLS VARIANT**
 
-**THIS IS THE CURRENT VERSION ON MEGA**
-
 - Updated _Billyy's Animations SE_ to 5.2
 
 ### 10.25.4.2
@@ -148,8 +222,6 @@ Not sure when I'll have time for the **LLS Variant.**
 - Fixed the unreadable Pizza menu in the AE profiles.
 
 ### 10.25.3
-
-**THIS IS THE CURRENT VERSION ON THE UI**
 
 NOTE: The invisible trim around the door of the Thalmor Embassy is a bug with ENB. You will have to deal with it.
 
@@ -219,8 +291,6 @@ ONLY affects the Servitium profile from LLS.
 - Return of the Undies ESP by request
 
 ### 10.22
-
-**Available only from my private server.**
 
 - Added _Security Overhaul SKSE - Lock Variations_
 - Added _Security Overhaul SKSE - Add-ons_
