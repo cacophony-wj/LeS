@@ -14,6 +14,7 @@
   - [Skyrim Outfit System](#skyrim-outfit-system)
   - [VioLens](#violens)
   - [Now you are ready to spawn!](#now-you-are-ready-to-spawn)
+  - [FINAL NOTE: On Alternate Starts](#final-note-on-alternate-starts)
 
 # Licentia Configuration
 
