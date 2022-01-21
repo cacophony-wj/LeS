@@ -163,3 +163,7 @@ Be sure to make a last second save in case something bad happens. You _do not_ w
 ### The Dodge Mod Will Not Work Until You Leave The Starting Cell.
 
 ### Do Not Report Bugs With The Dodge Mod If You Have Not Left The Starting Cell.
+
+## FINAL NOTE: On Alternate Starts
+
+Arthmoor's official position on his Alternate Start mod is that, in order to ensure that the Main Quest and any other mods or quests relying upon it work correctly, at some point early in the game you must make your way to Helgen and walk through all of the quest triggers located therein just as though you had played through the Alduin attack. This means going inside the keep, making your way down to see the roof collapse, running up against the blocked passage, THEN backtracking out of the keep, finding the cave entrance marked by the Unbound quest chain, and encountering Ralof and Hadvar inside so you can choose a "side" for any Civil War content you choose to partake in. I am confident this is necessary in most cases because I have had confirmed reports of quests breaking for my users if they chose an Alternate Start and skipped these steps. While not necessary for a limited roleplaying character (like say, a grimdark stealth archer who only does the Thieves' Guild and Dark Brotherhood questchains), if you wish to complete a "long playthrough" of Skyrim you **MUST** make it a point to traipse through Helgen and down to Riverwood before you do much else. Sorry but them's the breaks.
