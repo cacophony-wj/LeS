@@ -3,6 +3,7 @@
 - [Gameplay](#gameplay)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
   - [My skills don't seem to be leveling up!](#my-skills-dont-seem-to-be-leveling-up)
+  - [My weapons are swinging super fast or super slow!)(#my-weapons-are-swinging-super-fast-or-super-slow)
   - [WARNING! DON'T LISTEN TO ORLANDO!](#warning-dont-listen-to-orlando)
   - [I can't induct members into the Blades! Or other Follower weirdness!](#i-cant-induct-members-into-the-blades-or-other-follower-weirdness)
   - [My follower is walking around with an exploded head! (Or other types of gore.)](#my-follower-is-walking-around-with-an-exploded-head-or-other-types-of-gore)
@@ -45,7 +46,7 @@ From my user _BigMac_
 
 ### My skills don't seem to be leveling up!
 
-Sleep to learn new skills. You can pick whatever you want!
+The prompt to level up your skills will appear after you level up. I recommend choosing your new stat, then closing the menu, assigning your points, only to return to the perk menu and make your choices with the upgraded values.
 
 Still not working? The uncapper preset prevents skills from leveling beyond your level +18, to a maximum of twice your level. If your skill won't go up any further, try gaining a level!
 
