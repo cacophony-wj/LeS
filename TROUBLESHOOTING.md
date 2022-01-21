@@ -3,7 +3,7 @@
 - [Gameplay](#gameplay)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
   - [My skills don't seem to be leveling up!](#my-skills-dont-seem-to-be-leveling-up)
-  - [My weapons are swinging super fast or super slow!)(#my-weapons-are-swinging-super-fast-or-super-slow)
+  - [My weapons are swinging super fast or super slow!](#my-weapons-are-swinging-super-fast-or-super-slow)
   - [WARNING! DON'T LISTEN TO ORLANDO!](#warning-dont-listen-to-orlando)
   - [I can't induct members into the Blades! Or other Follower weirdness!](#i-cant-induct-members-into-the-blades-or-other-follower-weirdness)
   - [My follower is walking around with an exploded head! (Or other types of gore.)](#my-follower-is-walking-around-with-an-exploded-head-or-other-types-of-gore)
