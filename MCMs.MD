@@ -154,10 +154,6 @@ Using this Mod is optional, but you MUST use the "Change Outfit" Power and selec
 
 _You must Favorite an Outfit to see it in the Change Outfit Power Menu_
 
-## VioLens
-
-Killmoves on the player are bugged due to the power levels of enemies. You need to choose the bottom menu, then import the "NoKillmovesOnPlayer" profile.
-
 ## Now you are ready to spawn!
 
 Be sure to make a last second save in case something bad happens. You _do not_ want to do these MCMs again. I have expanded roleplaying options from the beginning of the game with the mod "Abandoned Prison Tweaks." First turn around and grab the key and mirror on the shelf nearby. The mirror is what you should use to change your appearance -- it causes far fewer bugs than the ``showracemenu`` command. The book provides a little flavor text on how you got where you are. The key opens the cabinet nearby, which you should do now. Inside you will find many books. On the left are alternate starts that usually put you somewhere compromised and naked. Underneath is "The Firmament", a book that lets you choose whatever Standing Stone you prefer from the beginning. On the right are Prostitution starts -- which are for flavor text only so far. Behind these books (move them by holding down the Activate button) is a chest with scrolls to assign your starting spells -- take all of them if you are a power gamer, or only the ones that represent your background. On the middle shelf is another key, which you should grab, and a cask with a few potions in it. On the bottom shelf is a chest with various crappy starting gear you can wear. There are two ways to choose where you will spawn. The statue, as in most lists, provides a host of specfic roleplaying options. And of course, there are the books mentioned previously. Do note that you must PICK UP a book to choose the start, not just READ it. After choosing one, check the small chest hidden behind a barrel in the corner where you started for a dozen lockpicks if you wish to take them. Then sleep on the bed to begin. 
