@@ -52,6 +52,10 @@ Still not working? The uncapper preset prevents skills from leveling beyond your
 
 Skill not leveling up upon reading a skill book? Check for any debuffs to skill gain on your magic effects tab. Take care of those, then try again.
 
+### My weapons are swinging super fast or super slow!
+
+Known bug with Skyrim when weapon speed buffs or debuffs get stacked too high. While impossible in the vanilla game, speeds with as many multipliers as my perks allow will eventually "roll over" and do the opposite. As far as I know, you can fix this by toggling the "Weapon Speed Fix" on and off in the menu for _SPERG._
+
 ### WARNING! DON'T LISTEN TO ORLANDO!
 
 Upon entering a certain inn, you will be given the option to stab a certain Vigilant of Stendarr with a Needle. **DO NOT DO THIS.** This is basically a means by which veterans to the "VIGILANT" mod can skip 3/4 of the mod to get to the fun stuff at the end. You will be _extremely_ underpowered and _utterly_ clueless as to what is going on if you do this. **SO DON'T DO IT!!** No, there is no way back. You will have to load from before you did what the obviously evil dude told you to do.
