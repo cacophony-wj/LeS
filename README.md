@@ -39,6 +39,8 @@ Although many of our _Wabbajack_ modlists require you to use the "Skyrim Special
 
 Welcome to the latest incarnation of _Licentia_. This modlist is intended as a high fantasy "Game of Thrones" Skyrim -- ultimate power fantasy where you can use an incredible amount of perks and spells to make the hero _you_ want, with just a touch of racy sexuality. However, it _does not_ do so via unimmersive "slooty" outfits such as bikini armors, lingerie, or various getups that look like costumes or pajamas. It also does not make the sex the point of the game -- you are not simulating sexual slavery with granular breast inflation values down to the millimeter or getting assaulted against your will by everything with a pulse -- the sex is meant is a side minigame or "break" between your hard but rewarding life as an adventurer.
 
+**I apologize for any oversights or inconsistencies in this readme.** It has had many additions and removals over the years and likely needs a full rewrite soon. Until I perfect this document, please struggle through as best you can and feel free to ask me for assistance on Discord or via this Github.
+
 _Want more detailed information before committing to a 300+ GB download?_ Check out the links below.
 
 [Video Preview of Licentia by "Official" Wabbajack Streamer _DroppedIceCream_](https://www.youtube.com/watch?v=vM0xFFFirRc)
