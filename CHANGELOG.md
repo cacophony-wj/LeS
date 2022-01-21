@@ -1,6 +1,71 @@
-## 10.30
+## 10.32.0.1
 
-**THIS IS THE CURRENT VERSION ON THE UI.**
+**THIS IS THE CURRENT VERSION ON THE UI**
+
+- Forgot to tick TDM in Nemesis. Oops. Fixed.
+ 
+## 10.32
+
+- Included _OpenSex Beta - Open alternative to OSex_ v.0.7 as a show of support
+- Updated _Legacy of the Dragonborn SSE_ to 5.5.7
+- Updated _Legacy of the Dragonborn Patches_ to 2.5.11
+- Updated _Legacy of the Dragonborn Perk Menus_ to 0.5
+- Updated _Vokriinator Black_ to 6.8.2
+- Updated _Hangbui - A Draugr Overhaul_ to 4.1
+- Updated _Savage Skyrim_ to 3.98
+- Updated _OBIS - Missives Addon_ to 1.05
+- Updated _Simple Dual Sheath_ to 1.5.2
+- Updated _Storm Lightning for SSE_ to 1.4.14
+- Updated _Security Overhaul SKSE - Lock Variations_ to 2.1
+- Updated _JS Berenziah SE_ to 1.3
+- Updated _Pause Menu After Load Screens_ to 2.0
+- Updated _SkyUI AIO SurvivaL_ to 6.0
+- Updated _powerofthree's Tweaks_ to 1.5.1
+- Updated _SSE Display Tweaks_ to 0.5.9
+- Reran Nemesis.
+- Reran BodySlides.
+- Reran Synthesis.
+- Reran Undies.
+
+## 10.31.1
+
+- Automated some more MCMs (thanks Eggy!)
+- Fixed a bug which would cause slow weapon attacks if weapon speed perks were chosen.
+- Reinstalled _CBBE 3BA_ for less jiggles (didn't work.)
+- So, added _3BA 3BBB CBPC Realistic Firm for less jiggles_ (sorta worked.)
+- Added _Barbarian Bodypaints - CBBE_
+- Added _Hellblade - Senua's Warpaints for Racemenu_
+- Reran Synthesis.
+- Reran Undies.
+
+## 10.31
+
+- Added _Pause Menu After Load Screens_ (Thanks Eggy!)
+- Added _LOD Unloading Bug Fix_
+- Updated _Spellsiphon - Immersive Combat_ to 5.16
+- Updated _Ultimate Dodge Mod Script Fixes_ to 4.8 (Thanks Eggy!)
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.32
+- Updated _New Animations for OSex by aceanimations_ to 0.5
+- Updated _CBPC - CBP Physics with Collisions_ to 1.4.17
+- Updated _Better Windhelm Ground Meshes_ to 1.3.4
+- Updated _Eli's Breezehome_ exterior with Parallax.
+- Updated _DynDOLOD Resources SE 3.00_ to Alpha 19
+- Reverted HDT to the Github version. This should improve CPU performance.
+- Correctly distributed zero sliders to all followers.
+- Correctly installed Illustrious Whiterun SE for 4K textures (Thanks Checker!)
+- Reinstalled Interesting NPCs with loose files, should fix a bard crash (Thanks Jettex!)
+- Reinstalled Whiterun Mesh Fixes and applied parallax to the meshes.
+- Removed a few of the fatter BodySlide presets.
+- Removed Mihail's Giant Centipedes due to FPS issues & multiplicative spawns.
+- Removed Elysium Estate due to FPS issues in the vicinity.
+- Revealed the ESPs for Pubes Forever and Pubic Overlays so they can be used by the player.
+- Regenerated Grass Cache.
+- Regenerated LODs with more detailed grass. There may be a performance impact.
+- Reran Bodyslides.
+- Reran Nemesis.
+- Reran Undies.
+
+## 10.30
 
 The alternate profiles are not yet available. Expect them by the end of the month. There is however, an old totally SFW version floating around, not sure if it still installs.
 
