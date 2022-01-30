@@ -218,7 +218,7 @@ Many times newer versions of _Licentia_ will require an updated version of _Wabb
 
 Then simply re-download the modlist from the Gallery and specify the same directories you did the first time. Then check the "Overwrite" box. This will _delete_ any customizations you have made to the modlist _unless_ you change the names of the folder(s) they are located in. More on this below.
 
-It is rarely recommended to continue a save when you update a modlist because _Skyrim_ super doesn't like it when you do that. Only update on a current save if you wish to start the game over, or if there is some horrible bug with it. In the latter case, I can often write a patch to fix your problem without necessitating a new save. Ask me on my private server. Just to confirm, _none of your save games will be deleted_ when you update. However, _if you have generated custom BodySlides_ or _added mods such as armors, followers, or any other alterations_ these will all be blown away. But there is a way to keep them! Just name the folder they are in to start with the tag `[NoDelete]`. Then they will be kept as-is. (As an example, using this method, `BodySlide Output` would be renamed to `[NoDelete]BodySlide Output`.
+It is rarely recommended to continue a save when you update a modlist because _Skyrim_ super doesn't like it when you do that. Only update on a current save if you wish to start the game over, or if there is some horrible bug with it. In the latter case, I can often write a patch to fix your problem without necessitating a new save. Ask me on my private server. Just to confirm, _none of your save games will be deleted_ when you update. 
 
 ## Removing the Modlist
 
