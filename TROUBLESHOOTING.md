@@ -1,6 +1,7 @@
 - [Content](#content)
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Gameplay](#gameplay)
+  - [I tried to do the vanilla intro but it is terribly messed up.](#i-tried-to-do-the-vanilla-intro-but-it-is-terribly-messed-up)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
   - [My skills don't seem to be leveling up!](#my-skills-dont-seem-to-be-leveling-up)
   - [My weapons are swinging super fast or super slow!](#my-weapons-are-swinging-super-fast-or-super-slow)
@@ -34,9 +35,7 @@
 
 ### What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!
 
-Boy did you ever download the wrong list. This list is mostly for playing Skyrim with titties in it.
-
-Your only option at present is to install the _Dungeons & Deviousness_ modlist to experience the most Lover's Lab content this side of an Oldrim installation. You may feel that _DND_ goes too hard in the direction of suffering and roleplay. If this the case, consider reading about the mods inside it and configuring the menus more to your liking. They are actually very customizable.
+Boy did you ever download the wrong list. This list is mostly for playing Skyrim with titties in it. For more hardcore content, check out the _Tsukiro_ modlist, also available on my server. You might also await the champion ForgottenGlory's big upcoming NSFW modlist which will have more of Lover's Lab's greatest hits in it. If _Licentia_ is a 1 in terms of fetish content, and _Dungeons & Deviousness_ was a 10, FG's upcoming list _Masterstroke_ will be about a 6. Look forward to it!
 
 ## Gameplay
 
