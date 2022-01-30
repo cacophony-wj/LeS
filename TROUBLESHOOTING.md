@@ -9,6 +9,7 @@
   - [My follower is walking around with an exploded head! (Or other types of gore.)](#my-follower-is-walking-around-with-an-exploded-head-or-other-types-of-gore)
   - [The tuning gloves in Winterhold seem to be acting up.](#the-tuning-gloves-in-winterhold-seem-to-be-acting-up)
   - [The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
+  - [I can't complete the bandit raid quest for Whiterun (or another city)](#i-cant-complete-the-bandit-raid-quest-for-whiterun-or-another-city)
   - [I'm trying to kill the Necromancers for Undeath and the quest won't complete.](#im-trying-to-kill-the-necromancers-for-undeath-and-the-quest-wont-complete)
   - [I can't find the attack site that Lan describes in Riverwood.](#i-cant-find-the-attack-site-that-lan-describes-in-riverwood)
   - [I set OStim to Auto Mode and things got weird.](#i-set-ostim-to-auto-mode-and-things-got-weird)
@@ -50,7 +51,7 @@ The prompt to level up your skills will appear after you level up. I recommend c
 
 Still not working? The uncapper preset prevents skills from leveling beyond your level +18, to a maximum of twice your level. If your skill won't go up any further, try gaining a level!
 
-Skill not leveling up upon reading a skill book? Check for any debuffs to skill gain on your magic effects tab. Take care of those, then try again.
+Skill not leveling up upon reading a skill book? Make sure you're not at the cap, then check for any debuffs to skill gain on your magic effects tab. Take care of those, then try again.
 
 ### My weapons are swinging super fast or super slow!
 
@@ -81,6 +82,10 @@ The Civil War questline is incredibly broken even in vanilla Skyrim partially du
 4. The conclusion of the Battle for Whiterun / Solitude / Windhelm is triggered by entering this capitol building.
 5. You do not need to escort Ulfric, Galmar, Tullius, Likke or anyone else all the way to the capitol building. Sometimes they won't even spawn when you enter the city! Merely entering it yourself is enough. Just as followers appear beside you, so will the faction leaders.
 6. Enjoy the rest of your horribly broken playthrough.
+
+### I can't complete the bandit raid quest for Whiterun (or another city)
+
+The guy who made this quest kinda made it really picky. You basically have to keep the Guard Captain alive while landing the last blow on the Bandit Leader **YOURSELF**.  Otherwise the quest will fail. No, followers or summons _do not count._ If you manage to do this without killing any NPCs, congratulations! Even if the quest fails, it should still technically "complete" and remove itself from your quest log. If it doesn't, you're just going to have to keep trying it until you get it. It seems to be rather buggy. I recommend buffing or armoring up and charging out in front of the guards before those damn fools get themselves killed.
 
 ### I'm trying to kill the Necromancers for Undeath and the quest won't complete.
 
