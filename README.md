@@ -65,6 +65,8 @@ A note about "save scumming," which is the practice of quickly saving and reload
 
 Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
 
+**Officially, absolutely zero changes to the modlist are supported from the Wabbajack server.** If you wish to add or modify the _slightest little thing_, even a seemingly innocuous change such as a RaceMenu or BodySlide preset, an ENB preset or an INI setting, you _must ask for support on my private server in the "additions" channel._ This is a conscious decision to reduce support requirements for our shared staff. The rule calls for a warning to be issued if you violate this, but I have personally chosen to ignore it because I know how you all are. _Technically the rule calls for you to be warned for asking, however,_ so I cannot be responsible for the actions of other admins, moderators or support staff. Please don't push it so I don't have to start enforcing it. _Again, if you made even the tiniest change, ask about it on my private server, not on the Wabbajack Discord._ I am extremely tolerant to additions if they are discussed in the proper place.
+
 ## Requirements
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
@@ -197,12 +199,6 @@ This does mean, also, that you can install any other list with this feature (Sto
 ## Preparing the Game
 
 The next step is to prepare the game for play. Navigate to the directory where you installed the modlist _Licentia_. Inside you will notice an executable file called _ModOrganizer.exe_. This file (the _Mod Organizer 2_ application) has already been automatically installed and configured by Wabbajack with all the necessary mods to run the modlist and does not need to be updated, replaced, or manually configured. Simply launch it to continue.
-
-## Crafting the Female Bodies
-
-With the introduction of _OBody_ to the modlist, building BodySlides is basically a thing of the past. To use your preferred BodySlide preset with _Licentia_, simply install and enable it anywhere in the list, complete character creation and MCM configuration, and strike the O key (the letter, not the number). This will bring up a list of every BodySlide preset you have installed. Choose the one you want, set your character's Weight via the Vanity Mirror, and you are good to go. You can switch the body as easily as you do your outfit. You can do the same with any NPC, by hovering the crosshair over them and striking the O key.
-
-If you wish to use custom armors with the list, however, the process is a bit more involved. The armors MUST be built with the ZEROED SLIDERS option in BodySlide -- none of the others will work properly with OBody. When you do build the bodies, be sure to check the 'BUILD MORPHS' checkbox in the lower left corner if it isn't already. That should be about all you need to know. If you need more detailed BodySlide instructions, they can be found with a simple Google search. Or feel free to drop in the channel and ask for help if you get confused. Most people are happy to give it!
 
 ## Launching the Game
 
