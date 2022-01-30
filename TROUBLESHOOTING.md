@@ -7,6 +7,7 @@
   - [WARNING! DON'T LISTEN TO ORLANDO!](#warning-dont-listen-to-orlando)
   - [I can't induct members into the Blades! Or other Follower weirdness!](#i-cant-induct-members-into-the-blades-or-other-follower-weirdness)
   - [My follower is walking around with an exploded head! (Or other types of gore.)](#my-follower-is-walking-around-with-an-exploded-head-or-other-types-of-gore)
+  - [I love the paraglider mod, but I keep dying when I land!](#i-love-the-paraglider-mod-but-i-keep-dying-when-i-land)
   - [The tuning gloves in Winterhold seem to be acting up.](#the-tuning-gloves-in-winterhold-seem-to-be-acting-up)
   - [The Civil War questline is horribly messed up. I can't complete the Battle(s) of Whiterun / Solitude / Windhelm. People are inverting backwards off the ground. Enemies don't stop spawning. There's no Ulfric/Tullius!](#the-civil-war-questline-is-horribly-fucked-up-i-cant-complete-the-battles-of-whiterun--solitude--windhelm-people-are-inverting-backwards-off-the-ground-enemies-dont-stop-spawning-theres-no-ulfrictullius)
   - [I can't complete the bandit raid quest for Whiterun (or another city)](#i-cant-complete-the-bandit-raid-quest-for-whiterun-or-another-city)
@@ -68,6 +69,10 @@ Sadly the follower framework I use is nowhere near as advanced as _Nether_, and 
 ### My follower is walking around with an exploded head! (Or other types of gore.)
 
 The fix I installed for this doesn't always trigger. Try casting the "Maximum Mending" spell you started the game with. It removes the gore effect from all nearby NPCs.
+
+### I love the paraglider mod, but I keep dying when I land!
+
+Known bug I'm afraid, I guess it doesn't always perfectly detect the landing event. To prevent this, just make sure you always close and reopen the paraglider right before you land. And, of course, always save before you jump! (Wish we could do that IRL.)
 
 ### The tuning gloves in Winterhold seem to be acting up.
 
