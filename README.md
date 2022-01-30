@@ -4,7 +4,8 @@
 
 - [ATTENTION! UPDATE SKYRIM!](#attention-update-skyrim)
 - [Preamble](#preamble)
-- [STRONG WARNINGS](#strong-warnings)
+  - [STRONG WARNINGS](#strong-warnings)
+    - [DO NOT ALTER THE MODLIST AND REQUEST SUPPORT FROM WABBAJACK STAFF!](#do-not-alter-the-modlist-and-request-support-from-wabbajack-staff)
   - [Requirements](#requirements)
     - [System Specs](#system-specs)
   - [Installation](#installation)
@@ -64,6 +65,8 @@ A note about "save scumming," which is the practice of quickly saving and reload
 # STRONG WARNINGS
 
 Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
+
+## DO NOT ALTER THE MODLIST AND REQUEST SUPPORT FROM WABBAJACK STAFF!
 
 **Officially, absolutely zero changes to the modlist are supported from the Wabbajack server.** If you wish to add or modify the _slightest little thing_, even a seemingly innocuous change such as a RaceMenu or BodySlide preset, an ENB preset or an INI setting, you _must ask for support on my private server in the "additions" channel._ This is a conscious decision to reduce support requirements for our shared staff. The rule calls for a warning to be issued if you violate this, but I have personally chosen to ignore it because I know how you all are. _Technically the rule calls for you to be warned for asking, however,_ so I cannot be responsible for the actions of other admins, moderators or support staff. Please don't push it so I don't have to start enforcing it. _Again, if you made even the tiniest change, ask about it on my private server, not on the Wabbajack Discord._ I am extremely tolerant to additions if they are discussed in the proper place.
 
