@@ -39,6 +39,10 @@ Boy did you ever download the wrong list. This list is mostly for playing Skyrim
 
 ## Gameplay
 
+### I tried to do the vanilla intro but it is terribly messed up.
+
+Always a risk in a heavily modded setup like this. Ideally you will choose either the "camping in the woods" start for some opening gear, or the "dumped by the wayside" start from the cabinet bookshelf for a start near Helgen with a little NSFW twist. If you absolutely MUST play the vanilla intro (I rather like it too), make sure the "Improved Camera" mod is disabled and try again. When you select the vanilla start from the statue, it takes a little while to initialize because there are so many mods in here. Before sleeping in the bed nearby, wait for Mara to finish speaking, then add maybe another ten seconds. Then try it.
+
 ### I don't have one of those ancient NUMPADs! How am I gonna use OStim?
 
 From my user _BigMac_
