@@ -68,15 +68,7 @@ Before asking a question, look at [Troubleshooting](https://github.com/cacophony
 
 ## WARNING: THIS MODLIST CONTAINS GRAPHIC SEXUAL CONTENT THAT SOME PLAYERS MAY FIND DISTURBING OR OFFENSIVE. YOU MAY WISH TO AVOID IT IF YOU SUFFER FROM TRAUMA AS EXPLAINED BELOW.
 
-As you may or may not be aware, NSFW Skyrim has a rather sordid history with some of the mods that are developed and even encouraged for it. I have battled back and forth between avoiding them completely and including those which are not "that bad," in a rather limited fashion. As of the 10.40 release, as opposed to compiling and maintaining multiple profiles, I have decided on the latter, and included explicit instructions for disabling the most questionable content.
-
-A handful of mods in this list contain sexual content that may be a bit too "raw" for some players, particularly those which may have encountered some physical, sexual, or emotional abuse in their pasts. The most obvious offenders are two: the _OProstitution_ mod, which enables the player to engage in rather exploitative sex work, and the _ODefeat_ mod, which can force players to engage in non-consensual sexual activity after being defeated in combat. 
-
-To disable the former, simply do not pick up the "Prostitution Lantern" at the beginning of the game, and do not craft it from its crafting station when you come upon it. The latter mod is disabled by default but can be further restricted if so desired. To prevent encountering its content, simply uncheck all of the options in its configuration menu when you reach that section of this readme. 
-
-A couple of the other mods, namly _Amorous Adventures_ and _OStim Solutions_, feature potentially disturbing content including graphic depictions of outlandish fetishes and/or non-consensual sex, however I have gone out of my way to alter them so that all of them are optional and/or clearly marked as offensive. If you wish to avoid them, please do not select any dialog options with a "disturbing content" warning.
-
-The modlist is also extremely easy to customize to prevent almost all graphic sexual content. Please continue reading if you are interested in these options.
+As you may or may not be aware, NSFW Skyrim has a rather sordid history with some of the mods that are developed and even encouraged for it. I have battled back and forth between avoiding them completely and including those which are not "that bad," in a rather limited fashion. As of the 10.40 release, as opposed to compiling and maintaining multiple profiles, I have decided on the latter, and included explicit instructions for disabling the most questionable content. You can find these in the MCM Guide detailed later in this readme, along with options to disable almost all graphic content so that anyone may enjoy the list.
 
 ## DO NOT ALTER THE MODLIST AND REQUEST SUPPORT FROM WABBAJACK STAFF!
 
