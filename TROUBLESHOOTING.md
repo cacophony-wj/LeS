@@ -3,7 +3,7 @@
 - [Gameplay](#gameplay)
   - [I tried to do the vanilla intro but it is terribly messed up.](#i-tried-to-do-the-vanilla-intro-but-it-is-terribly-messed-up)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
-  - [My skills don't seem to be leveling up!](#my-skills-dont-seem-to-be-leveling-up)
+  - [Leveling up is weird!](#leveling-up-is-weird)
   - [My weapons are swinging super fast or super slow!](#my-weapons-are-swinging-super-fast-or-super-slow)
   - [WARNING! DON'T LISTEN TO ORLANDO!](#warning-dont-listen-to-orlando)
   - [I can't induct members into the Blades! Or other Follower weirdness!](#i-cant-induct-members-into-the-blades-or-other-follower-weirdness)
@@ -49,9 +49,9 @@ From my user _BigMac_
 
 > If you hold F8 for 10 seconds it activates OSAs emergency rebind. Where Lshift pulls up the menu and WASD is how you nav. You can then rebind the keys manually. I use P L ; '  to nav, O and [ as yes/no and ] as toggle.
 
-### My skills don't seem to be leveling up!
+### Leveling up is weird!
 
-The prompt to level up your skills will appear after you level up. I recommend choosing your new stat, then closing the menu, assigning your points, only to return to the perk menu and make your choices with the upgraded values.
+The prompt to level up your skills will appear after you level up. I recommend choosing your new stat (Magicka, Health, Stamina), then closing the menu, assigning your points, only to return to the perk menu and make your choices with the upgraded skills.
 
 Still not working? The uncapper preset prevents skills from leveling beyond your level +18, to a maximum of twice your level. If your skill won't go up any further, try gaining a level!
 
