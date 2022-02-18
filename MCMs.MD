@@ -141,7 +141,7 @@ Personally as a despicable Boomer and former data entry clerk at UPS, the fact t
 
 If you encounter a scene that is terribly out of alignment, press the L key to open a menu with tons of options for adjustments (this is the OAlign mod). If you save your changes they will persist for that animation.
 
-At any time you can go up to anyone and press the up arrow to have OSex sex with them.
+At any time you can go up to anyone and press the up arrow to have OSex sex with them. **NOTE: DO NOT INITIATE SEX WITH THE STANDARD OSA MENUS!** (Available via the ENTER key on your numpad.) _OStim_ overrides these, so they will not function.
 
 Creatures do not function with OSex and I have no plans to ever implement them.
 
