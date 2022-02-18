@@ -30,7 +30,21 @@
 
 _Thank you to ForgottenGlory for the above image._
 
-# ATTENTION! UPDATE SKYRIM!
+# ATTENTION! THE LATEST VERSION OF SKYRIM, YES, THE $20 UPGRADE EVERYONE IS COMPLAINING ABOUT, IS NOW REQUIRED TO INSTALL LICENTIA.
+
+I realize this will be an unpopular decision, but let me explain. I like this content. I bought it when it was full price. I bought it again as an _Anniversary Edition._ The reasons? 
+
+I have 3,000 hours playing this game and maybe 6,000 modding it. It has by far been the number one most value for the money of any game in my entire life. Todd deserves any amount of money he chooses to ask for.
+
+Also, the game only exists in such a moddable form because Todd wants it to. The only way it will continue to be this way is if mods continue to make Todd money. Buying all this content is my way of voting for Starfield and TES6 to be just as customizable as Skyrim is.
+
+Lastly? I bought all this stuff, so I damn well want to play it. Keeping a non-upgraded version for people who prefer not to pay for it is extra work that I will never benefit from. On top of all that, the extra content makes heavy edits to the world, so when I remove it, I need to regenerate distant terrain. 
+
+This would need to be done twice, once for the added content, once without, every time I update the list. This is an additional 3 - 6 hours of work depending on how error-prone the process is.
+
+No offense, but you saving $20 one time does not matter much to me when it means either me ignoring the content I paid for, or an extra six hours of work every week.
+
+UPDATE SKYRIM!
 
 Although many of our _Wabbajack_ modlists require you to use the "Skyrim Special Edition Downgrader" before installing them, _Licentia does not._ In order to install this modlist, you **MUST** have your copy of _Skyrim Special Edition_ **COMPLETELY UPGRADED** to the latest version before beginning. It must also be set to the **ENGLISH LANGUAGE,** no other version will function properly. _Wabbajack_ will automatically "downgrade" it and place a copy in the `Stock Game` folder for use during play. I realize this is not an ideal situation, with some our lists requiring one step and the rest requiring another, but hopefully everyone will eventually come around to one method. To reduce the support burden for myself, I have chosen this particular route.
 
