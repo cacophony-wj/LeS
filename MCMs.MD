@@ -117,17 +117,17 @@ Fertility mode will pop up a window requesting to turn on. Choose NO right now, 
 
 ## Fertility Mode+
 
-_Be Warned:_ This mod is _very_ intrusive, with a lot of "heavy" features. If this concerns you, or you do not wish to deal with the difficulty inherent from possessing a full fertility and reproductive cycle, **do not** enable this mod, as in its current state it **can not** be fully disabled again. If this is not a concern of yours...
-
 "Enable" the mod. This is a _slow_ process. It will lock up the MCM menu, most likely, so you will have to exit all menus and re-enter.
 
 Check _No Non-Unique Women_ and _No Non-Unique Men_.
 
-The only other options you may be interested in are under "Automation" in the lower right.
+You may also be interested in the "Automation" options in the lower right.
 
 The _Spouse Fidelity_ option is hilarious if you set it down to around 50%. This basically means you have more baby mama drama than an Oklahoma trailer park.
 
 _Randomly Inseminate_ allows you to simulate widespread fucking without acting it out. Be wary of this mode!
+
+Finally, the default feedback is a bit intrusive. I recommend switching to _Page 2_ of the settings and disabling _Verbose Messages_ and _The Widget._ Otherwise, you will receive messages about insemination and, if you are female, have a really anatomical depiction of your reproductive organs onscreen at all times. I don't want to talk about it.
 
 ## OStim
 
