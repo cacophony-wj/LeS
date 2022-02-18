@@ -145,9 +145,13 @@ At any time you can go up to anyone and press the up arrow to have OSex sex with
 
 Creatures do not function with OSex and I have no plans to ever implement them.
 
+## Pick Up Books
+
+By default you pick up books instead of read them, so you can save skill books for later points. I have the hotkey to read a book first instead set to X. You may wish to change it because I don't use it a lot. One of your extra mouse buttons is a good choice.
+
 ## Quick Light
 
-Just as a note here, the free lantern can be turned on at any time by striking the `L` key or holding down the `Activate` button (`E` on keyboard, `A` on Gamepad). The keys for this can be changed in this MCM, as well as the brightness and style of the lantern.
+Just as a note here, the free lantern can be turned on at any time by striking the 'NUMPAD 1' key or holding down the `Activate` button (`E` on keyboard, `A` on Gamepad). The keys for this can be changed in this MCM, as well as the brightness and style of the lantern.
 
 ## Skyrim Outfit System
 
