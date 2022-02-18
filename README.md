@@ -172,7 +172,7 @@ Due to continuing problems with the download system for _Lover's Lab,_ I have be
 
 There are also several large files stored on Wabbajack's own servers, and since these are protected by CloudFlare many ISPs are not configured to route them properly. If you experience problems downloading files with "Licentia" in the filename, first try enabling the "Network Workaround" in Wabbajack's settings menu (gear icon, top right.) If that doesn't work, you will need a VPN set to the United States. (There are many high quality free, but slow, VPNs which have very good privacy policies.) If this STILL doesn't work, you can download them from the MEGA link below, but you will cap at downloads before you are finished. You can try creating an account to get around it, using a VPN, paying actual money, or waiting 24 hours between attempts. I'm sorry, I don't know what else to do.
 
-(Licentia Custom Files - MEGA Shared Directory)[https://mega.nz/folder/hHwTySzQ#S-rHmhJFUqiT4mC1epyNDg]
+[Licentia Custom Files - MEGA Shared Directory](https://mega.nz/folder/hHwTySzQ#S-rHmhJFUqiT4mC1epyNDg)
 
 ##  Using Wabbajack
 
