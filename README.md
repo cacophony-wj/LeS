@@ -66,13 +66,19 @@ A note about "save scumming," which is the practice of quickly saving and reload
 
 Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
 
-## WARNING: THIS MODLIST CONTAINS GRAPHIC SEXUAL CONTENT THAT SOME PLAYERS MAY FIND DISTURBING OR OFFENSIVE. YOU MAY WISH TO AVOID IT IF YOU SUFFER FROM TRAUMA AS EXPLAINED BELOW.
-
-As you may or may not be aware, NSFW Skyrim has a rather sordid history with some of the mods that are developed and even encouraged for it. I have battled back and forth between avoiding them completely and including those which are not "that bad," in a rather limited fashion. As of the 10.40 release, as opposed to compiling and maintaining multiple profiles, I have decided on the latter, and included explicit instructions for disabling the most questionable content. You can find these in the MCM Guide detailed later in this readme, along with options to disable almost all graphic content so that anyone may enjoy the list.
-
 ## DO NOT ALTER THE MODLIST AND REQUEST SUPPORT FROM WABBAJACK STAFF!
 
 **Officially, absolutely zero changes to the modlist are supported from the Wabbajack server.** If you wish to add or modify the _slightest little thing_, even a seemingly innocuous change such as a RaceMenu or BodySlide preset, an ENB preset or an INI setting, you _must ask for support on my private server in the "additions" channel._ The **only** exceptions are those changes for your particular setup that have already been mentioned elsewhere in this readme, such as mods for Gamepads or UltraWide. Changing resolution is also fine. This is a conscious decision to reduce support requirements for our shared staff. The rule calls for a warning to be issued if you violate this, but I have personally chosen to ignore it (most of the time) because I know how you all are. **However,** I cannot be responsible for the actions of other admins, moderators or support staff. Please don't push it so I don't have to start enforcing it. _Again, if you made even the tiniest change, ask about it on my private server, not on the Wabbajack Discord._ I am extremely tolerant to additions if they are discussed in the proper place.
+
+## THE ALTERNATE "ERP" PROFILE OF THIS MODLIST CONTAINS GRAPHIC SEXUAL CONTENT THAT SOME PLAYERS MAY FIND DISTURBING OR OFFENSIVE. YOU MAY WISH TO AVOID IT IF YOU SUFFER FROM TRAUMA AS EXPLAINED BELOW.
+
+As you may or may not be aware, NSFW Skyrim has a rather sordid history with some of the mods that are developed and even encouraged for it. I have battled back and forth between avoiding them completely and including those which are not "that bad," in a rather limited fashion. As of the 10.39.5 release, I have decided on the latter, mainly because I like iron man runs, and included them in an alternate profile labeled _Licentia ERP_ which is short for **E**rotic **R**ole**P**play. 
+
+Basically what this means is that it is largely the same list as _Licentia_, but it features a sex-worker minigame and non-consensual roleplay options for subduing enemies or finding yourself subdued. These come in the form of the _OProstitution_ and _ODefeat_ mods, descriptions for which can be found on Patreon and Lover's Lab, respectively. If any of this content is an issue for you, _do not switch to this profile._
+
+It also features a lot of changes to the list that involve safe-for-work, but frequently complained about, mods that I like to use, such as weird camera mods, unpaused menus, and automatic save profiles. It is also configured for a higher resolution, 1440p, and will tend to be more demanding. For these reasons, this _ERP Profile_ is **NOT** officially supported by Wabbajack, as per the previous section. If you switch to it, please limit all questions to my private server. I included it simply so I would not have to compile the list twice, once for here, once for elsewhere. If it becomes an issue I will remove it. 
+
+If you are interested in reducing sexual content even further, please refer to the MCM section of this readme and limit all support questions to my private server.
 
 ## Requirements
 
