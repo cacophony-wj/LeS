@@ -89,7 +89,9 @@ As you may or may not be aware, NSFW Skyrim has a rather sordid history with som
 
 Basically what this means is that it is largely the same list as _Licentia_, but it features a sex-worker minigame and non-consensual roleplay options for subduing enemies or finding yourself subdued. These come in the form of the _OProstitution_ and _ODefeat_ mods, descriptions for which can be found on Patreon and Lover's Lab, respectively. If any of this content is an issue for you, _do not switch to this profile._
 
-It also features a lot of changes to the list that involve safe-for-work, but frequently complained about, mods that I like to use, such as weird camera mods, unpaused menus, and automatic save profiles. It is also configured for a higher resolution, 1440p, and will tend to be more demanding. For these reasons, this _ERP Profile_ is **NOT** officially supported by Wabbajack, as per the previous section. If you switch to it, please limit all questions to my private server. I included it simply so I would not have to compile the list twice, once for here, once for elsewhere. If it becomes an issue I will remove it. 
+It also features a lot of changes to the list that involve safe-for-work, but frequently complained about, mods that I like to use, such as weird camera mods, unpaused menus, and automatic save profiles. It is also configured for a higher resolution, 1440p, and will tend to be more demanding. 
+
+For these reasons, this _ERP Profile_ is **NOT** officially supported by Wabbajack, as per the previous section. In fact, unless you perform a few custom modding steps before you begin, it will not function at all (all humanoids will be frozen in a T pose.) If you switch to it, please limit all discussion to my private server. I included it simply so I would not have to compile the list twice, once for here, once for elsewhere. If it becomes an issue I will remove it. 
 
 If you are interested in reducing sexual content even further, please refer to the MCM section of this readme and limit all support questions to my private server.
 
