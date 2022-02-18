@@ -72,7 +72,7 @@ Before asking a question, look at [Troubleshooting](https://github.com/cacophony
 
 ## THE ALTERNATE "ERP" PROFILE OF THIS MODLIST CONTAINS GRAPHIC SEXUAL CONTENT THAT SOME PLAYERS MAY FIND DISTURBING OR OFFENSIVE. YOU MAY WISH TO AVOID IT IF YOU SUFFER FROM TRAUMA AS EXPLAINED BELOW.
 
-As you may or may not be aware, NSFW Skyrim has a rather sordid history with some of the mods that are developed and even encouraged for it. I have battled back and forth between avoiding them completely and including those which are not "that bad," in a rather limited fashion. As of the 10.39.5 release, I have decided on the latter, mainly because I like iron man runs, and included them in an alternate profile labeled _Licentia ERP_ which is short for **E**rotic **R**ole**P**play. 
+As you may or may not be aware, NSFW Skyrim has a rather sordid history with some of the mods that are developed and even encouraged for it. I have battled back and forth between avoiding them completely and including those which are not "that bad," in a rather limited fashion. As of the 10.39.5 release, I have decided on the latter, mainly because I like iron man runs, and included them in an alternate profile labeled _Licentia ERP_ which is short for **E**rotic **R**ole**P**lay. 
 
 Basically what this means is that it is largely the same list as _Licentia_, but it features a sex-worker minigame and non-consensual roleplay options for subduing enemies or finding yourself subdued. These come in the form of the _OProstitution_ and _ODefeat_ mods, descriptions for which can be found on Patreon and Lover's Lab, respectively. If any of this content is an issue for you, _do not switch to this profile._
 
