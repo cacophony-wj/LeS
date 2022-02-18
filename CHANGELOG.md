@@ -1,6 +1,228 @@
-## 10.32.0.1
+## 10.39.5
 
-**THIS IS THE CURRENT VERSION ON THE UI**
+**THIS IS THE CURRENT VERSION ON THE UI.**
+
+Identical to 10.39.1 except for profile customizations.## 10.39.1
+
+- Added _Kaidan 2 Extended Edition_
+- Added _Detection Meter_
+- Added "the horn" plugin for _Swiftly Order Squad_
+- Added the Nether patch for _Serana Dialogue Addon_
+- Updated _Legacy of the Dragonborn Creation Club Patch Hub_ to 5.0
+- The above doesn't do anything to fix the crash, so my hack is still in place.
+- So, whatever.
+- Updated _Maximum Carnage_ to 6.9.9
+- Updated _Comprehensive Falskaar Fixes_ to 1.1
+- Updated _Steaming Hot Soups and Stews_ to 1.1
+- Updated _Atlas Map Markers SE_ to 2.1
+
+## 10.38.1
+
+Added an `ESM` flag to the Hall of Wonders' plugin so it will have a floor instead of a void.
+Reinstalled the _Skyrim 2020_ series to fix some missing textures (tables, benches)
+Patched a few holes in landscape areas due to mismatched CC edits.
+Patched out some XP debuff descriptions that were no longer relevant.
+Probably not save safe, sorry to say. 
+
+## 10.38
+
+- Added _Legacy of the Dragonborn - Creation Club Patch Hub_ 
+- Added _OCum Spells_
+- Added _Athena BodySlide Preset_
+- Added _Celestial Beings - Horoscope Body Shapes_
+- Added _The Tinraa Body_
+- Added _The Tinraa Body EDITS_
+- Added _Functional Fearsome Fists - Innate Unarmed Boost_
+- Added _DunelSaur's Bone Wolf Expansion_
+- Added _Security Overhaul SKSE - Regional Locks_
+- Added _Swiftly Order Squad - Follower Commands UI_
+- Added _Steaming Hot Soups and Stews_
+- Added _Eli's Breezehome Optimization Packages_
+- Added _Comprehensive Falskaar Fixes_
+- Added _Complete Replica Fixes for LOTD_
+- Added _Sunder and Wraithgard - Editable Vault Cell_
+- Swapped _eeekie's Kaidan_ for _eeekie's Even Better Kaidan_
+- Updated _Legacy of the Dragonborn - Official Patches_ to 2.5.12
+- Updated _The Curators Companion_ to 6.1.2 (includes CC support!)
+- Updated _Undeath - Classical Lichdom_ to 3.55
+- Updated _Knight of the North_ to 2.1.0.3
+- Updated _New Animations for OSex by aceanimations_ to 0.9n
+- Updated _OSex L'amour Rose Animation Pack_ to 0.40
+- Updated _Calliope - HP RaceMenu and 3BA BodySlide Preset_ to 1.1
+- Updated _CBBE Creation Club BodySlides - Everything Else_ to 1.8
+- Updated _Security Overhaul SKSE - Add-ons_ to 0.1.4
+- Updated _Skyrim 2020 Parallax_ to 8.7
+- Updated _Water for ENB_ to 1.54
+- Updated _Skyrim Project Optimization SE_ to 1.5
+- Updated _VIGILANT - Book Covers_ to 1.3
+- Updated _The Choice Is Yours_ to 2.4
+- Updated _Vanilla Script (micro)Optimizations_ to 1.15a
+- Removed _Falskaar - Addons and Patches_
+
+## 10.36.3
+
+Added _The Veteran Skin - Regular Face_
+Added _The Veteran Skin - SoS Retextures_
+Fixed a bug in Sightless Pits where a hallway had no texture.
+
+## 10.36
+
+_Nether's Follower Framework_ is back. I wrote a big long thing about it but deleted it. So I'll just keep it brief. It's the best at what it does. I still use ENB and TCC whose authors are just as cringe. Serana and custom follower homes are bugged with the bad mods I chose to replace it. I'm done making my list worse for a pointless crusade very few people know of, much less care about. I did add the LL version so at least he can't make money off of me.
+
+Added back motherfucking _Nether's Follower Framework_
+Added _Dear Diary Dark Mode_ and all patches. Level up menu works now!
+Sadly this means _Extended UI_ had to go.
+On the upside, UltraWide and greater resolutions work without any modifications!
+Added _CBBE 3BA Creation Club_
+Added _CBBE Creation Club Outfits BodySlides_
+Added _CBBE Creation Club 3BA Slider Groups_
+Added _CBBE Creation Club Naming Consistency Patch_
+Updated _ENBSeries_ to v0469
+Updated _PI-CHO ENB for Cathedral Weathers_ to N6.9
+Updated _Serana Dialogue Add-On_ to 2.9.2.6
+Updated _Wheels of Lull Unwound SE_ to 5.1.3
+Updated _Knight of the North_ to 2.1.0.2
+Updated _Morrowind Threads_ to 1.1.1.1
+Updated _Water for ENB_ to 7.54
+Updated _Pause Menu After Loading_ to v5
+Added several new presets from my Discord server.
+Reran Nemesis.
+Reran BodySlides.
+Reran Synthesis, including Undies.
+
+## 10.35.2 
+
+Added _OFadeToBlack - A SFW-ifier Addon for OStim_ (non-ERP profile only) Thanks to @Hatter#5180!
+Added _OProstitution ASLAL Integration_. Thanks to @kyle215ps3#7251! (ERP profile only)
+Added _HG Hairdos SE_
+Added _Azurite Eyes_
+Added _Loks Eyes Standalone_
+Added _Kyoe's Bang'n Brows_
+Added _Kala's Eyes_
+Updated _Serana Dialogue Add-On_ to 2.9.2.6
+Updated _BodySlide and Outfit Studio_ to 5.5.2
+Updated _Wyrmstooth_ to 1.19.8
+Updated _Security Overhaul SSE - Lock Variations_ to 3.0
+Added RaceMenu presets from my users.
+
+## 10.35.1
+
+- Switched from _Better Khajiit Females_ to _Feminine Khajiit - Gray Cat 8K_
+- Switched from _Better Khajiit Males_ to _Masculine Khajiit - Gray Cat 8K_
+- Added _Better Claws and Gauntlets SSE_ along with the _CBBE_ and _HIMBO_ conversions.
+- Note I did NOT include the gauntlet refits due to compatibility.
+- Added the _Enhanced Argonians_ collection of texture upgrades.
+- Added _BRB SE - Beast Race Bodypaints 4K_
+- Added and customized _Lexy's Experience ini_
+- Properly enabled _ENB on Loading and Title Screen_
+- Updated _Serana Dialog Add-On SE_ to 2.9.2.5
+- Updated _Extended Encounters_ to 1.6.4
+- Updated _BodySlide and Outfit Studio_ to 5.5.1. I did **NOT** rerun BodySlides.
+- Updated _eFPS - Exterior FPS boost_ to 2.3
+- Switched _Pause Menu After Loading_ to the automatic version
+- Removed _EasyWheel_ as useless clutter until I can patch it properly.
+- Experimented with _MCM Recorder_ as a way to offer multiple fetish and difficulty profiles, but discard the idea as not reliable or robust enough.
+- Included _OpenSex Beta 0.9_ into the downloads folder as a show of support.
+- Added all current _OpenSex Compatibility Patches_ to the downloads folder in a show of support.
+- To Do: Add presets from my presets channel. This will likely be a most-hated stealth update.
+
+# 10.34.1.1
+
+- Enabled the _Conner's Wyrm_ patch by removing a master.
+- Thought about patching chocolates to satisfy hunger, decided against it.
+- Thought about patching cat food to satisfy hunger, decided against it.
+- Patched all the custom alcohols from _Spirits of Skyrim_ to get you drunk instead.
+- Regenerated distant grass and LODs to be a little darker.
+
+## 10.34.1
+
+Added _Alternate Conversation Camera_ and configured it for my camera setup.
+Added _OAroused_
+Added _ODefeat_ and configured it for my camera setup.
+Added _OProstitution._ Read the description of this and the above mod on Patreon.
+Added two minigames mods to pass the time:
+Added _Triple Triad in Skyrim SE_
+Added _Tavern Games - Mini Games in Skyrim_
+Added _Convenient Horses_ and associated patches.
+Added _Dual Hand Combo Hotkeys_. Try this mod out!
+Added _Slip Off Slopes_
+Added _Atlas Map Markers_
+Added _EasyWheel Menu_ with a few patches -- kind of a placeholder for now.
+Reran _Nemesis_
+
+## 10.34
+
+Added _Alduin's Reign Title Menu (Soulfire Version)_
+Added _Sons of Skyrim - Epic Metal Main Menu Music Mod_
+Added all the music mods from _Music Mods Merged SSE._ Look them up!
+Added _Lore Based Loading Screens_
+Added _Dear Diary_ and the _Static Skill Leveling_ patch for it
+Added _CoMAP_ and the CC fishing patch for it
+Added _OJazz_ with a custom selection of tracks. _I challenge you not to laugh when a sex scene starts._
+Added _OCrime_ with a penalty of 200 gold, mainly for the onlookers function
+Added _A Whiterun Parallax_
+Updated _OpenSex Addon Version_ to .7nexus
+Updated _OStim L'Amour Rose Animation Pack_ to 0.28
+Updated _Spellsiphon_ to 5.17
+Updated _Undeath Classical Lichdom - The Ascension_ to 4.41
+Updated _HIMBO Refits_ to 4.3.1 and reran their BodySlides
+Updated _Serana Dialogue Add-On SE_ to 2.9.2.4
+Updated _Citizens of Tamriel SE_ to Redux Version
+Updated _Fertility Mode Fixes and Tweaks_ to 2.33
+Updated _Pause Menu After Loading_ to v4
+Removed _Dragon Souls to Perk Points_ (Deadly Dragons has this feature)
+Removed _Bounty Perks_
+Removed _Quests Award Perk Points_
+Reworked the experience progression to be slower but more dramatic
+
+## 10.33
+
+This version requires the $20 Anniversary Upgrade to play.
+
+- Updated and incorporated all AE CC Content
+- Added _Open World Loot_ and did a FUCKTON of patching for it!
+- Added _CBBE Creation Club Outfits BodySlides_ along with _Everything Else_
+- Added _HIMBO Creation Club Refits for BodySlide_
+- Added _Lucien - Anniversary Edition - All-In-One_
+- Added MANY _Magical College of Winterhold_ patches
+- Added _Honed Metal_ and the INI for it
+- Added _Additional Clockwork_
+- Added _Curated Curios_
+- Added _Diverse Redguard Clothes_
+- Added _Ghosts of the Tribunal_
+- Added _Knight of the North_
+- Added _Morrowind Threads_
+- Added _Orcish Orch Strongholds_
+- Added _Pirate's Life For Me_
+- Added _The Vigilant's New Clothes_
+- Added _Conner's Survival Mode_ with _Coffee Mod Integration_
+- Added _Crossbow Integration_
+- Added _Creation Club Integration - Armours_
+- Added _Better Adventurer's Backpack_
+- Added _Better Rare Curios_
+- Added _Skyrim Immersive Creatures_ patches
+- Added _eFPS - Anniversary Edition_
+- Added _Unofficial Skyrim Creation Club Content Patch_
+- Added _Simple Camping Storage_
+- Added _CC Camping - Comfy Sleeping_
+- Added _Relics of Hyrule - Disable and Silence Faeries_
+- Added _Wyrmstooth - Creation Club Ingredient Patches_
+- Added _Skyrim Anniversary - Growable Plants_
+- Added _Wintersun - Anniversary Edition Patches_
+- Added _Wintersun Skill Rate Alternative_
+- Added _VIGILANT - Skyrim Sewers Patch_
+- Added _Crazy Caco's Creation Club Collection_
+- Added _Skyrim Sewers 4 and Saints and Seducers Patch_
+- Added _Creation Club - Properly Environment Mapped_
+- Added _Divine Crusader Sword Fix_
+- Added _Nix-Hound Eyes Fix_
+- Along with shit tons and customization and fixes I can't possibly recall!
+- Reran Nemesis.
+- Reran BodySlide.
+- Regenerated LODs.
+- Reran Synthesis. Undies default to on, you will need to rerun it to disable them.
+
+## 10.32.0.1
 
 - Forgot to tick TDM in Nemesis. Oops. Fixed.
  
