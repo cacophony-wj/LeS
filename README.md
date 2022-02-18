@@ -38,15 +38,13 @@ I have 3,000 hours playing this game and maybe 6,000 modding it. It has by far b
 
 Also, the game only exists in such a moddable form because Todd wants it to. The only way it will continue to be this way is if mods continue to make Todd money. Buying all this content is my way of voting for Starfield and TES6 to be just as customizable as Skyrim is.
 
-Lastly? I bought all this stuff, so I damn well want to play it. Keeping a non-upgraded version for people who prefer not to pay for it is extra work that I will never benefit from. On top of all that, the extra content makes heavy edits to the world, so when I remove it, I need to regenerate distant terrain. 
-
-This would need to be done twice, once for the added content, once without, every time I update the list. This is an additional 3 - 6 hours of work depending on how error-prone the process is.
+Lastly? I bought all this stuff, so I damn well want to play it. Keeping a non-upgraded version for people who prefer not to pay for it is extra work that I will never benefit from. On top of all that, the extra content makes heavy edits to the world, so when I remove it, I need to regenerate distant terrain. This is an additional 3 - 6 hours of work depending on how error-prone the process is. And it would need to be done twice, once for the added content, once without, every time I update the list. 
 
 No offense, but you saving $20 one time does not matter much to me when it means either me ignoring the content I paid for, or an extra six hours of work every week.
 
-UPDATE SKYRIM!
+This will never change. Complaining about it will get you nowhere. If you want to take a stand against Todd's extra 20, do so with another list.
 
-Although many of our _Wabbajack_ modlists require you to use the "Skyrim Special Edition Downgrader" before installing them, _Licentia does not._ In order to install this modlist, you **MUST** have your copy of _Skyrim Special Edition_ **COMPLETELY UPGRADED** to the latest version before beginning. It must also be set to the **ENGLISH LANGUAGE,** no other version will function properly. _Wabbajack_ will automatically "downgrade" it and place a copy in the `Stock Game` folder for use during play. I realize this is not an ideal situation, with some our lists requiring one step and the rest requiring another, but hopefully everyone will eventually come around to one method. To reduce the support burden for myself, I have chosen this particular route.
+Now that that's out of the way, how do you get it? First, ensure you have a clean install. Then verify files in Steam. Buy the upgrade. Launch the game once from Steam, and you will receive a prompt to "Download All Content?" Do so. You cannot Alt-Tab out of this process, you must wait. Once this is finished, return to the main menu so Skyrim can sort them. Then exit the game and proceed with the Wabbajack installation procedures.
 
 # Preamble
 
