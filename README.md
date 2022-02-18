@@ -159,6 +159,28 @@ After you have done everything above and have a clean SSE installation ready, st
 
 Start the game and exit once you're in the main menu.
 
+## Commonly Failing Files
+
+Due to continuing problems with the download system for _Lover's Lab,_ I have been forced to revert all mods from there to manual download only. 
+
+As far as I know, Wabbajack will prompt you when you need to download them, but to eliminate the headache, you can download all the ones from that site from the links below before you even get started. There are only five required from there, and to use them, place them in the same directory you specify for "Downloads" in the Wabbajack app. 
+
+You will need to create an account first at:
+
+https://loverslab.com
+
+Here are the links.
+
+- [Nether's Follower Framework](https://www.loverslab.com/files/file/6188-nethers-follower-framework/?do=download&r=1134379&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
+- [OStim Solutions](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/?do=download&r=1110875&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
+- [OTrainers](https://www.loverslab.com/files/file/18438-otrainers-ostim-trainers-with-benefits/?do=download&r=1180106&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
+- [Schlongs of Skyrim](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
+- [Leito Schlongs Add-On](https://www.loverslab.com/files/file/13942-sos-leito-schlongs-addon-se/?do=download&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
+
+There are also several large files stored on Wabbajack's own servers, and since these are protected by CloudFlare many ISPs are not configured to route them properly. If you experience problems downloading files with "Licentia" in the filename, first try enabling the "Network Workaround" in Wabbajack's settings menu (gear icon, top right.) If that doesn't work, you will need a VPN set to the United States. (There are many high quality free, but slow, VPNs which have very good privacy policies.) If this STILL doesn't work, you can download them from the MEGA link below, but you will cap at downloads before you are finished. You can try creating an account to get around it, using a VPN, paying actual money, or waiting 24 hours between attempts. I'm sorry, I don't know what else to do.
+
+(Licentia Custom Files - MEGA Shared Directory)[https://mega.nz/folder/hHwTySzQ#S-rHmhJFUqiT4mC1epyNDg]
+
 ##  Using Wabbajack
 
 ##  Downloading and Installing
