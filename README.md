@@ -41,11 +41,26 @@ Also, the game only exists in such a moddable form because Todd wants it to. The
 
 Lastly? I bought all this stuff, so I damn well want to play it. Keeping a non-upgraded version for people who prefer not to pay for it is extra work that I will never benefit from. On top of all that, the extra content makes heavy edits to the world, so when I remove it, I need to regenerate distant terrain. This is an additional 3 - 6 hours of work depending on how error-prone the process is. And it would need to be done twice, once for the added content, once without, every time I update the list. 
 
-No offense, but you saving $20 one time does not matter much to me when it means either me ignoring the content I paid for, or an extra six hours of work every week.
+No offense, but you saving $20 one time does not matter much to me if it means an extra six hours of work every week.
 
 This will never change. Complaining about it will get you nowhere. If you want to take a stand against Todd's extra 20, do so with another list.
 
-Now that that's out of the way, how do you get it? First, ensure you have a clean install. Then verify files in Steam. Buy the upgrade. Launch the game once from Steam, and you will receive a prompt to "Download All Content?" Do so. You cannot Alt-Tab out of this process, you must wait. Once this is finished, return to the main menu so Skyrim can sort them. Then exit the game and proceed with the Wabbajack installation procedures.
+Now that that's out of the way, how do you ensure that you have the proper version of Skyrim, with all Creation Club Content required to install the list?
+
+Here is a step-by-step breakdown.
+
+1. First purchase the "Skyrim Anniversary Edition" Upgrade from Steam. It retails for about $20.00 USD (varies between territories.) There is no way around this. I will not make a version specifically for you, so do not ask. All complaints about this will be ignored.
+2. Install the game via Steam using the typical process.
+3. If you are already confident you have the Anniversary Edition of Skyrim, please do the following steps anyway. I wish to make certain, because _this is the most common question asked in my support channels._
+4. To verify your version of Skyrim, first ensure that your game is set to English. No other version of Skyrim will work. There are no exceptions.
+5. In your Steam Library, right-click on the menu entry for Skyrim, select "Properties" and then select "Local Files." Click "Verify Integrity of Game Files" and wait.
+6. You may receive an error that files need to be downloaded again. Wait for this process to complete.
+7. If not, Steam will tell you that all files have been successfully validated. You are ready to continue ONLY if you receive this message. If you did not, repeat the above steps.
+8. Next launch the game once from Steam. You may receive a prompt that your settings were detected or not detected. You may not. It does not matter, nor do any options you select here. Simply open the launcher, click through any messages, and launch the game from the launcher.
+9. As soon as the intro logos finish displaying and the Skyrim logo appears, you should receive a prompt to "Download All Content?" Accept this option.
+10. If you did not receive a prompt to download, select the "Creation Club" option from the menu, and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from step 1.
+11. Wait for the download process to complete. It takes about 20 - 30 minutes. You cannot Alt-Tab out of this process, you must wait.
+12. You are now ready to continue.
 
 # Preamble
 
@@ -199,6 +214,10 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 **DO NOT CONTACT MOD AUTHORS DIRECTLY.**
 
 I, cacophony, fully accept any responsibility for difficulties with this list and any conflicts I introduce, so please do not question mod authors on the _Nexus_, _Lover's Lab_, _Vector Plexus_ or any other site about bugs that may result from this lists' use. Direct your questions to me, not the innocent mod authors who should never be expected to support a modlist setup.
+
+**Various files beginning with "cc" and ending with "esl" failed to download.**
+
+You did not purchase the $20 upgrade to Skyrim. This is not negotiable. Return to the beginning of this document and do everything again from square one.
 
 **Could not download x:**
 
