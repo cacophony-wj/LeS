@@ -187,7 +187,7 @@ There are also several large files stored on Wabbajack's own servers, and since 
 
 First try enabling the "Network Workaround" in Wabbajack's settings menu (gear icon, top right) and restart the process.
 
-If that doesn't work, you will need a VPN set to the United States. (There are many high quality free, but slow, VPNs which have very good privacy policies. I am personally a fan of Proton because it's in Sweden, with the same maniacal attention to security as the numbered bank accounts from the same place. . . . But I'm not your Dad.) 
+If that doesn't work, you will need a VPN set to the United States. (There are many high quality free, but slow, VPNs which have very good privacy policies. I am personally a fan of Proton because it's in Switzerland, with the same maniacal attention to security as the numbered bank accounts from the same place. . . . But I'm not your Dad.) 
 
 If this STILL doesn't work, you can download them from the MEGA link below, but you will cap at downloads before you are finished. You can try creating an account to get around it, using a VPN, paying actual money, or waiting 24 hours between attempts. I'm sorry, I don't know what else to do.
 
