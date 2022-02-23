@@ -173,7 +173,7 @@ Due to continuing problems with the download system for _Lover's Lab,_ my proces
 
 # CANCEL YOUR WABBAJACK INSTALL NOW.
 
-I have been forced to revert all mods from _Lover's Lab_ to manual download only. As far as I know, Wabbajack will prompt you when you need to download them, but to eliminate the headache, I recommend **CACNELING YOUR WABBAJACK INSTALL TEMPORARILY** and downloading all the mods from that site from the links below before you even get started. There are only five required from there, and to use them, place them in the same directory you specified for "Download Location" just above. Please download the _latest versions_ of all of the below files (the most recent version number)
+I have been forced to revert all mods from _Lover's Lab_ to manual download only. As far as I know, Wabbajack will prompt you when you need to download them, but to eliminate the headache, I recommend **CANCELING YOUR WABBAJACK INSTALL TEMPORARILY** and downloading all the mods from that site from the links below before you even get started. There are only five required from there, and to use them, place them in the same directory you specified for "Download Location" just above. Please download the _latest versions_ of all of the below files (the most recent version number)
 
 - [Nether's Follower Framework](https://www.loverslab.com/files/file/6188-nethers-follower-framework/?do=download&r=1134379&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
 - [OStim Solutions](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/?do=download&r=1110875&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
