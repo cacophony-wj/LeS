@@ -45,22 +45,7 @@ No offense, but you saving $20 one time does not matter much to me if it means a
 
 This will never change. Complaining about it will get you nowhere. If you want to take a stand against Todd's extra 20, do so with another list.
 
-Now that that's out of the way, how do you ensure that you have the proper version of Skyrim, with all Creation Club Content required to install the list?
-
-Here is a step-by-step breakdown.
-
-1. First purchase the "Skyrim Anniversary Edition" Upgrade from Steam. It retails for about $20.00 USD (varies between territories.) There is no way around this. I will not make a version specifically for you, so do not ask. All complaints about this will be ignored.
-2. Install the game via Steam using the typical process.
-3. If you are already confident you have the Anniversary Edition of Skyrim, please do the following steps anyway. I wish to make certain, because _this is the most common question asked in my support channels._
-4. To verify your version of Skyrim, first ensure that your game is set to English. No other version of Skyrim will work. There are no exceptions.
-5. In your Steam Library, right-click on the menu entry for Skyrim, select "Properties" and then select "Local Files." Click "Verify Integrity of Game Files" and wait.
-6. You may receive an error that files need to be downloaded again. Wait for this process to complete.
-7. If not, Steam will tell you that all files have been successfully validated. You are ready to continue ONLY if you receive this message. If you did not, repeat the above steps.
-8. Next launch the game once from Steam. You may receive a prompt that your settings were detected or not detected. You may not. It does not matter, nor do any options you select here. Simply open the launcher, click through any messages, and launch the game from the launcher.
-9. As soon as the intro logos finish displaying and the Skyrim logo appears, you should receive a prompt to "Download All Content?" Accept this option.
-10. If you did not receive a prompt to download, select the "Creation Club" option from the menu, and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from step 1.
-11. Wait for the download process to complete. It takes about 20 - 30 minutes. You cannot Alt-Tab out of this process, you must wait.
-12. You are now ready to continue.
+Now that that's out of the way, how do you ensure that you have the proper version of Skyrim, with all Creation Club Content required to install the list? Refer to the Pre-Installation steps later in this document.
 
 # Preamble
 
@@ -154,42 +139,22 @@ Wabbajack will check your game files and make sure that we have the same version
 
 Open the Steam Properties window, navigate to the Language tab and select English from the dropdown menu.
 
-**Install Skyrim** (OPTIONAL)
+**Install Skyrim** 
 
-If Skyrim is not installed, do so. _DO NOT_ install it _ANYWHERE_ inside a _Program Files_ folder. This will only wreak havoc in the end. 
+Here is a step-by-step breakdown.
 
-If you must, create a Steam library elsewhere on your computer (for example, _D:\Steam_) and install Skyrim there. (Options for such are given within Steam.)
-
-If you only have one hard drive and Steam is installed to _C:\Program Files_, you will have to relocate it to _C:\_. I'm sorry.
-
-**Clean Skyrim**
-
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. **Do not install Skyrim anywhere inside any Program Files folder. Wabbajack will not work in a folder that is protected by Windows.** You should also clean up the Skyrim Special Edition folder in Documents/My Games/. 
-
-**Start Skyrim**
-
-After you have done everything above and have a clean SSE installation ready, start the Launcher and open the Options menu.
-
-    Click on Ultra
-    Set the Aspect Ratio and Resolution to your monitor's native values
-    Set Antialiasing to Off
-    Uncheck Windowed Mode and Borderless
-
-Start the game and exit once you're in the main menu.
-
-## Commonly Failing Files
-
-Due to continuing problems with the download system for _Lover's Lab,_ I have been forced to revert all mods from there to manual download only. As far as I know, Wabbajack will prompt you when you need to download them, but to eliminate the headache, you can download all the ones from that site from the links below before you even get started. There are only five required from there, and to use them, place them in the same directory you specify for "Downloads" in the Wabbajack app. Please download the _latest versions_ of all of the below files (the most recent version number)
-
-- [Nether's Follower Framework](https://www.loverslab.com/files/file/6188-nethers-follower-framework/?do=download&r=1134379&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
-- [OStim Solutions](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/?do=download&r=1110875&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
-- [OTrainers](https://www.loverslab.com/files/file/18438-otrainers-ostim-trainers-with-benefits/?do=download&r=1180106&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
-- [Schlongs of Skyrim](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
-- [Leito Schlongs Add-On](https://www.loverslab.com/files/file/13942-sos-leito-schlongs-addon-se/?do=download&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
-
-There are also several large files stored on Wabbajack's own servers, and since these are protected by CloudFlare many ISPs are not configured to route them properly. If you experience problems downloading files with "Licentia" in the filename, first try enabling the "Network Workaround" in Wabbajack's settings menu (gear icon, top right.) If that doesn't work, you will need a VPN set to the United States. (There are many high quality free, but slow, VPNs which have very good privacy policies.) If this STILL doesn't work, you can download them from the MEGA link below, but you will cap at downloads before you are finished. You can try creating an account to get around it, using a VPN, paying actual money, or waiting 24 hours between attempts. I'm sorry, I don't know what else to do.
-
-[Licentia Custom Files - MEGA Shared Directory](https://mega.nz/folder/hHwTySzQ#S-rHmhJFUqiT4mC1epyNDg)
+1. First purchase the _Skyrim Anniversary Edition_ Upgrade from Steam. It retails for about $20.00 USD (varies between territories.) There is no way around this. I will not make a version specifically for you, so do not ask. All complaints about this will be ignored.
+2. Install the game via Steam using the typical process.
+3. If you are already confident you have the _Anniversary Edition_ of Skyrim, please do the following steps anyway. I wish to make certain, because _this is the most common question asked in my support channels._
+4. To verify your version of Skyrim, first ensure that your game is set to English. No other version of Skyrim will work. There are no exceptions.
+5. In your Steam Library, right-click on the menu entry for Skyrim, select "Properties" and then select "Local Files." Click "Verify Integrity of Game Files" and wait.
+6. You may receive an error that files need to be downloaded again. Wait for this process to complete.
+7. If not, Steam will tell you that all files have been successfully validated. You are ready to continue ONLY if you receive this message. If you did not, repeat the above steps.
+8. Next launch the game once from Steam. You may receive a prompt that your settings were detected or not detected. You may not. It does not matter, nor do any options you select here. Simply open the launcher, click through any messages, and launch the game from the launcher.
+9. As soon as the intro logos finish displaying and the Skyrim logo appears, you should receive a prompt to "Download All Content?" Accept this option.
+10. If you did not receive a prompt to download, select the _Creation Club_ option from the menu, and you should find a "Download All" prompt in there somewhere. If this message does not appear, you have not purchased the $20 Upgrade. Begin again from step 1.
+11. Wait for the download process to complete. It takes about 20 - 30 minutes. You cannot Alt-Tab out of this process, you must wait.
+12. You are now ready to continue.
 
 ##  Using Wabbajack
 
@@ -199,13 +164,44 @@ The download and installation process can take a very long time depending on you
 
     Adjust the Installation Location to a directory located on the root directory of one of your drives
     For example, this might be "C:\Licentia", "D:\Licentia", or "E:\Licentia"
-    Ensure the Download Location is within that directory
+    Ensure the Download Location is where you wish it to be, it defaults to a location within the directory just above
     Click the Go/Begin button
+    
+## Commonly Failing Files
+
+Due to continuing problems with the download system for _Lover's Lab,_ my process for installation is a bit different from everyone else's. 
+
+# CANCEL YOUR WABBAJACK INSTALL NOW.
+
+I have been forced to revert all mods from _Lover's Lab_ to manual download only. As far as I know, Wabbajack will prompt you when you need to download them, but to eliminate the headache, I recommend **CACNELING YOUR WABBAJACK INSTALL TEMPORARILY** and downloading all the mods from that site from the links below before you even get started. There are only five required from there, and to use them, place them in the same directory you specified for "Download Location" just above. Please download the _latest versions_ of all of the below files (the most recent version number)
+
+- [Nether's Follower Framework](https://www.loverslab.com/files/file/6188-nethers-follower-framework/?do=download&r=1134379&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
+- [OStim Solutions](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/?do=download&r=1110875&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
+- [OTrainers](https://www.loverslab.com/files/file/18438-otrainers-ostim-trainers-with-benefits/?do=download&r=1180106&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
+- [Schlongs of Skyrim](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
+- [Leito Schlongs Add-On](https://www.loverslab.com/files/file/13942-sos-leito-schlongs-addon-se/?do=download&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
+
+After you have downloaded **EVERY ONE OF THESE FILES MANUALLY,** launch Wabbajack again, keep the settings the same as before, check "Overwrite," and press the **PLAY** button.
+
+There are also several large files stored on Wabbajack's own servers, and since these are protected by CloudFlare, many ISPs are not configured to route them properly. Keep this in mind if you cannot finish the install because files with "Licentia" in the filename keep failing.
+
+First try enabling the "Network Workaround" in Wabbajack's settings menu (gear icon, top right) and restart the process.
+
+If that doesn't work, you will need a VPN set to the United States. (There are many high quality free, but slow, VPNs which have very good privacy policies. I am personally a fan of Proton because it's in Sweden, with the same maniacal attention to security as the numbered bank accounts from the same place. . . . But I'm not your Dad.) 
+
+If this STILL doesn't work, you can download them from the MEGA link below, but you will cap at downloads before you are finished. You can try creating an account to get around it, using a VPN, paying actual money, or waiting 24 hours between attempts. I'm sorry, I don't know what else to do.
+
+[Licentia Custom Files - MEGA Shared Directory](https://mega.nz/folder/hHwTySzQ#S-rHmhJFUqiT4mC1epyNDg)
+
     Wait for Wabbajack to finish
     
-To have the highest amount of threads and thus the fastest speed, it is advised to have ALL of the folders (for `Wabbajack.exe`, the modlist folder, and the downloads folder) on an SSD. As of my last check, _Licentia_ requires about 200 GB for the modlist itself, and about 110GB for the downloads. You will also need an additional 30 GB beyond the modlists' official size to store temporary working files. All of this space needs to be free on _the same SSD_ to prevent issues during the install.
+To have the highest amount of threads and thus the fastest speed, it is advised to have ALL of the folders (for `Wabbajack.exe`, the modlist folder, and the downloads folder) on an SSD. 
 
-After it is complete, you can relocate the Downloads to an HDD, external drive, or another cheap storage medium. You can even delete them if you want, they are not needed to play the game, but if the modlist requires an update you may have to download many of them again. It is not recommended to allow your drive to get over 90% full (red bar in File Explorer) so be sure to leave yourself a little headroom on top of all that.
+It is not _technically_ necessary to have anything on an SSD for an install procedure. You can keep downloads on an HDD if you are low on space, or hell, install the whole thing to an external to keep for all time as a vast repository of Wabbajack. If you install **ANY PART OF THIS LIST** on **ANYTHING BUT A FAST SOLID STATE DRIVE**, it is recommended that you **OPEN THE GEAR ICON** described above and set both "Disk" and "Download" threads **NO GREATER THAN ONE.** This will make the excruciatingly slow process as fast as it can be on such slow drives.
+
+As of my last check, _Licentia_ requires about 260 GB for the modlist itself, and about 160GB for the downloads. You will also need an additional 30 GB available on the same drive as `Wabbajack.exe` to store temporary working files. There may also be a small amount required in your `AppData` folder for various hash and patch caches, totaling no more than 5 - 10GB. You can feel free to relocate, delete, or archive the downloads or any of these temporary files after you are finished installing, they are not required to play the list, but they may be needed if you ever choose to update. 
+
+Playing the list _will not be pleasant on a hard drive_ however. You will experience ten minute load times regularly, and possible weird scenarios where every person collapses to the ground into themselves, spinning infinitely at the speed of light. That, or framerates will be a veritable slide show. This really isn't fixable due to the suboptimal 2011 code handling over 100GB of textures. Get an SSD, my main man.
 
 ##  Problems with Wabbajack
 
