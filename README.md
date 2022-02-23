@@ -215,7 +215,7 @@ There are a lot of different scenarios where Wabbajack will produce an error. I 
 
 I, cacophony, fully accept any responsibility for difficulties with this list and any conflicts I introduce, so please do not question mod authors on the _Nexus_, _Lover's Lab_, _Vector Plexus_ or any other site about bugs that may result from this lists' use. Direct your questions to me, not the innocent mod authors who should never be expected to support a modlist setup.
 
-**Various files beginning with "cc" and ending with "esl" failed to download.**
+**Various files beginning with "cc" and ending with "esl" or "esm" failed to download.**
 
 You did not purchase the $20 upgrade to Skyrim. This is not negotiable. Return to the beginning of this document and do everything again from square one.
 
