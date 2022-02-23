@@ -175,11 +175,11 @@ Due to continuing problems with the download system for _Lover's Lab,_ my proces
 
 I have been forced to revert all mods from _Lover's Lab_ to manual download only. As far as I know, Wabbajack will prompt you when you need to download them, but to eliminate the headache, I recommend **CANCELING YOUR WABBAJACK INSTALL TEMPORARILY** and downloading all the mods from that site from the links below before you even get started. There are only five required from there, and to use them, place them in the same directory you specified for "Download Location" just above. Please download the _latest versions_ of all of the below files (the most recent version number)
 
-- [Nether's Follower Framework](https://www.loverslab.com/files/file/6188-nethers-follower-framework/?do=download&r=1134379&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
-- [OStim Solutions](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/?do=download&r=1110875&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
-- [OTrainers](https://www.loverslab.com/files/file/18438-otrainers-ostim-trainers-with-benefits/?do=download&r=1180106&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
+- [Nether's Follower Framework](https://www.loverslab.com/files/file/6188-nethers-follower-framework/)
+- [OStim Solutions](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/)
+- [OTrainers](https://www.loverslab.com/files/file/18438-otrainers-ostim-trainers-with-benefits/)
 - [Schlongs of Skyrim](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
-- [Leito Schlongs Add-On](https://www.loverslab.com/files/file/13942-sos-leito-schlongs-addon-se/?do=download&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
+- [Leito Schlongs Add-On](https://www.loverslab.com/files/file/13942-sos-leito-schlongs-addon-se/)
 
 After you have downloaded **EVERY ONE OF THESE FILES MANUALLY,** launch Wabbajack again, keep the settings the same as before, check "Overwrite," and press the **PLAY** button.
 
