@@ -179,7 +179,7 @@ Start the game and exit once you're in the main menu.
 
 ## Commonly Failing Files
 
-Due to continuing problems with the download system for _Lover's Lab,_ I have been forced to revert all mods from there to manual download only. As far as I know, Wabbajack will prompt you when you need to download them, but to eliminate the headache, you can download all the ones from that site from the links below before you even get started. There are only five required from there, and to use them, place them in the same directory you specify for "Downloads" in the Wabbajack app. 
+Due to continuing problems with the download system for _Lover's Lab,_ I have been forced to revert all mods from there to manual download only. As far as I know, Wabbajack will prompt you when you need to download them, but to eliminate the headache, you can download all the ones from that site from the links below before you even get started. There are only five required from there, and to use them, place them in the same directory you specify for "Downloads" in the Wabbajack app. Please download the _latest versions_ of all of the below files (the most recent version number)
 
 - [Nether's Follower Framework](https://www.loverslab.com/files/file/6188-nethers-follower-framework/?do=download&r=1134379&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
 - [OStim Solutions](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/?do=download&r=1110875&confirm=1&t=1&csrfKey=6a8bc5328c37b7a3dc594668e4e5bfed)
