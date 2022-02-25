@@ -14,7 +14,7 @@
 - A Whiterun - Parallax
 - Whiterun Mesh Fixes
 
-_Licentia_ is one of the earliest modlists to implement most of the currently-avaiable high quality parallax meshes and textures to a Skyrim modlist as of this writing. What is parallax you may ask? Well, it's sort of like an optical illusion that makes smaller, rather plain objects distort in such a way while moving to appear as though they have depth and weight they do not really have. Think of those old SNES or arcade games you use to play that had multiple levels of scrolling in the background -- that's parallax. Apply that to a sphere to make it look crumbly or a block to make it look ridged and you have the FPS equivalent.
+_Licentia_ strives to _properly_ implement most of the currently-available high quality parallax meshes and textures to a Skyrim modlist as of this writing, without going overboard. What is parallax you may ask? Well, it's sort of like an optical illusion that makes smaller, rather plain objects distort in such a way while moving to appear as though they have depth and weight they do not really have. Think of those old SNES or arcade games you use to play that had multiple levels of scrolling in the background -- that's parallax. Apply that to a sphere to make it look crumbly or a block to make it look ridged and you have the FPS equivalent.
 
 ### Animation Mods
 
