@@ -33,7 +33,7 @@ Twin blood drenched greatswords crossed across a hot comic book babe's backside.
 - New Beginnings
 - Books of Dibella
 
-Everybody knows **Arthmoor's** _Alternate Start._ It lets you skip the cart ride. _New Beginnings_ adds tons more options to it, some of which harder than fuck, and _Books of Dibella_ adds some where you start out in little more than your birthday suit. If I ever get a random spawner working I'll probably offer that as well, because naked, spell-less and gearless in a random place is my preferred way to begin.
+Everybody knows **Arthmoor's** _Alternate Start._ It lets you skip the cart ride. _New Beginnings_ adds tons more options to it, some of which are hard as _hell_, and _Books of Dibella_ adds some where you start out in little more than your birthday suit. If I ever get a random spawner working I'll probably offer that as well, because naked, spell-less and gearless in a random place is my preferred way to begin.
  
 - Abandoned Prison Tweaks
 
