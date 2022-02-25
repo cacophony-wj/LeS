@@ -84,4 +84,4 @@ These are small changes to Bethesda's Papyrus scripts to make them faster and mo
 
 - JContainers
 
-I don't really know what this is or why it's so great but EggyPapp the Papyrus guy says its the best thing since sliced bread.
+I don't really know what this is or why it's so great but **EggyPapa** the Papyrus guy says its the best thing since sliced bread.
