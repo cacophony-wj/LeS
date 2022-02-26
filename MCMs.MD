@@ -20,13 +20,13 @@
 
 ## Setting your resolution
 
-_Licentia_ has been configured to run at _1920x1080_ by default. If you wish to change this to a higher or lower resolution, click the "Tools" icon above the list of mods and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. 
+_Licentia_ has been configured to run at _2560x1440_ by default. If you wish to change this to a higher or lower resolution, click the "Tools" icon above the list of mods and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. 
 
 "1080p" is _iSize H = 1080_ & _iSize W = 1920_
 "1440p" is _iSize H = 1440_ & _iSize W = 2560_
 "2160p" or "True 4K" is _iSize H = 2160_ & _iSize W = 3840_
 
-If you have an Ultrawide monitor, you will need to enable all of the mods in the "UltraWide" section of the modlist. I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack readmes or drop by Discord and type _!usesearch_ to hunt for other users' experiences.
+If you have an Ultrawide monitor, there may be steps you can take such as reinstalling the _Dear Diary_ series of mods, but these are **unsupported** because I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack readmes or drop by Discord and type _!usesearch_ to hunt for other users' experiences.
 
 ## Customizing Controls
 
@@ -62,22 +62,6 @@ You will have to configure CGO (I recommend D-Pad Left for grip shift and LB or 
 - D-Pad Left: Switch grip between 1-handed and 2-handed (CGO)
 - (Yes, you will crouch up and down and turn lights on and off in dialog menus.)
 - (Use the sticks instead!)
-
-## Enabling POV Sex
-
-One of the most fantastic developments of the entire _OStim_ suite, in my humble opinion, is the ability to have almost completely clippingless first person POV sex. It is extremely immersive, but to be quite honest, the _Improved Camera_ mod it relies upon to function (which gives the player a first person body) has so many bugs and unusual quirks that it necessitates a great deal of additional "tech support," so I have chosen to disable it by default. If you wish to have sex in first person, you can feel free to enable this mod **and its INI** in the relevant "Camera" section of MO2, with the following caveats:
- 
-1. To have POV sex, you must begin the scene in first person
-2. You must remain in first person throughout the entire scene, switching to 3rd and back can cause bugs
-3. The vanilla Skyrim intro (cart ride) will not function correctly, choose an alternate one
-4. There will be more flicker on mountains and distant textures
-5. Distant pop-in may be worse
-6. Camera switching may be buggy and/or inconsistent, press F a few times to fix it
-7. You may no longer be able to switch cameras with the scroll wheel, use the F key instead
-8. You may get locked up or frozen into neverending crafting, mining, wood-chopping animations, and finally
-9. Sometimes you will be able to see your headless body running out ahead of you.
-
-The sex is great though!
 
 ## Disabling NSFW Features
 
@@ -174,6 +158,10 @@ Be sure to make a last second save in case something bad happens. You _do not_ w
 ### The Dodge Mod Will Not Work Until You Leave The Starting Cell.
 
 ### Do Not Report Bugs With The Dodge Mod If You Have Not Left The Starting Cell.
+
+### VioLens
+
+Load the "Tinvaak" profile. (Not related to that modlist, named such for Compatibility reasons.)
 
 ## FINAL NOTE: On Alternate Starts
 
