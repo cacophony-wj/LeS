@@ -1,6 +1,53 @@
-## 10.39.5
+## 10.41
 
 **THIS IS THE CURRENT VERSION ON THE UI.**
+
+**THIS UPDATE IS NOT SAVE SAFE.**
+
+**THE ERP PROFILE HAS BEEN REMOVED FOR NOW.**
+
+It will likely return in some form after more work to fix bugs.
+
+Added _Bears of the North_ with 4K and SIC patches
+Added _Salt and Wind - Rough Hair for KS Hairdos SE_
+Added _CC's HQ Mines Redone_
+Added _Northfires Castle Vokihar_
+Added _Spice of Life - Orc Longhouses_
+Added _Rally's All The Things_
+Added _Thrones of Skyrim_
+Added _WiZkiD Signs_
+Added _Elder Scroll HD_
+Added _Enhanced Invisibility_ (Thanks Dan)
+Added _Fixed Mesh Lighting_
+Added _Timescale_ to set the game clock a bit slower
+Added _Party Combat Parameters_
+Added INI customizations for Minimap and Party Combat (Thanks Jamie)
+Added back _The Sinister Seven_ with LOTD & TCC patches
+Updated _New Animations for OSex by aceanimations_ to 0.10n
+Updated _OVoice_ to 1.6
+Updated _Legacy of the Dragonborn_ to 6.1.4
+Updated _Legacy of the Dragonborn - Creation Club Patch Hub_ to 5.1.2
+Updated _CBPC _ CBP Physics with Collisions_ to 1.4.18
+Updated _KS Hairdos SSE_ to 1.9
+Updated _Vokriinator Black_ to 6.8.3
+Updated _Embers XD_ to 2.5.3
+Updated _Detection Meter_ to 0.16
+Updated _eFPS - Official Patch Hub_ to 1.6.2
+Updated _Whiterun Mesh Fixes_ to 1.2.5 and added parallax to them
+Updated the installed version of _Champollion_ to 1.0.8
+Removed _ODefeat_
+Removed _OPrositution_
+Removed _OPros & ASLAL Integration_
+Removed the _ERP Profile_.
+Ran _Nemesis_
+Ran _Synthesis_
+Ran _Undies_
+
+## 10.40
+
+Test version with very few differences from 10.41
+
+## 10.39.5
 
 Identical to 10.39.1 except for profile customizations.## 10.39.1
 
