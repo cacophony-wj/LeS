@@ -154,14 +154,21 @@ The download and installation process can take a very long time depending on you
     For example, this might be "C:\Licentia", "D:\Licentia", or "E:\Licentia"
     Ensure the Download Location is where you wish it to be, it defaults to a location within the directory just above
     Click the Go/Begin button
-    
+
+## Login And Installation from _Lover's Lab_
+
+At some point during your installation, you will be prompted to download about four or five mods from _Lover's Lab._ The process for this is a bit different from other modlists. 
+
+1. When a _Lover's Lab_ webpage appears, first login to the site via the link in the upper left.
+2. Take note in the header which version of the mod is suggested for download.
+3. Click the big green **Download** button on the right.
+4. Click the **Download** button for the proper version.
+5. Pay attention to the header bar for progress. When complete, wait for the next screen to appear.
+6. Continue with the remainder of the _Lover's Lab_ files. (Some of them may not require step 4.)
+
 ## Commonly Failing Files
 
-Due to continuing problems with the download system for _Lover's Lab,_ my process for installation is a bit different from everyone else's. 
-
-# CANCEL YOUR WABBAJACK INSTALL NOW.
-
-I have been forced to revert all mods from _Lover's Lab_ to manual download only. As far as I know, Wabbajack will prompt you when you need to download them, but to eliminate the headache, I recommend **CANCELING YOUR WABBAJACK INSTALL TEMPORARILY** and downloading all the mods from that site from the links below before you even get started. There are only five required from there, and to use them, place them in the same directory you specified for "Download Location" just above. Please download the _latest versions_ of all of the below files (the most recent version number)
+If for some reason something goes wrong with the installation from _Lover's Lab,_ you can cancel the installation and download these files manually. The process will pick up from where it left off when you restart the install. There are only five files required from there, and to use them, place them in the same directory you specified for "Download Location" just above. Please download the _latest versions_ of all of the below files (the most recent version number)
 
 - Version 2.7.9 of [Nether's Follower Framework](https://www.loverslab.com/files/file/6188-nethers-follower-framework/)
 - Version Beta 5 of [OStim Solutions](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/)
