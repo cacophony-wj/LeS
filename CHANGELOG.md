@@ -1,10 +1,63 @@
-## 10.41
+## 10.42.1
 
 **THIS IS THE CURRENT VERSION ON THE UI.**
 
 **THIS UPDATE IS NOT SAVE SAFE.**
 
-**THE ERP PROFILE HAS BEEN REMOVED FOR NOW.**
+Also I tested combat and the scenes extensively on my own, but I skipped the test preview on my private server so I could compile with the Lover's Lab API fix ASAP. 
+
+Manual downloads should no longer be necessary now, in most cases.
+
+- Added _Conduit - Short-Term Weapon Infusions_ and the XP32 fix
+- Added _Sofia - The Funny Voice Follower._ It's a request. I'm aware she receives much hate. Don't talk to her if you dislike her.
+- Added _Sofia Remastered 2.0_
+- Added _Sofia - Typo Grammar and Dialog Fixes_
+- Added _Immersive Sofia Start_
+- Added _Immersive Kaidan Start_
+- Added _Helgen Reborn with Level and Quest Requirement_
+- Added _Song of the Green - OStim Patch_
+- Added _Equippable Underwear for NPCs - HIMBO Refit_
+- Added _OBIS Loot SE_ and update
+- Added _Happy Little Trees_ with the DynDOLOD addon
+- Added _Heritage Enemes 2_
+- Added _The Sinister Seven Debuffed Equipment_
+- Added _GG Thieves Guild_
+- Added _Vigilant NPC Overhaul_ 
+- Added _Auri Dismount Fix_ 
+- Added _Vanilla Hair Rework SMP_
+- Added _Opulent Thieves Guild_
+- Added _Know Your Enemy - Books for Sale!_
+- Added patches for the previous two
+- Added _TrueHUD_ and patches
+- Added _Contextual Crosshair_
+- Added _Ultimate Immersion Toggle_
+- Added _Screenshot Helper
+- Added _ENB Input Disabler_
+- Added _Volatile Void Salts
+- Updated _Vokrii_ and patches to 3.8.2
+- Updated _Imperious_ to 7.28
+- Updated _Completionist - Quest Tracker_ to 3.7.1.5-R3
+- Updated _Serana Dialog Add-On_ to 2.9.2.7
+- Updated _Heavy Armory_ to 4.0 FULL
+- Updated _CBBE 3BA Creation Club_ to 1.1
+- Updated _CBBE Creation Club - Everything Else_ to 1.8
+- Updated _Undeath Ascension_ to 1.42
+- Updated _True Directional Movement_ to 2.1.1 (about time)
+- Updated _Embers XD_ to 2.5.4
+- Updated _Fixed Mesh Lighting_ to 1.7
+- Updated _Know Your Enemy_ to 9.1
+- Updated _Scrambled Bugs_ to 14.0
+- Updated _Scrambled Enchantments_ as well
+- Updated _Unofficial Creation Club Content Patch_ to 6.3
+- Updated _Janquel's ESP Library_ to 1.5
+- Updated my one _kryptopyr_ patch to 4.2
+- Changed _Hand to Hand Rebalanced_ to the CGO version
+- Reverted _Faster SMP_ to 1.18 original karonar code due to a repeatable crash
+- Removed _Mihail Vampire Expansion_ due to user request because Serana is too hard to get
+- Removed _Swiftly Order Squad_
+- Damn I really want that _MoreHUD_ with icons for _Completionist_ but it requires AE
+
+## 10.41
 
 It will likely return in some form after more work to fix bugs.
 
