@@ -53,6 +53,10 @@ Manual downloads should no longer be necessary now, in most cases.
 - Updated my one _kryptopyr_ patch to 4.2
 - Changed _Hand to Hand Rebalanced_ to the CGO version
 - Reverted _Faster SMP_ to 1.18 original karonar code due to a repeatable crash
+- Removed _Minimap_ due to complaints.
+- Removed _Party Combat Parameters_ due to complaints.
+- Removed _Floating Damage_ due to complaints.
+- All of the above are easy to add back, just sayin'.
 - Removed _Mihail Vampire Expansion_ due to user request because Serana is too hard to get
 - Removed _Swiftly Order Squad_
 - Damn I really want that _MoreHUD_ with icons for _Completionist_ but it requires AE
