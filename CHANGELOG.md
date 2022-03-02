@@ -59,8 +59,6 @@ Manual downloads should no longer be necessary now, in most cases.
 
 ## 10.41
 
-It will likely return in some form after more work to fix bugs.
-
 - Added _Bears of the North_ with 4K and SIC patches
 - Added _Salt and Wind - Rough Hair for KS Hairdos SE_
 - Added _CC's HQ Mines Redone_
