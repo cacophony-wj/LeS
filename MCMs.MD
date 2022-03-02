@@ -113,6 +113,10 @@ _Randomly Inseminate_ allows you to simulate widespread fucking without acting i
 
 Finally, the default feedback is a bit intrusive. I recommend switching to _Page 2_ of the settings and disabling _Verbose Messages_ and _The Widget._ Otherwise, you will receive messages about insemination and, if you are female, have a really anatomical depiction of your reproductive organs onscreen at all times. I don't want to talk about it.
 
+## Follower Framework
+
+Not strictly necessary, but your followers may wander around at times without this step. Go to **Activity** and enable _Only Sandbox in Town._ If you don't want your followers using your crafting stations, also enable _Ignore Special Furniture_
+
 ## OStim
 
 The settings in this extensive mod are almost all down to personal preference. I recommend you simply "Import Settings" to get my recommendations (scroll all the way down, on the right). If you wish to customize the settings further, I recommend you read about the whole Suite of mods on Nexus. It's pretty cool stuff.
