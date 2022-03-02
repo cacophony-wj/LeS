@@ -35,7 +35,7 @@
 
 ## Installation
 
-##+ Commonly Failing Files
+### Commonly Failing Files
 
 If for some reason something goes wrong with the installation from _Lover's Lab,_ you can cancel the installation and download these files manually. The process will pick up from where it left off when you restart the install. There are only five files required from there, and to use them, place them in the same directory you specified for "Download Location" just above. Please download the _latest versions_ of all of the below files (the most recent version number)
 
