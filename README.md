@@ -113,6 +113,12 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from Microsoft. Download the x64 version under "Visual Studio 2015, 2017 and 2019". <a href="https://aka.ms/vs/16/release/vc_redist.x64.exe">Direct link</a> if you can't find it.
 
+### Installing the latest DOT.NET Redistributable
+
+[You can get it here](https://dotnet.microsoft.com/en-us/download/dotnet/5.0/runtime)
+
+Install both `CONSOLE-APPS-x64` and `DESKTOP-APPS-x64`
+
 ###  Steam Config
 
 **Change Steam's Update Behavior**
@@ -155,41 +161,6 @@ The download and installation process can take a very long time depending on you
     Ensure the Download Location is where you wish it to be, it defaults to a location within the directory just above
     Click the Go/Begin button
 
-## Login And Installation from _Lover's Lab_
-
-At some point during your installation, you will be prompted to download about four or five mods from _Lover's Lab._ The process for this is a bit different from other modlists. 
-
-1. When a _Lover's Lab_ webpage appears, first login to the site via the link in the upper left.
-2. Take note in the header which version of the mod is suggested for download.
-3. Click the big green **Download** button on the right.
-4. Click the **Download** button for the proper version.
-5. Pay attention to the header bar for progress. When complete, wait for the next screen to appear.
-6. Continue with the remainder of the _Lover's Lab_ files. (Some of them may not require step 4.)
-
-## Commonly Failing Files
-
-If for some reason something goes wrong with the installation from _Lover's Lab,_ you can cancel the installation and download these files manually. The process will pick up from where it left off when you restart the install. There are only five files required from there, and to use them, place them in the same directory you specified for "Download Location" just above. Please download the _latest versions_ of all of the below files (the most recent version number)
-
-- Version 2.7.9 of [Nether's Follower Framework](https://www.loverslab.com/files/file/6188-nethers-follower-framework/)
-- Version Beta 5 of [OStim Solutions](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/)
-- Version 2.1 of [OTrainers](https://www.loverslab.com/files/file/18438-otrainers-ostim-trainers-with-benefits/)
-- Verstion 1.1.4 of [Schlongs of Skyrim SE](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
-- Only Available Version of [Leito Schlongs Add-On](https://www.loverslab.com/files/file/13942-sos-leito-schlongs-addon-se/)
-
-After you have downloaded **EVERY ONE OF THESE FILES MANUALLY,** launch Wabbajack again, keep the settings the same as before, check "Overwrite," and press the **PLAY** button.
-
-There are also several large files stored on Wabbajack's own servers, and since these are protected by CloudFlare, many ISPs are not configured to route them properly. Keep this in mind if you cannot finish the install because files with "Licentia" in the filename keep failing.
-
-First try enabling the "Network Workaround" in Wabbajack's settings menu (gear icon, top right) and restart the process.
-
-If that doesn't work, you will need a VPN set to the United States. (There are many high quality free, but slow, VPNs which have very good privacy policies. I am personally a fan of Proton because it's in Switzerland, with the same maniacal attention to security as the numbered bank accounts from the same place. . . . But I'm not your Dad.) 
-
-If this STILL doesn't work, you can download them from the MEGA link below, but you will cap at downloads before you are finished. You can try creating an account to get around it, using a VPN, paying actual money, or waiting 24 hours between attempts. I'm sorry, I don't know what else to do.
-
-[Licentia Custom Files - MEGA Shared Directory](https://mega.nz/folder/hHwTySzQ#S-rHmhJFUqiT4mC1epyNDg)
-
-    Wait for Wabbajack to finish
-    
 To have the highest amount of threads and thus the fastest speed, it is advised to have ALL of the folders (for `Wabbajack.exe`, the modlist folder, and the downloads folder) on an SSD. 
 
 It is not _technically_ necessary to have anything on an SSD for an install procedure. You can keep downloads on an HDD if you are low on space, or hell, install the whole thing to an external to keep for all time as a vast repository of Wabbajack. If you install **ANY PART OF THIS LIST** on **ANYTHING BUT A FAST SOLID STATE DRIVE**, it is recommended that you **OPEN THE GEAR ICON** described above and set both "Disk" and "Download" threads **NO GREATER THAN ONE.** This will make the excruciatingly slow process as fast as it can be on such slow drives.
@@ -209,6 +180,10 @@ I, cacophony, fully accept any responsibility for difficulties with this list an
 **Various files beginning with "cc" and ending with "esl" or "esm" failed to download.**
 
 You did not purchase the $20 upgrade to Skyrim. This is not negotiable. Return to the beginning of this document and do everything again from square one.
+
+**Problems downloading files from Lover's Lab or the Wabbajack CDN**
+
+Lover's Lab files are obvious. CDN files have the word _Licentia_ in the filename. Refer to [this section] in #TROUBLESHOOTING.md
 
 **Could not download x:**
 
