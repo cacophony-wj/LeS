@@ -18,7 +18,6 @@
   - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
   - [Preparing the Game](#preparing-the-game)
-  - [Crafting the Female Bodies](#crafting-the-female-bodies)
   - [Launching the Game](#launching-the-game)
 - [PLEASE CLICK THE BELOW LINK TO CONTINUE THIS ESSENTIAL README. THEN RETURN HERE TO COMPLETE THIS ESSENTIAL README.](#please-click-the-below-link-to-continue-this-essential-readme-then-return-here-to-complete-this-essential-readme)
   - [Updating the Modlist](#updating-the-modlist)
