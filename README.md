@@ -17,6 +17,7 @@
   - [Downloading and Installing](#downloading-and-installing)
   - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
+  - [Preparing Your Page File](#preparing-your-page-file)
   - [Preparing the Game](#preparing-the-game)
   - [Launching the Game](#launching-the-game)
 - [PLEASE CLICK THE BELOW LINK TO CONTINUE THIS ESSENTIAL README. THEN RETURN HERE TO COMPLETE THIS ESSENTIAL README.](#please-click-the-below-link-to-continue-this-essential-readme-then-return-here-to-complete-this-essential-readme)
@@ -215,6 +216,30 @@ Move your downloads folder outside of your _Licentia Directory_, ensure the _Lic
 Do keep in mind, though, that any changes that would normally be made to the _Skyrim Special Edition_ directory such as changing ENB for better performance, adding Creation Club Content, and so on, must now be placed in the _Licentia/Stock Game_ folder instead.
 
 This does mean, also, that you can install any other list with this feature (Stock Game) and they will be completely independent of each other and no longer require changing out any files whatsoever. Enjoy _Licentia_ when the Old Lady is not around, play _Living Skyrim_ when she's doing annoying things like hogging space in your Man Cave!
+
+## Preparing Your Page File
+
+It should be no surprise that modlists such as these require vast amounts of resources to run properly, largely due to their size, but also because the code is out of date and no longer optimized for modern systems. As a result, you will need to configure a _very large pagefile_ on your computer, otherwise you will crash almost constantly due to running out of memory to load the multiple gigs of textures on screen at all times.
+
+You will need at least a 40GB fixed-size pagefile for _Licentia._ This differs from many other Wabbajack modlists because _Licentia_ is really big. This is true even if you have 24+ GB of VRAM and 32+ GB of VRAM, I have a 3090 and a beefy rig and still need 40GB pagefile due to the way everything works.
+
+To make these changes:
+
+1. Hold down your **LEFT WINDOWS KEY** and press **R.*
+2. Type in `systempropertiesadvanced` and press **ENTER.**
+3. Under _Performance_ (near the top) click "Settings..."
+4. Click the _Advanced_ tab (along the top)
+5. Under _Virtual Memory_ click "Change..."
+6. Uncheck _Automatically manage_ if it is checked.
+7. Select your FASTEST solid state drive.
+8. Click the _Custom size:_ radio button to put a circle in it.
+9. Next to _Initial Size_ type 40960.
+10. Next to _Maximum Size_ type 40960 as well.
+11. Press the _Set_ button (kinda down and to the right)
+12. Press _OK_
+13. Press _Apply_ if it is available
+14. Press _OK_
+15. Restart your computer.
 
 ## Preparing the Game
 
