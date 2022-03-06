@@ -55,7 +55,7 @@ If that doesn't work, you will need a VPN set to the United States. (There are m
 
 If this STILL doesn't work, you can download them from the MEGA link below, but you will cap at downloads before you are finished. You can try creating an account to get around it, using a VPN, paying actual money, or waiting 24 hours between attempts. I'm sorry, I don't know what else to do.
 
-[Licentia Custom Files - MEGA Shared Directory](https://mega.nz/folder/hHwTySzQ#S-rHmhJFUqiT4mC1epyNDg)
+[Licentia Custom Files - MEGA Shared Directory](https://mega.nz/folder/RawGxSQC#18F3HuX5i5MvXzsMb6ARGg)
 
     Wait for Wabbajack to finish
     
