@@ -57,6 +57,8 @@ If this STILL doesn't work, you can download them from the MEGA link below, but 
 
 [Licentia Custom Files - MEGA Shared Directory](https://mega.nz/folder/RawGxSQC#18F3HuX5i5MvXzsMb6ARGg)
 
+**Note:** Some users may not see all of the files at first. For those users, I suggest creating a MEGA account and logging in. For those who have done so, try logging out and back in.
+
     Wait for Wabbajack to finish
     
 ## Content
