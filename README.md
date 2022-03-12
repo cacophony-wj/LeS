@@ -153,8 +153,6 @@ Here is a step-by-step breakdown.
 
 ##  Downloading and Installing
 
-## Installation
-
 Due to continuing problems with the Lover's Lab API, several of the files must be downloaded manually. Duriing the installation process, you may be presented with various webpages from that, accomanied by instructions to download a specific file. Please click the green Download link and, if the file does not download, click again on the file name specified in the prompt. Refer to the status bar of the window for download progress, and wait for 100% before continuing. Please note that the automatic login available from Wabbajack's settings may not function correctly: you may need to log out via the GEAR ICON in the upper right, and log again normally using Lover's Lab's homepage (top left).
 
 If for some reason something goes wrong, you can cancel the installation and download these files manually. The process will pick up from where it left off when you restart the install. There are only five files required from Lover's Lab, and to use them, place them in the same directory you specified for "Download Location" just above. Please download the _exact versions_ of all of the below files
