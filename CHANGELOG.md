@@ -1,8 +1,85 @@
-## 10.42.1
+## 10.44
 
 **THIS IS THE CURRENT VERSION ON THE UI.**
 
 **THIS UPDATE IS NOT SAVE SAFE.**
+
+- Reworked the base texture setup.
+- Hand-picked certain textures from _Skyrim 2022 - Whiterun by Pfuscher_ 
+- Hand-picked certain textures from _TB's Parallax Towers_
+- Added _Mrf's Markarth_
+- Added _ScandaNordic Mountains - HD Mountain Textures_ with fixes
+- Added _Dirtcliffsroots change to Ivy by Pfuscher_
+- Added _Skyrim 3D Rocks_ and BDS patch
+- Added _Rock Grass for ENB Complex Grass SE_
+- Added back a heavily customized version of _ODefeat_
+- Added back _OAroused_
+- Added back _OProstitution_
+- Added back _Oprostitution ASLAL Integration_
+- Added back _Triple Triad Card Game in Skyrim_
+- Added back _Improved Camera_ and customized it
+- Added back _Alternate Conversation Camera Plus_ and customized it
+- Added back _Minimap_ and configured it to be large, large, large
+- Added back _Skyrim Souls RE_
+- Updated _Legacy of the Dragonborn_ to 5.6
+- Updated _Curator's Companion_ to 6.1.5
+- Updated _Completionist_ to 3.7.1.7-R2 and ensured correct game version
+- Updated _Conduit - Short Term Weapon Infusions_ to 2.3
+- Updated _GG's Thieves Guild HQ Patch Collection_ to 1.3
+- Updated _The Vigilants' New Clothes_ to 1.4.3
+- Updated _Pirate's Life for Me_ to 2.2
+- Updated _Morrowind Threads_ to 1.1.2
+- Updated _Curated Curios_ to 1.0.1
+- Updated _Embers XD_ to 2.5.5
+- Updated _Actor Limit Fix_ to 5.0
+- Updated _Bug Fixes SSE_ to 6.0
+- Updated _Scrambled Bugs_ to 17.0
+- Updated _iWant Widgets_ to 1.29
+- Updated _Better Third Person Selection_ to 0.3.3
+- Updated _ENBSeries_ to 
+- Reverted _Face Discoloration Fix_ to 1.0.1
+- Reverted _Fuz Ro D'oh - Silent Voice_ to 1.7
+- Regenerated LODs
+
+## 10.43
+
+- Added _OBooty - OStim Booty Calls_
+- Added _SexLab Solutions Voiced_
+- Added _Ulfrica - Ulfric to Vivace (Voiced)_
+- Added _Shirley - A Skyrim Follower Mod_
+- Added _Older Shirley_
+- Patched the above so she plays the role of General Tullius.
+- Added _Immersive Armor HIMBO_
+- Added _Better Third Person Selection - BTPS_
+- Added _The Sinister Seven Debuffed Equipment_
+- Added _Bandit Lines Expansion_
+- Added _Opulent Thieves Guild_
+- Added _GG's Thieves Guild Headquarters_ and patched for the above
+- Added _Vanilla Hair Remake_
+- Added _Apocrypha ENB Light_
+- Replaced all off-Nexus versions of _OSuite_ mods with Nexus versions
+- Updated _Honed Metal_ to 1.23
+- Updated _New Animations for OSex by aceanimations_ to 0.12n
+- Updated _Paarthurnax Quest Expansion_ to 1.10
+- Updated _Contextual Crosshair_ to 1.16
+- Updated _Landscape Fixes For Grass Mods_ to 4.9
+- Updated _Actor Limit Fix_ to 4.0
+- Updated _Bug Fixes SSE_ to 5.0
+- Updated _Scrambled Bugs_ to 16.0
+- Removed the following mods to free up ESP space.
+- Removed _Lore-Based Loading Screens_
+- Removed _Bone Wolf Expansion_
+- Removed _I'm Glad You're Here_
+- Removed _Jaxonz Map Markers_
+- Removed _GIST Soul Trap_ (Scrambled Bugs does what I want)
+- Removed _Kala Eyes_
+- Removed _Loki's Eyes_
+- Removed _Interesting Weapons for Interesting NPCs_
+- Removed _Atronach Forge Soul Gem Crafting_
+- Removed _Triple Triad Skyrim_
+- Removed _Tavern Games in Skyrim_
+
+## 10.42.1
 
 Also I tested combat and the scenes extensively on my own, but I skipped the test preview on my private server so I could compile with the Lover's Lab API fix ASAP. 
 
