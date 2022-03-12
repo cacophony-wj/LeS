@@ -151,7 +151,7 @@ Here is a step-by-step breakdown.
 
 ##  Using Wabbajack
 
-###  Downloading and Installing
+##  Downloading and Installing
 
 ## Installation
 
