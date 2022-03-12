@@ -1,5 +1,3 @@
-- [Installation](#installation)
-  - [Commonly Failing Files](#commonly-failing-files)
 - [Content](#content)
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Gameplay](#gameplay)
@@ -33,34 +31,6 @@
   - [My quests have started to disappear from my Quest Log.](#my-quests-have-started-to-disappear-from-my-quest-log)
 - [For More Information](#for-more-information)
 
-## Installation
-
-### Commonly Failing Files
-
-If for some reason something goes wrong with the installation from _Lover's Lab,_ you can cancel the installation and download these files manually. The process will pick up from where it left off when you restart the install. There are only five files required from there, and to use them, place them in the same directory you specified for "Download Location" just above. Please download the _latest versions_ of all of the below files (the most recent version number)
-
-- Version 2.7.9 of [Nether's Follower Framework](https://www.loverslab.com/files/file/6188-nethers-follower-framework/)
-- Version Beta 5 of [OStim Solutions](https://www.loverslab.com/files/file/17441-ostim-solutions-a-sexlab-solutions-revisited-port/)
-- Version 2.1 of [OTrainers](https://www.loverslab.com/files/file/18438-otrainers-ostim-trainers-with-benefits/)
-- Verstion 1.1.4 of [Schlongs of Skyrim SE](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
-- Only Available Version of [Leito Schlongs Add-On](https://www.loverslab.com/files/file/13942-sos-leito-schlongs-addon-se/)
-
-After you have downloaded **EVERY ONE OF THESE FILES MANUALLY,** launch Wabbajack again, keep the settings the same as before, check "Overwrite," and press the **PLAY** button.
-
-There are also several large files stored on Wabbajack's own servers, and since these are protected by CloudFlare, many ISPs are not configured to route them properly. Keep this in mind if you cannot finish the install because files with "Licentia" in the filename keep failing.
-
-First try enabling the "Network Workaround" in Wabbajack's settings menu (gear icon, top right) and restart the process.
-
-If that doesn't work, you will need a VPN set to the United States. (There are many high quality free, but slow, VPNs which have very good privacy policies. I am personally a fan of Proton because it's in Switzerland, with the same maniacal attention to security as the numbered bank accounts from the same place. . . . But I'm not your Dad.) 
-
-If this STILL doesn't work, you can download them from the MEGA link below, but you will cap at downloads before you are finished. You can try creating an account to get around it, using a VPN, paying actual money, or waiting 24 hours between attempts. I'm sorry, I don't know what else to do.
-
-[Licentia Custom Files - MEGA Shared Directory](https://mega.nz/folder/RawGxSQC#18F3HuX5i5MvXzsMb6ARGg)
-
-**Note:** Some users may not see all of the files at first. For those users, I suggest creating a MEGA account and logging in. For those who have done so, try logging out and back in.
-
-    Wait for Wabbajack to finish
-    
 ## Content
 
 ### What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!
