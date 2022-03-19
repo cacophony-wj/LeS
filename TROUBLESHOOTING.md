@@ -115,7 +115,7 @@ Slow down there pardner. Skyrim crashes all the time, less so in vanilla but mor
 
 ### I'm randomly crashing!
 
-You probably don't have enough paged RAM. Skyrim is very badly optimized. Try increasing your pagefile size. The recommendation is to set it to "System Managed" for all of your hard drives, but you can read specific instructions by going to any Wabbajack Discord channel and typing ``!pagefile`` 
+You probably don't have enough paged RAM. Skyrim is very badly optimized. Try increasing your pagefile size. Refer to the primary README document for details. 
 
 ### As soon as I start the game in the main "overworld" everybody starts spinning around and collapsing at the speed of light!
 
