@@ -284,7 +284,7 @@ The rest must be completed after the game itself is launched. I recommend bringi
 
 # PLEASE CLICK THE BELOW LINK TO CONTINUE THIS ESSENTIAL README. THEN RETURN HERE TO COMPLETE THIS ESSENTIAL README.
 
-[Licentia MCM Configuration And More](https://github.com/cacophony-wj/LeS/blob/master/MCMs.MD)
+[Licentia MCM Configuration And More](https://github.com/cacophony-wj/LeS/blob/master/MCMs.md)
 
 ## Updating the Modlist
 
