@@ -1,59 +1,31 @@
 - [Licentia Configuration](#licentia-configuration)
   - [Setting your resolution](#setting-your-resolution)
   - [Customizing Controls](#customizing-controls)
-  - [Enabling Enhanced Gamepad Controls](#enabling-enhanced-gamepad-controls)
+  - [Using A Controller](#using-a-controller)
+  - [Disabling NSFW Features](#disabling-nsfw-features)
   - [Character Creation](#character-creation)
   - [AS SOON AS CHARACTER CREATION IS COMPLETE](#as-soon-as-character-creation-is-complete)
-  - [A bit of a note on System Settings](#a-bit-of-a-note-on-system-settings)
-  - [Controls](#controls)
-  - [DEFAULT CONTROLS AND HOW TO CHANGE THEM](#default-controls-and-how-to-change-them)
   - [Game MCM Options](#game-mcm-options)
-  - [A Matter of Time](#a-matter-of-time)
-  - [Assigned Storage](#assigned-storage)
-  - [CGO](#cgo)
-    - [Settings](#settings)
-      - [Leaning](#leaning)
-  - [Completionist](#completionist)
-  - [Follower Framework](#follower-framework)
-    - [System](#system)
   - [Fertility Mode+](#fertility-mode)
   - [OStim](#ostim)
-    - [Configuration](#configuration)
-      - [Sex Scenes](#sex-scenes)
-      - [Beds](#beds)
-      - [Undressing](#undressing)
     - [How To Use This Mod](#how-to-use-this-mod)
-    - [OStrap](#ostrap)
   - [Quick Light](#quick-light)
-    - [SexLab Solutions](#sexlab-solutions)
-      - [follower](#follower)
-  - [SKY UI](#sky-ui)
-    - [General](#general)
-    - [Advanced](#advanced)
-  - [SmoothCam](#smoothcam)
-    - [Presets](#presets)
-  - [Trade and Barter](#trade-and-barter)
+  - [Skyrim Outfit System](#skyrim-outfit-system)
   - [VioLens](#violens)
-    - [Profile System](#profile-system)
   - [Now you are ready to spawn!](#now-you-are-ready-to-spawn)
-  - [ONE FINAL STEP](#one-final-step)
-  - [Genesis Surface Spawns, Genesis Spawns Unleashed](#genesis-surface-spawns-genesis-spawns-unleashed)
-  - [OBIS - Bandits](#obis---bandits)
-- [ULTRA MEGA IMPORTANT](#ultra-mega-important)
-  
+  - [FINAL NOTE: On Alternate Starts](#final-note-on-alternate-starts)
+
 # Licentia Configuration
 
 ## Setting your resolution
 
-_minilicentia_ has been configured to run at _2560x1440_ by default. If you wish to change this to a higher or lower resolution, click the hammer and gear icon and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. (Should be under [Display] which is itself in alphabetical order.) Change the values for _iSize H_ and _iSize W_ to the resolution you wish. Below are some common resolutions you can use.
+_Licentia_ has been configured to run at _2560x1440_ by default. If you wish to change this to a higher or lower resolution, click the "Tools" icon above the list of mods and choose _INI Editor_. Now search the _SkyrimPrefs.ini_ for a line that begins with _iSize_. 
 
 "1080p" is _iSize H = 1080_ & _iSize W = 1920_
 "1440p" is _iSize H = 1440_ & _iSize W = 2560_
 "2160p" or "True 4K" is _iSize H = 2160_ & _iSize W = 3840_
 
-If you have an Ultrawide monitor, you will need [this mod](https://www.nexusmods.com/skyrimspecialedition/mods/1778). Install it as you would any other Mod Organizer. Just put it under _Added Mods._ Then adjust the above values to your monitor's native resolution.
-
-I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack readmes or drop by Discord and type _!usesearch_ to hunt for other users' experiences.
+If you have an Ultrawide monitor, there may be steps you can take such as reinstalling the _Dear Diary_ series of mods, but these are **unsupported** because I can't help you get it working or test problems with it because I don't have Ultrawide. You can always refer to other Wabbajack readmes or drop by Discord and type _!usesearch_ to hunt for other users' experiences.
 
 ## Customizing Controls
 
@@ -61,9 +33,13 @@ The vast majority of these options are configured in the "Controls" portion of S
 
 To change the _Quick Light_ key, open the _Quick Light_ MCM and you should see the option. The same is true for _CGO_, there are options for _Grip Shift_ and _Dual Wield Blocking_.
 
-## Enabling Enhanced Gamepad Controls
+The last control you need to configure is within the _True Directional Movement_ mod. I recommend setting the "Lock-On" key to one of your alternate mouse buttons, such as the scroll wheel or one of the side buttons, if you have one.
 
-Due to a request from multiple users I have returned the enhanced Gamepad control mods. They are all enabled by default, but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **delete any ControlMap_Custom" file(s) in your Skyrim game directory. You will have to configure CGO (I recommend D-Pad Left for grip shift and LB for Dual-Wield Blocking), The Ultimate Dodge Mod (I recommend D-Pad Down for Sneak), and Quick Light (I recommend D-Pad Up).  Finally, reconfigure your QuickSave and QuickLoad keys in-game. You must ALSO recall that almost ALL OStim navigation can only be accomplished via the keyboard, so you will have to either switch back and forth or set to autopilot. When all is said and done the Gamepad controls will be as follows:
+## Using A Controller
+
+Due to incompatibilities with _OStim's_ FreeCam I have disabled all controller mods by default. They can be found under "Controller Options", but serve no purpose so long as you use a mouse and keyboard. However, if you wish to play with a controller, you will have to **enable all these mods** and **delete any ControlMap_Custom" file(s) in your Skyrim game directory.** _If there is no such file in your Skyrim directory, you do not need to worry about it._ Just make certain one is not present.
+
+You will have to configure CGO (I recommend D-Pad Left for grip shift and LB or L1 for Dual-Wield Blocking), The Ultimate Dodge Mod (I recommend D-Pad Down for Sneak), and Quick Light (I recommend D-Pad Up). There is no good button for lock-on, I typically assign the same one as Spring and Dual-Wield Blocking (LB).  Finally, reconfigure your QuickSave and QuickLoad keys in-game. You must ALSO recall that almost ALL OStim navigation can only be accomplished via the keyboard, so you will have to either switch back and forth or set to autopilot. When all is said and done the Gamepad controls will be as follows:
 
 - Start: Journal
 - Back: Wait
@@ -86,11 +62,25 @@ Due to a request from multiple users I have returned the enhanced Gamepad contro
 - (Yes, you will crouch up and down and turn lights on and off in dialog menus.)
 - (Use the sticks instead!)
 
+## Disabling NSFW Features
+
+A handful of mods in this list contain sexual content that may be a bit too "raw" for some players, namely _Amorous Adventures_ and _OStim Solutions_, which feature potentially disturbing content including graphic depictions of outlandish fetishes and/or non-consensual sex, and especially _OProstitution,_ which encourages sex work, and _ODefeat_ which offers assault options at the end of combat. However I have gone out of my way to alter them so that all of them are optional and/or clearly marked as offensive. None of this content will be "sprung" on you without your consent. If you wish to avoid them, ensure that _do not enable player victim in the MCM_ and _do not select any dialog options with a "disturbing content" warning._
+
+You may also wish for the sex part of the list to be completely optional. While you cannot remove the adult dialog options without reworking most of the list, you **can** ensure that any pornographic imagery only takes place when you choose for it to. Somewhere inside your load order is an ESP called "ONights." This ESP enables NPCs in the game to have sex with each other on their own without your input. Once again, you must disable it **ONLY BEFORE CHOOSING NEW GAME.** Doing so at any other time will cause issues. 
+
+Still want to sleep your way around Skyrim without straight up watching porn? Thanks to my users, I have an option for that now as well. In addition to the above options, simply enable the _OFadeToBlack_ mod in its corresponding MCM menu, and disable the stripping of _Slots 49 and 56_ in the _OStim_ "Undressing" MCM section. This will cause the screen to Fade To Black every time a sex scene begins, so you can still get the easier quest rewards and the degradation of being attractive and easy, without actually offending any onlookers.
+
+As far as I know, if you configure everything listed above, there will be absolutely no sex or nudity in your list except for a few randy dialog options. I offer no bulletproof guarantees, though, so be careful. Keep in mind the strong warning at the beginning of this readme still applies, and if you enable or disable any mods (as opposed to making MCM changes), **do not ask for assistance from Wabbajack support staff.** Keep it only to my private server, please.
+
+I do have a bit of a warning here however. Although distribution is rather rare, there are still a few skimpy outfits sprinkled throughout the list. I enabled this option because it is one of my most commonly requested features, and I also enjoy seeing a nice sexy outfit now and again myself. To be more specific, the Khajiit caravans sell extremely slooty armors from _BD's Armor Replacer_ (which are basically bikinis from _TAWOBA_) and some of the skimpier outfits from _The Book of UUNP_ can sometimes be found on NPCs. I wished to make them only craftable or purchasable, but it is a great deal of work due to the hundreds of outfits and the deliberate, spaghetti-like nesting of some of the leveled lists.
+
 ## Character Creation
 
-Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A - Altmer, Bo - Bosmer, Br - Breton, D - Dunmer, I - Imperial, N - Nord, O - Orsimer, R - Redguard). I have also recently included a host of presets from one of my users, featuring male and female variants for every race, including Argonians and Khajiit.
+Creating a face is very time consuming so I have included many presets. Use your mouse to click the _Presets_ button in the upper right, choose _Load Preset_, and experiment with the options. Make sure your race matches the race of the preset (A or AL - Altmer, AR - Argonian, BO - Bosmer, BR - Breton, D - Dunmer, I - Imperial, K - Khajiit, N - Nord, O - Orsimer, R - Redguard). Many of these faces also come with a "Sculpt" as well, so click the _Sculpt_ menu and import the `NIF` that matches your preset.
 
-Tweak to your liking, but bear in mind that many of the close-cropped hairstyles will **NOT** look right until you select the _High Poly Head_ by navigating to the _Head_ portion of RaceMenu and choose _Face Part 3_ (near the bottom). You might enjoy some of the _KS SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. You can also tweak your body a bit with the _CBBE Morphs_ and _Genitals_ options, but I am not going to go into that. Most of the options will not function correctly until you have completed character creation at least once -- when you have done so, remove your clothing (if so desired), turn around and use the "Vanity Mirror" to make final adjustments. (Don't go too crazy with the dong, or it will poke through people's heads!) This option is basically the same thing as Riften's "Face Sculptor" and causes none of the bugs and dropped racial and magic effects that the _showracemenu_ command does. Experiment and figure it out. 
+Tweak to your liking, but bear in mind that many of the close-cropped hairstyles will **NOT** look right until you select the _High Poly Head_ by navigating to the _Head_ portion of RaceMenu and choose _Face Part 3_ (near the bottom). You might enjoy some of the _SMP_ hairs in the rightward section of the _Hairs_ slider, they have physics which probably won't work until character creation is complete. 
+
+It used to be possible to tweak your body with _Morphs_, however _OBody_ has made short work of that. If you wish to customize your body, I recommend using the _BodySlide Studio_ Tool to create and save your own "Preset" and then assigning it as described in the "Female Bodies" portion of the main readme. Google will be of assistance here, as will visiting one of my support channels on Discord. Adjusting the schlong with _Genitals_ should still work, although you'll have to close _RaceMenu_, take off your clothing, and use the Vanity Mirror. Don't go too baby arm with it or it'll go straight through people!
 
 **IF YOUR BODY OR FACE TURN PURPLE OR OTHERWISE WEIRD**, scroll Racemenu over to _Body Paint_ and make sure all Textures are set to _Default_ (press the "T" key)
 
@@ -98,178 +88,76 @@ Tweak to your liking, but bear in mind that many of the close-cropped hairstyles
 
 **DO NOTHING** until **ALL** of the messages in the top left corner stop appearing. This is the most script intensive part of the game and may break otherwise. (It almost certainly will break if you forgot to copy game folder files.)
 
-## A bit of a note on System Settings
-
-## Controls
-
-**Under the System > Settings Menu** change _Quicksave_ to _F9_, and _Quickload_ to _F10_. Don't worry about using them because _Engine Fixes_ converts them to full saves. 
-
-## DEFAULT CONTROLS AND HOW TO CHANGE THEM
-
-The vast majority of these options are configured in the "Controls" portion of Skyrim's pause menu. Please take note that your "Sneak" key is **NO LONGER SNEAK**, it is **DODGE** instead. If you wish to select a sneak key, first configure your **DODGE** key (which is labeled as **SNEAK** in the "Controls" menu, remember, and is assigned to **CTRL** by default). Then open the MCM and choose the _Ultimate Dodge_ option. There is an entry there for "Sneak Key", click it and choose. In the end I think you will be better served with Dodge as _Shift_ and Sneak as _CTRL_.
-
-To change the _Quick Light_ key, open the _Quick Light_ MCM and you should see the option. The same is true for _CGO_, there are options for _Grip Shift_ and _Dual Wield Blocking_.
+Fertility mode will pop up a window requesting to turn on. Choose NO right now, even if you want it on, as the script load can get too high.
 
 ## Game MCM Options
 
-**NOTE:** Any menus or options not specifically mentioned here can be ignored. I have used what limited xEdit and Papyrus knowledge I possess to configure them automatically at game init (while those messages were cycling earlier)
-
-## A Matter of Time
-
-Load the User Preset.
-
-## Assigned Storage
-
-This is an interesting mod -- it basically duplicates the "Craftloot" function of _Legacy of the Dragonborn_ such that you can keep all of your crafting ingredients in a sort of "cloud storage" which deposits itself into your inventory each time you use a crafting function. Be wary when you activate such tools, wait for the cloud storage to load into your inventory both _before_ and out of your inventory _after_ you access a crafting table, otherwise problems may occur. I don't utilize the MCM options, but you can also refer to the mod page and designate any chest or container in the game as the recipient of this "cloud storage" somewhat like the "Item Boxes" in the _Resident Evil_ series. Have fun, but remember, if you do a quest that requires crafting ingredients, they will be removed once you finish with the table! (Alvor, I'm looking at you.) You may need to AddItem in that piece of Leather just to continue the Quest.
-
-##  CGO
-
-### Settings
-
-#### Leaning
-
-**I recommend the following values:**
-
-_Lean Multiplier (1st Person)_: _X0.00_
-
-_Lean Multiplier (3rd Person)_: _X0.25_
-
-_Camera Noise_
-
-_Camera Noise Mult (1st Person)_: _X0.00_
-
-## Completionist
-
-This mod is intended as a fantastic companion to your own Quest Journal, informing you of ALL the quests available in a particular area as well as from added mods in this list - so you will never be without something to do! Refer here if you are at a loss and do whatever you feel is of interest. Two things to keep in mind, if you click on a quest it will "Manually" complete it and you will have to reset them all to get it back, so don't do that unless the MCM bugs out and the quest does not complete on its own! Second, _this mod does not update with quest steps._ It will not tell you where to go and what to do, your normal Journal serves that purpose -- only what is necessary to start a quest, as well as a notification that it has completed.
-
-##  Follower Framework
-
-###  System
-
-In the upper right, click _Load From File - CLICK HERE_
-
-At the message **Settings Loaded. Please exist the MCM menu to apply all changes.** click _Ok_
-
-Exit the MCM and re-open it.
+**NEW!** Almost every MCM is now automated! The only two mods you may be interested in configuring are _Fertility Mode_ and _Ostim_ itself. Read on for details!
 
 ## Fertility Mode+
 
-_Be Warned:_ This mod is _very_ intrusive, with a lot of "heavy" features, and currently suffers from a few bugs in the implementation of the code necessary to disable it as well as manage magic effects and onscreen widgets properly. If this concerns you, or you do not wish to deal with the difficulty inherent from possessing a full fertility and reproductive cycle, **do not** enable this mod, as in its current state it **can not** be fully disabled again. If this is not a concern of yours...
-
 "Enable" the mod. This is a _slow_ process. It will lock up the MCM menu, most likely, so you will have to exit all menus and re-enter.
 
-Check _Unique Women Only_ and _Unique Men Only_.
+Check _No Non-Unique Women_ and _No Non-Unique Men_.
 
-The only other options you may be interested in are under "Automation" in the lower right.
+You may also be interested in the "Automation" options in the lower right.
 
 The _Spouse Fidelity_ option is hilarious if you set it down to around 50%. This basically means you have more baby mama drama than an Oklahoma trailer park.
 
 _Randomly Inseminate_ allows you to simulate widespread fucking without acting it out. Be wary of this mode!
 
-Finally, under _Information_, the _Show Verbose Messages_ option with pop up various methods on Skyrim's sexual exploits such as, with spouse fidelity low: "Embry came inside Gerdur."
+Finally, the default feedback is a bit intrusive. I recommend switching to _Page 2_ of the settings and disabling _Verbose Messages_ and _The Widget._ Otherwise, you will receive messages about insemination and, if you are female, have a really anatomical depiction of your reproductive organs onscreen at all times. I don't want to talk about it.
+
+## Follower Framework
+
+Not strictly necessary, but your followers may wander around at times without this step. Go to **Activity** and enable _Only Sandbox in Town._ If you don't want your followers using your crafting stations, also enable _Ignore Special Furniture_
 
 ## OStim
 
-The settings in this extensive mod are almost all down to personal preference. I recommend you carefully read the mod pages for both "OSex" and "OStim" if you wish to configure sex into an interactive little "minigame". 
-
-However, I do have the following recommendations:
-
-### Configuration
-
-#### Sex Scenes
-
-Uncheck "Actors Control Speed."
-
-Set the "Excitement Multiplier" to 3.00.
-
-#### Beds
-
-Uncheck "Use Beds". Nice idea but too buggy.
-
-#### Undressing
-
-Uncheck everything but "Fully undress at start."
+The settings in this extensive mod are almost all down to personal preference. I recommend you simply "Import Settings" to get my recommendations (scroll all the way down, on the right). If you wish to customize the settings further, I recommend you read about the whole Suite of mods on Nexus. It's pretty cool stuff.
 
 ### How To Use This Mod
 
-OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect / advance scene, enter is open or close menu. Period or decimal ends the scene. 
+OStim/OSex is a little tough to get used to but the gist is that you use 8,4,5, and 6 on the NUMPAD like another set of WASD keys to move around in the OSex menus. 7 chooses a command, 9 swaps actors or functions, 1 cancels a command. + is inspect or advance scene, enter is open or close menu. Period or decimal ends the scene. Freecam is now enabled, but not automatically. Press the forward slash key on the NUMPAD to activate it.
 
-If you are unfortunate and have a 75% keyboard or some other device without a NUMPAD, you will have to use an autohotkey script or remap the OSex controls somehow. Join my private server and search the #licentia channel for tips. You can find the link in the #sse-licentia channel on the Wabbajack Discord.
+Personally as a despicable Boomer and former data entry clerk at UPS, the fact that people willingly choose to do without NUMPADs both disturbs and angers me. But I know it's a thing. If you don't have one, no problem. You can hold down **F8** for 10 seconds to rebind all of OSex's default controls. Good luck finding keys that aren't already in use.
 
-Bear in mind that many subjects do not have appropriate animations (such as lesbian scenes). To find these, press the backslash key \ at any time, type in a keyword, and press Enter to begin.
+If you encounter a scene that is terribly out of alignment, press the L key to open a menu with tons of options for adjustments (this is the OAlign mod). If you save your changes they will persist for that animation.
 
-At any time you can go up to anyone and press the up arrow to have OSex sex with them.
+At any time you can go up to anyone and press the up arrow to have OSex sex with them. **NOTE: DO NOT INITIATE SEX WITH THE STANDARD OSA MENUS!** (Available via the ENTER key on your numpad.) _OStim_ overrides these, so they will not function.
 
-Creatures do not function with OSex and I have no plans to ever implement them. Play DND.
-
-### OStrap
-
-I am not a fan of strap-ons, but I am even less of a fan of futa options, so this mod is included for reasons. I recommend the following options:
-
-_OStrap Core_
-
-"Enable mod" and "Enable for NPC." Use "Enable for Player" only if you are female.
-
-_OStrap Integrations_
-
-"Enable OCum Support"
-
-_Enabled Strapons_
-
-All.
+Creatures do not function with OSex and I have no plans to ever implement them.
 
 ## Quick Light
 
-This is automatically set to NUMPAD 1. Set it to whatever you wish. All it does is turn on a light so you can see around you.
+Just as a note here, the free lantern can be turned on at any time by striking the 'NUMPAD 1' key or holding down the `Activate` button (`E` on keyboard, `A` on Gamepad). The keys for this can be changed in this MCM, as well as the brightness and style of the lantern.
 
-###  SexLab Solutions
+## Skyrim Outfit System
 
-####  follower
+This section is brought to you entirely by my devoted user `Palentier` who was convinced someting was wrong with this mod, prompting me to remove it, pissed off half my server, then made amends by realizing his mistake and writing this guide. Thanks a lot, man!
 
-Choose the appropriate options here to offer a follower instead of yourself for sexual favors. This is mainly useful if you aren't attracted to a particular sex.
+This mod allows you to have multiple outfit appearances that can be saved, favorited and switched or removed totally with the "Change Outfit" power. This mod allows you to wear any Armor including shields and jewelry while maintaining the appearance of the set you saved.  So you can get your Characters Look exactly how you want it, while wearing the stuff you need to buff your character with.
 
-## SKY UI
+Using this Mod is optional, but you MUST use the "Change Outfit" Power and select [NO OUTFIT] if you wish to see your character nude for Ostim scenes.  This power can be used after starting the scene if you forget to turn it off before the scene begins.  WARNING: The setting under Outfit settings (while creating a new Outfit) "Require Equipped Armors" **WILL NOT REMOVE YOUR UNDERWEAR.**  You must manually select [NO OUTFIT] each time you start a scene.
 
-### General
+### Options
 
-Set _Font Size_ and _Icon Size_ to your preference, likewise with _Category Icon Theme_. (I personally only really like the "Celtic" version of the icons.)
+**Quick Slots Enable**
 
-### Advanced
-
-Due to the location of additional HUD elements like the minimap, under "Active Effects HUD" you will need to set _Vertical Anchor_ to "Center".
-
-## SmoothCam
-
-### Presets
-
-Click on _Slot 2: EasyEase_ under _Load Preset_ on the **RIGHT SIDE OF THE SCREEN** and wait for the message.
-
-## Trade and Barter
-
-Click "Modify Barter Settings" and change the "Preset" to your liking.
-
-## VioLens
-
-### Profile System
-
-Click _Load_ and select _VioLens._ Wait about three seconds until the menus stop cycling.
+_You must Favorite an Outfit to see it in the Change Outfit Power Menu_
 
 ## Now you are ready to spawn!
 
-Be sure to make a last second save in case something bad happens. You _do not_ want to do these MCMs again. I have expanded roleplaying options from the beginning of the game with the mod "Abandoned Prison Tweaks." First turn around and grab the key and mirror on the shelf nearby. The mirror is what you should use to change your appearance -- it causes far fewer bugs than the ``showracemenu`` command. The book provides a little flavor text on how you got where you are. The key opens the cabinet nearby, which you should do now. Inside you will find a chest with scrolls to assign your starting spells -- take all of them if you are a power gamer, or only the ones that represent your background. All starting spells have been removed. On the middle shelf is another key, which you should grab, and a cask with a few potions in it. On the bottom shelf is a chest with various crappy starting gear you can choose. Return your attention to the top shelf again. Somewhere floating around all glitchy is the "Firmament" book which, when read, will allow you to choose any Standing Stone buff in the game. (I really need to fix the placement of this.) There are two ways to choose where you will spawn. The statue, as in most lists, provides a host of specfic roleplaying options. The books on the upper left of the cabinet will allow you to choose a sexy start where you are stripped of all your clothes -- great for roleplaying with your chosen gear. After choosing one, check the small chest hidden behind a barrel in the corner where you started for a dozen lockpicks if you wish to take them. Then sleep on the bed to begin. Unfortunately, INI tweaks necessary for clippingless first person mode to function properly render the vanilla start unplayable. I recommend you choose "camping in the woods" if you want to begin near Helgen. It is highly unlikely that I will disable the tweaks necessary for clippingless first person.
+Be sure to make a last second save in case something bad happens. You _do not_ want to do these MCMs again. I have expanded roleplaying options from the beginning of the game with the mod "Abandoned Prison Tweaks." First turn around and grab the key and mirror on the shelf nearby. The mirror is what you should use to change your appearance -- it causes far fewer bugs than the ``showracemenu`` command. The book provides a little flavor text on how you got where you are. The key opens the cabinet nearby, which you should do now. Inside you will find many books. On the left are alternate starts that usually put you somewhere compromised and naked. Underneath is "The Firmament", a book that lets you choose whatever Standing Stone you prefer from the beginning. On the right is a chest with scrolls to assign your starting spells -- take all of them if you are a power gamer, or only the ones that represent your background. On the middle shelf is another key, which you should grab, and a cask with a few potions in it. On the bottom shelf is a chest with various crappy starting gear you can wear. There are two ways to choose where you will spawn. The statue, as in most lists, provides a host of specfic roleplaying options. And of course, there are the books mentioned previously. Do note that you must PICK UP a book to choose the start, not just READ it. After choosing one, check the small chest hidden behind a barrel in the corner where you started for a dozen lockpicks if you wish to take them. Then sleep on the bed to begin. 
 
-## ONE FINAL STEP
+### The Dodge Mod Will Not Work Until You Leave The Starting Cell.
 
-Once you reach your chosen location and have dispensed with any tutorials and or cutscenes, there are a couple further steps. Return to the MCM menus listed below.
+### Do Not Report Bugs With The Dodge Mod If You Have Not Left The Starting Cell.
 
-## Genesis Surface Spawns, Genesis Spawns Unleashed
+### VioLens
 
-The meat of _minilicentia's_ difficulty. Spawns extra enemies in each area. I tested with everything maxed, incuding OBIS, and it was _tough_ at early level. Probably something like 4 additional spawns for each mod is more appropriate.
+Load the "Tinvaak" profile. (Not related to that modlist, named such for Compatibility reasons.)
 
-## OBIS - Bandits
+## FINAL NOTE: On Alternate Starts
 
-First Enable the mod, then decide how many extra bandits you want at every bandit spawn. The default is a pretty good number, but the difficulty is low, so feel free to set it as you wish. The more spawns you add, the more trouble your system will have, so try to use a guesstimate of what your system can handle. As a frame of reference, I had all 3 Dynamic Spawn mods maximized and occasionally experienced hard freezes for up to a minute with a Radeon 5 3600 and an NVIDIA 2070 SUPER. No crashes as of yet.
-
-# ULTRA MEGA IMPORTANT
-
-**The Ultimate Dodge** will **NOT** work until you leave the starting cell after sleeping on the bed after talking to the statue or choosing a book. It will also **NOT** work **UNTIL YOU PRESS G TWICE.** The **FIRST** thing you should do as soon as you spawn is **PRESS G TWICE**. If you message me about how you are stuck in the air after a dodge, I will tell you to read this entire readme again.
+Arthmoor's official position on his Alternate Start mod is that, in order to ensure that the Main Quest and any other mods or quests relying upon it work correctly, at some point early in the game you must make your way to Helgen and walk through all of the quest triggers located therein just as though you had played through the Alduin attack. This means going inside the keep, making your way down to see the roof collapse, running up against the blocked passage, THEN backtracking out of the keep, finding the cave entrance marked by the Unbound quest chain, and encountering Ralof and Hadvar inside so you can choose a "side" for any Civil War content you choose to partake in. I am confident this is necessary in most cases because I have had confirmed reports of quests breaking for my users if they chose an Alternate Start and skipped these steps. While not necessary for a limited roleplaying character (like say, a grimdark stealth archer who only does the Thieves' Guild and Dark Brotherhood questchains), if you wish to complete a "long playthrough" of Skyrim you **MUST** make it a point to traipse through Helgen and down to Riverwood before you do much else. Sorry but them's the breaks.

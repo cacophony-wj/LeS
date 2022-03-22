@@ -1,0 +1,112 @@
+
+XANZA'S RETURN: THE XEDIT REPORT
+
+ACT ONE: USSEP
+
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Activator \ 000C8DC4 <MS12UnmeltingSnowActivator>
+ 
+ Excuse me but WTF is this
+ 
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 000877AB <JewelryRingSilverGarnet>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 0008B676 <EnchArmorElvenGauntletsAlchemy02>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 0008B677 <EnchArmorElvenGauntletsAlchemy03>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 0008B678 <EnchArmorElvenGauntletsAlchemy04>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 000D5047 <POIMageIlasTeisRing>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 000D5385 <EnchArmorGlassCuirassLightArmor04>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 000D5386 <EnchArmorGlassCuirassLightArmor05>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 000D79BD <EnchArmorDragonscaleCuirassLightArmor04>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 000D79BE <EnchArmorDragonscaleCuirassLightArmor05>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 000D79BF <EnchArmorDragonscaleCuirassLightArmor06>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 000E40DE <MQ201PartyBoots>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 0010CFA0 <EnchArmorGlassCuirassDestruction04>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Armor \ 0200284D <DLC1ArmorAurielsShield>
+			
+ Ensure that keywords are properly forwarded.
+ EDIT: These are templated with the proper keywords.
+
+ [] Skyrim Immersive Creatures
+
+ Xanza, one thing to be aware of is that Skyrim Immersive Creatures changes the mesh for the White Stag, but does not include the mesh.
+ So not only is the Stag invisible, it is impossible to select in console.
+ You may wish to revert this mesh change. 
+ 
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Non-Player Character (Actor) \ 0001347C <Gerdur>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Non-Player Character (Actor) \ 000135EC <IdgrodTheYounger>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Non-Player Character (Actor) \ 0001406B <Muiri>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Non-Player Character (Actor) \ 000658D2 <TembaWideArm>
+ 
+ Missed a handful of USSEP NPC scripts.
+ 
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Non-Player Character (Actor) \ 00013BAB <Ysolda>
+ 
+ Faction Record from USSEP overwritten.
+ 
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Non-Player Character (Actor) \ 0001CD90 <Vex>
+ 
+ AI Package from USSEP overwritten.
+ 
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Non-Player Character (Actor) \ 0003DEAA <EncBandit05Melee1HTankImperialM>
+ Et Al...
+ 
+ It appears this sequence of Bandit entries is patched with a dagger from the Vampire list, but reverts to ITM USSEP's perk changes.
+ 
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Non-Player Character (Actor) \ 02003788 <DLC1AlthadanVyrthur>
+ 
+ Vampire Loot Record is reverted.
+ 
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Weapon \ 000AA1DB <EnchOrcishWarAxeMagicka02>
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Weapon \ 000AA1DC <EnchOrcishWarAxeMagicka03>
+ 
+ UHHH, it looks like your final "patch" for these just reverts them to master.
+ 
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Worldspace \ 0000003C <Tamriel> \ Block 0, -1 \ Sub-Block 0, -3 \ 0000982A <HelgenExterior02> \ Temporary \ 0008C19A
+ 
+ Encounter Zone from USSEP reverted by AP
+ 
+ [0F] Unofficial Skyrim Special Edition Patch.esp (25292C59) \ Worldspace \ 0000003C <Tamriel> \ Block 0, -1 \ Sub-Block 0, -1 \ 0000961C <WhiterunExterior14> \ Temporary \ 0190001A
+ 
+ WTF... the pretty coloorrzzzzz I'm so high man...
+ 
+ACT TWO: THE REST
+
+ [10] Mountains Enhanced.esp (91DBD182) \ Worldspace \ 0000003C <Tamriel> \ Block 0, -1 \ Sub-Block 1, -4
+ [10] Mountains Enhanced.esp (91DBD182) \ Worldspace \ 0000003C <Tamriel> \ Block 0, -1 \ Sub-Block 2, -4
+ [10] Mountains Enhanced.esp (91DBD182) \ Worldspace \ 0000003C <Tamriel> \ Block 1, -1 \ Sub-Block 5, -4
+ 
+ Don't all of these Region keywords need to be forwarded? They appear to relate to Survival Mode.
+ 
+ [FE 043] ClefJ's Fort Dawnguard.esp (F8F97B45) \ Worldspace \ 02001DB8 <DLC1HunterHQWorld> \ Block 0, -1 \ Sub-Block 0, -1 \ 02001DD3 <DLC1DawnguardGate3>
+
+ Weather probably needs to be forwarded.
+ 
+ [1C] Weapons Armor Clothing & Clutter Fixes.esp (0E8D8091) \ Armor \ 000C5D10 <ClothesWarlockHoodUnplayable>
+ 
+ There is a error in the Armature record.
+ 
+ [1C] Weapons Armor Clothing & Clutter Fixes.esp (0E8D8091)
+ 
+ Not a big deal I guess, but sometimes these ARMO and WEAP records take the name from
+ WACCF and other times from Thaumaturgy. Is there a reason?
+ 
+ [23] Thaumaturgy.esp (9BE8F50D) \ Weapon \ 000AA1DB <MAG_EnchOrcishWarAxeMagickaDamage02>
+ [23] Thaumaturgy.esp (9BE8F50D) \ Weapon \ 000AA1DC <MAG_EnchOrcishWarAxeMagickaDamage03>
+ 
+ Both of these appear to be just straight up reverted to master.
+ 
+ [FE 0B3] DumplingsbyKadraeus.esp (21D166B6)
+ [FE 0B4] homeymealyum.esp (9694001E)
+ 
+ Nice touch. :)
+ 
+ [5A] SunHelmSurvival.esp (888C54D6) \ Water \ 00000018 <DefaultWater>
+ 
+ Maybe the `Causes Damage` flag needs to be forwarded here? Or are you only using
+ Sunhelm for Diseases and Survival Mode for Needs?
+ 
+ I'll admit I am mystified by a lot of your smaller cell and worldspace patches, the JK's / Lux ones especially.
+  Either they have small vertex position changes that don't show up in xEdit normally,
+  Or they appear to be completely identical to their masters -- no records changed at all.
+  Maybe you could enlighten me?
+  Did you create these in CK?
+  
+THE END

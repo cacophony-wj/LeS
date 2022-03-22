@@ -1,3 +1,1465 @@
+## 10.44
+
+**THIS IS THE CURRENT VERSION ON THE UI.**
+
+**THIS UPDATE IS NOT SAVE SAFE.**
+
+- Reworked the base texture setup.
+- Hand-picked certain textures from _Skyrim 2022 - Whiterun by Pfuscher_ 
+- Hand-picked certain textures from _TB's Parallax Towers_
+- Added _Mrf's Markarth_
+- Added _ScandaNordic Mountains - HD Mountain Textures_ with fixes
+- Added _Dirtcliffsroots change to Ivy by Pfuscher_
+- Added _Skyrim 3D Rocks_ and BDS patch
+- Added _Rock Grass for ENB Complex Grass SE_
+- Added back a heavily customized version of _ODefeat_
+- Added back _OAroused_
+- Added back _OProstitution_
+- Added back _Oprostitution ASLAL Integration_
+- Added back _Triple Triad Card Game in Skyrim_
+- Added back _Improved Camera_ and customized it
+- Added back _Alternate Conversation Camera Plus_ and customized it
+- Added back _Minimap_ and configured it to be large, large, large
+- Added back _Skyrim Souls RE_
+- Updated _Legacy of the Dragonborn_ to 5.6
+- Updated _Curator's Companion_ to 6.1.5
+- Updated _Completionist_ to 3.7.1.7-R2 and ensured correct game version
+- Updated _Conduit - Short Term Weapon Infusions_ to 2.3
+- Updated _GG's Thieves Guild HQ Patch Collection_ to 1.3
+- Updated _The Vigilants' New Clothes_ to 1.4.3
+- Updated _Pirate's Life for Me_ to 2.2
+- Updated _Morrowind Threads_ to 1.1.2
+- Updated _Curated Curios_ to 1.0.1
+- Updated _Embers XD_ to 2.5.5
+- Updated _Actor Limit Fix_ to 5.0
+- Updated _Bug Fixes SSE_ to 6.0
+- Updated _Scrambled Bugs_ to 17.0
+- Updated _iWant Widgets_ to 1.29
+- Updated _Better Third Person Selection_ to 0.3.3
+- Updated _ENBSeries_ to 
+- Reverted _Face Discoloration Fix_ to 1.0.1
+- Reverted _Fuz Ro D'oh - Silent Voice_ to 1.7
+- Regenerated LODs
+
+## 10.43
+
+- Added _OBooty - OStim Booty Calls_
+- Added _SexLab Solutions Voiced_
+- Added _Ulfrica - Ulfric to Vivace (Voiced)_
+- Added _Shirley - A Skyrim Follower Mod_
+- Added _Older Shirley_
+- Patched the above so she plays the role of General Tullius.
+- Added _Immersive Armor HIMBO_
+- Added _Better Third Person Selection - BTPS_
+- Added _The Sinister Seven Debuffed Equipment_
+- Added _Bandit Lines Expansion_
+- Added _Opulent Thieves Guild_
+- Added _GG's Thieves Guild Headquarters_ and patched for the above
+- Added _Vanilla Hair Remake_
+- Added _Apocrypha ENB Light_
+- Replaced all off-Nexus versions of _OSuite_ mods with Nexus versions
+- Updated _Honed Metal_ to 1.23
+- Updated _New Animations for OSex by aceanimations_ to 0.12n
+- Updated _Paarthurnax Quest Expansion_ to 1.10
+- Updated _Contextual Crosshair_ to 1.16
+- Updated _Landscape Fixes For Grass Mods_ to 4.9
+- Updated _Actor Limit Fix_ to 4.0
+- Updated _Bug Fixes SSE_ to 5.0
+- Updated _Scrambled Bugs_ to 16.0
+- Removed the following mods to free up ESP space.
+- Removed _Lore-Based Loading Screens_
+- Removed _Bone Wolf Expansion_
+- Removed _I'm Glad You're Here_
+- Removed _Jaxonz Map Markers_
+- Removed _GIST Soul Trap_ (Scrambled Bugs does what I want)
+- Removed _Kala Eyes_
+- Removed _Loki's Eyes_
+- Removed _Interesting Weapons for Interesting NPCs_
+- Removed _Atronach Forge Soul Gem Crafting_
+- Removed _Triple Triad Skyrim_
+- Removed _Tavern Games in Skyrim_
+
+## 10.42.1
+
+Also I tested combat and the scenes extensively on my own, but I skipped the test preview on my private server so I could compile with the Lover's Lab API fix ASAP. 
+
+Manual downloads should no longer be necessary now, in most cases.
+
+- Added _Conduit - Short-Term Weapon Infusions_ and the XP32 fix
+- Added _Sofia - The Funny Voice Follower._ It's a request. I'm aware she receives much hate. Don't talk to her if you dislike her.
+- Added _Sofia Remastered 2.0_
+- Added _Sofia - Typo Grammar and Dialog Fixes_
+- Added _Immersive Sofia Start_
+- Added _Immersive Kaidan Start_
+- Added _Helgen Reborn with Level and Quest Requirement_
+- Added _Song of the Green - OStim Patch_
+- Added _Equippable Underwear for NPCs - HIMBO Refit_
+- Added _OBIS Loot SE_ and update
+- Added _Happy Little Trees_ with the DynDOLOD addon
+- Added _Heritage Enemes 2_
+- Added _The Sinister Seven Debuffed Equipment_
+- Added _GG Thieves Guild_
+- Added _Vigilant NPC Overhaul_ 
+- Added _Auri Dismount Fix_ 
+- Added _Vanilla Hair Rework SMP_
+- Added _Opulent Thieves Guild_
+- Added _Know Your Enemy - Books for Sale!_
+- Added patches for the previous two
+- Added _TrueHUD_ and patches
+- Added _Contextual Crosshair_
+- Added _Ultimate Immersion Toggle_
+- Added _Screenshot Helper
+- Added _ENB Input Disabler_
+- Added _Volatile Void Salts
+- Updated _Vokrii_ and patches to 3.8.2
+- Updated _Imperious_ to 7.28
+- Updated _Completionist - Quest Tracker_ to 3.7.1.5-R3
+- Updated _Serana Dialog Add-On_ to 2.9.2.7
+- Updated _Heavy Armory_ to 4.0 FULL
+- Updated _CBBE 3BA Creation Club_ to 1.1
+- Updated _CBBE Creation Club - Everything Else_ to 1.8
+- Updated _Undeath Ascension_ to 1.42
+- Updated _True Directional Movement_ to 2.1.1 (about time)
+- Updated _Embers XD_ to 2.5.4
+- Updated _Fixed Mesh Lighting_ to 1.7
+- Updated _Know Your Enemy_ to 9.1
+- Updated _Scrambled Bugs_ to 14.0
+- Updated _Scrambled Enchantments_ as well
+- Updated _Unofficial Creation Club Content Patch_ to 6.3
+- Updated _Janquel's ESP Library_ to 1.5
+- Updated my one _kryptopyr_ patch to 4.2
+- Changed _Hand to Hand Rebalanced_ to the CGO version
+- Reverted _Faster SMP_ to 1.18 original karonar code due to a repeatable crash
+- Removed _Minimap_ due to complaints.
+- Removed _Party Combat Parameters_ due to complaints.
+- Removed _Floating Damage_ due to complaints.
+- All of the above are easy to add back, just sayin'.
+- Removed _Mihail Vampire Expansion_ due to user request because Serana is too hard to get
+- Removed _Swiftly Order Squad_
+- Damn I really want that _MoreHUD_ with icons for _Completionist_ but it requires AE
+
+## 10.41
+
+- Added _Bears of the North_ with 4K and SIC patches
+- Added _Salt and Wind - Rough Hair for KS Hairdos SE_
+- Added _CC's HQ Mines Redone_
+- Added _Northfires Castle Vokihar_
+- Added _Spice of Life - Orc Longhouses_
+- Added _Rally's All The Things_
+- Added _Thrones of Skyrim_
+- Added _WiZkiD Signs_
+- Added _Elder Scroll HD_
+- Added _Enhanced Invisibility_ (Thanks Dan)
+- Added _Fixed Mesh Lighting_
+- Added _Timescale_ to set the game clock a bit slower
+- Added _Party Combat Parameters_
+- Added INI customizations for Minimap and Party Combat (Thanks Jamie)
+- Added back _The Sinister Seven_ with LOTD & TCC patches
+- Updated _New Animations for OSex by aceanimations_ to 0.10n
+- Updated _OVoice_ to 1.6
+- Updated _Legacy of the Dragonborn_ to 6.1.4
+- Updated _Legacy of the Dragonborn - Creation Club Patch Hub_ to 5.1.2
+- Updated _CBPC _ CBP Physics with Collisions_ to 1.4.18
+- Updated _KS Hairdos SSE_ to 1.9
+- Updated _Vokriinator Black_ to 6.8.3
+- Updated _Embers XD_ to 2.5.3
+- Updated _Detection Meter_ to 0.16
+- Updated _eFPS - Official Patch Hub_ to 1.6.2
+- Updated _Whiterun Mesh Fixes_ to 1.2.5 and added parallax to them
+- Updated the installed version of _Champollion_ to 1.0.8
+- Removed _ODefeat_
+- Removed _OPrositution_
+- Removed _OPros & ASLAL Integration_
+- Removed the _ERP Profile_.
+- Ran _Nemesis_
+- Ran _Synthesis_
+- Ran _Undies_
+
+## 10.40
+
+Test version with very few differences from 10.41
+
+## 10.39.5
+
+Identical to 10.39.1 except for profile customizations.## 10.39.1
+
+- Added _Kaidan 2 Extended Edition_
+- Added _Detection Meter_
+- Added "the horn" plugin for _Swiftly Order Squad_
+- Added the Nether patch for _Serana Dialogue Addon_
+- Updated _Legacy of the Dragonborn Creation Club Patch Hub_ to 5.0
+- The above doesn't do anything to fix the crash, so my hack is still in place.
+- So, whatever.
+- Updated _Maximum Carnage_ to 6.9.9
+- Updated _Comprehensive Falskaar Fixes_ to 1.1
+- Updated _Steaming Hot Soups and Stews_ to 1.1
+- Updated _Atlas Map Markers SE_ to 2.1
+
+## 10.38.1
+
+Added an `ESM` flag to the Hall of Wonders' plugin so it will have a floor instead of a void.
+Reinstalled the _Skyrim 2020_ series to fix some missing textures (tables, benches)
+Patched a few holes in landscape areas due to mismatched CC edits.
+Patched out some XP debuff descriptions that were no longer relevant.
+Probably not save safe, sorry to say. 
+
+## 10.38
+
+- Added _Legacy of the Dragonborn - Creation Club Patch Hub_ 
+- Added _OCum Spells_
+- Added _Athena BodySlide Preset_
+- Added _Celestial Beings - Horoscope Body Shapes_
+- Added _The Tinraa Body_
+- Added _The Tinraa Body EDITS_
+- Added _Functional Fearsome Fists - Innate Unarmed Boost_
+- Added _DunelSaur's Bone Wolf Expansion_
+- Added _Security Overhaul SKSE - Regional Locks_
+- Added _Swiftly Order Squad - Follower Commands UI_
+- Added _Steaming Hot Soups and Stews_
+- Added _Eli's Breezehome Optimization Packages_
+- Added _Comprehensive Falskaar Fixes_
+- Added _Complete Replica Fixes for LOTD_
+- Added _Sunder and Wraithgard - Editable Vault Cell_
+- Swapped _eeekie's Kaidan_ for _eeekie's Even Better Kaidan_
+- Updated _Legacy of the Dragonborn - Official Patches_ to 2.5.12
+- Updated _The Curators Companion_ to 6.1.2 (includes CC support!)
+- Updated _Undeath - Classical Lichdom_ to 3.55
+- Updated _Knight of the North_ to 2.1.0.3
+- Updated _New Animations for OSex by aceanimations_ to 0.9n
+- Updated _OSex L'amour Rose Animation Pack_ to 0.40
+- Updated _Calliope - HP RaceMenu and 3BA BodySlide Preset_ to 1.1
+- Updated _CBBE Creation Club BodySlides - Everything Else_ to 1.8
+- Updated _Security Overhaul SKSE - Add-ons_ to 0.1.4
+- Updated _Skyrim 2020 Parallax_ to 8.7
+- Updated _Water for ENB_ to 1.54
+- Updated _Skyrim Project Optimization SE_ to 1.5
+- Updated _VIGILANT - Book Covers_ to 1.3
+- Updated _The Choice Is Yours_ to 2.4
+- Updated _Vanilla Script (micro)Optimizations_ to 1.15a
+- Removed _Falskaar - Addons and Patches_
+
+## 10.36.3
+
+Added _The Veteran Skin - Regular Face_
+Added _The Veteran Skin - SoS Retextures_
+Fixed a bug in Sightless Pits where a hallway had no texture.
+
+## 10.36
+
+_Nether's Follower Framework_ is back. I wrote a big long thing about it but deleted it. So I'll just keep it brief. It's the best at what it does. I still use ENB and TCC whose authors are just as cringe. Serana and custom follower homes are bugged with the bad mods I chose to replace it. I'm done making my list worse for a pointless crusade very few people know of, much less care about. I did add the LL version so at least he can't make money off of me.
+
+Added back motherfucking _Nether's Follower Framework_
+Added _Dear Diary Dark Mode_ and all patches. Level up menu works now!
+Sadly this means _Extended UI_ had to go.
+On the upside, UltraWide and greater resolutions work without any modifications!
+Added _CBBE 3BA Creation Club_
+Added _CBBE Creation Club Outfits BodySlides_
+Added _CBBE Creation Club 3BA Slider Groups_
+Added _CBBE Creation Club Naming Consistency Patch_
+Updated _ENBSeries_ to v0469
+Updated _PI-CHO ENB for Cathedral Weathers_ to N6.9
+Updated _Serana Dialogue Add-On_ to 2.9.2.6
+Updated _Wheels of Lull Unwound SE_ to 5.1.3
+Updated _Knight of the North_ to 2.1.0.2
+Updated _Morrowind Threads_ to 1.1.1.1
+Updated _Water for ENB_ to 7.54
+Updated _Pause Menu After Loading_ to v5
+Added several new presets from my Discord server.
+Reran Nemesis.
+Reran BodySlides.
+Reran Synthesis, including Undies.
+
+## 10.35.2 
+
+Added _OFadeToBlack - A SFW-ifier Addon for OStim_ (non-ERP profile only) Thanks to @Hatter#5180!
+Added _OProstitution ASLAL Integration_. Thanks to @kyle215ps3#7251! (ERP profile only)
+Added _HG Hairdos SE_
+Added _Azurite Eyes_
+Added _Loks Eyes Standalone_
+Added _Kyoe's Bang'n Brows_
+Added _Kala's Eyes_
+Updated _Serana Dialogue Add-On_ to 2.9.2.6
+Updated _BodySlide and Outfit Studio_ to 5.5.2
+Updated _Wyrmstooth_ to 1.19.8
+Updated _Security Overhaul SSE - Lock Variations_ to 3.0
+Added RaceMenu presets from my users.
+
+## 10.35.1
+
+- Switched from _Better Khajiit Females_ to _Feminine Khajiit - Gray Cat 8K_
+- Switched from _Better Khajiit Males_ to _Masculine Khajiit - Gray Cat 8K_
+- Added _Better Claws and Gauntlets SSE_ along with the _CBBE_ and _HIMBO_ conversions.
+- Note I did NOT include the gauntlet refits due to compatibility.
+- Added the _Enhanced Argonians_ collection of texture upgrades.
+- Added _BRB SE - Beast Race Bodypaints 4K_
+- Added and customized _Lexy's Experience ini_
+- Properly enabled _ENB on Loading and Title Screen_
+- Updated _Serana Dialog Add-On SE_ to 2.9.2.5
+- Updated _Extended Encounters_ to 1.6.4
+- Updated _BodySlide and Outfit Studio_ to 5.5.1. I did **NOT** rerun BodySlides.
+- Updated _eFPS - Exterior FPS boost_ to 2.3
+- Switched _Pause Menu After Loading_ to the automatic version
+- Removed _EasyWheel_ as useless clutter until I can patch it properly.
+- Experimented with _MCM Recorder_ as a way to offer multiple fetish and difficulty profiles, but discard the idea as not reliable or robust enough.
+- Included _OpenSex Beta 0.9_ into the downloads folder as a show of support.
+- Added all current _OpenSex Compatibility Patches_ to the downloads folder in a show of support.
+- To Do: Add presets from my presets channel. This will likely be a most-hated stealth update.
+
+# 10.34.1.1
+
+- Enabled the _Conner's Wyrm_ patch by removing a master.
+- Thought about patching chocolates to satisfy hunger, decided against it.
+- Thought about patching cat food to satisfy hunger, decided against it.
+- Patched all the custom alcohols from _Spirits of Skyrim_ to get you drunk instead.
+- Regenerated distant grass and LODs to be a little darker.
+
+## 10.34.1
+
+Added _Alternate Conversation Camera_ and configured it for my camera setup.
+Added _OAroused_
+Added _ODefeat_ and configured it for my camera setup.
+Added _OProstitution._ Read the description of this and the above mod on Patreon.
+Added two minigames mods to pass the time:
+Added _Triple Triad in Skyrim SE_
+Added _Tavern Games - Mini Games in Skyrim_
+Added _Convenient Horses_ and associated patches.
+Added _Dual Hand Combo Hotkeys_. Try this mod out!
+Added _Slip Off Slopes_
+Added _Atlas Map Markers_
+Added _EasyWheel Menu_ with a few patches -- kind of a placeholder for now.
+Reran _Nemesis_
+
+## 10.34
+
+Added _Alduin's Reign Title Menu (Soulfire Version)_
+Added _Sons of Skyrim - Epic Metal Main Menu Music Mod_
+Added all the music mods from _Music Mods Merged SSE._ Look them up!
+Added _Lore Based Loading Screens_
+Added _Dear Diary_ and the _Static Skill Leveling_ patch for it
+Added _CoMAP_ and the CC fishing patch for it
+Added _OJazz_ with a custom selection of tracks. _I challenge you not to laugh when a sex scene starts._
+Added _OCrime_ with a penalty of 200 gold, mainly for the onlookers function
+Added _A Whiterun Parallax_
+Updated _OpenSex Addon Version_ to .7nexus
+Updated _OStim L'Amour Rose Animation Pack_ to 0.28
+Updated _Spellsiphon_ to 5.17
+Updated _Undeath Classical Lichdom - The Ascension_ to 4.41
+Updated _HIMBO Refits_ to 4.3.1 and reran their BodySlides
+Updated _Serana Dialogue Add-On SE_ to 2.9.2.4
+Updated _Citizens of Tamriel SE_ to Redux Version
+Updated _Fertility Mode Fixes and Tweaks_ to 2.33
+Updated _Pause Menu After Loading_ to v4
+Removed _Dragon Souls to Perk Points_ (Deadly Dragons has this feature)
+Removed _Bounty Perks_
+Removed _Quests Award Perk Points_
+Reworked the experience progression to be slower but more dramatic
+
+## 10.33
+
+This version requires the $20 Anniversary Upgrade to play.
+
+- Updated and incorporated all AE CC Content
+- Added _Open World Loot_ and did a FUCKTON of patching for it!
+- Added _CBBE Creation Club Outfits BodySlides_ along with _Everything Else_
+- Added _HIMBO Creation Club Refits for BodySlide_
+- Added _Lucien - Anniversary Edition - All-In-One_
+- Added MANY _Magical College of Winterhold_ patches
+- Added _Honed Metal_ and the INI for it
+- Added _Additional Clockwork_
+- Added _Curated Curios_
+- Added _Diverse Redguard Clothes_
+- Added _Ghosts of the Tribunal_
+- Added _Knight of the North_
+- Added _Morrowind Threads_
+- Added _Orcish Orch Strongholds_
+- Added _Pirate's Life For Me_
+- Added _The Vigilant's New Clothes_
+- Added _Conner's Survival Mode_ with _Coffee Mod Integration_
+- Added _Crossbow Integration_
+- Added _Creation Club Integration - Armours_
+- Added _Better Adventurer's Backpack_
+- Added _Better Rare Curios_
+- Added _Skyrim Immersive Creatures_ patches
+- Added _eFPS - Anniversary Edition_
+- Added _Unofficial Skyrim Creation Club Content Patch_
+- Added _Simple Camping Storage_
+- Added _CC Camping - Comfy Sleeping_
+- Added _Relics of Hyrule - Disable and Silence Faeries_
+- Added _Wyrmstooth - Creation Club Ingredient Patches_
+- Added _Skyrim Anniversary - Growable Plants_
+- Added _Wintersun - Anniversary Edition Patches_
+- Added _Wintersun Skill Rate Alternative_
+- Added _VIGILANT - Skyrim Sewers Patch_
+- Added _Crazy Caco's Creation Club Collection_
+- Added _Skyrim Sewers 4 and Saints and Seducers Patch_
+- Added _Creation Club - Properly Environment Mapped_
+- Added _Divine Crusader Sword Fix_
+- Added _Nix-Hound Eyes Fix_
+- Along with shit tons and customization and fixes I can't possibly recall!
+- Reran Nemesis.
+- Reran BodySlide.
+- Regenerated LODs.
+- Reran Synthesis. Undies default to on, you will need to rerun it to disable them.
+
+## 10.32.0.1
+
+- Forgot to tick TDM in Nemesis. Oops. Fixed.
+ 
+## 10.32
+
+- Included _OpenSex Beta - Open alternative to OSex_ v.0.7 as a show of support
+- Updated _Legacy of the Dragonborn SSE_ to 5.5.7
+- Updated _Legacy of the Dragonborn Patches_ to 2.5.11
+- Updated _Legacy of the Dragonborn Perk Menus_ to 0.5
+- Updated _Vokriinator Black_ to 6.8.2
+- Updated _Hangbui - A Draugr Overhaul_ to 4.1
+- Updated _Savage Skyrim_ to 3.98
+- Updated _OBIS - Missives Addon_ to 1.05
+- Updated _Simple Dual Sheath_ to 1.5.2
+- Updated _Storm Lightning for SSE_ to 1.4.14
+- Updated _Security Overhaul SKSE - Lock Variations_ to 2.1
+- Updated _JS Berenziah SE_ to 1.3
+- Updated _Pause Menu After Load Screens_ to 2.0
+- Updated _SkyUI AIO SurvivaL_ to 6.0
+- Updated _powerofthree's Tweaks_ to 1.5.1
+- Updated _SSE Display Tweaks_ to 0.5.9
+- Reran Nemesis.
+- Reran BodySlides.
+- Reran Synthesis.
+- Reran Undies.
+
+## 10.31.1
+
+- Automated some more MCMs (thanks Eggy!)
+- Fixed a bug which would cause slow weapon attacks if weapon speed perks were chosen.
+- Reinstalled _CBBE 3BA_ for less jiggles (didn't work.)
+- So, added _3BA 3BBB CBPC Realistic Firm for less jiggles_ (sorta worked.)
+- Added _Barbarian Bodypaints - CBBE_
+- Added _Hellblade - Senua's Warpaints for Racemenu_
+- Reran Synthesis.
+- Reran Undies.
+
+## 10.31
+
+- Added _Pause Menu After Load Screens_ (Thanks Eggy!)
+- Added _LOD Unloading Bug Fix_
+- Updated _Spellsiphon - Immersive Combat_ to 5.16
+- Updated _Ultimate Dodge Mod Script Fixes_ to 4.8 (Thanks Eggy!)
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.32
+- Updated _New Animations for OSex by aceanimations_ to 0.5
+- Updated _CBPC - CBP Physics with Collisions_ to 1.4.17
+- Updated _Better Windhelm Ground Meshes_ to 1.3.4
+- Updated _Eli's Breezehome_ exterior with Parallax.
+- Updated _DynDOLOD Resources SE 3.00_ to Alpha 19
+- Reverted HDT to the Github version. This should improve CPU performance.
+- Correctly distributed zero sliders to all followers.
+- Correctly installed Illustrious Whiterun SE for 4K textures (Thanks Checker!)
+- Reinstalled Interesting NPCs with loose files, should fix a bard crash (Thanks Jettex!)
+- Reinstalled Whiterun Mesh Fixes and applied parallax to the meshes.
+- Removed a few of the fatter BodySlide presets.
+- Removed Mihail's Giant Centipedes due to FPS issues & multiplicative spawns.
+- Removed Elysium Estate due to FPS issues in the vicinity.
+- Revealed the ESPs for Pubes Forever and Pubic Overlays so they can be used by the player.
+- Regenerated Grass Cache.
+- Regenerated LODs with more detailed grass. There may be a performance impact.
+- Reran Bodyslides.
+- Reran Nemesis.
+- Reran Undies.
+
+## 10.30
+
+The alternate profiles are not yet available. Expect them by the end of the month. There is however, an old totally SFW version floating around, not sure if it still installs.
+
+- Added _OPubes_
+- Added _Pubes Forever SSE_
+- Added _Pubic Hair Overlays SE_
+- Updated _OCum_ to 1.4 and got it working
+- Reinstalled a couple of animation mods that wouldn't compile.
+
+## 10.29.1
+
+**UNRELEASED**
+
+- Updated _CBPC - CBP Physics with Collisions_ to 1.4.16
+- Updated _Faster SMP_ to 1.22
+- Updated _VioLens - A Killmove Mod SE_ to 2.30
+- Updated _Skyrim Immersive Creatures_ to 7.0.2 (thanks Xanza)
+- Updated _Embers XD_ to 2.5.1
+- Updated _powerofthree's Papyrus Extender_ to 4.5.7
+
+## 10.29
+
+**UNRELEASED**
+
+- Updated _New Animations for OSex by aceanimations_ to 0.4.2nexus
+- Updated _Janquel's Arguably Needed Quixotically Unifying ESP Library_ to 1.4
+- Reran _Nemesis_
+- Reran _Synthesis_
+- Regenerated BodySlides
+
+## 10.28.1 
+
+**UNRELEASED**
+
+- Updated _Serana Dialogue Add-On_ to 2.9.2.2
+
+- Updated _CBBE 3BA_ to 2.18
+- Updated _Faster HDT-SMP_ to 1.19
+- Updated _CPBC - CBP Physics with Collisions_ to 1.4.15
+- Updated _Security Overhaul SKSE - Some More Locks_ to 1.01
+- Updated _Vanilla Script (micro)Optimizations_ to 1.14
+
+## 10.28
+
+- Fixed the _OStim_ profile to load a freecam hotkey (thanks Eggy!)
+- Attempted a new weapon speed fix.
+- Reverted the change to skill points.
+- Made it so that you don't have to sleep to level up. (Eggy again)
+- Added _OSound_
+- Added _OPrivacy_
+- Added _ORomance Stat Editor_
+- Added back _OVoice_
+- Added back _Veydosebrom Regions_
+- Reinstalled _Grass FPS Booster_ to match.
+- Added _Grass Cache Fixes_
+- Updated _Serana Dialogue Addon_ to 2.9 Full
+- Updated _OCum_ to 1.4
+- Removed _Cathedral Landscapes_
+- Reduced the insane sharp filter on ENB just a touch.
+- Regenerated Grass Cache
+- Regenerated LODs
+- Reran Synthesis
+
+## 10.27
+
+- Fixed a bug where OStim animations would not play.
+- Fixed a bug where the White Stag of Hircine was invisible.
+- Followers not going into Wolfskull is a vanilla issue, reported to USSEP team.
+- Added _L'Amour Rose Lesbian Animation Pack_
+- Added back _Positive Undressed Reactions_
+- Added _New Vegasized Static Skill Leveling_
+- Added _Experience Quests Tweak_
+- Added _No Startup Quest XP_
+- Along with the above, reworked level and perk progression down a touch slower
+- Added _Dwemer Glowyfication - Skyrim Immersive Creatures_
+- Added a special _OStim Animations Compatibility Patch_ by Kwynon!
+- Updated _Serana Dialogue Addon_ to the long awaited 2.9
+- Updated _CBPC Physics_ to 1.4.11
+- Updated _Deiform Aldiun_ to 1.2
+- Updated _Unofficial Skyrim Special Edition Patch_ to 4.2.6a
+- Updated _Better Windhelm Ground Meshes_ to 1.3.3
+- Updated _Vanilla Script (micro)Optimizations to 1.13
+- Reran _Nemesis_ since I fucked with animations so much
+- Reran _Synthesis_ just in case
+- Reran _Undies_ as well, for the same reason
+
+### 10.26.4
+
+OK so that took a little longer than expected! Had a bit more trouble with those eeekie's than I thought! I will probably need to do a bit more testing for now.
+
+**EDIT: A FEW LAST MINUTE ADDITIONS FOR TESTING!**
+
+- Added _A Cat's Life_
+- Added back _Cat Mod_ for better cat textures
+- Added _I'm Glad You're Here - A Hugging Mod!_
+- Added _Dwemer Glowyfication - Clockwork & Book of UUNP_
+- Added _Janquel's Arguably Needed Quixotically Unifying ESP Library_
+- Added a couple of SIC patches
+
+**BELOW ARE THE ORIGINAL FIXES AND ADDITIONS**
+
+- Fixed the VioLens profile that wouldn't load. 
+- (I actually broke it in the first place and the talented JanuarySnow fixed it)
+- This should prevent killmoves against the player.
+- Found yet ANOTHER reason Meridia was a naked woman and hopefully fixed it!
+- Fixed a ridiculous amount of broken NPCs!
+- Updated _Faster HDT SMP_ to 1.18
+- Updated _OStim Solutions_ to Beta 5
+- Updated _Vokriinator Black_ to 6.8.0
+- Updated _Adamant_ to 5.3.5
+- Updated _Attack Dogs_ to 1.1.5k
+- Still haven't pulled the trigger on a cat mod.
+- I'll get the new _OSex_ animations by ace in there eventually.
+
+### 10.26.3
+
+- Added _Gray Quarter Apartment_
+- Added _Buyable Home Patch for Elysium Estate SSE_
+- Removed _Beginner's Shack - Starter Home_
+- Removed _Ruska - Riften Player Home_
+- Removed _Sicarius' Refuge SSE - A Hitman's Hideout_
+
+### 10.26.2 
+
+Can't stop, won't stop. Decided to add a few player home options to the UI profile and well, maybe got a little carried away.
+Will probably compile this after a little more testing, for distribution on this server as a "test" version.
+
+- Abandoned my research into custom physics XMLs. None are as good as the defaults.
+- Replaced _HDT Skinned Mesh Physics_ with _Faster HDT-SMP_
+- Changed my mind on the grass mod. The LOD transition is actually WAY better. As far as I am concerned, it is worth the substantial tradeoff in grass quality. The new grass is also FAR more performance-friendly.
+- Added craft-only _Girl's Heavy Armors SE_
+- Added a **small** collection of _BD's Armor Replacers_ and listed them as "sexy" variants that you can purchase at a premium from Khajiit caravans.
+- Added official support for _Book of UUNP_, skimpy edition. They will likely be uncommon enough to avoid most complaints.
+- Officially added _Elysium Estate_. Pending, need to check for conflicts in all profiles.
+- Added a collection of Elianora homes listed below.
+- Added _Beginner's Shack - Starter Home_
+- Added _Eli's Breezehome_
+- Added _The Rookery - Bard and Thief Loft in Solitude_
+
+### 10.26.1b
+
+Preliminary UI version is completed. The following changes were made:
+
+- Still experimenting with SMP and CBPC configs.
+- Attempting to track down why killmoves are still happening against the player.
+- Added _Masque of Clavicus Vile 4K_
+- Added back _No Grass In Objects_
+- Added back _Grass FPS Booster_
+- Replaced _Veydosebrome Regions_ with _Cathedral Landscapes._
+- Updated _Synthesis_ to 0.21.4
+- Fixed several small bugs reported in my server.
+- Regenerated much more performant LODs with grass LOD option (for the horrid transition)
+- Reran BodySlides
+- Reran Nemesis
+- Reran Synthesis
+
+Will possibly compile a version for my team sometime before dawn, but doubt they will have time to test it...
+
+### 10.26.1a
+
+**Felt cute, thought I might update _Licentia._**
+
+Here's a preview of the **10.26 UI Release** which will probably drop shortly after the New Year.
+
+Not sure when I'll have time for the **LLS Variant.**
+
+- Experimenting with new SMP and CBPC configs for more realistic jiggliness.
+  We'll see how it goes.
+- Experimenting with lighter grass LOD configs to do something, anything about the
+  terrible fucking LOD transition.
+- Added the _Skyrim 2020 8.6 Update_ to the list (need to rerun LODs now...)
+- Added Pfuscher's _Blended Roads Retexture BETA_
+- Updated _Maximum Carnage_ to 6.9.3 and added support for animated limbs!
+- Updated _Odin_ to 1.9.1
+- Updated _Adamant - A Perk Overhaul_ to 5.3.4
+- Updated _CHADD Uncapper Preset Library_ to 2.11
+- Updated _eeekie's Enhanced NPCS_ to the 3.2 Compatibility Version
+  (only going to use the Cicero...)
+- Updated _High Level Enemies Redux_ to 2.0.1
+- Updated _Mihail's Falmer Abyssraiders_ to 2.0
+- Updated _Mihail's Giant Centipedes_ to 1.4
+- Updated _Attack Dogs - A Dog Combat Overhaul_ to 1.1.15j
+- Updated _Attack Dogs_ patches and incorporated them into the list.
+- Updated _Guard Dialogue Overhaul_ to 2.18
+- Updated _Sleeping Expanded_ to 1.20
+- Updated _Water for ENB_ to 1.53
+- Updated _Embers XD_ to 2.5.0
+- Updated _Ruins Clutter Improved_ to 3.2
+- Updated _Legacy of the Dragonborn Patches_ to 2.5.10
+- Need to decide on a replacement for the Cat Mod. **TAKING SUGGESTIONS!**
+- Need to examine Discord and Github backlog to address any outstanding bugs.
+  If you have them, **REPORT THEM!**
+- Need to regenerate LODs.
+- Need to rerun BodySlides.
+- Possibly need to rerun Nemesis.
+- And Synthesis.
+- And finally upload all the ancillary output files to the CDN!
+
+### 10.26
+
+**ONLY APPLIES TO THE LLS VARIANT**
+
+- Updated _Billyy's Animations SE_ to 5.2
+
+### 10.25.4.2
+
+**ONLY APPLIES TO THE LLS VARIANT**
+
+- Reinstalling the Experience mod reverted the perk menu to default. Oops, fixed.
+- Fixed the incorrect path for Synthesis.
+- Removed Synthesis records for Myrwatch which was turning it into a void.
+- Updated the ENB Light patcher so hopefully it won't happen again.
+
+### 10.25.4
+
+**ONLY APPLIES TO THE LLS VARIANT**
+
+- Enabled Static Leveling on all profiles.
+- Fixed the unreadable Pizza menu in the AE profiles.
+
+### 10.25.3
+
+NOTE: The invisible trim around the door of the Thalmor Embassy is a bug with ENB. You will have to deal with it.
+
+- Fixed some invisible shins on high heeled shoes.
+- Fixed the invisible LOTD gate (again).
+- Fixed blank textures in VIGILANT snow buildings.
+- Minor navmesh fixes around the "Man Those Borders" towers.
+- Verified the Meridia fix appears to be valid for the base profile.
+- Confirmed 1080p default resolution.
+- Confirmed ENB Settings (BALANCED PI-CHO)
+
+### 10.25.1
+
+- Added _Female Makeup Suite - Special Edition_
+- Added _Lamenthia's Marks of Beauty_
+- Added _Sunstarved - Tanlines Special Edition_
+- Added _Wolfpaint - Facepaint Collection_
+- Added _Xara's Makeup and Warpaints SE_
+- Added _Yyvengar Bodypaint_
+- Added _Ziovdendian Bodypaint_
+- Added back _Shep's Tattoo Collection SE_ (Male and Female)
+
+### 10.25
+
+- Updated _Devious Devices_ to 5.2 Beta 3 Fixed 2
+
+### 10.24.1
+
+- I forgot to include the ENB with the last update. Rather than answer questions about it, I put the list under maintenance.
+- Both the UI and LLS versions should have all updates and fixes below.
+- Included Community RaceMenu and BodySlide presets previously in use in DNDDC.
+- Renamed all presets in the list for clarity and ease-of-use. (Sorting features only).
+
+Private server **only:**
+
+- Added _OAroused_ to the Libertas profiles (oversight, necessary for _OProstitution_ to work properly)
+- Seeking testers to track down a magicka bug for the above.
+- Seeking testers to troubleshoot camera issues with _ODefeat._
+
+### 10.24
+
+**Available only from my private server.**
+
+- Fixes the purple textures on Daedric weapons.
+- Corrected a bug that may have prevented certain quests that spawn objects from triggering.
+- Undeath's necromancers, and Mythos' attack site, I'm lookin' at you.
+
+### 10.23
+
+Only minor fixes and reshuffling of profiles.
+
+### 10.22.1.2
+
+ONLY affects the Servitium profile from LLS.
+
+- Updated _Devious Devices_ to 5.2 beta 3
+- Updated _Devious Devices BodySlides 3BA_ to Beta 0.3
+
+### 10.22.1
+
+- All the Licentia-only updates go to the UI
+- Bugfixes including:
+- Fix for invisible lich form
+- Fix for invisible Dragonborn Museum gate
+- Fix for Stormclock Patrol BFBs
+- Several others I can't remember
+- Return of the Undies ESP by request
+
+### 10.22
+
+- Added _Security Overhaul SKSE - Lock Variations_
+- Added _Security Overhaul SKSE - Add-ons_
+- Added _Security Overhaul SKSE - Add-ons_
+- Added _Security Overhaul SKSE - Some More Locks_
+- Added _Underwater Treasure SSE_
+- Added _Sink or Swim_
+- Added _NPCs Can Swim in Combat_
+- Added _Oxygen Meter_
+- Added _OBody Standalone_ (Nexus Version) and _OBody_ to the Servitium profile
+- Updated _CBBE 3BA_ to 2.15
+- Updated _Pandorable's NPCs - Males_ to 1.1
+- Updated _Pandorable's NPCs - Males 2_ to 1.1
+- Updated _Fab to Fit 3BA BodySlide Preset_ to 2.1
+- Updated _CBPC - CBP Physics with Collisons_ to 1.4.8
+- Updated _Vokriinator Black_ to 6.7
+- Updated _Path of Sorcery - Magic Perk Overhaul_ to 2.6
+- Updated _Enhanced Blood Textures_ to the cloak-free SPID version!
+- Updated _Deadly Dragons SE Patches_ to 6.5.6
+- Updated _Aetherius - A Race Overhaul_ to 2.7.1
+- Updated _Pilgrim_ to 1.0.10.1
+- Updated _Manbeast - A Werewolf Overhaul_ to 1.2.1
+- Updated _Apothecary - An Alchemy Overhaul_ to 1.2.3
+- Updated _Mundus - A Standing Stone Overhaul_ to 1.7
+- Updated _Knight of the North_ to 2.1.0.1
+- Updated _Immersive World Encounters_ to 3.6.1
+- Updated _The Choice is Yours_ to 2.3
+- Updated _Storm Lightning to SSE_ to 1.4.13
+- Updated _Embers XD_ to 2.4.9
+- Updated _Cleaned Skyrim SE Textures_ to 1.2.3.2
+- Updated _SSE Display Tweaks_ to 0.5.7b
+- Reinstalled _Skyrim 2020 Parallax_ to support, well, parallax
+- Reinstalled _Illustrious Whiterun SE_ to support parallax
+- Reinstalled the rest of the big texture overhauls
+- Removed _HIMBO Regular Guy_ Preset
+- Removed _Natural Curves - A CBBE BodySlide Preset_
+- Removed _Teraru's Fit n' Thick BodySlide Preset_
+- Tried and failed to use underwear in a better way
+- Tried and succeeded to enable parallax properly
+- Rebuilt BodySlides
+- Regenerated Synthesis
+- Deleted old, duplicated versions of mods
+
+### 10.21
+
+Removed a few minor mods so my private users can add more of their own.
+
+- Replaced _Know Your Enemy Redux_ with _Know Your Enemy Patcher for Mutagen_
+- Replaced _Protect Your People_ with a patcher version.
+- Removed _OVoice_
+- Removed _Equipable Underwear for Everyone_
+- Removed _Positive Undressed Reactions_ (I love the mod but it barely ever triggers)
+- Removed _Pubes Forever_
+- Removed _SaLa Hair_
+- Removed _CL's Daedric and Ebony Replacers_
+- Removed _Arcing Spells_
+- Removed _Vision_
+- Removed _Atlas Map Markers_
+- Removed _Powers Keyring_
+- Removed _Adopt Aventus Aretino_
+- Removed _Stackable Stones of Berenziah_
+- Removed _Crimson Nirnoot Markers_
+- Removed a few memey mods I'm too embarrassed to describe.
+
+### 10.19
+
+- NOT SAVE SAFE BECAUSE I REMOVED A MOD
+- That mod was _Cats of Skyrim_ which Nexus finally got around to deleting.
+- Taking suggestions for a replacement.
+
+### 10.17.3
+
+- NOT SAVE SAFE IF YOU USE UNDIES
+- Removed _High Hrothgar 4K by Pfuscher_ (Oldrim only, shouldn't have used)
+- Replaced with _Halls of the Greybeards - A High Hrothgar Retexturing_
+- Added _Skyrim 3D High Hrothgar Steps_
+- Fixed some bow-related leveled-list issues with _Skyrim Weapon Expansion_
+- Beta fix for the nude headless Meridia
+
+For the LLS profile ONLY
+
+- Added _Necro Pizza - Skyrim Pizza Delivery_ with full Survival support!
+- Added _Inigo - Bloodchill Manor Patch_
+- Added back _Knight of the North_
+- Added back _The Vigilants' New Clothes_
+- Added back _Crossbow Integration_
+- Updated _Billyy's SLAL Animations_ to 5.1
+- Updated _SexLab Utility Plus_ to 11-27-2021
+- Updated _Unofficial Skyrim Creation Club Content Patch_ to 6.1
+
+### 10.17
+
+- Revamped the fonts for greater readibility
+- Added _QUSTR - Qwinn's Universal Skin Texture Replacer_ - should resolve remaining Bijin seams!
+- Added _Undeath Classical Lichdom - The Ascension (Lite)_ .. allows for female Lich forms!
+- Added _Sleeping Expanded - Animations and NPC Reactions_
+- Added back _Maximum Carnage_
+- Updated _CBBE 3BA_ to 2.14 and tuned physics to "very modest" 
+- BodySlide Presets for greater _OBody_ variety... thanks to my users!
+- Added _OWrong Bodies - CBBE 3BA_ BodySlide Presets
+- Added _Natural and Realistic Bodies_ BodySlide Presets
+- Added _Vyr's Consort - 3BA_ BodySlide preset
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.31
+- Updated _Vokriinator Black_ to 6.6.1
+- Updated _Path of Sorcery_ to 2.5.1
+- Updated _Legacy of the Dragonborn_ to 5.5.5
+- Updated _Undeath - Classical Lichdom_ to 3.40
+- Updated _Grey Cowl of Nocturnal Patches_ to 1.3
+- Updated _Immersive World Encounters_ to 3.6a
+- Updated _Merlin the Corgi_ to 1.1
+- Updated _Embers XD_ to 2.4.8
+- Updated _SmoothCam_ to 1.6.1
+- Reinstalled _Vedosebrom Regions_ with more performant grass settings
+- Removed _AddItemMenu_ due to a crash with Vilja
+- Removed _Mihails Giant Mantis SSE_ due to crashes
+
+And for our AE owning friends, coming soon...
+
+- Added _Necro Pizza - Skyrim Pizza Delivery_ with full Survival Mode support!
+- Added _Inigo - Bloodchill Manor Patch_
+- Added back _Knight of the North_
+- Added back _The Vigilants' New Clothes_
+- Added back _Crossbow Integration_
+- Updated _Unofficial Skyrim Creation Club Content Patch_ to 6.1
+
+There are also a handful of custom fixes...
+
+- Fixed a BFB on one or two NPCs
+- Enabled distribution of coffee ingredients (they were missing from shops before)
+- Patched Winterhold Arcanaeum's desk and other areas to remove misplaced, clipping & floating objects
+- Patched Myrwatch area to remove clipping landscapes
+- Fixed a bug where certain hunters may spawn without a bow
+- Enabled FXAA and VSync
+
+### 10.13
+
+Lot of new content this time, so let's get to it. Check #announcements for an update as to _Licentia's_ future.
+
+- Added _Mitsuriou's Follower Bodies Overhaul_
+- Added back _Artifacts of Skyrim Revised_
+- Added - _Odin - Skyrim Magic Overhaul_
+- Added _Hoth_
+- Added _Vilja in Skyrim_
+- Added _Vilja & Vilja Family Re-Imagined_
+- Added LOTD Rooms for Hoth & Vilja
+- Added _4K Parallax High Hrothgar_
+- Changed _Briraka's Draugr Overhaul_ to _Haugbui_,
+- With associated patches for the above.
+- Updated _CBBE 3BA_ to 2.13
+- Updated _Pandorable's Serana_ to 1.2.1
+- Updated _Pandorable's Valerica_ to 1.1
+- Updated _Gladys the Corgi_ to 1.2.3
+- Updated _Merlin the Corgi_ to 1.0.4
+- Updated _Legacy of the Dragonborn_ to 2.5.9
+- Updated _Legacy of the Dragonborn_ to 2.5.9
+- Updated _Legacy Safehouse Plus_ to 3.2
+- Updated _Undeath - Classical Lichdom_ to 2.40
+- Updated _Sidequests of Skyrim_ to 0.6
+- Updated _Vokriinator Black_ to 6.6
+- Updated _Ordinator_ to 9.31
+- Updated _Triumvirate_ to 1.8.0
+- Updated _Experience_ to 2.0
+- Updated _Armor Variants Expansion_ to 2.1
+- Updated _Ancient Nord Stalhrim_ to 1.1.7
+- Updated _Magical College of Winterhold_ to 5.8.2
+- Updated _WizKid Carriages_ to 1.2
+- Updated _Completionist_ to 3.4
+- Updated _Spell Perk Item Distributor_ to 5.1
+- Updated _Simple Dual Sheath_ to 1.5.1
+- Updated _Face Discoloration Fix_ to 1.0.2
+- Updated _Lanters of Skyrim II_ to 4.0
+- Updated _Water for ENB_ to 1.0
+- Updated _eFPS - Exterior FPS Boost_ to 2.2
+- Updated _Skyrim Landscape and Water Fixes_ to 6.4.1
+- Updated _CC's Enhanced Ore Veins_ to 9.0
+- Updated _SSE Engine Fixes_ to 5.8.3
+- Updated _SSE Display Tweaks_ to 0.5.3b
+- Updated _po3's Tweaks_ to 1.3
+- Updated _iWant Widgets_ to 1.28
+
+**Following are a series of NPC removals I am sure will be unpopular.** These represented multiple huge overhauls that only affected a handful of NPCs so I decided to cut all but the most comprehensive. It also makes it much easier to patch and update (no merge to deal with). This will change once the NPC Vote is completed.
+
+- Removed the _High Poly NPCs_ series of mods.
+- Removed _Interesting NPCs Visual Overhaul_
+- Removed _Not Very Immersive Character Overhaul_
+- Removed the _Northbourne_ series of NPCs.
+- Removed _Diversity - A Character Overhaul_
+- Removed _Improved Bards - Special Edition_
+- Removed _Followers Hirelings and Housecarls SSE_
+- Removed _Marvelous Mage Followers SSE_
+- Removed _Fresh Faces SSE_
+- Removed the _eeekie's_ series of NPCS - all except for Cicero.
+- Removed _Pandorable's Black-Briar Ladies_
+- Removed _Pandorable's Frea and Frida_
+- Removed _Pandorable's Initiates_-
+- Removed _Pandorable's Lethal Ladies_
+- Removed _Pandorable's Shield Sisters_
+- Removed _Pandorable's Warrior Women_
+- Unmerged and repatched all NPCs.
+- Regenerated LODs.
+
+### 10.9.1
+
+- Added _Arcing Spells_
+- Added _Merlin the Corgi_
+- Added _OStim feet Animation Pack_
+- Added _Pubes Forever SSE_
+- Added _Lusty Argonian Skill Books_
+- Added _High Level Enemeis Redux_
+- Added _Party of Four - Harder Bosses_
+- Added back _Savage Skyrim_
+- Added back _Genesis Unleashed Levelled_ for Dungeons ONLY
+- Added back _Skyrim Outfit System SE Revived_ and updated the readme as per Palentier (thanks!)
+- Added back _No Grass In Objects_
+- Added _Atlas Map Markers_
+- Added _Random Silly Paraglide Animations_
+- Added _Paraglider Auto-Equip Tarhiel's Gale_
+- Added _Another Chantry College_
+- Added _Legacy of the Dragonborn Lighting Mod_
+- Added _Vigilant Armors and Weapons Retexture SE_
+- Added _Simply Destructive Dragonbone Weapons_
+- Added _Aurora SE_
+- Added _Custom Skills Framework_ for the LOTD Archaeology Trees_
+- Added _Sometimes Pick Up Books_
+- Added _Crimson Nirnroot Markers_
+- Replaced _Dirt & Blood_ with _Just Blood_ (no more boring bathing requirements!)
+- Replaced _The Paarthurnax Dilemma_ with _Paarthurnax Quest Expansion_
+- Updated _Triple Triad_ to 3.1
+- Updated _OStim_ to 5.3.1
+- Updated _OBody_ to 1.3.1
+- Updated _ORomance_ to 1.8
+- Updated _OStrap_ to 1.3
+- Updated _OVirginity_ to 1.3.1
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.30
+- Updated _HDT-SMP Hair Wigs_ to 1.2
+- Updated _Serana Dialogue Add-On_ to 2.8.2
+- Updated _Wyrmstooth_ to 1.19.6
+- Updated _Immersive World Encounters_ to 3.5a
+- Updated _Know Your Enemy Redux_ to 1.2.1
+- Updated _True Directional Movement Boss INI Tweaks_ to 1.3
+- Updated _3BA Vanilla Clothes and Armor_ to 1.9.5
+- Updated _eFPS - Exterior FPS Boost_ to 1.6.1
+- Updated _Magical College of Winterhold_
+- Updated _Skyland AIO_ to 2.1
+- Updated _Water for ENB_ to 1.46
+- Updated _Embers XD_ to 2.4.4
+- Updated _iWant Widgets_ to 1.27
+- Updated _Vanilla Script Optimizations_ to 1.12
+- Updated _Frozen Electrocuted Combustion_ to 4.9.6
+- Updated _PO3's Papyrus Extender_ to 4.5.2
+- Updated _NL_MCM - A Modular MCM Framework_ to 1.0.5
+- Removed _Remember Lockpick Angle_
+- Removed _Pet the Dog Animations_
+- Removed _Faster Mining Animation_
+- Removed _Faster Wood-Chopping Animation_
+- Reinstalled _Enhanced Vanilla Trees_ for large lush option
+- Reinstalled _Veydosebrom Regions_ to hopefully fix the grass flicker issue.
+- Regenerated BodySlides
+- Pre-Generated Grass Cache for Grass LODs
+- Updated TexGen with Grass LODs
+- Updated DynDOLOD with Grass LODs
+- Fixed an incompatible texture for Ebony Shields
+
+### 10.8
+- Added several more _Lucien_ patches for _Creation Club_ content
+- Added _Banshee - Wisp Mother Sounds Rework_
+- Added _Barghest - Death Hound Sounds Rework_
+- Added _Elementi - Flame Atronach VSFX Rework_
+- Added _Saints & Seducers Patch for Skyrim Sewers_
+- Updated _ORomance_ to 1.7.2
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.25
+- Updated _True Directional Movement_ to 1.4.3
+- Updated _Grass Control_ to allow for Grass LODS.
+- Removed _Savage Skyrim_ for rare crashes
+- Removed _Starting Outfit Suppressed_
+
+### 10.7
+
+The big removal here is _ODefeat._ It doesn't like my camera setup, it doesn't play well with _Maximum Carnage_, and both of those are more important to me. Player victim also cannot be disabled if something goes wrong. Also, quite significantly, it engenders a lot of confusion and complaints from users, so it has to go. If you disagree with this or any other removals, please keep such discussions to my private server available from the readme or various links on _Wabbajack's_ primary server. Most of them are relatively simple to add back. I am also on a continuous hunt for "neck seams." If you find any, inform me, but be prepared for a salty caco because they make me angry.
+
+- Fixed seams on the _Bijins_ (again), also
+- Reverted Adrianne to her _Northbourne_ variant because the seam APPEARS to be part of the original mod.
+- Updated _OComfort_ to 1.2
+- Updated _OStrap_ to 1.2.4
+- Added _NL-MCM_ since _OStrap_ stopped including it.
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.24
+- Updated _On A Crimson Trail_ to 1.1
+- Updated _Vanilla Script (micro)Optimizations_ to 1.1a
+
+The below mods seemed like good ideas for some reason but actually were not. I learned some of this before but apparently completely forgot about it.
+
+- Removed _Sanguine Blood ReTexture SE_ for being too red.
+- Removed _No Edge Glow - Magic and Transformations_ because it's kinda important to see who has buffs before you attack them.
+
+I thought it would be cool if 10% of Skyrim had powerful perks. One of them was a perk that reflects damage from melee killmoves at the player so they instantly die. No thanks! However, it may have been an altered perk from _Vokriinator_ and not exactly intended. Complain enough and I'll try a compromise.
+
+- Removed _Shouty People of Skyrim_
+- Removed _Adamant Perks for NPCs_
+- Removed _Vokrii Perks for NPCs_
+- Removed _Ordinator Perks for Spell Perk Item Distributor_
+- Removed _Enemy (R)Evolution of Skyrim_
+
+I also thought it would be cool to have random encounters. After three Wisps spawned on me in Whiterun and downed almost everyone, I decided the Genesis guy does not want to play the same game I do. 
+
+- Removed _Genesis Unleashed_
+- Removed _Genesis Surface Spawns_
+
+### 10.6.5
+
+- Replaced a texture that was causing crashes when feeding as a werewolf.
+- Removed _Skyrim Outfit System_ for being too confusing. 
+
+### 10.6.3 & 10.6.4
+
+- Seam fixes for the _Bijins_ that didn't work.
+
+### 10.6
+
+- Removed _Nether's Follower Framework_ for ethical reasons.
+- Added _Simple Follower Extension_
+- Added _Simple Outfit System_
+- Added _Simple No Internal Friendly Fire_
+- Added _Highly Improved Male Body Overhaul -HIMBO_
+- Added _Greek God - HIMBO BodySlide Preset_
+- Added _HIMBO regular guy preset_
+- Added _No Grass in Objects_
+- Added _Ice skating fixed for real_
+- Added so many Rudy Particle Lights mods I can't be arsed to list them all.
+- Also the same thing with cubemaps to make armor shinier and shit.
+- Replaced _Occlusioned Skyrim_ with _Exterior FPS Boost_ (same thing, PLEASE report anything invisible)
+- Updated _OStim_ to sai's latest dev
+- Updated _ODefeat_ to the official 1.0
+- Updated _OBody_ to 1.3
+- Updated _OVoice_ to 1.1beta
+- _OAroused_ and _OCrime_ coming soon!
+- If you want _OProstitution_ boost the server or donate $1 to me or Sairion and vote for it!
+- Updated _Immersive World Encounters_ to 3.4alpha
+- Updated _Spell Perk Item Distributor_ to 5.0.3
+- Updated _Dyndolod Resources SE_ to 3.00 alpha 12
+- Re-Ran Nemesis
+- Rebuilt BodySlides
+- Pre-generated grass cache
+- Regenerated LODs, including grass lods
+- (To reduce flicker)
+
+### 10.5 - Internal testing version.
+
+### 10.4
+
+- Updated _OStim_ to Sai's latest dev
+- Updated _ODefeat_ to Eggy's latest dev
+- Removed _Dragon Stalking Fix_
+- Added _Fixed Dragon Stalking Fix_
+- Removed _Fixed Dragon Stalking Fix_
+- Added _Fixed Fixed Dragon Stalking Fix_ (absurd!)
+- Added _Sanguine - Enhanced Blood Retexture_
+- Added _Skyrim Landscape and Water Fixes_
+- Added _Realistic Natural Skin Tones_
+- Added _TitKit by Monsto SSE_
+- Added _A Matter of Time - Settings Loader_
+- Updated _Legacy of the Dragonborn Patches_ to 2.5.6
+- Updated _Knights of the North_ to 2.0.4
+- Updated _Ultimate Dodge Script Fixes_ to 4.6
+- Updated _Water for ENB_ to 1.40beta
+- Updated _Fab to Fit BodySlide Preset_ to 1.1
+- Updated _Spell Perk Item Distributor_ to 5.0.1
+- Updated _The Choice Is Yours_ to 2.2
+- Updated _.NET Script Framework_ to 17.0
+
+### 10.3
+
+- Added _ODefeat_ CONFIGURE THIS MOD
+- Added _Know Your Enemy Redux_ READ ABOUT THIS MOD
+- Added _Know Your Enemy Redux - Armors_ THIS ONE TOO
+- Replaced _Thiz' Tankards_ with _ElSopa Tankards_
+- Updated _OSex_ to last night's alpha supporting _ODefeat_
+- Updated _OVoice_ to 1.1alpha
+- Updated _Gladys the Corgi_ to 1.2
+- Updated _Embers XD_ to 2.3.3
+- Updated _True Directional Movement_ to 1.4.2
+- Updated _Ultimate Dodge Script Fixes_ to 4.0
+- Updated _TUDM Patch Collection_ to 2.0.5
+- Updated _The Choice is Yours_ to 2.1
+- Updated _Scrambled Bugs_ to 13.0
+- Removed all Mihail mods except for....
+- ... Falmer Abyssraiders
+- ... Ghouls
+- ... Giant Centipedes
+- ... Giant Mantis
+- ... Goblins
+- ... Liches
+- ... Mimics
+- ... Ogrim
+- ... Rotten Maidens
+- ... Vampire Lords
+- ... Wraiths
+- ... Zombies
+
+Regenerated LODs
+
+### 10.2 - Internal testing version.
+
+### 10.1 - Internal testing version.
+
+### 10.0
+
+- Added _Legacy of the Dragonborn and Patches (Official)_
+- Added _Legacy of the Dragonborn Follower Patches_
+- Added _Legacy of the Dragonborn Cleaned Textures_
+- Added _Legacy Safehouse Plus_
+- Added _Legacy of the Dragonborn Furniture Management_
+- Added _Legacy of the Dragonborn BadGremlins Collection_
+- Added _Legacy of the Dragonborn NPC Overhaul_
+- Added _Legacy of the Dragonborn CBBE Patch_
+- Added _Keep the Skeleton Key, Deceive Nocturnal_
+- Added _Relic Hunter Guildmaster Start_
+- Added _Fate Card Packs_
+- Added _Relics of Hyrule SE_ (gonna ignore complaints on this one)
+- Added _Artifacts of Skyrim LOTD Patch_
+- Added _Lanterns of Skyrim and patches_
+- Added _Windows Shadows RT_
+- Added _Enhanced Lighting for ENB and patches_
+- Added _Better Lighting for Moon and Star_
+- Added _Dust Effects by HHaleyy_
+- Added _Community Overlays 0 - 70_ (some may be buggy please report)
+- Added _Shep's Tattoo Collection_ (male and female)
+- Added _Equipable Underwear for Everyone_
+- Added _Diversity Character Overhaul_ and OBIS patch for it
+- Added _Metalsabers Beautiful Orcs of Skyrim_
+- Added _Improved Bards_
+- Added _Followers Hirelings and Housecarls_
+- Added _Marvelous Mage Followers_
+- Added _Fresh Faces_
+- Added _Kalilies NPCs_
+- Added _Pandorables collection of NPCs_ and their _Salt and Wind_
+- Added _Bijin Family_ and _Salt and Wind_ for them
+- Added a few of _eeekie's Enhanced NPCS_ (the sinister Cicero most noticeably)
+- Added _Interesting NPCs Visual Overhaul_
+- Added _Auri Lenka Replacer SE_
+- Added _Serana Dialog Addon and patches_
+- Added _DX Crimson Blood_
+- Added _Lustmord Vampire Armor_
+- Added _Citizens of Tamriel Complete_ (god these people like to talk)
+- Added _Citizens of Tamriel Visual Overhaul_
+- Added _Mythos SE_
+- Added _8K Night Skies - Blue_
+- Added _Adamant Perks for NPCS_
+- Added _Enemy (R)Evolution of Skyrim_
+- Added _Ordinator for SPell Perk Item Distributor_
+- Added _Vokrii Perks for NPCS_
+- Added _Shouty People of SKyrim_
+- Added JDSmith's _Elder Souls Mihail Merge_
+- Added the fixed _Skyrim Immersive Creatures!_
+- Added _Occlusion Skyrim_ (likely to be buggy, please report invisible crap)
+- Added _Fast Travel Speed Fix_
+- Added _Quick Loot RE_ and retexture
+- Added _KG's Minimap Markers_ and moved the map again, consult the pins if you don't like it
+- Added _Adopt Aventus Aretino_
+- Replaced _Glacierslab_ with _Skyrim Remastered Caves, Glaciers & Ice_
+- Replaced _Simple Children_ and _TK Children_ with _RS Children_
+- Updated _Ultimate Dodge Script Fixes_ to 4.0
+- Merged SMIM
+- Merged the NPCs
+- Merged the offspring
+- ...all so you can add moar mods!
+
+### 9.24.2
+
+- Added _Powers Keyring_ thanks to my old user Lugubrious!
+- Added _Leaps of Faith_ thanks to my new user Bibbley!
+- Updated _OStim_ to Sairion's Freecam-Friendly Test Build
+- Updated _VIGILANT Voiced_ to 3.2.2
+- Updated _Auri - Song of the Green_ to 1.3
+- Updated _Gladys the Corgi_ to 1.1.2
+- Updated _Sidequests of Skyrim_ to 0.4
+- Updated _True Directional Movement_ to 1.4.1
+- Updated _Embers XD_ to 2.3.1
+- Updated _Better Windhelm Ground Meshes_ to 1.3.2
+- Updated _.NET Script Framework_ to v16
+
+### 9.24.1
+
+- Added _MCM Helper_
+- Added custom patches for _TDM Boss Bars_
+- Updated _Nibbles Animation Pack for OStim_ to 1.2
+- Updated _Gladys the Corgi_ to 1.1.1
+- Updated _Sidequests of Skyrim_ to 0.3.5
+- Updated _Water for ENB_ to 1.38
+- Updated _Spell Perk Item Distributor_ to 4.5.1
+
+### 9.24
+
+- Added _Sidequests of Skyrim_
+- Updated _Undeath Classical Lichdom_ to 2.50
+- Updated _Skyrim's Paraglider_ to 1.5.0
+- Updated _Embers XD_ to 2.27
+- Updated _PI-CHO ENB_ to N6.55
+
+### 9.22.2
+
+- Added _Royal Armory - Experience Patch_
+- Added _Flashing Savegames Fix for widescreen_ as an optional file
+- Updated _True Directional Movement_ to 1.3
+- Updated _BodySlide & Outfit Studio_ to 5.4.2
+- Updated _Bob's Interdimensional Chambers_ to 1.1
+- Updated _Genesis Surface Spawns_ to 1.9.1
+- Reinstalled missing textures from _Glacierslab_
+
+### 9.22.1
+
+- Updated _3BA Vanilla Clothes and Armor_ to 1.9.4
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.21
+- Updated _Excitable Subs for OStim_ to 1.01
+- Updated _Face Discoloration Fix_ to 1.01
+- Updated _Scrambled Bugs_ to 1.2
+- Removed _Skyrim Priority_
+- Applied some test Navmesh fixes to _Bob's Chambers_.
+- Regenerated BodySlides.
+- Regenerated Undies (Synthesis)
+
+### 9.20.2
+
+Deprecated all alternate _Licentia_ profiles.
+Fixed a bug where _Paraglider_ wouldn't work.
+Added _OAlign_. If an OStim scene is misaligned, press the L key to fix it.
+Added _HD Skins for Old Female Faces_. This actually means less wrinkles, not more.
+Added _High Poly Vanilla Hair_.
+Updated _OStim_ to 5.1
+Updated _SmoothCam_ to 1.5
+Updated _Modern Camera Preset_ to 1.5
+Updated _Wyrmstooth to 1.19.5_ and fixed the mismatched NPC AI Packages in the _High Poly NPC Patch_ causing freezes at the main menu.
+Regenerated LODs.
+
+### 9.20.1
+
+- Added _Mo's TUDM Patch Collection_
+- Added back _Equippable Underwear for Everyone_
+- Added back _Under There_
+- Updated _3BA Vanilla Clothes and Armor_ to 1.9.3.
+- Updated _Books of Dibella SE_ to 1.2
+- Updated _Static Skill Leveling_ to 2.1
+
+### 9.19
+
+- Added _Skyrim's Paraglider_
+- Added _Lanterns of Skyrim II_ and associated patches.
+- Regenerated LODs.
+
+### 9.18
+
+- Added _Excitable Subs for OStim_
+- Updated _CBBE_ to 1.6.2
+- Updated _3BA Vanilla Clothes and Armor_ to 1.9.2
+- Updated _True Directional Movement_ to 1.1.3
+- Updated _Maximum Carnage_ to 6.4.
+- Updated _Water for ENB_ to 1.36
+- Updated _Embers XD_ to 2.2.4
+- Updated _Starting Outfit Suppressed_ to 1.20
+- Reinstalled four mods that may have been corrupt.
+
+### 9.16.6.3
+
+- Added _OVoice_
+- Added _OBIS Missives Addon_
+- Updated _Frozen Electrocuted Combustion_ to 4.9.4
+- Updated _Unofficial Skyrim Special Edition Patch_ to 4.2.5b
+
+### 9.16.1
+
+- Added _True Directional Movement_ this one is a real game-changer folks!
+- Added _SmoothCam Modern Camera Preset_
+- Added the _DynDoLod 3.0 Lod Pack_ for Majestic Mountains
+- Added a couple of custom script fixes by @EggyPapa
+- Updated _BodySlide and Outfit Studio_ to 5.4.1
+- Updated _Fertility Mode Fixes and Tweaks_ to 2.19
+- Updated _Northbourne NPCs of Whiterun Hold_ to 2.2
+- Updated _3BA Vanilla Clothes and Armor_ to 1.9
+- Updated _Spellsiphon_ to 5.15
+- Updated _Mundus_ to 1.6.1
+- Updated _Draugr Upgrades and Improvements_ to 2.4.1
+- Updated _Genesis Surface Spawns Levelled_ to 1.8
+- Updated _Gladys the Corgi_ to 1.0.4
+- Updated _Embers XD_ to 2.2.3
+- Updated _Realistic Water Two_ to 3.1.1
+- Updated _DynDOLOD Resources SE_ to the standalone version.
+- Updated _powerofthree's Tweaks_ to 1.2
+- Regenerated LODs.
+
+### 9.13
+
+- Added _Artifacts of Skyrim Revised_
+- Added _Common Clothes and Armors_
+- Added _Brigandage_
+- Added BodySlides for the above in the form of _FranklinZunge Collection 3BA_
+- Updated _OTrainers_ to 2.0
+
+### 9.11
+
+- Added _Mundus_
+- Removed _Andromeda_
+- Corrected a patch for _Immersive Patrols_ character classes
+- Regenerated Synthesis
+
+### 9.10.1
+
+- Added _Artifacts - Tournament of the Ten Bloods_
+- Added _Lore Weapon Expansion_
+- Added _Savage Skyrim_
+- Added _Wicked Werewolves_
+- Added _Supreme Vampire Lords_
+- Added _powerofthree's Tweaks_
+- Added _Scrambled Bugs_
+- Added _Scrambled Eggchantments_
+- Added _Skyrim Priority SE_
+- Added _Simple Offence Suppression_
+- Added _Mum's The Word_
+
+### 9.10.0.1
+
+- Added the BRAND NEW _OBody_ Ostim Addon!
+- Removed a bunch of joke meme superboob BodySlide Presets
+- Added _The Tea Body_
+- Added _Natural Curves_
+- Added _o777 Au Naturel_
+- Added _Fab to Fit_
+- Added _LeiaBody_
+- Updated _OStim_ to 5.0.4
+
+### 9.9
+
+Added _OComfort_
+Added _OTrainers_
+Added _Sacrosanct Fertility Mode Integration_
+
+And for the Expanded profile...
+
+- Patched everything for full _Creation Club_ support!
+- Added _Better Adventurer's Backpack_
+- Added _Better Rare Curios_
+- Added _Creation Club Integration - Armours_
+- Added _Creation Club Armors Upscaled Textures_
+- Added _Creation Club - Properly Environment Mapped_
+- Added _Planters for Hendraheim_
+- Added _XPMSSE Left Hand Skeleton Rotation Fix_
+- Added _SSE-SRO - Enhanced Spidersac_ (this one had been bugging me)
+- Added back _Septentrional Landscapes 4K_
+- Regenerated LODs
+- Updated _OStim_ to 5.0.2
+- Updated _Fertility Mode Fixes and Tweaks_ to 2.14
+- Updated _Simple Dual Sheath_ to 1.4.1
+- Updated _Dirt and Blood_ to 2.1
+- Updated _Improved Camera INI_ to 1.3
+- Updated _Papyrus Extender_ to 4.4.2
+- Tweaked _Skill Rate Remover_ to work better with Andromeda
+- Disabled all parallax texture options -- they may be back!
+- **OBODY HAS NOT BEEN ADDED YET**
+
+### 9.6
+
+- Removed _Assigned Storage_ as fallout from the Modpocalypse.
+- Removed _Nether Follower Framework_ as fallout from the Modpocalypse.
+- Added _Simple Follower Extension_.
+- Added _Simple Outfit System_.
+- Added _Better Stealth AI for Followers_.
+- Added _Quick Mass Follower Commands_.
+- Added _Follower Trap Safety_.
+- Added _Followers Don't Draw Weapons_.
+- Added _Horses for Followers_.
+- Added _Remember Lockpick Angle_.
+- Returned _Underwear for Everyone_ with the patcher.
+- Worked 4 hours to resolve neck seams, failed.
+- Replaced _Bijin Skin_ with _Diamond Skin_.
+- Reran BodySlides.
+
+### 9.5.6 SURVIVAL
+
+- Added _Unofficial Skyrim Survival Mode Patch_
+- Added _Conner's Survival Mode_
+- Added _Simple Camping Storage_
+- Added _You Hunger SE_
+- Reworked the leveled lists to support Creation Club Survival
+- Added _Crazy Caco's Creation Club Collection_ (CCCCC)
+- Added _Havok Fix_
+- Added _Maximum Carnage Essential Fix_
+- Added _Whiterun Mesh Fixes_
+- Added _SkyPal Papyrus Library_
+- Updated _Serana - Daughter of Coldharbour_ to 2.0
+- Updated _3BA Vanllla Clothes and Armor_ to 1.7
+- Updated _Simple Dual Sheath_ to 1.3
+- Updated _Spellsiphon_ to 5.14
+- Updated _Strange Runes_ to 3.6
+- Updated _Wintersun_ to 3.2
+- Updated _Wyrmstooth_ to 1.19.4
+- Updated _Undeath - Classical Lichdom_ to 2.40
+- Updated _Extended Encounters_ to 1.6.3
+- Updated _Immersive World Encounters_ to 3.3
+- Updated _Frozen Electrocuted Combustion_ to 4.9.3
+- Updated _Papyrus Extender_ to 4.4.1
+- Updated _More Informative Console_ to 0.43
+- Updated _Grass FPS Booster_ to 5.6
+- Reworked the texture base to support 4K UHD as well as lowres for 4GB VRAM
+- Reworked the INIs and CFGs to support uncapped framerate
+
 ### 9.5.3
 
 - Added _3BA Vanilla Clothes and Armor_
