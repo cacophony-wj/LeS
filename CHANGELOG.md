@@ -28,22 +28,22 @@ I also added the following.
 ## 10.45
 
 **BETA FIX FOR THE FALSE SAVE CORRUPTION**
-Updated _Legacy of the Dragonborn_ to 5.6.2
-Updated _New Animations for OSex by Ace Animations_ to 0.13n
-Updated _HIMBO_ to 4.3.2
-Updated _True Directional Movement_ to 2.2
-Updated _Pirate's Life For Me_ to 2.2.1.1
-Updated _GG's Thieves Guild Headquarters_ to 1.2
-Updated _Quests are in Skyrim_ to 1.3
-Updated _Ultimate Dodge Patch Collection_ to 2.1
-Updated _Honed Metal INI_ to 1.23
-Patched Sofia to remove her underwear and use the proper 3BA body (fixes clipping)
-Patched Hoth to use the proper HIMBO/SOS body (fixes missing anatomy)
-Worked like hell to get _ODefeat_ to work the way I want. Follower dismissals should work now.
-You should also no longer get robbed unless you are assaulted.
-Reran _Nemesis_
-Regenerated _Synthesis_
-Regenerated the separate _Undies_
+- Updated _Legacy of the Dragonborn_ to 5.6.2
+- Updated _New Animations for OSex by Ace Animations_ to 0.13n
+- Updated _HIMBO_ to 4.3.2
+- Updated _True Directional Movement_ to 2.2
+- Updated _Pirate's Life For Me_ to 2.2.1.1
+- Updated _GG's Thieves Guild Headquarters_ to 1.2
+- Updated _Quests are in Skyrim_ to 1.3
+- Updated _Ultimate Dodge Patch Collection_ to 2.1
+- Updated _Honed Metal INI_ to 1.23
+- Patched Sofia to remove her underwear and use the proper 3BA body (fixes clipping)
+- Patched Hoth to use the proper HIMBO/SOS body (fixes missing anatomy)
+- Worked like hell to get _ODefeat_ to work the way I want. Follower dismissals should work now.
+- You should also no longer get robbed unless you are assaulted.
+- Reran _Nemesis_
+- Regenerated _Synthesis_
+- Regenerated the separate _Undies_
 
 ## 10.44
 
