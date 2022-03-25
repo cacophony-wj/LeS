@@ -19,8 +19,6 @@ I also added the following.
 - _Myrwatch Editable Home Cell_ so that player home can have patches made
 - _OSound_ transitioned to the Nexus version so the list can be installable.
 
-Please try it out.
-
 ## 10.45.1
 
 - Established FormKey Persistence for _Undies_, so hopefully fewer save-breaking updates
@@ -28,7 +26,7 @@ Please try it out.
 - Additional alterations to _ODefeat_ for follower dismissal
 
 ## 10.45
--
+
 **BETA FIX FOR THE FALSE SAVE CORRUPTION**
 Updated _Legacy of the Dragonborn_ to 5.6.2
 Updated _New Animations for OSex by Ace Animations_ to 0.13n
