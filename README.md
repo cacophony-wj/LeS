@@ -246,9 +246,9 @@ Move your downloads folder outside of your _Licentia Directory_, ensure the _Lic
 
 **REDACTED.** _Licentia_ now makes use of the "Stock Game" feature, so there is no longer a need to download `enbseries` manually, nor to copy over Game Folder Files. Carry on!
 
-Do keep in mind, though, that any changes that would normally be made to the _Skyrim Special Edition_ directory such as changing ENB for better performance, adding Creation Club Content, and so on, must now be placed in the _Licentia/Stock Game_ folder instead.
+Do keep in mind, though, that any changes that would normally be made to the _Skyrim Special Edition_ directory such as changing ENB for better performance, installing a ReShade, and so on, must now be placed in the _Licentia/Stock Game_ folder instead.
 
-This does mean, also, that you can install any other list with this feature (Stock Game) and they will be completely independent of each other and no longer require changing out any files whatsoever. Enjoy _Licentia_ when the Old Lady is not around, play _Living Skyrim_ when she's doing annoying things like hogging space in your Man Cave!
+This does mean, also, that you can install any other list with this feature (Stock Game) and they will be completely independent of each other and no longer require changing out any files whatsoever. Enjoy _Licentia_ in your Man Cave, show _Living Skyrim_ off to mixed company!
 
 ## Preparing Your Page File
 
