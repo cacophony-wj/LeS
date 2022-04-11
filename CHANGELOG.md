@@ -1,3 +1,55 @@
+## 10.47
+
+**TEST Version. NOT Save Safe.**
+
+Added _Billyy Animations Pack OStim Port_
+Added _Thogra gra-Mugur - Orc Follower and Quest_
+Added _Kaidan OStim Patch_
+Added _Dapper Deliveries - A Courier Overhaul_
+Added _Dovah Den - LOTD Player Home_
+Added _Beards by Hvergelmir for High Poly Head_
+Added _LOTD Upscales - Armors All in One_
+Added _Adventurer's Sketchbook_
+Added _Alchemy Ingredients ENB Light_
+Added _Misc Effects ENB Light_
+Added _Kaidan Banter Patch_
+Added _The Cause Ayleid Lich Model_
+Added _Dragon Priest Fix - Behavior Overhaul_
+Added custom animation support for Lich form.
+Added a bunch of patches for _Path of Sorcery_ so Blood Magic will work right
+Updated _HIMBO_ to 4.4.1
+Updated _New Animations for OSex by aceanimations_ to 0.17n
+Updated _Legacy of the Dragonborn CBBE Patch_ to 1.0.3
+Updated _Serana Dialogue Add-On_ to 3.0
+Updated _Diverse Redguard Clothes_ to 2.0
+Updated _Comprehensive Falskaar Fixes_ to 1.3
+Updated _VIGILANT NPC Overhaul_ to 2.6
+Updated _Kaiden 2 Extended_ to 4.3
+Updated _Immersive Kaidan Start_ to 2.1
+Updated _Eli's Breezehome Optimization Packages_ to 1.6.2
+Updated _Frozen Electrocuted Combustion_ to 5.0.1
+Updated _Experience_ to 2.0
+Updated _Skyrim 2020 Parallax_ to 8.8.1 and configured as per CheckerMan's suggestions
+Updated _Lanterns of Skyrim II_ to 4.1
+Updated _Embers XD_ to 2.5.7
+Updated _Water for ENB_ to 1.61
+Updated _Better Windhelm Ground Meshes_ to 1.3.5
+Updated _Fixed Mesh Lighting_ to 1.7.3
+Updated _Particle Lights for ENB - Wisps_ to 1.2
+Updated _Better Third Person Selection_ to 0.5.1
+Updated _DynDOLOD Resources SE 3_
+Updated _po3's Papyrus Extender_ to 5.0.2
+Reinstalled _Immersive Weapons_ to fix some missing textures
+Fixed a problem with black textures on Khajiit feet
+Fixed a problem with bad parallax in some dwarven ruins
+Limited the number of runes to 1
+Deleted the bear cubs spawning at Redguard Retreat
+Fixed a water seam in the Vivec area
+Increased the chances for sexy armor on Khajiit Caravans
+Hopefully patched the custom followers (Vilja, Serana, etc) so they aren't so thirsty all the time
+Added all the supplied _RaceMenu_ presets from my presets channel
+Please see the Trello for upcoming fixes and improvements
+
 ## 10.46
 
 **This is the current version on the UI.**
