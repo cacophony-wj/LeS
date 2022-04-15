@@ -1,6 +1,8 @@
 ## 10.47
 
-**TEST Version. NOT Save Safe.**
+**This is the current version on the UI.**
+
+- STEALTH EDIT: Small patch to remove Sofia's Undies since they cause so many problems.
 
 - Added _Billyy Animations Pack OStim Port_
 - Added _Thogra gra-Mugur - Orc Follower and Quest_
@@ -55,8 +57,6 @@
 - Reran _Synthesis._
 
 ## 10.46
-
-**This is the current version on the UI.**
 
 - Reverted Undies from SPID to record so this update is not save safe for those using Undies.
 - Edited an INI so the conversation camera wouldn't bob.
