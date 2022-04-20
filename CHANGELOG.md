@@ -1,3 +1,24 @@
+## 10.48
+
+**This TEST version is currently only available on MEGA.**
+
+Added _Billyy Group Animations OStim Port_
+Added _Alternate Start Voiced_
+Updated _New Animations for OSex by aceanimations_ to 0.18n
+Updated _Feminine Khajiit Textures - Grey Cat_ to 3.2
+Updated _Serana Dialogue Add-On_ to 3.0.0.1
+Updated _Kaiden 2 Extended Edition_ to 4.4
+Updated _Immersive Kaidan Start_ to 2.1.1
+Updated _Completionist - Quest Tracker_ to 3.7.2.1
+Updated _Experience_ to 2.0
+Updated _Unofficial Skyrim Creation Club Content Patch_ to 6.5
+Updated _Eli's Breezehome Optimization Packages_ to 1.6.4
+Updated _Better Third Person Selection_ to 0.5.3
+Updated _Savage Skyrim_ to 4.0, but hid the ESP
+Updated _Rally's All The Things_ to 1.5
+Updated _Skyland AIO_ to 3.0
+Updated _Open World Loot - CC Crossbow Collection_ to 1.0
+
 ## 10.47
 
 **This is the current version on the UI.**
