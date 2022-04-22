@@ -183,6 +183,12 @@ If this STILL doesn't work, you can download them from the MEGA link below, but 
 
 [Licentia Custom Files - MEGA Shared Directory](https://mega.nz/folder/RawGxSQC#18F3HuX5i5MvXzsMb6ARGg)
 
+Finally there may be certain files from Nexus which freeze or corrupt during download, or simply never complete. For these files, I recommend using the Nexus Website settings to change your local server to one closer to your physical location and rerunning Wabbajack a handful of times. If that does not work, you can attempt to download any files you have trouble with manually using the links below:
+
+https://github.com/wabbajack-tools/mod-lists/blob/master/reports/wj-featured/Licentia/status.md
+
+This list is a complete accounting of every file required to install my list. Feel free to refer to it as needed.
+
 **Note:** Some users may not see all of the files at first. For those users, I suggest creating a MEGA account and logging in. For those who have done so, try logging out and back in.
 
     Wait for Wabbajack to finish
