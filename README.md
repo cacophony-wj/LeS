@@ -98,11 +98,17 @@ If you are interested in reducing sexual content even further, please refer to t
 
 ### System Specs
 
-This portion is under review, but my best estimate as to what you need is as follows:
+My best estimate as to what you need to play _Licentia_ enjoyably is as follows:
 
-- CPU: >= 7th gen Intel processor OR >= AMD Ryzen 3000 series processor
-- GPU: >= 1080, you need at least 6GB of VRAM
-- RAM: >= DDR4 with at least 12GBs
+- CPU: >= 8th gen Intel, OR >= AMD Ryzen 5000 series
+- GPU: >= NVIDIA RTX 2070, OR >= AMD RX 5700; please keep in mind that AMD cards tend to have problems with ENB and are not recommended
+- RAM: >= DDR4 with at least 16GBs
+
+Please bear in mind that this is an extremely demanding list. Even with very high system specs you may experience slowdowns and stutter periods as various resources load in. I have a 3090 and it happens to me sometimes when several outdoor cells at once spawn their mobs. As a matter of fact, there are individual files within this list that are over 4GB in size and require a fast, reliable Internet connection merely to install successfully. 
+
+If you have any doubts about your ability to install the modlist or prefer a responsive, lightweight list with an emphasis on performance and a far more simple install process, why not try out the successful Nexus Collection called "Immersive & Adult." It features many of the same mods and features and performs far better on low- and midrange hardware. Join the Discord and say hello to my friend Canliberk while you are there.
+
+- [Immersive & Adult on Nexus Next](https://next.nexusmods.com/skyrimspecialedition/collections/xxsqm4)
 
 Also of UTMOST IMPORTANCE is that you have a VERY LARGE PAGEFILE on the fastest hard drives available to you. I networked with Wabbajack staff to drastically improve the texture quality in this list -- Wabbajack's recommendation of a 20GB pagefile is not enough because that size crashed me in testing. I myself have it at 40GB, but you could probably get away with "System Managed" on each of your SSD's (the OS drive and at least one more)
 
