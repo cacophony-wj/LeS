@@ -1,3 +1,23 @@
+## 10.49
+
+**This TEST version is currently only available on MEGA.**
+
+- Added _NCK30 Animations Pack OStim Port_
+- Added popular favorite _Forgotten Magic Redone SE_ with several patches
+- Added _Immersive Jewelry SSE_, but don't worry because
+- Added _Immersive Jewelry - Lower Value_ to keep from wrecking the crafting or economy
+- Added _Quest Journal Limit Bug Fixer_
+- Added _Better Ambient Wolf Sounds_ to get rid of that laughable wolf wheeze
+- Added _Realistic Dog Sounds_ while I was at it
+- Added _Lynges No Loading Screens Text Mod_ to get an idea, then
+- Hopefully reinstalled _Kaiden_ to fix his InvisiFace
+- Swapped out _Tempered Skins SE_ for _REALORE MEN'S SE_
+- Updated _New Animations for OSex by aceanimations_ to 0.19n
+- Updated _Billyy Animations Pack OStim Port_ to 1.0
+- Updated _Curated Curios_ to 1.0.2
+- Tried a new method to reduce the thirstiness of custom followers such as Vilja and Sofia
+- Patched out the rest of the loading screen text because a lot of it is inconsistent with the list
+
 ## 10.48.1
 
 **This is the current version on the UI.**
@@ -8,10 +28,6 @@
 - I also finagled the options so boobas collisions work better.
 
 ## 10.48
-
-**Note:** Oooops. I always forget Markdown doesn't do linebreaks like a normal person.
-
-**This TEST version is currently only available on MEGA.**
 
 - Added _Billyy Group Animations OStim Port_
 - Added _Alternate Start Voiced_
