@@ -86,7 +86,7 @@ It used to be possible to tweak your body with _Morphs_, however _OBody_ has mad
 
 ## AS SOON AS CHARACTER CREATION IS COMPLETE
 
-**DO NOTHING** until **ALL** of the messages in the top left corner stop appearing. This is the most script intensive part of the game and may break otherwise. (It almost certainly will break if you forgot to copy game folder files.)
+**DO NOTHING** until **ALL** of the messages in the top left corner stop appearing. This is the most script intensive part of the game and may break otherwise. 
 
 Fertility mode will pop up a window requesting to turn on. Choose NO right now, even if you want it on, as the script load can get too high.
 
