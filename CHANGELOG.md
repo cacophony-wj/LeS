@@ -8,11 +8,11 @@
 
 ## 10.49.0.1
 
+**This TEST version is currently only available on MEGA.**
+
 - Fixed a bug with the Stock Game folder not copying over.
 
 ## 10.49
-
-**This TEST version is currently only available on MEGA.**
 
 - Added _NCK30 Animations Pack OStim Port_
 - Added popular favorite _Forgotten Magic Redone SE_ with several patches
