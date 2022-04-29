@@ -1,4 +1,16 @@
-## 10.49
+## 10.49.0.2 
+
+**This is the version currently on the UI.**
+
+- Sofia's underwear bugs persist, so I just made her nude. Don't pick her up if you want an SFW playthrough.
+- Fixed a bug with Moonpath's combat music sticking. Sorry folks, thought I did this, actually didn't.
+- Attempted to resolve a matte skin bug occuring sometimes in RaceMenu, tests fine, hopefully it holds.
+
+## 10.49.0.1
+
+- Fixed a bug with the Stock Game folder not copying over.
+
+10.49
 
 **This TEST version is currently only available on MEGA.**
 
@@ -19,8 +31,6 @@
 - Patched out the rest of the loading screen text because a lot of it is inconsistent with the list
 
 ## 10.48.1
-
-**This is the current version on the UI.**
 
 - Updated _CBPC_ to 1.50
 - Updated _CBBE 3BA_ to 2.31
