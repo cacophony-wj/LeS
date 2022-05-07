@@ -1,3 +1,27 @@
+## 10.50
+
+**This TEST version is currently only available on MEGA.**
+
+- Added _Bill's Secret NPC_
+- Added _More Adventures for OStim_ 0.2.1
+- Added @kaoticgamers _Immersive Jewelry Weight Fix_
+- Updated _Billyy Animations Pack OStim Port_ to 2.3
+- Updated _Dragon Priest Fix - Behavior Overhaul_ to 1.6.1
+- Updated _Realore Men's Full_ to 1.1
+- Updated _Legacy of the Dragonborn SSE_ to 5.6.3
+- Updated _The Wheels of Lull SE_ to 5.1.3
+- Updated _Vokriinator Black_ to 6.9.2
+- Updated _Adamant - A Perk Overhaul_ to 5.4.4
+- Updated _Attack Dogs - A Dog Combat Overhaul_ to 1.1.5k
+- Updated _Better Third Person Selection_ to 0.5.4
+- Updated _Contextual Crosshair_ to 1.2
+- Updated _Ancient Nord Stalhrim_ to 1.2
+- Updated _Ghosts of Tamriel - Solstheim Integration_ to 1.3
+- Updated _Curated Curios_ to 1.0.2.1
+- Updated _Water for ENB_ to 1.62
+- Updated _Veydosebrom Regions_ to 1.2
+- Updated _Eli's Breezehome Optimizations_ to 1.6.5
+
 ## 10.49.0.2 
 
 **This is the version currently on the UI.**
@@ -7,8 +31,6 @@
 - Attempted to resolve a matte skin bug occuring sometimes in RaceMenu, tests fine, hopefully it holds.
 
 ## 10.49.0.1
-
-**This TEST version is currently only available on MEGA.**
 
 - Fixed a bug with the Stock Game folder not copying over.
 
