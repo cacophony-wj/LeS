@@ -40,7 +40,7 @@ Welcome to the latest incarnation of _Licentia_. This modlist is intended as a h
 
 _Want more detailed information before committing to a 300+ GB download?_ Check out the links below.
 
-**_Licentia_ Content Creator _@kaoticgam3rs_ posts new YouTube and Twitch content Mondays, Wednesdays and Fridays about 5 PM.** 
+### _Licentia_ Content Creator _@kaoticgam3rs_ posts new YouTube and Twitch content Mondays, Wednesdays and Fridays about 5 PM.
 
 Check out their YouTube channel [here](https://www.youtube.com/c/Kaoticgam3rs), or their Twitch channel [here](https://www.twitch.tv/kaoticgam3rs).
 
