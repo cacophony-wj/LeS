@@ -1,4 +1,39 @@
-## 10.50
+## 10.51.0.1
+
+**This TEST version is currently only available on MEGA.**
+
+- Added _Billyy Lesbian 3P Animation Pack_
+- Added back _I'm Glad You're Here - Appereciation Mod_
+- Added _Fare Thee Well - Spouses and Children Give Blessings_
+- Added _A Skyrim Waltz_
+- Added _Improved Follower Dialogue - Lydia_
+- Added _Wolves of Skyrim_
+- Added _Legacy of the Dragonborn Visual Overhaul_
+- Added _Quickport_
+- Added back _SkyUI AIO Survival_
+- Added _Business Ledger HD Retexture_
+- Added _Immersive Jewelry SSE Wobbly Empire Amulet Fix_
+- Added _XPMSSE - Nemesis - Papyrus Stax Fix_
+- Added _No FNIS.esp_
+- Changed _Vilja Follower Room_ to A-4
+- Chaned _Immersive Patrols_ to Patrols Only
+- Updated _Faster SMP_ to 1.40
+- Updated _New Animations for OSex by aceanimations_ to 0.22
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.52
+- Updated _Legacy of the Dragonborn Patches_ to 2.8
+- Updated _Paarthurnax - Quest Expansion_ to 1.11
+- Updated _Frozen Electrocuted Combustion_ to 5.0.5
+- Updated _Triple Triad Card Game in Skyrim_ to 3.3
+- Updated _Water for ENB_ to 1.64
+- Updated _Ember's XD_ to 2.5.9
+- Updated _Veydosebrom Regions_ to 1.2
+- Updated _Ghosts of the Tribunal_ to 1.4
+- Updated _Fixed Mesh Lighting_ to 1.7.6
+- Updated _Janquel's Arguable Needed Quixotically Unifying ESP Library_ to 1.5.1
+- Updated _po3's Papyrus Extender_ to 5.1
+- Updated _Simple Camping Storage_
+
+- ## 10.50
 
 **This is the version currently on the UI.**
 
