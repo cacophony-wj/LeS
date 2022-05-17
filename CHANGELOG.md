@@ -1,6 +1,6 @@
 ## 10.50
 
-**This TEST version is currently only available on MEGA.**
+**This is the version currently on the UI.**
 
 - Added _Bill's Secret NPC_
 - Added _More Adventures for OStim_ 0.2.1
@@ -23,8 +23,6 @@
 - Updated _Eli's Breezehome Optimizations_ to 1.6.5
 
 ## 10.49.0.2 
-
-**This is the version currently on the UI.**
 
 - Sofia's underwear bugs persist, so I just made her nude. Don't pick her up if you want an SFW playthrough.
 - Fixed a bug with Moonpath's combat music sticking. Sorry folks, thought I did this, actually didn't.
