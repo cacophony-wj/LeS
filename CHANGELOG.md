@@ -1,6 +1,12 @@
-## 10.51.0.1
+## 10.52
 
 **This TEST version is currently only available on MEGA.**
+
+- Removed many overlay mods and presets due to infrequent, but extremely difficult to troubleshoot, bugs.
+- Refer to my announcements channel for details.
+- Flagged the Synthesis patches so they would compile properly.
+
+## 10.51.0.1
 
 - Added _Billyy Lesbian 3P Animation Pack_
 - Added back _I'm Glad You're Here - Appereciation Mod_
