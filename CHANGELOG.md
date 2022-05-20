@@ -1,3 +1,11 @@
+## 10.52.1
+
+**This is the version currently on the UI.**
+
+- No significant changes from the TEST version. A couple inconsequential bugfixes were applied.
+- Please note that SkyrimSouls has been removed due to an incompatibility with alternate inventories.
+- It should be a simple thing to add back if you so desire.
+
 ## 10.52
 
 **This TEST version is currently only available on MEGA.**
