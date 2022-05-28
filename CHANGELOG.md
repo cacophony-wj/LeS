@@ -1,3 +1,42 @@
+## 10.53
+
+**This TEST version is currently only available on MEGA.**
+
+Added _PI-CHO ENB Hyper Edition for NAT.ENB III_
+Added _NAT.ENB III - Natural and Atmospheric Tamriel 3.0.3_
+Added _Enhanced Volumetric Lighting and Shadows (EVLas)
+Added _Enhanced Lights and FX_ and patches
+Added _ELFX Fixes_ and patches
+Added _ELE - ELFX Consistency Patch and Tweaks_
+Added _SavrenX Gore_
+Added _Burnt Corpses Textures Redone_
+Added _Glorious Dwarven Metal_
+Added _GOAT HD by Pfuscher_
+Added _HD Stone Quarry and Clay Deposit SE_
+Added _Improved Weapon Impact EFFECTS_
+Added _Misc Retexture Project_ and a few patches
+Added _Ruins Tools Retexture_
+Added _Splashes of Skyrim_
+Added _Sufficiently Optimized Snowberries 3D_
+Added _Unique Skulls HD_
+Added _Volcanic Tundra - Heat Wave Effects_
+Added _Water in Wells_
+Swapped _Raven Rock - Fix Exit on Horseback_ for the ESL version
+Reverted _Cleaned Skyrim SE Textures_ to the BSA version
+Reverted _Windows Shadows_ to the 7.7.5 version
+Removed _Relics of Hyrule SE - A DLC Scale Zelda Mod_ and patches
+Removed _Artifacts of Skyrim - Revised Edition_
+Removed _Conduit - Short-Term Weapon Infusions_
+Removed _Dual Hand Combo Hotkeys_
+Removed _A Skyrim Waltz_
+Removed _I'm Glad You're Here - A Follower and Spouse Appreciation Mod_
+Removed _Fare Thee Well - Spouses and Children Give Blessings_
+Removed _Tavern Games_
+Removed _Thogra gra-Magur_
+Reworked some conflict resolution
+Regenerated LODs
+Regenerated _Synthesis_
+
 ## 10.52.1
 
 **This is the version currently on the UI.**
@@ -7,8 +46,6 @@
 - It should be a simple thing to add back if you so desire.
 
 ## 10.52
-
-**This TEST version is currently only available on MEGA.**
 
 - Removed many overlay mods and presets due to infrequent, but extremely difficult to troubleshoot, bugs.
 - Refer to my announcements channel for details.
