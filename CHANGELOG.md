@@ -1,6 +1,19 @@
-## 10.53
+## 10.54
 
 **This TEST version is currently only available on MEGA.**
+
+- Reworked my Perk and Magic setup to fix crash bugs cheating in certain items, as well as suit _Mysticism 2_
+- Added _Informed Mail Delivery_
+- Adedd new rain and snowflake textures
+- Updated _Vokriinator Black_ to 6.9.2 (current version is bugged in this list)
+- Updated _Adamant_ to 5.4.5
+- Updated _Mysticism_ to 2.0.6
+- Updated _Static Skill Leveling_ to 3.0
+- Updated _Experience_ to 2.0## 10.53
+
+## 10.53
+
+**No longer available due to CTDs spawning invalid items.**
 
 - Added _PI-CHO ENB Hyper Edition for NAT.ENB III_
 - Added _NAT.ENB III - Natural and Atmospheric Tamriel 3.0.3_
@@ -39,7 +52,7 @@
 
 ## 10.52.1
 
-**This is the version currently on the UI.**
+**No longer available**
 
 - No significant changes from the TEST version. A couple inconsequential bugfixes were applied.
 - Please note that SkyrimSouls has been removed due to an incompatibility with alternate inventories.
@@ -47,11 +60,15 @@
 
 ## 10.52
 
+**No longer available.**
+
 - Removed many overlay mods and presets due to infrequent, but extremely difficult to troubleshoot, bugs.
 - Refer to my announcements channel for details.
 - Flagged the Synthesis patches so they would compile properly.
 
 ## 10.51.0.1
+
+**No longer available.**
 
 - Added _Billyy Lesbian 3P Animation Pack_
 - Added back _I'm Glad You're Here - Appereciation Mod_
@@ -86,7 +103,9 @@
 
 - ## 10.50
 
-**This is the version currently on the UI.**
+**This is the newest backup version, before VB was updated.**
+
+**This and earlier versions likely can no longer be installed.**
 
 - Added _Bill's Secret NPC_
 - Added _More Adventures for OStim_ 0.2.1
