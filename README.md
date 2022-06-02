@@ -60,7 +60,11 @@ _Want more detailed information before committing to a 300+ GB download?_ Check 
 
 Check out their YouTube channel [here](https://www.youtube.com/c/Kaoticgam3rs), or their Twitch channel [here](https://www.twitch.tv/kaoticgam3rs).
 
-[Video Preview of Licentia by "Official" Wabbajack Streamer _DroppedIceCream_](https://www.youtube.com/watch?v=vM0xFFFirRc)
+[Showcase and Review Video by "Official" Wabbajack Streamer _DroppedIceCream_](https://www.youtube.com/watch?v=vM0xFFFirRc)
+
+[Showcase and Gameplay Video by YouTube Personality _Deep Voice_](https://www.youtube.com/watch?v=W8AsI1o1-z4)
+
+[Various Screenshot Galleries of _Licentia_ (Click on the "Grab Licentia" Link)](https://cacophony.me)
 
 [Positive Review of Licentia on Reddit](https://www.reddit.com/r/skyrimmods/comments/qcvrc6/licentia_review_with_links_and_a_thank_you_to_mod/)
 
@@ -70,29 +74,17 @@ _Came here because you are experiencing a bug? Check out the Troubleshooting Doc
 
 [Licentia Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md)
 
-The first thing you should probably know is that I am more of a fan of old-school RPG mechanics. I don't like grinding out daggers to level up Smithing or wandering in circles next to a sleeping person to level up Stealth. Therefore, your level does not increase with your skills. Instead, it is the other way around. As you kill things and complete quests, "Experience Points" accumulate until you gain a "level" at which point you can sleep for at least 1 hour in any bed and distribute them to any skill you wish. Also, there are hundreds of additional perks in this modlist, to encourage you to experience a wide variety of options. Therefore, you get more perks than normal. There are also options to receive bonus perks for completing bounties on Giants, Dragons, completing Main Quests, or finishing certain aspects of the mod VIGILANT. Plenty enough to develop any build and become near god-like, but not quite so much that you do everything with one character.
+The first thing you should probably know is that I am more of a fan of old-school RPG mechanics. I don't like grinding out daggers to level up Smithing or wandering in circles next to a sleeping person to level up Stealth. Therefore, your level does not increase with your skills. Instead, it is the other way around. As you kill things and complete quests, "Experience Points" accumulate until you gain a "level" at which point you can sleep for at least 1 hour in any bed and distribute them to any skill you wish. Also, there are hundreds of additional perks in this modlist, to encourage you to experience a wide variety of options. Therefore, you get more perks than normal. There are also options to convert souls and quests into perks, as well as tradable ones from the mod VIGILANT. Plenty enough to develop any build and become near god-like, but not quite so much that you do everything with one character.
 
 A note about difficulty. _CGO, AGO, Vokriinator Black,_ and all the camera, movement, and spell mods I have included mutiply the player's power almost exponentially. I have yet to stumble on a solution for game balance that accomodates most play styles. As it is, with the MCMs I have scripted, it is probably too easy for anyone who knows the ins and outs of the game. For now, I recommend you leave the values at default until you get a follower (or two) and maybe reach level 10. Then up them as things get too easy (this is a problem with vanilla as well). Not only can you change the difficulty in _Settings,_ you can mess with the options in _Deadly Dragons_ and _Wildcat_ to make things pretty tough on yourself. Dragons will one shot you if their mod is set to "Insane," _Wildcat_ will have you flipping your keyboard when you get juggled with "Full Body Stagger." Experiment! I'll get something better in there one day. I am really bad at the game, lack quality reflexes, and never get a chance to progress very far before something updates or breaks. Report your findings! I may not like to hear them at first but I am always gratified in the end.
 
 A note about the signature followers _Auri, Inigo_ and _Kaiden._ These guys are badasses in the Vanilla game but are stone-cold killers in _Licentia._ I have user reports of them doing 7,000 - 10,000 damage per hit after all the perks given to them are converted to their _Vokriinator Black_ equivalents. As a result, they have all been severely nerfed to put more focus on the player. Most perks having to do with offense and damage multiplication have been removed, a few of the defensive ones are left so they can serve as tanks or distractions. Please keep this in mind as you play and do not report this to the innocent mod authors who designed these mods, they are _not_ meeting their original intention in this list and never could. It is not their problem. _Lucien_ has been left untouched as he has only very basic dual-casting perks at the start. However, he grows as you travel with him, so he may end up quite the badass himself!
 
-A note about "save scumming," which is the practice of quickly saving and reloading many times in a row to get a perfect result, the "Groundhog Day" method of playing a videogame. If you spend 30 minutes reloading after death again and again, especially during or after combat, a _lot_ of stuff will break on your save. I have experienced this first-hand. If you can't get past a group of enemies without repeated deaths and reloads, consider accepting your limitations and retreating, or loading an hour or so back and dialing the difficulty down a few notches. If you continue to save and load rapidly, complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game. 
+A note about "save scumming," which is the practice of quickly saving and reloading many times in a row to get a perfect result, the "Edge of Tomorrow" method of playing a videogame. If you spend 30 minutes reloading after death again and again, especially during or after combat, a _lot_ of stuff will break on your save. I have experienced this first-hand. If you can't get past a group of enemies without repeated deaths and reloads, consider accepting your limitations and retreating, or loading an hour or so back and dialing the difficulty down a few notches. If you continue to save and load rapidly, complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game. 
 
 # STRONG WARNINGS
 
 Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
-
-## DO NOT ALTER THE MODLIST AND REQUEST SUPPORT FROM WABBAJACK STAFF!
-
-**Officially, absolutely zero changes to the modlist are supported from the Wabbajack server.** If you wish to add or modify the _slightest little thing_, even a seemingly innocuous change such as a RaceMenu or BodySlide preset, an ENB preset or an INI setting, you _must ask for support on my private server in the "additions" channel._ The **only** exceptions are those changes for your particular setup that have already been mentioned elsewhere in this readme, such as mods for Gamepads or UltraWide. Changing resolution is also fine. This is a conscious decision to reduce support requirements for our shared staff. The rule calls for a warning to be issued if you violate this, but I have personally chosen to ignore it (most of the time) because I know how you all are. **However,** I cannot be responsible for the actions of other admins, moderators or support staff. Please don't push it so I don't have to start enforcing it. _Again, if you made even the tiniest change, ask about it on my private server, not on the Wabbajack Discord._ I am extremely tolerant to additions if they are discussed in the proper place.
-
-## THIS MODLIST MAY FEATURE GRAPHIC SEXUAL CONTENT THAT SOME PLAYERS MAY FIND DISTURBING OR OFFENSIVE. YOU MAY WISH TO AVOID IT IF YOU SUFFER FROM TRAUMA AS EXPLAINED BELOW.
-
-As you may or may not be aware, NSFW Skyrim has a rather sordid history with some of the mods that are developed and even encouraged for it. I have battled back and forth between avoiding them completely and including those which are not "that bad," in a rather limited fashion. As of the 10.39.5 release, I have decided on the latter, mainly because I like iron man runs, and included them as optional mods.
-
-Basically what this means is that the list is largely the same as the old _Licentia_, but now features a sex-worker minigame and non-consensual roleplay options for subduing enemies or finding yourself subdued. These come in the form of the _OProstitution_ and _ODefeat_ mods, descriptions for which can be found on Patreon and Lover's Lab, respectively. If any of this content is an issue for you, _do not use these mods._
-
-If you are interested in reducing sexual content even further, please refer to the MCM section of this readme and limit all support questions to my private server.
 
 ## Requirements
 
@@ -230,7 +222,7 @@ You did not purchase the $20 upgrade to Skyrim. This is not negotiable. Return t
 
 **Problems downloading files from Lover's Lab or the Wabbajack CDN**
 
-Lover's Lab files are obvious. CDN files have the word _Licentia_ in the filename. Refer to [this section] in #TROUBLESHOOTING.md
+Lover's Lab files are obvious. CDN files have the word _Licentia_ in the filename. Refer to [this section] in TROUBLESHOOTING.md
 
 **Could not download x:**
 
