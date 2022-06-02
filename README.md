@@ -199,8 +199,6 @@ https://github.com/wabbajack-tools/mod-lists/blob/master/reports/wj-featured/Lic
 
 This list is a complete accounting of every file required to install my list. Feel free to refer to it as needed.
 
-**Note:** Some users may not see all of the files at first. For those users, I suggest creating a MEGA account and logging in. For those who have done so, try logging out and back in.
-
     Wait for Wabbajack to finish
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. 
@@ -318,7 +316,9 @@ You can just remove the _Licentia_ folder and be done with it. SKSE and ENB file
 
 I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-support`). I will not respond to direct messages unless I know you. **DO NOT DIRECT MESSAGE ME**
 
-If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to me in any amount of one dollar or more via my [Patreon](https://www.patreon.com/cacophony1979). Your donation will better the quality of my life and ensure that I can spend more time improving _Licentia._ There are no expectations for a recurring subscription, donate one dollar and immediately cancel if you wish. You will also receive benefits such as access to my Discord server's VIP channel where my friends and Wabbajack staff talk shop, as well as votes and mod suggestions to change the direction of _Licentia_ in the future. Finally, a portion of all proceeds will be forwarded as donations to various signature modders featured in _Licentia_, given that it could not exist without them. **All variant profiles are currently on hiatus due to a bit of burnout on my part.** They **MAY** return at some point in the future.
+If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to me in any amount of one dollar or more via my [Patreon](https://www.patreon.com/cacophony1979) or my [Ko-Fi](https://ko-fi.com/cacophony1979). Your donation will better the quality of my life and ensure that I can spend more time improving _Licentia._ There are no expectations for a recurring subscription, donate one dollar and immediately cancel if you wish. You will also receive benefits such as access to my Discord server's VIP channel where my friends and _Wabbajack_ staff talk shop, as well as votes and mod suggestions to change the direction of _Licentia_ in the future. Finally, a portion of all proceeds will be forwarded as donations to various signature modders featured in _Licentia_, given that it could not exist without them. If you particularly enjoy a mod in my list, please consider _Endorsing_ that mod. If you login to _Nexus_ via _Mod Organizer,_ all you have to do is right click that mod and select "Endorse." 
+
+**All variant profiles are currently on hiatus due to a bit of burnout on my part.** They **MAY** return at some point in the future.
 
 ## Contributing
 
