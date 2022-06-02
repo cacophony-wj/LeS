@@ -1,6 +1,18 @@
+## 10.55
+
+**This is the version currently on the UI and NEXUS.**
+
+- Reworked and recorded default MCMs
+- Removed the _Mihail_ series of mods due to complaints, also I think the guy is taking a break
+- Added _Minimalist Quick Loot_
+- Added the _CBPC Armor Patcher_ by tottorijuukou
+- Added _WoW Dragon Mounds CTD Fix - Wyrmstooth Patch_
+- Added back the textures from _Redguard Retreat_ (oops)
+- Updated _CBPC_ to 1.5.1 and added 3 Breast Bone support
+
 ## 10.54
 
-**This TEST version is currently only available on MEGA.**
+**This version is no longer available due to technical reasons.**
 
 - Reworked my Perk and Magic setup to fix crash bugs cheating in certain items, as well as suit _Mysticism 2_
 - Added _Informed Mail Delivery_
