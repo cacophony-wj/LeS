@@ -68,7 +68,7 @@ I feel you. Play the _Caco Way._ **RNG** is how I make most of my decisions in l
 16. Flip a coin. If heads, take the potions from the cask. If tails, disregard.
 17. Flip a coin. If heads, take the lockpicks in the corner. If tails, disregard.
 18. Flip a coin. If tails, skip the next instruction. If heads, continue.
-19. Count the list of alternate start options from the statue. Randomly generate one, then sleep in the bed.
+19. Flip a coin. If heads, count the list of alternate start options from the statue. Randomly generate one, then sleep in the bed.
 20. Flip a coin. If heads, choose one of the sexy starts from the shelf, on the left. Start with no gear. Then sleep in the bed.
 21. Flip a coin. If heads, pick up the lantern on the table and choose a prositution start. Try your damndest to make your starting gear via hooking.
 22. If you have reached this stage, it is time for **CACO'S ULTIMATE RANDOMNESS** brought to you by Legendary NSFW Modder Scrab.
