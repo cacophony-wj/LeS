@@ -2,7 +2,7 @@
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Gameplay](#gameplay)
   - [I tried to do the vanilla intro but it is terribly messed up.](#i-tried-to-do-the-vanilla-intro-but-it-is-terribly-messed-up)
-  - [I don't know where to begin, OR I've done Skyrim so many times it's boring to me now.](#i-dont-know-where-to-begin-or-i've-done-skyrim-so-many-times-its-boring-to-me-now)
+  - [I don't know where to begin, OR I've done Skyrim so many times it's boring to me now.](#i-dont-know-where-to-begin-or-ive-done-skyrim-so-many-times-its-boring-to-me-now)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
   - [Leveling up is weird!](#leveling-up-is-weird)
   - [My weapons are swinging super fast or super slow!](#my-weapons-are-swinging-super-fast-or-super-slow)
