@@ -1,6 +1,201 @@
+## 10.55
+
+**This is the version currently on the UI and NEXUS.**
+
+- Reworked and recorded default MCMs
+- Removed the _Mihail_ series of mods due to complaints, also I think the guy is taking a break
+- Added _Minimalist Quick Loot_
+- Added the _CBPC Armor Patcher_ by tottorijuukou
+- Added _WoW Dragon Mounds CTD Fix - Wyrmstooth Patch_
+- Added back the textures from _Redguard Retreat_ (oops)
+- Updated _CBPC_ to 1.5.1 and added 3 Breast Bone support
+
+## 10.54
+
+**This version is no longer available due to technical reasons.**
+
+- Reworked my Perk and Magic setup to fix crash bugs cheating in certain items, as well as suit _Mysticism 2_
+- Added _Informed Mail Delivery_
+- Adedd new rain and snowflake textures
+- Updated _Vokriinator Black_ to 6.9.2 (current version is bugged in this list)
+- Updated _Adamant_ to 5.4.5
+- Updated _Mysticism_ to 2.0.6
+- Updated _Static Skill Leveling_ to 3.0
+- Updated _Experience_ to 2.0## 10.53
+
+## 10.53
+
+**No longer available due to CTDs spawning invalid items.**
+
+- Added _PI-CHO ENB Hyper Edition for NAT.ENB III_
+- Added _NAT.ENB III - Natural and Atmospheric Tamriel 3.0.3_
+- Added _Enhanced Volumetric Lighting and Shadows (EVLas)
+- Added _Enhanced Lights and FX_ and patches
+- Added _ELFX Fixes_ and patches
+- Added _ELE - ELFX Consistency Patch and Tweaks_
+- Added _SavrenX Gore_
+- Added _Burnt Corpses Textures Redone_
+- Added _Glorious Dwarven Metal_
+- Added _GOAT HD by Pfuscher_
+- Added _HD Stone Quarry and Clay Deposit SE_
+- Added _Improved Weapon Impact EFFECTS_
+- Added _Misc Retexture Project_ and a few patches
+- Added _Ruins Tools Retexture_
+- Added _Splashes of Skyrim_
+- Added _Sufficiently Optimized Snowberries 3D_
+- Added _Unique Skulls HD_
+- Added _Volcanic Tundra - Heat Wave Effects_
+- Added _Water in Wells_
+- Swapped _Raven Rock - Fix Exit on Horseback_ for the ESL version
+- Reverted _Cleaned Skyrim SE Textures_ to the BSA version
+- Reverted _Windows Shadows_ to the 7.7.5 version
+- Removed _Relics of Hyrule SE - A DLC Scale Zelda Mod_ and patches
+- Removed _Artifacts of Skyrim - Revised Edition_
+- Removed _Conduit - Short-Term Weapon Infusions_
+- Removed _Dual Hand Combo Hotkeys_
+- Removed _A Skyrim Waltz_
+- Removed _I'm Glad You're Here - A Follower and Spouse Appreciation Mod_
+- Removed _Fare Thee Well - Spouses and Children Give Blessings_
+- Removed _Tavern Games_
+- Removed _Thogra gra-Magur_
+- Reworked some conflict resolution
+- Regenerated LODs
+- Regenerated _Synthesis_
+
+## 10.52.1
+
+**No longer available**
+
+- No significant changes from the TEST version. A couple inconsequential bugfixes were applied.
+- Please note that SkyrimSouls has been removed due to an incompatibility with alternate inventories.
+- It should be a simple thing to add back if you so desire.
+
+## 10.52
+
+**No longer available.**
+
+- Removed many overlay mods and presets due to infrequent, but extremely difficult to troubleshoot, bugs.
+- Refer to my announcements channel for details.
+- Flagged the Synthesis patches so they would compile properly.
+
+## 10.51.0.1
+
+**No longer available.**
+
+- Added _Billyy Lesbian 3P Animation Pack_
+- Added back _I'm Glad You're Here - Appereciation Mod_
+- Added _Fare Thee Well - Spouses and Children Give Blessings_
+- Added _A Skyrim Waltz_
+- Added _Improved Follower Dialogue - Lydia_
+- Added _Wolves of Skyrim_
+- Added _Legacy of the Dragonborn Visual Overhaul_
+- Added _Quickport_
+- Added back _SkyUI AIO Survival_
+- Added _Business Ledger HD Retexture_
+- Added _Immersive Jewelry SSE Wobbly Empire Amulet Fix_
+- Added _XPMSSE - Nemesis - Papyrus Stax Fix_
+- Added _No FNIS.esp_
+- Changed _Vilja Follower Room_ to A-4
+- Chaned _Immersive Patrols_ to Patrols Only
+- Updated _Faster SMP_ to 1.40
+- Updated _New Animations for OSex by aceanimations_ to 0.22
+- Updated _Fertility Mode Fixes & Tweaks_ to 2.52
+- Updated _Legacy of the Dragonborn Patches_ to 2.8
+- Updated _Paarthurnax - Quest Expansion_ to 1.11
+- Updated _Frozen Electrocuted Combustion_ to 5.0.5
+- Updated _Triple Triad Card Game in Skyrim_ to 3.3
+- Updated _Water for ENB_ to 1.64
+- Updated _Ember's XD_ to 2.5.9
+- Updated _Veydosebrom Regions_ to 1.2
+- Updated _Ghosts of the Tribunal_ to 1.4
+- Updated _Fixed Mesh Lighting_ to 1.7.6
+- Updated _Janquel's Arguable Needed Quixotically Unifying ESP Library_ to 1.5.1
+- Updated _po3's Papyrus Extender_ to 5.1
+- Updated _Simple Camping Storage_
+
+- ## 10.50
+
+**This is the newest backup version, before VB was updated.**
+
+**This and earlier versions likely can no longer be installed.**
+
+- Added _Bill's Secret NPC_
+- Added _More Adventures for OStim_ 0.2.1
+- Added @kaoticgamers _Immersive Jewelry Weight Fix_
+- Updated _Billyy Animations Pack OStim Port_ to 2.3
+- Updated _Dragon Priest Fix - Behavior Overhaul_ to 1.6.1
+- Updated _Realore Men's Full_ to 1.1
+- Updated _Legacy of the Dragonborn SSE_ to 5.6.3
+- Updated _The Wheels of Lull SE_ to 5.1.3
+- Updated _Vokriinator Black_ to 6.9.2
+- Updated _Adamant - A Perk Overhaul_ to 5.4.4
+- Updated _Attack Dogs - A Dog Combat Overhaul_ to 1.1.5k
+- Updated _Better Third Person Selection_ to 0.5.4
+- Updated _Contextual Crosshair_ to 1.2
+- Updated _Ancient Nord Stalhrim_ to 1.2
+- Updated _Ghosts of Tamriel - Solstheim Integration_ to 1.3
+- Updated _Curated Curios_ to 1.0.2.1
+- Updated _Water for ENB_ to 1.62
+- Updated _Veydosebrom Regions_ to 1.2
+- Updated _Eli's Breezehome Optimizations_ to 1.6.5
+
+## 10.49.0.2 
+
+- Sofia's underwear bugs persist, so I just made her nude. Don't pick her up if you want an SFW playthrough.
+- Fixed a bug with Moonpath's combat music sticking. Sorry folks, thought I did this, actually didn't.
+- Attempted to resolve a matte skin bug occuring sometimes in RaceMenu, tests fine, hopefully it holds.
+
+## 10.49.0.1
+
+- Fixed a bug with the Stock Game folder not copying over.
+
+## 10.49
+
+- Added _NCK30 Animations Pack OStim Port_
+- Added popular favorite _Forgotten Magic Redone SE_ with several patches
+- Added _Immersive Jewelry SSE_, but don't worry because
+- Added _Immersive Jewelry - Lower Value_ to keep from wrecking the crafting or economy
+- Added _Quest Journal Limit Bug Fixer_
+- Added _Better Ambient Wolf Sounds_ to get rid of that laughable wolf wheeze
+- Added _Realistic Dog Sounds_ while I was at it
+- Added _Lynges No Loading Screens Text Mod_ to get an idea, then
+- Hopefully reinstalled _Kaiden_ to fix his InvisiFace
+- Swapped out _Tempered Skins SE_ for _REALORE MEN'S SE_
+- Updated _New Animations for OSex by aceanimations_ to 0.19n
+- Updated _Billyy Animations Pack OStim Port_ to 1.0
+- Updated _Curated Curios_ to 1.0.2
+- Tried a new method to reduce the thirstiness of custom followers such as Vilja and Sofia
+- Patched out the rest of the loading screen text because a lot of it is inconsistent with the list
+
+## 10.48.1
+
+- Updated _CBPC_ to 1.50
+- Updated _CBBE 3BA_ to 2.31
+- These were both out of date because I was updating them for my Collection and neglected to do so for my Wabbajack!
+- I also finagled the options so boobas collisions work better.
+
+## 10.48
+
+- Added _Billyy Group Animations OStim Port_
+- Added _Alternate Start Voiced_
+- Updated _New Animations for OSex by aceanimations_ to 0.18n
+- Updated _Feminine Khajiit Textures - Grey Cat_ to 3.2
+- Updated _Serana Dialogue Add-On_ to 3.0.0.1
+- Updated _Kaiden 2 Extended Edition_ to 4.4
+- Updated _Immersive Kaidan Start_ to 2.1.1
+- Updated _Completionist - Quest Tracker_ to 3.7.2.1
+- Updated _Experience_ to 2.0
+- Updated _Unofficial Skyrim Creation Club Content Patch_ to 6.5
+- Updated _Eli's Breezehome Optimization Packages_ to 1.6.4
+- Updated _Better Third Person Selection_ to 0.5.3
+- Updated _Savage Skyrim_ to 4.0, but hid the ESP
+- Updated _Rally's All The Things_ to 1.5
+- Updated _Skyland AIO_ to 3.0
+- Updated _Open World Loot - CC Crossbow Collection_ to 1.0
+
 ## 10.47
 
-**TEST Version. NOT Save Safe.**
+- STEALTH EDIT: Small patch to remove Sofia's Undies since they cause so many problems.
 
 - Added _Billyy Animations Pack OStim Port_
 - Added _Thogra gra-Mugur - Orc Follower and Quest_
@@ -55,8 +250,6 @@
 - Reran _Synthesis._
 
 ## 10.46
-
-**This is the current version on the UI.**
 
 - Reverted Undies from SPID to record so this update is not save safe for those using Undies.
 - Edited an INI so the conversation camera wouldn't bob.

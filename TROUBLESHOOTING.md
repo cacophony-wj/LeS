@@ -2,6 +2,7 @@
   - [What gives? I want creatures! Where is Cursed Loot? Where is the roleplay? This is too softcore!](#what-gives-i-want-creatures-where-is-cursed-loot-where-is-the-roleplay-this-is-too-softcore)
 - [Gameplay](#gameplay)
   - [I tried to do the vanilla intro but it is terribly messed up.](#i-tried-to-do-the-vanilla-intro-but-it-is-terribly-messed-up)
+  - [I don't know where to begin, OR I've done Skyrim so many times it's boring to me now.](#i-dont-know-where-to-begin-or-ive-done-skyrim-so-many-times-its-boring-to-me-now)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
   - [Leveling up is weird!](#leveling-up-is-weird)
   - [My weapons are swinging super fast or super slow!](#my-weapons-are-swinging-super-fast-or-super-slow)
@@ -42,6 +43,39 @@ Boy did you ever download the wrong list. This list is mostly for playing Skyrim
 ### I tried to do the vanilla intro but it is terribly messed up.
 
 Always a risk in a heavily modded setup like this. Ideally you will choose either the "camping in the woods" start for some opening gear, or the "dumped by the wayside" start from the cabinet bookshelf for a start near Helgen with a little NSFW twist. If you absolutely MUST play the vanilla intro (I rather like it too), make sure the "Improved Camera" mod is disabled and try again. When you select the vanilla start from the statue, it takes a little while to initialize because there are so many mods in here. Before sleeping in the bed nearby, wait for Mara to finish speaking, then add maybe another ten seconds. Then try it.
+
+### I don't know where to begin, OR I've done Skyrim so many times it's boring to me now.
+
+I feel you. Play the _Caco Way._ **RNG** is how I make most of my decisions in life!
+
+1. Roll a d10 to select your race.
+2. Flip a coin to select your gender.
+3. Roll d100 to select your weight.
+4. Flip a coin to decide between a default face. If default, roll a d12 to pick one and skip the next instruction. If not continue.
+5. Count the number of presets for your chosen race. Generate a random number to select one.
+6. Flip to the eyes section and randomly generate one from 0 to Whatever.
+7. Randomly generate the eye color as well.
+8. Flip to the hair section and randomly generate one from 0 to Whatever.
+9. Randomly generate the hair color as well.
+10. Close RaceMenu. Use the O key to open OBody. Count the presets.
+11. Generate a random number from 0 to the total. Use this OBody preset.
+12. If male, randomly generate a genital size from 1.0 to 1.15. Much bigger will be too weird.
+13. Generate a random number to select two perk trees. Focus all of your skills and perks in these two trees.
+12. Open your inventory and flip a coin. If heads, learn the Spellsiphoning book. If tails, discard it.
+13. Flip a coin. If heads, choose starting gear from the Chest in the shelf. If tails, disregard.
+14. Flip a coin. If heads, randomly generate a sign from The Firmament book. If tails, disregard.
+15. Flip a coin. If heads, learn a selection of starting spells from the chest in the shelf. If tails, disregard.
+16. Flip a coin. If heads, take the potions from the cask. If tails, disregard.
+17. Flip a coin. If heads, take the lockpicks in the corner. If tails, disregard.
+18. Flip a coin. If tails, skip the next instruction. If heads, continue.
+19. Flip a coin. If heads, count the list of alternate start options from the statue. Randomly generate one, then sleep in the bed.
+20. Flip a coin. If heads, choose one of the sexy starts from the shelf, on the left. Start with no gear. Then sleep in the bed.
+21. Flip a coin. If heads, pick up the lantern on the table and choose a prositution start. Try your damndest to make your starting gear via hooking.
+22. If you have reached this stage, it is time for **CACO'S ULTIMATE RANDOMNESS** brought to you by Legendary NSFW Modder Scrab.
+23. Choose nude start from the books. Drop all your gear when you spawn. Then use the Quickport power to go to a completely random location in the entire game.
+24. If you can't make it, reload from the cell and try again.
+25. Good luck in your **RANDO ADVENTURES!**
+
 
 ### I don't have one of those ancient NUMPADs! How am I gonna use OStim?
 
@@ -165,7 +199,7 @@ Lucien's final dungeon has a TON of custom models and assets that are quite dema
 
 ### My quests have started to disappear from my Quest Log.
 
-Skyrim uses a very tiny variable to keep track of these. The maximum number of quests you can have, both active **AND COMPLETED,** cannot exceed 255. When this happens, the older quests will start to vanish. _There is no way around this limitation, it is hard-coded into the game._ If you somehow find yourself playing the hundreds of hours required to do this many quests, read and follow the directions in this mod when you first notice the problem: https://www.nexusmods.com/skyrimspecialedition/mods/56130  You can also find a Synthesis / Mutagen version of this Quest Recovery tool if you are more advanced. 
+Skyrim uses a very tiny variable to keep track of these. The maximum number of quests you can have, both active **AND COMPLETED,** cannot exceed 255. When this happens, the older quests will start to vanish. _There is no way around this limitation, it is hard-coded into the game._ If you somehow find yourself playing the hundreds of hours required to do this many quests, read and follow the directions in this mod when you first notice the problem: https://www.nexusmods.com/skyrimspecialedition/mods/56130  You can also find a Synthesis / Mutagen version of this Quest Recovery tool if you are more advanced. There is also a Quest Recover MCM you can run to get the missing quests back.
 
 ## For More Information
 

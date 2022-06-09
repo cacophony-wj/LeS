@@ -56,7 +56,15 @@ Welcome to the latest incarnation of _Licentia_. This modlist is intended as a h
 
 _Want more detailed information before committing to a 300+ GB download?_ Check out the links below.
 
-[Video Preview of Licentia by "Official" Wabbajack Streamer _DroppedIceCream_](https://www.youtube.com/watch?v=vM0xFFFirRc)
+### _Licentia_ Content Creator _@kaoticgam3rs_ posts new YouTube and Twitch content Mondays, Wednesdays and Fridays about 5 PM.
+
+Check out their YouTube channel [here](https://www.youtube.com/c/Kaoticgam3rs), or their Twitch channel [here](https://www.twitch.tv/kaoticgam3rs).
+
+[Showcase and Review Video by "Official" Wabbajack Streamer _DroppedIceCream_](https://www.youtube.com/watch?v=vM0xFFFirRc)
+
+[Showcase and Gameplay Video by YouTube Personality _Deep Voice_](https://www.youtube.com/watch?v=W8AsI1o1-z4)
+
+[Various Screenshot Galleries of _Licentia_ (Click on the "Grab Licentia" Link)](https://cacophony.me)
 
 [Positive Review of Licentia on Reddit](https://www.reddit.com/r/skyrimmods/comments/qcvrc6/licentia_review_with_links_and_a_thank_you_to_mod/)
 
@@ -66,29 +74,17 @@ _Came here because you are experiencing a bug? Check out the Troubleshooting Doc
 
 [Licentia Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md)
 
-The first thing you should probably know is that I am more of a fan of old-school RPG mechanics. I don't like grinding out daggers to level up Smithing or wandering in circles next to a sleeping person to level up Stealth. Therefore, your level does not increase with your skills. Instead, it is the other way around. As you kill things and complete quests, "Experience Points" accumulate until you gain a "level" at which point you can sleep for at least 1 hour in any bed and distribute them to any skill you wish. Also, there are hundreds of additional perks in this modlist, to encourage you to experience a wide variety of options. Therefore, you get more perks than normal. There are also options to receive bonus perks for completing bounties on Giants, Dragons, completing Main Quests, or finishing certain aspects of the mod VIGILANT. Plenty enough to develop any build and become near god-like, but not quite so much that you do everything with one character.
+The first thing you should probably know is that I am more of a fan of old-school RPG mechanics. I don't like grinding out daggers to level up Smithing or wandering in circles next to a sleeping person to level up Stealth. Therefore, your level does not increase with your skills. Instead, it is the other way around. As you kill things and complete quests, "Experience Points" accumulate until you gain a "level" at which point you can sleep for at least 1 hour in any bed and distribute them to any skill you wish. Also, there are hundreds of additional perks in this modlist, to encourage you to experience a wide variety of options. Therefore, you get more perks than normal. There are also options to convert souls and quests into perks, as well as tradable ones from the mod VIGILANT. Plenty enough to develop any build and become near god-like, but not quite so much that you do everything with one character.
 
 A note about difficulty. _CGO, AGO, Vokriinator Black,_ and all the camera, movement, and spell mods I have included mutiply the player's power almost exponentially. I have yet to stumble on a solution for game balance that accomodates most play styles. As it is, with the MCMs I have scripted, it is probably too easy for anyone who knows the ins and outs of the game. For now, I recommend you leave the values at default until you get a follower (or two) and maybe reach level 10. Then up them as things get too easy (this is a problem with vanilla as well). Not only can you change the difficulty in _Settings,_ you can mess with the options in _Deadly Dragons_ and _Wildcat_ to make things pretty tough on yourself. Dragons will one shot you if their mod is set to "Insane," _Wildcat_ will have you flipping your keyboard when you get juggled with "Full Body Stagger." Experiment! I'll get something better in there one day. I am really bad at the game, lack quality reflexes, and never get a chance to progress very far before something updates or breaks. Report your findings! I may not like to hear them at first but I am always gratified in the end.
 
 A note about the signature followers _Auri, Inigo_ and _Kaiden._ These guys are badasses in the Vanilla game but are stone-cold killers in _Licentia._ I have user reports of them doing 7,000 - 10,000 damage per hit after all the perks given to them are converted to their _Vokriinator Black_ equivalents. As a result, they have all been severely nerfed to put more focus on the player. Most perks having to do with offense and damage multiplication have been removed, a few of the defensive ones are left so they can serve as tanks or distractions. Please keep this in mind as you play and do not report this to the innocent mod authors who designed these mods, they are _not_ meeting their original intention in this list and never could. It is not their problem. _Lucien_ has been left untouched as he has only very basic dual-casting perks at the start. However, he grows as you travel with him, so he may end up quite the badass himself!
 
-A note about "save scumming," which is the practice of quickly saving and reloading many times in a row to get a perfect result, the "Groundhog Day" method of playing a videogame. If you spend 30 minutes reloading after death again and again, especially during or after combat, a _lot_ of stuff will break on your save. I have experienced this first-hand. If you can't get past a group of enemies without repeated deaths and reloads, consider accepting your limitations and retreating, or loading an hour or so back and dialing the difficulty down a few notches. If you continue to save and load rapidly, complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game. 
+A note about "save scumming," which is the practice of quickly saving and reloading many times in a row to get a perfect result, the "Edge of Tomorrow" method of playing a videogame. If you spend 30 minutes reloading after death again and again, especially during or after combat, a _lot_ of stuff will break on your save. I have experienced this first-hand. If you can't get past a group of enemies without repeated deaths and reloads, consider accepting your limitations and retreating, or loading an hour or so back and dialing the difficulty down a few notches. If you continue to save and load rapidly, complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game. 
 
 # STRONG WARNINGS
 
 Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
-
-## DO NOT ALTER THE MODLIST AND REQUEST SUPPORT FROM WABBAJACK STAFF!
-
-**Officially, absolutely zero changes to the modlist are supported from the Wabbajack server.** If you wish to add or modify the _slightest little thing_, even a seemingly innocuous change such as a RaceMenu or BodySlide preset, an ENB preset or an INI setting, you _must ask for support on my private server in the "additions" channel._ The **only** exceptions are those changes for your particular setup that have already been mentioned elsewhere in this readme, such as mods for Gamepads or UltraWide. Changing resolution is also fine. This is a conscious decision to reduce support requirements for our shared staff. The rule calls for a warning to be issued if you violate this, but I have personally chosen to ignore it (most of the time) because I know how you all are. **However,** I cannot be responsible for the actions of other admins, moderators or support staff. Please don't push it so I don't have to start enforcing it. _Again, if you made even the tiniest change, ask about it on my private server, not on the Wabbajack Discord._ I am extremely tolerant to additions if they are discussed in the proper place.
-
-## THIS MODLIST MAY FEATURE GRAPHIC SEXUAL CONTENT THAT SOME PLAYERS MAY FIND DISTURBING OR OFFENSIVE. YOU MAY WISH TO AVOID IT IF YOU SUFFER FROM TRAUMA AS EXPLAINED BELOW.
-
-As you may or may not be aware, NSFW Skyrim has a rather sordid history with some of the mods that are developed and even encouraged for it. I have battled back and forth between avoiding them completely and including those which are not "that bad," in a rather limited fashion. As of the 10.39.5 release, I have decided on the latter, mainly because I like iron man runs, and included them as optional mods.
-
-Basically what this means is that the list is largely the same as the old _Licentia_, but now features a sex-worker minigame and non-consensual roleplay options for subduing enemies or finding yourself subdued. These come in the form of the _OProstitution_ and _ODefeat_ mods, descriptions for which can be found on Patreon and Lover's Lab, respectively. If any of this content is an issue for you, _do not use these mods._
-
-If you are interested in reducing sexual content even further, please refer to the MCM section of this readme and limit all support questions to my private server.
 
 ## Requirements
 
@@ -98,11 +94,17 @@ If you are interested in reducing sexual content even further, please refer to t
 
 ### System Specs
 
-This portion is under review, but my best estimate as to what you need is as follows:
+My best estimate as to what you need to play _Licentia_ enjoyably is as follows:
 
-- CPU: >= 7th gen Intel processor OR >= AMD Ryzen 3000 series processor
-- GPU: >= 1080, you need at least 6GB of VRAM
-- RAM: >= DDR4 with at least 12GBs
+- CPU: >= 8th gen Intel, OR >= AMD Ryzen 5000 series
+- GPU: >= NVIDIA RTX 2070, OR >= AMD RX 5700; please keep in mind that AMD cards tend to have problems with ENB and are not recommended
+- RAM: >= DDR4 with at least 16GBs
+
+Please bear in mind that this is an extremely demanding list. Even with very high system specs you may experience slowdowns and stutter periods as various resources load in. I have a 3090 and it happens to me sometimes when several outdoor cells at once spawn their mobs. As a matter of fact, there are individual files within this list that are over 4GB in size and require a fast, reliable Internet connection merely to install successfully. 
+
+If you have any doubts about your ability to install the modlist or prefer a responsive, lightweight list with an emphasis on performance and a far more simple install process, why not try out the successful Nexus Collection called "Immersive & Adult." It features many of the same mods and features and performs far better on low- and midrange hardware. Join the Discord and say hello to my friend Canliberk while you are there.
+
+- [Immersive & Adult on Nexus Next](https://next.nexusmods.com/skyrimspecialedition/collections/xxsqm4)
 
 Also of UTMOST IMPORTANCE is that you have a VERY LARGE PAGEFILE on the fastest hard drives available to you. I networked with Wabbajack staff to drastically improve the texture quality in this list -- Wabbajack's recommendation of a 20GB pagefile is not enough because that size crashed me in testing. I myself have it at 40GB, but you could probably get away with "System Managed" on each of your SSD's (the OS drive and at least one more)
 
@@ -183,7 +185,11 @@ If this STILL doesn't work, you can download them from the MEGA link below, but 
 
 [Licentia Custom Files - MEGA Shared Directory](https://mega.nz/folder/RawGxSQC#18F3HuX5i5MvXzsMb6ARGg)
 
-**Note:** Some users may not see all of the files at first. For those users, I suggest creating a MEGA account and logging in. For those who have done so, try logging out and back in.
+Finally there may be certain files from Nexus which freeze or corrupt during download, or simply never complete. For these files, I recommend using the Nexus Website settings to change your local server to one closer to your physical location and rerunning Wabbajack a handful of times. If that does not work, you can attempt to download any files you have trouble with manually using the links below:
+
+https://github.com/wabbajack-tools/mod-lists/blob/master/reports/wj-featured/Licentia/status.md
+
+This list is a complete accounting of every file required to install my list. Feel free to refer to it as needed.
 
     Wait for Wabbajack to finish
 
@@ -216,7 +222,7 @@ You did not purchase the $20 upgrade to Skyrim. This is not negotiable. Return t
 
 **Problems downloading files from Lover's Lab or the Wabbajack CDN**
 
-Lover's Lab files are obvious. CDN files have the word _Licentia_ in the filename. Refer to [this section] in #TROUBLESHOOTING.md
+Lover's Lab files are obvious. CDN files have the word _Licentia_ in the filename. Refer to [this section] in TROUBLESHOOTING.md
 
 **Could not download x:**
 
@@ -302,7 +308,9 @@ You can just remove the _Licentia_ folder and be done with it. SKSE and ENB file
 
 I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-support`). I will not respond to direct messages unless I know you. **DO NOT DIRECT MESSAGE ME**
 
-If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to me in any amount of one dollar or more via my [Patreon](https://www.patreon.com/cacophony1979). Your donation will better the quality of my life and ensure that I can spend more time improving _Licentia._ There are no expectations for a recurring subscription, donate one dollar and immediately cancel if you wish. You will also receive benefits such as access to my Discord server's VIP channel where my friends and Wabbajack staff talk shop, as well as votes and mod suggestions to change the direction of _Licentia_ in the future. Finally, a portion of all proceeds will be forwarded as donations to various signature modders featured in _Licentia_, given that it could not exist without them. **All variant profiles are currently on hiatus due to a bit of burnout on my part.** They **MAY** return at some point in the future.
+If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to me in any amount of one dollar or more via my [Patreon](https://www.patreon.com/cacophony1979) or my [Ko-Fi](https://ko-fi.com/cacophony1979). Your donation will better the quality of my life and ensure that I can spend more time improving _Licentia._ There are no expectations for a recurring subscription, donate one dollar and immediately cancel if you wish. You will also receive benefits such as access to my Discord server's VIP channel where my friends and _Wabbajack_ staff talk shop, as well as votes and mod suggestions to change the direction of _Licentia_ in the future. Finally, a portion of all proceeds will be forwarded as donations to various signature modders featured in _Licentia_, given that it could not exist without them. If you particularly enjoy a mod in my list, please consider _Endorsing_ that mod. If you login to _Nexus_ via _Mod Organizer,_ all you have to do is right click that mod and select "Endorse." 
+
+**All variant profiles are currently on hiatus due to a bit of burnout on my part.** They **MAY** return at some point in the future.
 
 ## Contributing
 
