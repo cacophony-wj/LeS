@@ -1,6 +1,25 @@
-## 10.55
+## 10.56
 
 **This is the version currently on the UI and NEXUS.**
+
+- General performance improvements
+- Fixed the boobs freaking out all the time, especially when arms crossed
+- Fixed the glowing grass
+- Fixed the ugly rain
+- Added back _Artifacts of Skyrim Revised_
+- Added back _Relics of Hyrule SE_
+- Added _WebMetz's More Growable Plants - Relics_
+- Added _Magic Crafting at Terminian Forge SE_
+- My three museums are back!
+- Added _Staff Enchanting_
+- Added _Universal Storage_
+- Added content from _Licentia Patch And Change Central_ (thanks to my streamer @kaoticgam3rs!)
+- Added _SamsyTheUnicorn's 3BA Body Bonanza_
+- Added _SamsyTheUnicorn's High Poly Character Compendium 1 & 2_
+- Updated _CBPC_ to 1.5.2
+- Updated _CBPC 3-Bone Breast Body_ to 1.5.2
+
+## 10.55
 
 - Reworked and recorded default MCMs
 - Removed the _Mihail_ series of mods due to complaints, also I think the guy is taking a break
