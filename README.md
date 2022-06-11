@@ -82,6 +82,10 @@ A note about the signature followers _Auri, Inigo_ and _Kaiden._ These guys are 
 
 A note about "save scumming," which is the practice of quickly saving and reloading many times in a row to get a perfect result, the "Edge of Tomorrow" method of playing a videogame. If you spend 30 minutes reloading after death again and again, especially during or after combat, a _lot_ of stuff will break on your save. I have experienced this first-hand. If you can't get past a group of enemies without repeated deaths and reloads, consider accepting your limitations and retreating, or loading an hour or so back and dialing the difficulty down a few notches. If you continue to save and load rapidly, complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game. 
 
+# FEATURING ARTIFACTS OF SKYRIM REVISED, UNIVERSAL STORAGE AND STAFF ENCHANTING!
+
+Go [here] for credits and descriptions of the major mods in _Licentia_.
+
 # STRONG WARNINGS
 
 Before asking a question, look at [Troubleshooting](https://github.com/cacophony-wj/LeS/blob/master/TROUBLESHOOTING.md). Many common questions are answered there.
