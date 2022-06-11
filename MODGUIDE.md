@@ -6,7 +6,7 @@
 
 ### Artifacts of Skyrim Revised
 
-![Artifacts of Skyrim Museum](Artifacts.jpeg}
+![Artifacts of Skyrim Museum](Artifacts.jpeg)
 
 ### Core Gameplay Mods
 
