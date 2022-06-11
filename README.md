@@ -85,7 +85,7 @@ A note about "save scumming," which is the practice of quickly saving and reload
 
 # FEATURING ARTIFACTS OF SKYRIM REVISED, UNIVERSAL STORAGE AND STAFF ENCHANTING!
 
-Go [here] for credits and descriptions of the major mods in _Licentia_.
+Go [here](MODGUIDE.md) for credits and descriptions of the major mods in _Licentia_.
 
 # STRONG WARNINGS
 
