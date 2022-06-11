@@ -26,7 +26,7 @@ by HeirOfTheSeptims - [Patreon Link](https://www.patreon.com/tyro/)
 
 by HeirofTheSeptims - [Patreon Link](https://www.patreon.com/tyro/)
 
-"You may now put any craftable staff enchantment on any unenchanted staff you possess (Including those added by mods, with one exception.  See compatibility on the Patreon Page."
+"You may now put any craftable staff enchantment on any unenchanted staff you possess (Including those added by mods, with one exception.  See compatibility (on the Patreon Page.)"
 
 
 
