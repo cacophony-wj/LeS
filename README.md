@@ -4,6 +4,7 @@
 
 - [ATTENTION! THE LATEST VERSION OF SKYRIM, YES, THE $20 UPGRADE EVERYONE IS COMPLAINING ABOUT, IS NOW REQUIRED TO INSTALL LICENTIA.](#attention-the-latest-version-of-skyrim-yes-the-20-upgrade-everyone-is-complaining-about-is-now-required-to-install-licentia)
 - [Preamble](#preamble)
+  - [FEATURING ARTIFACTS OF SKYRIM REVISED, UNIVERSAL STORAGE AND STAFF ENCHANTING!](featuring-artifacts-of-skyrim-revised-universal-storage-and-staff-enchanting)
   - [STRONG WARNINGS](#strong-warnings)
     - [DO NOT ALTER THE MODLIST AND REQUEST SUPPORT FROM WABBAJACK STAFF!](#do-not-alter-the-modlist-and-request-support-from-wabbajack-staff)
   - [Requirements](#requirements)
