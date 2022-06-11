@@ -14,7 +14,7 @@ by HeirOfTheSeptims - [Patreon Link](https://www.patreon.com/tyro/)
 
 ### Universal Storage System
 
-![Storage Logo](UniveralStorage.png) 
+![Storage Logo](UniversalStorage.png) 
 
 by HeirOfTheSeptims - [Patreon Link](https://www.patreon.com/tyro/)
 
