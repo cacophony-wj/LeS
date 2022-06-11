@@ -2,6 +2,12 @@
 
 ## For Mods Primarily in _Licentia_ (But Also In Other Lists)
 
+## FEATURED MODS
+
+### Artifacts of Skyrim Revised
+
+![Artifacts of Skyrim Museum](Artifacts.jpeg}
+
 ### Core Gameplay Mods
 
 ### Visual Mods
