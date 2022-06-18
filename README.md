@@ -4,6 +4,7 @@
 
 - [ATTENTION! THE LATEST VERSION OF SKYRIM, YES, THE $20 UPGRADE EVERYONE IS COMPLAINING ABOUT, IS NOW REQUIRED TO INSTALL LICENTIA.](#attention-the-latest-version-of-skyrim-yes-the-20-upgrade-everyone-is-complaining-about-is-now-required-to-install-licentia)
 - [Preamble](#preamble)
+  - [FEATURING ARTIFACTS OF SKYRIM REVISED, UNIVERSAL STORAGE AND STAFF ENCHANTING!](#featuring-artifacts-of-skyrim-revised-universal-storage-and-staff-enchanting)
   - [STRONG WARNINGS](#strong-warnings)
     - [DO NOT ALTER THE MODLIST AND REQUEST SUPPORT FROM WABBAJACK STAFF!](#do-not-alter-the-modlist-and-request-support-from-wabbajack-staff)
   - [Requirements](#requirements)
@@ -85,6 +86,10 @@ A note about difficulty. _CGO, AGO, Vokriinator Black,_ and all the camera, move
 A note about the signature followers _Auri, Inigo_ and _Kaiden._ These guys are badasses in the Vanilla game but are stone-cold killers in _Licentia._ I have user reports of them doing 7,000 - 10,000 damage per hit after all the perks given to them are converted to their _Vokriinator Black_ equivalents. As a result, they have all been severely nerfed to put more focus on the player. Most perks having to do with offense and damage multiplication have been removed, a few of the defensive ones are left so they can serve as tanks or distractions. Please keep this in mind as you play and do not report this to the innocent mod authors who designed these mods, they are _not_ meeting their original intention in this list and never could. It is not their problem. _Lucien_ has been left untouched as he has only very basic dual-casting perks at the start. However, he grows as you travel with him, so he may end up quite the badass himself!
 
 A note about "save scumming," which is the practice of quickly saving and reloading many times in a row to get a perfect result, the "Edge of Tomorrow" method of playing a videogame. If you spend 30 minutes reloading after death again and again, especially during or after combat, a _lot_ of stuff will break on your save. I have experienced this first-hand. If you can't get past a group of enemies without repeated deaths and reloads, consider accepting your limitations and retreating, or loading an hour or so back and dialing the difficulty down a few notches. If you continue to save and load rapidly, complete corruption of your save can result. This includes symptoms such as being unable to wield weapons, die, or even load the game. 
+
+# FEATURING ARTIFACTS OF SKYRIM REVISED, UNIVERSAL STORAGE AND STAFF ENCHANTING!
+
+Go [here](MODGUIDE.md) for credits and descriptions of the major mods in _Licentia_.
 
 # STRONG WARNINGS
 
