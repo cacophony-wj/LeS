@@ -6,7 +6,7 @@
 
 ### Artifacts of Skyrim Revised
 
-![Artifacts of Skyrim Museum](Artifacts.jpeg) 
+![Artifacts of Skyrim Museum](images/Artifacts.jpeg) 
 
 by HeirOfTheSeptims - [Patreon Link](https://www.patreon.com/tyro/)
 
@@ -14,7 +14,7 @@ by HeirOfTheSeptims - [Patreon Link](https://www.patreon.com/tyro/)
 
 ### Universal Storage System
 
-![Storage Logo](UniversalStorage.png) 
+![Storage Logo](images/UniversalStorage.png) 
 
 by HeirOfTheSeptims - [Patreon Link](https://www.patreon.com/tyro/)
 
@@ -22,7 +22,7 @@ by HeirOfTheSeptims - [Patreon Link](https://www.patreon.com/tyro/)
 
 ## Better Staff Enchanting
 
-![Approved](EnchanterPicWithSeal.png)
+![Approved](images/EnchanterPicWithSeal.png)
 
 by HeirofTheSeptims - [Patreon Link](https://www.patreon.com/tyro/)
 
