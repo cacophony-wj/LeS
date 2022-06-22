@@ -31,6 +31,14 @@
 
 _Thank you to ForgottenGlory for the above image._
 
+### Interested in other NSFW lists? Join my Discord Server!
+
+There you can find _Tsukiro,_ low-key a much more professional list than _Licentia_ and featuring far more slooty outfits, degenerate content, and a unique parry-and-riposte form of combat that will have you coming back for more! Or chill out with Camilla Valerius in cyberspace with _Tahrovin_, a list for _Skyrim VR_ that allows you to pick up Nazeem with your hands and throw him across the Whiterun market if you want! 
+
+Also in development there: _Devil's Food Cake Reborn,_ an NSFW list for _Fallout 4_ that will feature a full replacement of all those boring pipe guns with modern weapons, as well as more outfits and dressup gear than you can shake a stick at! Finally, if you fancy building a degen list of your own but don't want the boring step of installing dozens of fixes and tools, grab _Skyrim Modding Essentials - Fixes & Tools: But Sexy!_ a version of Luca's Essentials list that has the bare minimum _Ostim_ configuration right on top! 
+
+You can find the link to my Discord server at the end of this document.
+
 # ATTENTION! THE LATEST VERSION OF SKYRIM, YES, THE $20 UPGRADE EVERYONE IS COMPLAINING ABOUT, IS NOW REQUIRED TO INSTALL LICENTIA.
 
 I realize this will be an unpopular decision, but let me explain. I like this content. I bought it when it was full price. I bought it again as an _Anniversary Edition._ The reasons? 
@@ -56,10 +64,6 @@ Welcome to the latest incarnation of _Licentia_. This modlist is intended as a h
 **I apologize for any oversights or inconsistencies in this readme.** It has had many additions and removals over the years and likely needs a full rewrite soon. Until I perfect this document, please struggle through as best you can and feel free to ask me for assistance on Discord or via this Github.
 
 _Want more detailed information before committing to a 300+ GB download?_ Check out the links below.
-
-### _Licentia_ Content Creator _@kaoticgam3rs_ posts new YouTube and Twitch content Mondays, Wednesdays and Fridays about 5 PM.
-
-Check out their YouTube channel [here](https://www.youtube.com/c/Kaoticgam3rs), or their Twitch channel [here](https://www.twitch.tv/kaoticgam3rs).
 
 [Showcase and Review Video by "Official" Wabbajack Streamer _DroppedIceCream_](https://www.youtube.com/watch?v=vM0xFFFirRc)
 
@@ -311,9 +315,9 @@ You can just remove the _Licentia_ folder and be done with it. SKSE and ENB file
 
 ## Contact
 
-I am regularly available on the [Wabbajack Discord](https://discord.gg/wabbajack) (`#nsfw-mod-discussion`) (`#licentia-support`). I will not respond to direct messages unless I know you. **DO NOT DIRECT MESSAGE ME**
+I am regularly available on [my discord server](https://discord.gg/jolly-coop).
 
-If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to me in any amount of one dollar or more via my [Patreon](https://www.patreon.com/cacophony1979) or my [Ko-Fi](https://ko-fi.com/cacophony1979). Your donation will better the quality of my life and ensure that I can spend more time improving _Licentia._ There are no expectations for a recurring subscription, donate one dollar and immediately cancel if you wish. You will also receive benefits such as access to my Discord server's VIP channel where my friends and _Wabbajack_ staff talk shop, as well as votes and mod suggestions to change the direction of _Licentia_ in the future. Finally, a portion of all proceeds will be forwarded as donations to various signature modders featured in _Licentia_, given that it could not exist without them. If you particularly enjoy a mod in my list, please consider _Endorsing_ that mod. If you login to _Nexus_ via _Mod Organizer,_ all you have to do is right click that mod and select "Endorse." 
+If you enjoyed playing this modlist and feel that your time spent with it was worth any amount of money, consider donating to me in any amount of one dollar or more via my [Patreon](https://www.patreon.com/cacophony1979) or my [Ko-Fi](https://ko-fi.com/cacophony1979). Your donation will better the quality of my life and ensure that I can spend more time improving _Licentia._ There are no expectations for a recurring subscription, donate one dollar and immediately cancel if you wish. You will also receive benefits such as access to my Discord server's VIP channel where my friends and _Wabbajack_ staff talk shop. Finally, a portion of all proceeds will be forwarded as donations to various signature modders featured in _Licentia_, given that it could not exist without them. If you particularly enjoy a mod in my list, please consider _Endorsing_ that mod. If you login to _Nexus_ via _Mod Organizer,_ all you have to do is right click that mod and select "Endorse." 
 
 **All variant profiles are currently on hiatus due to a bit of burnout on my part.** They **MAY** return at some point in the future.
 

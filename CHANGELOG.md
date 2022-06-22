@@ -1,6 +1,23 @@
-## 10.56
+## 10.56.3.1
+
+- Just a quick update to remove a file that was preventing installation. Please redownload.
+
+## 10.56.3
 
 **This is the version currently on the UI and NEXUS.**
+
+- Added _OPleaseLetMeGo_
+- Added _Read or Take SKSE_
+- Added _CTFO Bittercup Fix_
+- Added _Skyrim Skill Uncapper (fixed)
+- Patched some _Immersive Jewelry_ items to be their original weight.
+- Fixed the Crimson Blood Armor's leggings not appearing.
+- Fixed some flickering in limited places such as Breezhome, Bannered Mare, Falkreath Sacrifice Site.
+- Increased the frequency of giants a bit.
+- Fixed SMP not actually being applied. Set the hotkey!
+- Replaced a missing sound when you pick flowers.
+
+## 10.56
 
 - General performance improvements
 - Fixed the boobs freaking out all the time, especially when arms crossed
