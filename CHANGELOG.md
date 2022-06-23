@@ -1,10 +1,47 @@
+## 10.57
+
+This version is _only available_ from the MEGA link in the pins of #licentia-general.
+
+**Bugs killed:** 
+
+- **FIXED ALIGNMENT IN SEX SCENES.** Should be almost perfect most of the time now!
+- Fixed the first person sex camera so you can more effectively view your partner. This breaks the intro. It's more important, though!
+- Restored the _Sightless Vault_ part of the _Wraithguard & Sunder_ CC from its former status as an empty void.
+- Fixed some floating lights in the _Palace of the Kings._
+
+**List changes:**
+
+- Reinstalled my texture base for better consistency.
+- Reinstalled _Majestic Mountains_ for better consistency.
+- Swapped _Schlongs of Skyrim_ for _Schlongs of Skyrim Lite_
+- Swapped _HIMBO_ for _HIMBO Lite_
+- Swapped _REALORE SOS FULL_ for _REALORE SOS LITE_
+- Swapped _ScandaNordic Mountains_ for _Dave's UFHD Majestic Mountains 8K_ 
+- Swapped the _Skyrim 2020_ full package for smaller individual packages.
+- Swapped from _Veydosebrom_ to _QW Grass Patch 2_ and associated mods for grass.
+- Added _Virith BodySlide Preset_
+- Added _Sanguine - Enhanced Blood Retexture_
+- Added _Riften of Reverie 4K_
+- Added _Rudy HQ - Nordic Ruins SE_
+- Added _Grass Cache Fixes_
+- Added a custom skeleton fix for SOS Light, to be more in line with the _OStim_ animation development environment.
+- Removed _Skyrim 2018_ and _Skryim 2020_
+- Reran BodySlides.
+- Reran Nemesis.
+- Regenerated LODs.
+- Regenerated Synthesis.
+
+## 10.56.3.2
+
+**This is the version currently on the UI and NEXUS.**
+
+- Forgot to include MCM recordings and other files. Oops.
+
 ## 10.56.3.1
 
 - Just a quick update to remove a file that was preventing installation. Please redownload.
 
 ## 10.56.3
-
-**This is the version currently on the UI and NEXUS.**
 
 - Added _OPleaseLetMeGo_
 - Added _Read or Take SKSE_
