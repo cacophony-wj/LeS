@@ -92,9 +92,8 @@ Fertility mode will pop up a window requesting to turn on. Choose NO right now, 
 
 ## Game MCM Options
 
-**NEW!** This section is now Deprecated. Run the DEFAULT MCM Recording from the MCM Recorder MCM Menu. There are also a few difficulty and adult options for you to choose. This modlist will NOT function unless you run this default recording.
+**NEW!** This section is now Deprecated. Run the "RUN ME!" MCM Recording from the MCM Recorder MCM Menu. There are also a few difficulty and adult options for you to choose. This modlist will NOT function unless you run this default recording.
 
-The **only thing** I haven't done yet is reconfigure the SMP hotkey. You may wish to go into the _CBBE 3BA_ menu and set "Apply SMP" to something like **F12.** As it is, it starts as NUMPAD + which conflicts with _OStim._
 
 ## Now you are ready to spawn!
 

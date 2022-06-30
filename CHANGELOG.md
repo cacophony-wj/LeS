@@ -1,6 +1,17 @@
-## 10.57
+## 10.57.4
 
-This version is _only available_ from the MEGA link in the pins of #licentia-general.
+Bugfixes.
+
+**This is the version currently on the UI and NEXUS.**
+
+- Added _Pandorable's Mythos SE_
+- Added more RaceMenu presets from my users. Thanks guys!
+- Fixed a neck seam on Auri. She looks sweaty now. -_-
+- Fixed a dollar symbol on the _Quick Loot_ menu. Thanks Eggy!
+- Tweaked ENB effects for slightly better performance.
+- Removed the patch that shines light through door cracks. It looked weird.
+
+10.57
 
 **Bugs killed:** 
 
@@ -32,8 +43,6 @@ This version is _only available_ from the MEGA link in the pins of #licentia-gen
 - Regenerated Synthesis.
 
 ## 10.56.3.2
-
-**This is the version currently on the UI and NEXUS.**
 
 - Forgot to include MCM recordings and other files. Oops.
 
