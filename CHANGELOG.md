@@ -19,6 +19,8 @@
 - Updated _Deadly Dragons SE_ to 6.5.7
 - Updated _Security Overhaul SKSE - Add-ons_ to 0.1.5
 - Reinstalled _Cleaned Skyrim SE Textures_
+- Regenerated BodySlides.
+- Re-ran Nemesis.
 
 ## 10.57.4
 
