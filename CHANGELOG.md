@@ -2,6 +2,8 @@
 
 **This is the version currently on the UI and NEXUS.**
 
+- Added _Billyy Animation Pack_
+- Added _Billyy Invisible Furniture Pack_
 - Added _Clockwork Cleaned Textures_
 - Added _Skyrim 3D Trees and Plants_
 - Added _Cathedral - 3D Mountain Flowers_
