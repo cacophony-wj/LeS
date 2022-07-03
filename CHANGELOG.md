@@ -1,8 +1,24 @@
-## 10.57.4
-
-Bugfixes.
+## 10.57.5
 
 **This is the version currently on the UI and NEXUS.**
+
+- Added _Clockwork Cleaned Textures_
+- Added _Skyrim 3D Trees and Plants_
+- Added _Cathedral - 3D Mountain Flowers_
+- Added _Cathedral - 3D Snow Berries_
+- Added _Cathedral - 3D Thistle_
+- Added _Cathedral - 3D Tundra Cotton_
+- Added _Less Ugly Tundragrass - Redder Variant_
+- Added _Renthal Nettle SSE_
+- Added _Renthal's Reach Mountain Moss Desaturated_
+- Updated _3BA Vanilla Clothes and Armor_ to 2.1
+- Updated _HIMBO_ to 4.4.1
+= Updated _Faster HDT SMP_ to 1.44
+- Updated _Deadly Dragons SE_ to 6.5.7
+- Updated _Security Overhaul SKSE - Add-ons_ to 0.1.5
+- Reinstalled _Cleaned Skyrim SE Textures_
+
+## 10.57.4
 
 - Added _Pandorable's Mythos SE_
 - Added more RaceMenu presets from my users. Thanks guys!
