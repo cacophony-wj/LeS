@@ -1,6 +1,12 @@
-## 10.57.5
+##10.57.5.1
 
 **This is the version currently on the UI and NEXUS.**
+
+- Fix for inability to install the list.
+
+## 10.57.5
+
+**This version cannot be installed due to improper file information.**
 
 - Added _Billyy Animation Pack_
 - Added _Billyy Invisible Furniture Pack_
