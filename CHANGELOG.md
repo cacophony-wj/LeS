@@ -1,6 +1,14 @@
-##10.57.5.1
+## 10.57.6
 
 **This is the version currently on the UI and NEXUS.**
+
+- Added _Quick Loot EE_. LOTD icons in the quick loot menu now! (No Dark Mode skin yet.)
+- Adjusted gold values down for the more common sexy gear.
+- Unhid some mysteriously hidden scripts in VIGILANT. Hopefully no issues.
+- Further tweak to alignments in certain scenes. Re-Import the OSTIM settings.
+- Disabled the localize option in Synthesis. My bad.
+
+## 10.57.5.1
 
 - Fix for inability to install the list.
 
