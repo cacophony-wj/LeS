@@ -1,6 +1,25 @@
-## 10.57.6
+## 10.57.8
 
 **This is the version currently on the UI and NEXUS.**
+
+- Fixed the ability to walk through The White Phial's structure to the Windhelm graveyard.
+- Removed a misplaced black shadow mask from Castle Dour.
+- Set the shatter effect from frost to be more uncommon. Too much can cause intermittent crashes.
+- Added a warning for a surprise sex scene in Winterhold College.
+- Fixed the Wooden Mask to not clip through the floor near Labyrinthian.
+- Fixed _Quick Loot_ flickering during combat (if it's distracting, set the MCM to hide during combat)
+
+## 10.57.7
+
+- Fix for crashes with certain types of Stalhrim weapons.
+
+## 10.57.6.1
+
+**This is the version currently on the UI and NEXUS.**
+
+- _Quick Loot_ ESP was at the bottom. Fixed.
+
+## 10.57.6
 
 - Added _Quick Loot EE_. LOTD icons in the quick loot menu now! (No Dark Mode skin yet.)
 - Adjusted gold values down for the more common sexy gear.
