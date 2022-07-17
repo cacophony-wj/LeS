@@ -3,6 +3,7 @@
 **This is the version currently on the UI and NEXUS.**
 
 - Updated _3BA Vanilla Clothes and Armor_ to 2.2
+- Adjusted XP Balance to make leveling a bit faster
 - Gave Dagri'Lon his hood back
 - Fixed a lighting issue in the Cistern. Keep me informed of any flickering (turn off Quick Light)
 - Fixed an issue with blocky waterfall splashes
