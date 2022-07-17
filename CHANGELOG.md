@@ -1,6 +1,16 @@
-## 10.57.8
+## 10.57.9
 
 **This is the version currently on the UI and NEXUS.**
+
+- Updated _3BA Vanilla Clothes and Armor_ to 2.2
+- Gave Dagri'Lon his hood back
+- Fixed a lighting issue in the Cistern. Keep me informed of any flickering (turn off Quick Light)
+- Fixed an issue with blocky waterfall splashes
+- Switched _Dear Diary Dark Mode_ to the non-warm variant
+- Corrected spelling on "Thalmore" robes
+- Regenerated BodySlides  in an attempt to "fix" boobas collisions
+
+## 10.57.8
 
 - Fixed the ability to walk through The White Phial's structure to the Windhelm graveyard.
 - Removed a misplaced black shadow mask from Castle Dour.
