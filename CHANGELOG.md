@@ -1,6 +1,14 @@
-## 10.57.9
+## 10.57.10
 
 **This is the version currently on the UI and NEXUS.**
+
+- Disabled friendly fire for Sofia.
+- Corrected a bug with garbled textures on beast race dudejunk.
+- Fixed the buried forge area behind Hendraheim. 
+- Verified a couple possible bugs weren't actually bugs.
+- Changed the meta for High Poly Head to the WJ CDN.
+
+## 10.57.9
 
 - Updated _3BA Vanilla Clothes and Armor_ to 2.2
 - Adjusted XP Balance to make leveling a bit faster
