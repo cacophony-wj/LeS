@@ -99,7 +99,6 @@ Before asking a question, look at [Troubleshooting](https://github.com/cacophony
 
 - [Nexus Premium Account](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/)
 - [LoversLab Account](https://www.loverslab.com/)
-- [VectorPlexus Account](https://vectorplexus.com/)
 
 ### System Specs
 
