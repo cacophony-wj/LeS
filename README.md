@@ -27,7 +27,7 @@
   - [Contributing](#contributing)
   - [Changelog](#changelog)
 
-![Licentia logo](images/Licentia.png "Licentia")
+![Licentia logo](images/Licentia2.webp "Licentia")
 
 _Thank you to ForgottenGlory for the above image._
 
