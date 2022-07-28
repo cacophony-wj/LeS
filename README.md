@@ -29,7 +29,7 @@
 
 ![Licentia logo](images/Licentia2.webp "Licentia")
 
-_Thank you to ForgottenGlory for the above image._
+_Thank you to Lance for the above image._
 
 ### Interested in other NSFW lists? Join my Discord Server!
 
