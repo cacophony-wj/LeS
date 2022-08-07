@@ -1,3 +1,7 @@
+![Licentia logo](images/Licentia3.webp "Licentia")
+
+_Thank you to Lance for the above image._
+
 # DO NOT CLOSE ME! This modlist WILL NOT FUNCTION unless you follow the steps in this document.
 
 # READ IT!
@@ -26,10 +30,6 @@
   - [Contact](#contact)
   - [Contributing](#contributing)
   - [Changelog](#changelog)
-
-![Licentia logo](images/Licentia3.webp "Licentia")
-
-_Thank you to Lance for the above image._
 
 ### Interested in other NSFW lists? Join my Discord Server!
 
