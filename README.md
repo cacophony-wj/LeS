@@ -181,6 +181,13 @@ If for some reason something goes wrong, you can cancel the installation and dow
 - Verstion 1.1.4 of [Schlongs of Skyrim SE](https://www.loverslab.com/files/file/5355-schlongs-of-skyrim-se/)
 - Only Available Version of [Leito Schlongs Add-On](https://www.loverslab.com/files/file/13942-sos-leito-schlongs-addon-se/)
 
+Often Google and MEGA files will frequently experience bandwidth caps. When this happens those files will also fail. You can download them manually via these links:
+
+- [Artifacts_Revised 1.2.1 - Textures.7z](https://mega.nz/file/QWYBTaYY#6NTFsD3G_jtuHWGeTAQWcA1Rioch3D2KFhQobMD1Kpk)
+- [SexLab Solutions Revisited 1.1.5 Voice Files.zip](https://mega.nz/file/j64AnQLQ#SsGVP7pBSv-P3FGO7TyryPHUTmZtT0fybF8fAJfVi8w)
+- [Pubic Hair Overlays SE.zip](https://drive.google.com/file/d/1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG)
+- [Improved_Camera-1.0_Beta4.7z](https://drive.google.com/file/d/12hqOZbfeFK0zXJxpzsEXsyQyDclDQaZk)
+
 After you have downloaded **EVERY ONE OF THESE FILES MANUALLY,** launch Wabbajack again, keep the settings the same as before, check "Overwrite," and press the **PLAY** button.
 
 There are also several large files stored on Wabbajack's own servers, and since these are protected by CloudFlare, many ISPs are not configured to route them properly. Keep this in mind if you cannot finish the install because files with "Licentia" in the filename keep failing.
