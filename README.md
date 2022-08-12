@@ -1,8 +1,8 @@
+# DO NOT CLOSE ME! This modlist WILL NOT FUNCTION unless you follow the steps in this document.
+
 ![Licentia logo](images/Licentia3.webp "Licentia")
 
 _Thank you to Lance for the above image._
-
-# DO NOT CLOSE ME! This modlist WILL NOT FUNCTION unless you follow the steps in this document.
 
 # READ IT!
 
