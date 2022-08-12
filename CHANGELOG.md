@@ -1,6 +1,13 @@
-## 10.57.10
+## 10.57.11.4
 
 **This is the version currently on the UI and NEXUS.**
+
+- Fixed placement of several Dragonpriest Masks in the LOTD Museum.
+- Further fixes to the tterrain around Hendraheim.
+- **Regarding the above:** It's either floating grass or a buried forge for now.
+- Will be resolved in the massive update coming in September.
+
+## 10.57.10
 
 - Disabled friendly fire for Sofia.
 - Corrected a bug with garbled textures on beast race dudejunk.
