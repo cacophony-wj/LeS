@@ -4,7 +4,7 @@
   - [I tried to do the vanilla intro but it is terribly messed up.](#i-tried-to-do-the-vanilla-intro-but-it-is-terribly-messed-up)
   - [I don't know where to begin, OR I've done Skyrim so many times it's boring to me now.](#i-dont-know-where-to-begin-or-ive-done-skyrim-so-many-times-its-boring-to-me-now)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
-  - [My sex scenes won't start, or they won't end, or they get otherwise "stuck" in some way!](#my-sex-scenes-wont-start-or-they-wont-end-or-they-get-otherwise-stuck-in-some-way]
+  - [My sex scenes won't start, or they won't end, or they get otherwise "stuck" in some way!](#my-sex-scenes-wont-start-or-they-wont-end-or-they-get-otherwise-stuck-in-some-way)
   - [Leveling up is weird!](#leveling-up-is-weird)
   - [My weapons are swinging super fast or super slow!](#my-weapons-are-swinging-super-fast-or-super-slow)
   - [WARNING! DON'T LISTEN TO ORLANDO!](#warning-dont-listen-to-orlando)
