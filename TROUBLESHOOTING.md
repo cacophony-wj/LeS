@@ -4,6 +4,7 @@
   - [I tried to do the vanilla intro but it is terribly messed up.](#i-tried-to-do-the-vanilla-intro-but-it-is-terribly-messed-up)
   - [I don't know where to begin, OR I've done Skyrim so many times it's boring to me now.](#i-dont-know-where-to-begin-or-ive-done-skyrim-so-many-times-its-boring-to-me-now)
   - [I don't have one of those ancient NUMPADs! How am I gonna use OStim?](#i-dont-have-one-of-those-ancient-numpads-how-am-i-gonna-use-ostim)
+  - [My sex scenes won't start, or they won't end, or they get otherwise "stuck" in some way!](#my-sex-scenes-wont-start-or-they-wont-end-or-they-get-otherwise-stuck-in-some-way]
   - [Leveling up is weird!](#leveling-up-is-weird)
   - [My weapons are swinging super fast or super slow!](#my-weapons-are-swinging-super-fast-or-super-slow)
   - [WARNING! DON'T LISTEN TO ORLANDO!](#warning-dont-listen-to-orlando)
@@ -82,6 +83,10 @@ I feel you. Play the _Caco Way._ **RNG** is how I make most of my decisions in l
 From my user _BigMac_
 
 > If you hold F8 for 10 seconds it activates OSAs emergency rebind. Where Lshift pulls up the menu and WASD is how you nav. You can then rebind the keys manually. I use P L ; '  to nav, O and [ as yes/no and ] as toggle.
+
+### My sex scenes won't start, or they won't end, or they get otherwise "stuck" in some way!
+
+Something is causing the Papyrus scripting engine to back up and dump stacks. This problem is not common to everyone, but appears to affect those with older CPUs or low framerates most frequently. This is an unrecoverable error, the only solution is to load the game before the sex scenes bugged out and try to be more careful with your save. Be sure to follow best saving practices as described elsewhere in the readme, don't make heavy use of the cloud inventory systems included, and so on. I am in the process of tracking down a fix that will prevent this issue when the next revision is released. (My suspicion is a couple of badly written mods that make too many attempts at scanning the inventory.) Until that time, please be patient with me as I have returned to school and limited work and do not have as much time to dedicate to rebuilding my entire list from scratch.
 
 ### Leveling up is weird!
 
