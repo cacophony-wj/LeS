@@ -20,6 +20,7 @@
 - [Technical](#technical)
   - [I crashed!](#i-crashed)
   - [I'm randomly crashing!](#im-randomly-crashing)
+  - [My framerate is bad! Like, really terrible!](#my-framerate-is-bad-like-really-terrible)
   - [As soon as I start the game in the main "overworld" everybody starts spinning around and collapsing at the speed of light!](#as-soon-as-i-start-the-game-in-the-main-overworld-everybody-starts-spinning-around-and-collapsing-at-the-speed-of-light)
   - [I gave something to a follower and it crashed!](#i-gave-something-to-a-follower-and-it-crashed)
   - [I have problems with the camera! Flickering, weird 1st person body clipping! Can't switch to 3rd person!](#i-have-problems-with-the-camera-flickering-weird-1st-person-body-clipping-cant-switch-to-3rd-person)
@@ -154,7 +155,17 @@ Slow down there pardner. Skyrim crashes all the time, less so in vanilla but mor
 
 ### I'm randomly crashing!
 
-You probably don't have enough paged RAM. Skyrim is very badly optimized. Try increasing your pagefile size. Refer to the primary README document for details. 
+You probably don't have enough paged RAM. Skyrim is very badly optimized. Try increasing your pagefile size. Refer to the primary README document for details.
+
+### My framerate is bad! Like, really terrible!
+
+There is a "Performance Profile" you can use to adjust the list for midrange PC's available from my Discord server linked elsewhere in this document, created courtesy of my team member **@Sparr.** Consider installing it to reduce the performance impact of the list. There are also more detailed steps you can take to tweak the list to your liking. 
+
+I am sorry to be the bearer of bad news, but low-end PC's and laptops will not be able to run the list effectively. Game scripting is tied to framerate and tends to break when FPS dips below 30 for extended periods of time.
+
+If you notice that your framerate is fine except right before you enter or after you exit combat, try dismissing Vilja from your party. She processes a lot of the surrounding area with her AI and quite frankly is a bit too CPU bound for this list.
+
+I aim to correct both of these concerns in a coming update.
 
 ### As soon as I start the game in the main "overworld" everybody starts spinning around and collapsing at the speed of light!
 
