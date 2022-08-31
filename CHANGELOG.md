@@ -1,6 +1,13 @@
-## 10.57.11.4
+## 10.57.11.7
 
 **This is the version currently on the UI and NEXUS.**
+
+- Couple of issues tested that didn't seem to really be issues.
+- Fixed invisible junk under fur armor due to SOS Light. Only way to do it is add underwear.
+- Fixed the junk texture on Kaidan's junk. There will be a neck seam though, it is unavoidable until I change my Kaidan.
+- Removed two SOS mods that didn't need to be downloaded.
+
+## 10.57.11.4
 
 - Fixed placement of several Dragonpriest Masks in the LOTD Museum.
 - Further fixes to the tterrain around Hendraheim.
