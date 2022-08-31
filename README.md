@@ -167,6 +167,10 @@ Here is a step-by-step breakdown.
 11. Wait for the download process to complete. It takes about 20 - 30 minutes. You cannot Alt-Tab out of this process, you must wait.
 12. You are now ready to continue.
 
+**Disable or Uninstall Offensive Anti-Malware Programs**
+
+It is recommended that you **exclude** three directories completely from any antivirus or anti-malware programs you may have on your system. These include the folder that _Wabbajack_ is installed to, the _Steam_ folder that _Skyrim Special Edition_ is installed to, **as well as** all directories in which you wish to install a list. _Please note that certain AV programs_ (_Bitdefender_ and _Webroot_ being the primary examples) _**do not completely exclude a folder or disable themselves when told to do so.**_ When in doubt, _rely only on Windows Defender_ for your anti-malware solution. It is free, 95% as effective as any other similar package you might find (the best AV has only a 40% detection rate), and if you are regularly visiting websites where malware is a risk, you are likely compromised anyway.
+
 ##  Using Wabbajack
 
 ##  Downloading and Installing
