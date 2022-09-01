@@ -92,7 +92,7 @@ Fertility mode will pop up a window requesting to turn on. Choose NO right now, 
 
 ## Game MCM Options
 
-**NEW!** This section is now Deprecated. Run the "RUN ME!" MCM Recording from the MCM Recorder MCM Menu. There are also a few difficulty and adult options for you to choose. This modlist will NOT function unless you run this default recording.
+**NEW!** This section is now Deprecated. Run the "RUN ME!" MCM Recording from the MCM Recorder MCM Menu. There are also a few difficulty options for you to choose. This modlist will NOT function unless you run this default recording.
 
 
 ## Now you are ready to spawn!
