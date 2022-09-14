@@ -1,6 +1,6 @@
 # DO NOT CLOSE ME! This modlist WILL NOT FUNCTION unless you follow the steps in this document.
 
-![Licentia logo](images/LicentiaCompile.png "Licentia")
+![Licentia logo](images/LicentiaCompile2.png "Licentia")
 
 _Thank you to Lance for the above image._
 
