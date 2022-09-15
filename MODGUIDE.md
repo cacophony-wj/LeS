@@ -91,7 +91,7 @@ These mods change the way movement and targeting works and add immersion feature
 - Realistic Dog Sounds
 - Better Ambient Wolf Sounds
 
-I used to have metal music all over the place suiting the logo but dropped it in, leaving only streamer MxR's theme song. Almost every major music mod on Nexus is now available for the rest. The audio overhauls are outdated as of the next version but should be brought in line soon. What about the dogs and wolves? Yeah, I just hate how they sound normally.
+I used to have metal music all over the place suiting the logo but dropped it, leaving only streamer MxR's theme song. Almost every major music mod on Nexus is now available for the rest. The audio overhauls are outdated as of the next version but should be brought in line soon. What about the dogs and wolves? Yeah, I just hate how they sound normally.
 
 ### Home Collection
 
