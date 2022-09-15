@@ -12,14 +12,6 @@ by HeirOfTheSeptims - [Patreon Link](https://www.patreon.com/tyro/)
 
 "Adds hundreds of new artifacts, each with their own unique effects, appearance, and story. Some artifacts are easy to find, others are quite well hidden. Some are powerful, some are utterly useless!" 
 
-### Universal Storage System
-
-![Storage Logo](images/UniversalStorage.png) 
-
-by HeirOfTheSeptims - [Patreon Link](https://www.patreon.com/tyro/)
-
-"This mod allows the player to take any player home container in the game and link it into a universal sorted storage system. This means that any player home, modded or otherwise, will be able to have a sorted storage system that links with any other instances."
-
 ## Better Staff Enchanting
 
 ![Approved](images/EnchanterPicWithSeal.png)
