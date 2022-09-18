@@ -28,5 +28,17 @@
       "download": "https://mega.nz/file/RTY0hLTQ#Fdrdj4BGTi8yYCLtpxDF48YpDUhHs6uZaV-KSMjwVBQ",
       "machineURL": "licentia_black",
       "discordURL": "https://discord.gg/jolly-coop"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "jLMDWlRkWGs=",
+      "Size": 5367951,
+      "NumberOfArchives": 1184,
+      "SizeOfArchives": 127721415099,
+      "NumberOfInstalledFiles": 195914,
+      "SizeOfInstalledFiles": 191839651263
+     },
+    "version": "0.65",
+    "RepositoryName": ""
     }
 ]
