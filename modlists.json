@@ -1,44 +1,42 @@
-[
-  {
-    "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Licentia BLACK",
-    "description": "Are we back or not?",
-    "author": "cacophony",
-    "maintainers": [
-      "github/cacophony-wj"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "Official",
-      "Creation Club",
-      "Anniversary Edition",
-      "Legacy of the Dragonborn",
-      "LotD",
-      "Power Fantasy",
-    },
-    "nsfw": true,
-    "utility_list": false,
-    "image_contains_title": false,
-    "force_down": false,
-    "links": {
-      "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/cacophony-wj/LeS/64c9562dc319c4dbc8d9f1c4cdd45851a259bf57/images/481663.png",
-      "readme": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/README.md",
-      "download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_eda387a1-cefb-41be-91b8-92e96cad1a4c",
-      "machineURL": "licentia_black",
-      "discordURL": "https://discord.gg/jolly-coop"
-    },
-    "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "jLMDWlRkWGs=",
-      "Size": 5367951,
-      "NumberOfArchives": 1184,
-      "SizeOfArchives": 127721415099,
-      "NumberOfInstalledFiles": 195914,
-      "SizeOfInstalledFiles": 191839651263
-     },
-    "version": "0.65",
-    "RepositoryName": ""
-    }
-]
+[{
+	"$type": "ModListMetadata, Wabbajack.Lib",
+	"title": "Licentia BLACK",
+	"description": "Are we back or not?",
+	"author": "cacophony",
+	"maintainers": [
+		"github/cacophony-wj"
+	],
+	"game": "skyrimspecialedition",
+	"official": false,
+	"tags": [
+		"Official",
+		"Creation Club",
+		"Anniversary Edition",
+		"Legacy of the Dragonborn",
+		"LotD",
+		"Power Fantasy"
+	],
+	"nsfw": true,
+	"utility_list": false,
+	"image_contains_title": false,
+	"force_down": false,
+	"links": {
+		"$type": "Links, Wabbajack.Lib",
+		"image": "https://raw.githubusercontent.com/cacophony-wj/LeS/64c9562dc319c4dbc8d9f1c4cdd45851a259bf57/images/481663.png",
+		"readme": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/README.md",
+		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_eda387a1-cefb-41be-91b8-92e96cad1a4c",
+		"machineURL": "licentia_black",
+		"discordURL": "https://discord.gg/jolly-coop"
+	},
+	"download_metadata": {
+		"$type": "DownloadMetadata, Wabbajack.Lib",
+		"Hash": "jLMDWlRkWGs=",
+		"Size": 5367951,
+		"NumberOfArchives": 1184,
+		"SizeOfArchives": 127721415099,
+		"NumberOfInstalledFiles": 195914,
+		"SizeOfInstalledFiles": 191839651263
+	},
+	"version": "0.65",
+	"RepositoryName": ""
+}]
