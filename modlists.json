@@ -22,7 +22,7 @@
 	"force_down": false,
 	"links": {
 		"$type": "Links, Wabbajack.Lib",
-		"image": "https://raw.githubusercontent.com/cacophony-wj/LeS/64c9562dc319c4dbc8d9f1c4cdd45851a259bf57/images/481663.png",
+		"image": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_da7186f8-a3f1-49b8-9e13-3a28378328ea",
 		"readme": "https://raw.githubusercontent.com/cacophony-wj/LeS/master/README.md",
 		"download": "https://authored-files.wabbajack.org/Licentia%20BLACK.wabbajack_eda387a1-cefb-41be-91b8-92e96cad1a4c",
 		"machineURL": "licentia_black",
@@ -31,12 +31,12 @@
 	"download_metadata": {
 		"$type": "DownloadMetadata, Wabbajack.Lib",
 		"Hash": "jLMDWlRkWGs=",
-		"Size": 5367951,
-		"NumberOfArchives": 1184,
-		"SizeOfArchives": 127721415099,
-		"NumberOfInstalledFiles": 195914,
-		"SizeOfInstalledFiles": 191839651263
+		"Size": 236459186,
+		"NumberOfArchives": 1203,
+		"SizeOfArchives": 135376522632,
+		"NumberOfInstalledFiles": 244788,
+		"SizeOfInstalledFiles": 211440566209
 	},
-	"version": "0.65",
+	"version": "0.1.1.1",
 	"RepositoryName": ""
 }]
