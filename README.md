@@ -1,10 +1,6 @@
-# DO NOT CLOSE ME! This modlist WILL NOT FUNCTION unless you follow the steps in this document.
-
 ![Licentia logo](images/LicentiaCompile3.png "Licentia")
 
 _Thank you to Lance for the above image._
-
-# READ IT!
 
 - [ATTENTION! THE LATEST VERSION OF SKYRIM, YES, THE $20 UPGRADE EVERYONE IS COMPLAINING ABOUT, IS NOW REQUIRED TO INSTALL LICENTIA.](#attention-the-latest-version-of-skyrim-yes-the-20-upgrade-everyone-is-complaining-about-is-now-required-to-install-licentia)
 - [Preamble](#preamble)
